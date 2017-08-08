@@ -1,10 +1,14 @@
 {
-	"Letter" : {
-		"selectKey" : "Correspondence",
-		"sortKey" : "Date"
+	"Brochure" : {
+		"selectKey" : "State",
+		"sortKey" : "Place"
 	},
 	"Photograph" : {
-		"selectKey" : "EventType",
-		"sortKey" : "Event"
+		"selectKey" : "State",
+		"sortKey" : "Troupe"
+	},
+	"News Paper Clippings" : {
+		"selectKey" : "MediaTitle",
+		"sortKey" : "Date"
 	}
 }
