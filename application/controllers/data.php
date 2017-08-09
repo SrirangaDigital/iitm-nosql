@@ -54,19 +54,17 @@ class data extends Controller {
 		
 		foreach ($jsonFiles as $jsonFile) {
 
-			$contentString = file_get_contents($jsonFile);
-			$content = json_decode($contentString, true);
+			if(preg_match('/IMFG/', $jsonFile)){
 
-			if(isset($content['State'])) {
-
-				if(($content['State'] == 'चंडीगढ़†')) {
-
-					$content['State'] = 'चंडीगढ़';
-		
-					$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-					file_put_contents($jsonFile, $json);
-				}
+				var_dump($jsonFile);
 			}
+			// $contentString = file_get_contents($jsonFile);
+			// $content = json_decode($contentString, true);
+
+			// $content = array_filter($content);
+			// $json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+	
+			// file_put_contents($jsonFile, $json);
 		}
 	}
 }

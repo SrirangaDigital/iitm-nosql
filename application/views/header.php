@@ -4,7 +4,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Natarang Pratishthan - Archive and Research Centre for Indian Theatre</title>
+    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Indian Institute of Technology Madras</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -16,11 +16,14 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" id="royal_enqueue_Lato-css" href="https://fonts.googleapis.com/css?family=Lato%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&amp;ver=1.0.0" type="text/css" media="all">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,400,300,600" rel="stylesheet" type="text/css">
+
     <!-- Javascript calls
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="<?=PUBLIC_URL?>js/lightbox.js"></script>
  
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -32,7 +35,7 @@
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"> -->
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/carousel.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css?v=1.1">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/flat.css">
@@ -41,13 +44,12 @@
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/social.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/viewer.css">
     <script type="text/javascript">var base_url = "<?= BASE_URL?>";</script>
-   
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.png">
 </head>
 <body>
-<?php ?>
+<?php // echo file_get_contents( BASE_URL . 'vendor/analyticstracking.php' ); ?>
     <!-- Navigation
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <nav class="navbar navbar-default navbar-fixed-top wider">
@@ -63,16 +65,18 @@
             </div>
             <div class="collapse navbar-collapse" id="navbar-primary-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="<?=BASE_URL?>#home">Natarang Pratishthan</a></li>
+                    <li class="active"><a href="<?=BASE_URL?>#home">Heritage Centre</a></li>
                     <li><a>·</a></li>
-<!--                     <li><a href="<?=BASE_URL?>#about">About</a></li>
+                    <li><a href="<?=BASE_URL?>#about">About</a></li>
                     <li><a>·</a></li>
- -->                    <li><a href="<?=BASE_URL?>#collection">Collection</a></li>
-                    <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of Natarang Pratisthan" class="img-circle logo"></a></li>
-                    <li><a href="<?=BASE_URL?>#">News and Events</a></li>
+                    <li><a href="<?=BASE_URL?>#collection">Collection</a></li>
+                    <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Institute of Technology Madras" class="img-circle logo"></a></li>
+                    <li><a href="<?=BASE_URL?>#physical">Physical Space</a></li>
+                    <li><a>·</a></li>
+                    <li><a href="<?=BASE_URL?>#contribute">Contribute</a></li>
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#contact">Contact</a></li>
-					<li><a>·</a></li>
+                    <li><a>·</a></li>
                     <li>
 <?php
 if(isset($_SESSION['login']))
