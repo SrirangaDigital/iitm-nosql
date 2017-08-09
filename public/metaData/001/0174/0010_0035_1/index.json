@@ -1,6 +1,7 @@
 {
     "id": "001/0174/0010_0035_1",
     "Type": "Photograph",
-    "albumID": "0174",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0174",
+    "Collection": "Central Photographic section collection",
+    "Event": "Digital Plus"
 }

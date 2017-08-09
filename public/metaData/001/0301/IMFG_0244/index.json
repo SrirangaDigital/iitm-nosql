@@ -1,6 +1,9 @@
 {
     "id": "001/0301/IMFG_0244",
     "Type": "Photograph",
-    "albumID": "0301",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0301",
+    "Caption": "Metallurgy Labatory, Equipments",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Laboratory",
+    "Event": "1-4 Photos of Lab (1. Metallurgy 2. Civil 3. Chemical 4. Electrical) 31-12-1965"
 }

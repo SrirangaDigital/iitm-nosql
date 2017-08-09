@@ -1,6 +1,7 @@
 {
     "id": "001/0090/IMFG_2829_2",
     "Type": "Photograph",
-    "albumID": "0090",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0090",
+    "Collection": "Central Photographic section collection",
+    "Event": "Accurum"
 }

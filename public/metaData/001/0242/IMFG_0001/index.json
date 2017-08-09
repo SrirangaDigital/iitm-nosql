@@ -1,6 +1,9 @@
 {
     "id": "001/0242/IMFG_0001",
     "Type": "Photograph",
-    "albumID": "0242",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0242",
+    "Caption": "Shri Muthukrishnan receiving the President's medal for standing first among all the branches in the 5 year course.",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Convocation",
+    "Event": "Second Convocation  03-04-1965 Mr. Chagla Chief Guest"
 }

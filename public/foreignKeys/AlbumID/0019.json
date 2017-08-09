@@ -1,0 +1,8 @@
+{
+    "AlbumID": "0019",
+    "Date": "6th Aug 1969",
+    "Place": "OAT",
+    "Description": "Addressed by Dr. S. Bhaghavantam, Scientific Adviser to the Minister of Defence",
+    "ForeignKeyType": "AlbumID",
+    "ForeignKeyId": "0019"
+}

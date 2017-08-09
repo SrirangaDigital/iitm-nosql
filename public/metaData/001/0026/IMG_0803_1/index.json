@@ -1,6 +1,9 @@
 {
     "id": "001/0026/IMG_0803_1",
     "Type": "Photograph",
-    "albumID": "0026",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0026",
+    "Caption": "A drama by Students",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Institute Day",
+    "Event": "8th Institute Day"
 }

@@ -1,6 +1,9 @@
 {
     "id": "001/0250/IMFG_0203",
     "Type": "Photograph",
-    "albumID": "0250",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0250",
+    "Caption": "Prof.A.Ramachandran took over as the second Director from Prof.B.Sengupto, Shri.C.V.Sethunathan(Registrar), and Prof.S.Sampath(Department of Electrical Engineering) are also seen",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Transfer of charge",
+    "Event": "Transfer of charge"
 }

@@ -1,0 +1,8 @@
+{
+    "AlbumID": "0006",
+    "Date": "22-07-1967",
+    "Place": "OAT",
+    "Description": "Addressed By Dr. C. Rajagopalachari, Governor",
+    "ForeignKeyType": "AlbumID",
+    "ForeignKeyId": "0006"
+}

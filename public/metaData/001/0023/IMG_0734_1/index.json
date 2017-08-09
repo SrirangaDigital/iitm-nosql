@@ -1,6 +1,9 @@
 {
     "id": "001/0023/IMG_0734_1",
     "Type": "Photograph",
-    "albumID": "0023",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0023",
+    "Caption": "From right Prof.B.Ramaswamy(Electrical), Dr.S.Bhagavantam(The Scientific Advisor to the Ministry of Defence was the chief Guest), Prof.A.Ramachandran, P.Venkatesh Rao(Electrical) visiting lab",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convoation and Lab",
+    "Event": "6th Convocation"
 }

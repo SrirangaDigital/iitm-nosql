@@ -1,6 +1,9 @@
 {
     "id": "001/0036/IMG_1057_1",
     "Type": "Photograph",
-    "albumID": "0036",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0036",
+    "Caption": "Shir.M.C.Chagla deliver the Convocation address",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "7th Convocation"
 }

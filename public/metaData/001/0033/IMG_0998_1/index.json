@@ -1,6 +1,9 @@
 {
     "id": "001/0033/IMG_0998_1",
     "Type": "Photograph",
-    "albumID": "0033",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0033",
+    "Caption": "Dr.M.S.Swaminathan(Cheif Guest) delivering the Convocation address.From left Prof. J.C. Kuriacose(HOD Chem), Prof.R.S. Alwar(HOD Applied Mechanics), Prof. H.N. Mahabala(HOD Computer Science), Prof. Sathyanarayana(HOD Chem Eng), Prof Ramani(HOD HSS), Mr Sethunathan ",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "13th Convocation"
 }

@@ -1,6 +1,9 @@
 {
     "id": "001/0209/IMFG_0827",
     "Type": "Photograph",
-    "albumID": "0209",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0209",
+    "Caption": "Mr Hens Lenz and Prof B Sengupto",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "VIP Visit",
+    "Event": "Visit of Mr Hans Lenz"
 }

@@ -1,6 +1,8 @@
 {
     "id": "001/0040/IMFG_1198_1",
     "Type": "Photograph",
-    "albumID": "0040",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0040",
+    "Caption": "Test Sand for the Measurement of Crushing Strength of Granules Photo",
+    "Collection": "Central Photographic section collection",
+    "Event": "Achievements & Aspirations"
 }

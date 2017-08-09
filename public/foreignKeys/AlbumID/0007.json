@@ -1,0 +1,8 @@
+{
+    "AlbumID": "0007",
+    "Date": "21-12-1968",
+    "Place": "Physics Lecture Theatre",
+    "Description": "Dr. H. N. Sethna, Director, Bhabha Automic Research Center, Trombay delivered the Valedictory address. This Valedictory function is jointly organised by IIT Madras and the Bhabha Automic Research Center, Trombay",
+    "ForeignKeyType": "AlbumID",
+    "ForeignKeyId": "0007"
+}

@@ -1,6 +1,9 @@
 {
     "id": "001/0034/IMG_1018_1",
     "Type": "Photograph",
-    "albumID": "0034",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0034",
+    "Caption": "Shri P.N.Haksar (Deputy chairman, Planning Commission, Govt. of India and Cheif Guest) deliver the Convocation address",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "12th Convocation"
 }

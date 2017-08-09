@@ -1,6 +1,9 @@
 {
     "id": "001/0321/IMFG_0873",
     "Type": "Photograph",
-    "albumID": "0321",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0321",
+    "Caption": "Study of Smoke Pattern in wind, by Dr. Klein.",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Experiment",
+    "Event": "Study Of Smoke Pattern in wind Dr. N Klein"
 }

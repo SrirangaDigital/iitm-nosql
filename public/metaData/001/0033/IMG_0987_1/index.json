@@ -1,6 +1,9 @@
 {
     "id": "001/0033/IMG_0987_1",
     "Type": "Photograph",
-    "albumID": "0033",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0033",
+    "Caption": "From right Prof. S. K. Srinivasan(Mathematics), Prof.K.T Chandy(Chairman, Board of Governorss), Dr.M.S Swaminathan(Cheif Guest), Prof. M. Venugopal(Elec), Prof. T. Gopichand( Chem Eng)",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "13th Convocation"
 }

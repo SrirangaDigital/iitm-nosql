@@ -1,6 +1,9 @@
 {
     "id": "001/0211/IMFG_0234",
     "Type": "Photograph",
-    "albumID": "0211",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0211",
+    "Caption": "Prof.A.Ramachandran received by J.R.D Tata",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Visit",
+    "Event": "Tata J.R.D Tata Visit 15-12-1969"
 }

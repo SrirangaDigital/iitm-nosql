@@ -1,0 +1,8 @@
+{
+    "AlbumID": "0056",
+    "Date": "1965-01-20",
+    "Place": "Central School",
+    "Description": "Opened By Dr. A. Lakshmanaswami Mudaliar",
+    "ForeignKeyType": "AlbumID",
+    "ForeignKeyId": "0056"
+}

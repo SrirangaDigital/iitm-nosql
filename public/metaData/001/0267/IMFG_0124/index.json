@@ -1,6 +1,9 @@
 {
     "id": "001/0267/IMFG_0124",
     "Type": "Photograph",
-    "albumID": "0267",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0267",
+    "Caption": "Prof. A. Ramachandran with Dr. M. Karunanidhi",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Inaugration",
+    "Event": "Summer schools in Electrical & Civil Engg Inaguration on 02-05-1969"
 }

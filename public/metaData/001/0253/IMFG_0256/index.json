@@ -1,6 +1,9 @@
 {
     "id": "001/0253/IMFG_0256",
     "Type": "Photograph",
-    "albumID": "0253",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0253",
+    "Caption": "Audience at the Colour TV Lab (Inauguration?)",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Inauguration",
+    "Event": "Color TV Lab"
 }

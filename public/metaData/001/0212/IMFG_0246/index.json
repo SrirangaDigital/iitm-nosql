@@ -1,6 +1,9 @@
 {
     "id": "001/0212/IMFG_0246",
     "Type": "Photograph",
-    "albumID": "0212",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0212",
+    "Caption": "Wind Tunnel",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Wind Tunnel",
+    "Event": "1. Dr. Klein Wind Tunnel  2. Smoke Trial Photos 25-11-1970"
 }

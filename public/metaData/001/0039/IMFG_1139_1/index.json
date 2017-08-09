@@ -1,6 +1,9 @@
 {
     "id": "001/0039/IMFG_1139_1",
     "Type": "Photograph",
-    "albumID": "0039",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0039",
+    "Caption": "Prof.K.T.Chandy(Chairman,Board of Governor) addressing audience and Prof.R.G.Naryanamurthi, Prof.S.Sampath, Shri M.S.Pathak (Member, Planning Commission, Govt. of India and Cheif Guest), ",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "10th Convocation"
 }

@@ -1,6 +1,9 @@
 {
     "id": "001/0310/IMFG_0414",
     "Type": "Photograph",
-    "albumID": "0310",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0310",
+    "Caption": "A View of audience 8th Inter IIT. From left Prof.S.Sampath, General secretary, Prof.A.Ramachandran",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Inter IIT",
+    "Event": "Inter IIT meet 28th Dec 1970 Innaguration"
 }

@@ -1,6 +1,9 @@
 {
     "id": "001/0002/IMG_0146_1",
     "Type": "Photograph",
-    "albumID": "0002",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0002",
+    "Caption": "The German staff members in their Convocation robes.From left Dr. F.W. Lohr, DR. N. Klein, Dr W. Koch, Dr. W. Lutz, Dr.H. Heitland, Dr. G. Stahl, Dr. w. Sheer, Dr. E. Hohmann and Dr. G. Rouve",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Second Convocation",
+    "Event": "Second Convocation, 1965"
 }

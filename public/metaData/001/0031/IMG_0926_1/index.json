@@ -1,6 +1,9 @@
 {
     "id": "001/0031/IMG_0926_1",
     "Type": "Photograph",
-    "albumID": "0031",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0031",
+    "Caption": "A view of audience in KV School ground for Eleventh Convocation",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "11th Convocation"
 }

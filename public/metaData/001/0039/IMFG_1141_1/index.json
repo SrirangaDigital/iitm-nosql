@@ -1,6 +1,9 @@
 {
     "id": "001/0039/IMFG_1141_1",
     "Type": "Photograph",
-    "albumID": "0039",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0039",
+    "Caption": "Prof.S.Sampath addressing audience",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "10th Convocation"
 }

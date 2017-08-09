@@ -1,6 +1,9 @@
 {
     "id": "001/0056/IMFG_1697_1",
     "Type": "Photograph",
-    "albumID": "0056",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0056",
+    "Caption": "The interior of the school.",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Inaugration",
+    "Event": "Inauguration of Central School Building, IIT Madras"
 }

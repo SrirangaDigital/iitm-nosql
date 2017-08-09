@@ -1,0 +1,6 @@
+{
+    "AlbumID": "0203",
+    "Place": "IIT Madras",
+    "ForeignKeyType": "AlbumID",
+    "ForeignKeyId": "0203"
+}

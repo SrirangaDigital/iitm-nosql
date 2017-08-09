@@ -1,6 +1,9 @@
 {
     "id": "001/0004/IMG_0183_1",
     "Type": "Photograph",
-    "albumID": "0004",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0004",
+    "Caption": "Major General Virendra Singh",
+    "Collection": "Central Photographic section collection",
+    "EventType": "VIP Visit",
+    "Event": "Visit of Prof. Dr. P. Hilbig, and Mr. Westphal, Techincal University, Berlin And Inauguration of NCC building"
 }

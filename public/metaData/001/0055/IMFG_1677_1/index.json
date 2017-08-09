@@ -1,6 +1,9 @@
 {
     "id": "001/0055/IMFG_1677_1",
     "Type": "Photograph",
-    "albumID": "0055",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0055",
+    "Caption": "The audience at the OAT",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "6th Convocation"
 }

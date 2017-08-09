@@ -1,6 +1,9 @@
 {
     "id": "001/0274/IMFG_0321",
     "Type": "Photograph",
-    "albumID": "0274",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0274",
+    "Caption": "Workshop",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Culture",
+    "Event": "Cultural week"
 }

@@ -1,6 +1,9 @@
 {
     "id": "001/0025/IMG_0758_1",
     "Type": "Photograph",
-    "albumID": "0025",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0025",
+    "Caption": "Institute Day April 4, 1965",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Institute Day",
+    "Event": "6th Institute Day"
 }

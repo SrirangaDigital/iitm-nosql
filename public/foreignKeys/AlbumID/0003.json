@@ -1,0 +1,8 @@
+{
+    "AlbumID": "0003",
+    "Date": "3 Dec 1962",
+    "Place": "OAT",
+    "Description": "The visit of Dr.Heinrich Lubke, President of the Federal Republic of Germany, in 1962 marked the beginning of the Indo-German Technical Assistance Program",
+    "ForeignKeyType": "AlbumID",
+    "ForeignKeyId": "0003"
+}

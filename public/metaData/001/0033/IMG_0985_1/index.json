@@ -1,6 +1,9 @@
 {
     "id": "001/0033/IMG_0985_1",
     "Type": "Photograph",
-    "albumID": "0033",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0033",
+    "Caption": "Dr.M.S.Swaminathan, Prof.K.A.V.Pandalai, in the second row Prof.C.Ramashastry(HOD physics)",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "13th Convocation"
 }

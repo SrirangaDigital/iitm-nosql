@@ -1,6 +1,7 @@
 {
     "id": "001/0100/IMFG_3112_1",
     "Type": "Photograph",
-    "albumID": "0100",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0100",
+    "Collection": "Central Photographic section collection",
+    "Event": "Saarang"
 }

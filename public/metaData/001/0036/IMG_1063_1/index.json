@@ -1,6 +1,9 @@
 {
     "id": "001/0036/IMG_1063_1",
     "Type": "Photograph",
-    "albumID": "0036",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0036",
+    "Caption": "Student getting degree ",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "7th Convocation"
 }

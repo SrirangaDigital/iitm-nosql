@@ -1,6 +1,8 @@
 {
     "id": "001/0041/IMFG_1303_1",
     "Type": "Photograph",
-    "albumID": "0041",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0041",
+    "Caption": "Laboratory test bed-cum-loading frame assembly for foundation model tests Photo",
+    "Collection": "Central Photographic section collection",
+    "Event": "Achievements & Aspirations"
 }

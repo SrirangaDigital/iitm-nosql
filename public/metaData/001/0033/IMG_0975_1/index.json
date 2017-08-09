@@ -1,6 +1,9 @@
 {
     "id": "001/0033/IMG_0975_1",
     "Type": "Photograph",
-    "albumID": "0033",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0033",
+    "Caption": "Dr.M.S.Swaminathan(Cheif Guest) Received by registrar Shir.C.V.Sethunathan(Registrar)",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "13th Convocation"
 }

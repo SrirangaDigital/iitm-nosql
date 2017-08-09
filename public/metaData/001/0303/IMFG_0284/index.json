@@ -1,6 +1,9 @@
 {
     "id": "001/0303/IMFG_0284",
     "Type": "Photograph",
-    "albumID": "0303",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0303",
+    "Caption": "Prof. R.G. Narayanamurthi inside the library office.",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Library",
+    "Event": "Library Opening July 1967 9 phptos bldg, 1 photo conference"
 }

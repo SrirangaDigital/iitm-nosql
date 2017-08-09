@@ -1,0 +1,7 @@
+{
+    "AlbumID": "0221",
+    "Date": "15-02-1980",
+    "Place": "Connemara hotel",
+    "ForeignKeyType": "AlbumID",
+    "ForeignKeyId": "0221"
+}

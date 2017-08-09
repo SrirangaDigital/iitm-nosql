@@ -1,6 +1,9 @@
 {
     "id": "001/0027/IMG_0806_1",
     "Type": "Photograph",
-    "albumID": "0027",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0027",
+    "Caption": "From left Prof.B.Sengupto(Director), Workshop Superettan, Sardar Ujjial Singn(Governor of Madras, and VIP visit)",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Visit VIP",
+    "Event": "Visit of Sardarji singh"
 }

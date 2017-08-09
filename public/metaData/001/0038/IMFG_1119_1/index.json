@@ -1,6 +1,9 @@
 {
     "id": "001/0038/IMFG_1119_1",
     "Type": "Photograph",
-    "albumID": "0038",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0038",
+    "Caption": "Prof.S.Sampath giving away degree",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "10th Convocation"
 }

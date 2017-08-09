@@ -1,0 +1,7 @@
+{
+    "AlbumID": "0320",
+    "Date": "20-03-1969",
+    "Place": "Chemistry Block",
+    "ForeignKeyType": "AlbumID",
+    "ForeignKeyId": "0320"
+}

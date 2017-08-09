@@ -1,6 +1,9 @@
 {
     "id": "001/0282/IMFG_0537",
     "Type": "Photograph",
-    "albumID": "0282",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0282",
+    "Caption": "A speech at OAT",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Aeronautical Society",
+    "Event": "Aeronautical Society"
 }

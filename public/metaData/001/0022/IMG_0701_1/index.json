@@ -1,6 +1,9 @@
 {
     "id": "001/0022/IMG_0701_1",
     "Type": "Photograph",
-    "albumID": "0022",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0022",
+    "Caption": "Dr A L Mudaliar giving speech.Father Murphy, Mr. and Mrs. Prof B Sengupto on the dias.",
+    "Collection": "Central Photographic section collection",
+    "EventType": "VIP Visit",
+    "Event": "Visit of the H.E. Theodor Heuss, President of the Federal Republic of Germany, IIT Madras"
 }

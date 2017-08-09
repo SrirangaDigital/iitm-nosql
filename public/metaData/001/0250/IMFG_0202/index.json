@@ -1,6 +1,9 @@
 {
     "id": "001/0250/IMFG_0202",
     "Type": "Photograph",
-    "albumID": "0250",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0250",
+    "Caption": "Prof.A.Ramachandran(Director) received by V.G.K.Murthy(Electrical Engineering) and from left Prof.M.V.C.Shastri(Chemical Engineering), S.K.Srinivasan(maths), B.S.Murthy(Mechanical Engineering), M.C.Gupta(Mechanical Engineering)",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Transfer of charge",
+    "Event": "Transfer of charge"
 }

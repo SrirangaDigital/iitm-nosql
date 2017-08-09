@@ -1,6 +1,9 @@
 {
     "id": "001/0001/IMG_0111_1",
     "Type": "Photograph",
-    "albumID": "0001",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0001",
+    "Caption": "Shri M.C. Chagla, Dr. A.L. Mudaliar. Mr. Venkat Raman(CSO)",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Sports Meet",
+    "Event": "Third Inter IIT Sports Meet"
 }

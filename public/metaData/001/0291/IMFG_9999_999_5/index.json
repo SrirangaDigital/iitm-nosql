@@ -1,6 +1,9 @@
 {
     "id": "001/0291/IMFG_9999_999_5",
     "Type": "Photograph",
-    "albumID": "0291",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0291",
+    "Caption": "Reading hall in the library",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "IITM",
+    "Event": "Pre First Convocation 1st july 1964"
 }

@@ -1,6 +1,9 @@
 {
     "id": "001/0032/IMG_0947_1",
     "Type": "Photograph",
-    "albumID": "0032",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0032",
+    "Caption": "Shrimati Indira Gandhi is introduced to guests by Prof. K. T. Chandy",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "11th Convocation"
 }

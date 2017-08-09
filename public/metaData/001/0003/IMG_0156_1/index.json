@@ -1,6 +1,9 @@
 {
     "id": "001/0003/IMG_0156_1",
     "Type": "Photograph",
-    "albumID": "0003",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0003",
+    "Caption": "From left Dr Henrich Luebke, Shri R Natarajan, Shri Y S Ramaswamy, Prof B Sengupto",
+    "Collection": "Central Photographic section collection",
+    "EventType": "VIP Visit",
+    "Event": "Visit of Dr. Heinrich Lubke, President of the Federal Republic of Germany"
 }

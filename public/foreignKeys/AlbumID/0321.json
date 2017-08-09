@@ -1,0 +1,6 @@
+{
+    "AlbumID": "0321",
+    "Place": "Laboratory",
+    "ForeignKeyType": "AlbumID",
+    "ForeignKeyId": "0321"
+}

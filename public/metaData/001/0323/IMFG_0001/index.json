@@ -1,6 +1,7 @@
 {
     "id": "001/0323/IMFG_0001",
     "Type": "Photograph",
-    "albumID": "0323",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0323",
+    "Collection": "Gauri Shankar collection",
+    "Event": "Metrology-2"
 }

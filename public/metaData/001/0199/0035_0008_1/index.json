@@ -1,6 +1,7 @@
 {
     "id": "001/0199/0035_0008_1",
     "Type": "Photograph",
-    "albumID": "0199",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0199",
+    "Collection": "Central Photographic section collection",
+    "Event": "Grace Digital"
 }

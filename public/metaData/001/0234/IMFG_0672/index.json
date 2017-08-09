@@ -1,6 +1,8 @@
 {
     "id": "001/0234/IMFG_0672",
     "Type": "Photograph",
-    "albumID": "0234",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0234",
+    "Caption": "Central workshop",
+    "Collection": "Gauri Shankar collection",
+    "Event": "Department Of Electrical Engineering 22-09-1967"
 }

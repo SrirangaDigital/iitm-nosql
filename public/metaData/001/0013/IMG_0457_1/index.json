@@ -1,6 +1,9 @@
 {
     "id": "001/0013/IMG_0457_1",
     "Type": "Photograph",
-    "albumID": "0013",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0013",
+    "Caption": "From left Prof.B.Sengupto(Director), Prof.M.V.C.Shastri(Chemistry Departmrent), Baron Von Mirbach(VIP) in Organic lab",
+    "Collection": "Central Photographic section collection",
+    "EventType": "VIP Visit",
+    "Event": "Visit of Baron Von Mirbach, Ambassador of the Federal Republic of Germany in India"
 }

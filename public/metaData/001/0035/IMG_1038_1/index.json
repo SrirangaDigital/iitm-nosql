@@ -1,6 +1,9 @@
 {
     "id": "001/0035/IMG_1038_1",
     "Type": "Photograph",
-    "albumID": "0035",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0035",
+    "Caption": "Shri P.N.Haksar (Deputy chairman, Planning Commission, Govt. of India and Cheif Guest) giving away degree",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "12th Convocation"
 }

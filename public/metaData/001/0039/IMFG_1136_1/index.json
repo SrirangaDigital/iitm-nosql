@@ -1,6 +1,9 @@
 {
     "id": "001/0039/IMFG_1136_1",
     "Type": "Photograph",
-    "albumID": "0039",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0039",
+    "Caption": "Mr.Rajagopalan(Deputy Registrar) leading Academic Procession",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "10th Convocation"
 }

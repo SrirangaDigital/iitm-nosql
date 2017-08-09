@@ -1,6 +1,9 @@
 {
     "id": "001/0069/IMFG_2149_2",
     "Type": "Photograph",
-    "albumID": "0069",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0069",
+    "Caption": "Invocation",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "Twenth Fifth Convocation, 1988"
 }

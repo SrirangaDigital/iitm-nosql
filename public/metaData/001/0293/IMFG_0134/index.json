@@ -1,6 +1,9 @@
 {
     "id": "001/0293/IMFG_0134",
     "Type": "Photograph",
-    "albumID": "0293",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0293",
+    "Caption": "Tea Party during the 2nd Annual Day",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "2nd Annual Day",
+    "Event": "2nd Annual Day 4-4-1961"
 }

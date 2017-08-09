@@ -1,6 +1,9 @@
 {
     "id": "001/0005/IMG_0199_1",
     "Type": "Photograph",
-    "albumID": "0005",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0005",
+    "Caption": " Prof R Krishnamoorthy, Dr Nicolaus Klein, Humanities, Dr Ing Wolfgang Scheer, Mechanical Engineering, Prof R G Narayanamurthi.",
+    "Collection": "Central Photographic section collection",
+    "EventType": "VIP Visit",
+    "Event": "Visit of Mr. Hans Lenz, Minister for Science & Research, Federal Republic of Germany"
 }

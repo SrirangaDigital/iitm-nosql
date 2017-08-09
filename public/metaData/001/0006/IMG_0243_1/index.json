@@ -1,6 +1,9 @@
 {
     "id": "001/0006/IMG_0243_1",
     "Type": "Photograph",
-    "albumID": "0006",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0006",
+    "Caption": "Prof B Sengupto giving away degree",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Fourth Convocation",
+    "Event": "Fourth Convocation, 1967"
 }

@@ -1,6 +1,9 @@
 {
     "id": "001/0045/IMFG_1437_1",
     "Type": "Photograph",
-    "albumID": "0045",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0045",
+    "Caption": "Shri. Venkatraman addressing the audience. Also seen from left: _______, Smt. Shanthi Sengupto, Prof. B. Sengupto, Prof. R.G. Narayanamurthy, and Prof. V. Sivaramakrishnan",
+    "Collection": "Central Photographic section collection",
+    "EventType": "IITM Staff Club",
+    "Event": "Staff Club"
 }

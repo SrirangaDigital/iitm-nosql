@@ -1,6 +1,9 @@
 {
     "id": "001/0024/IMG_0743_1",
     "Type": "Photograph",
-    "albumID": "0024",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0024",
+    "Caption": "Dr. A.L. Mudaliar declaring the convocation open. Also found on the dias are, from left: Dr. G.Stahl, Shri. T.R. Doss, Shri. T. Muthian (Director of Technical Education, Madras), Prof. S. Rajaraman, Prof. B. Sengupto, Sir C.V. Raman, and Dr. K.S.G. Doss",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "Third Convocation, 1966"
 }

@@ -1,6 +1,9 @@
 {
     "id": "001/0035/IMG_1045_1",
     "Type": "Photograph",
-    "albumID": "0035",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0035",
+    "Caption": " A view audience of OAT for 12th Convocation",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "12th Convocation"
 }

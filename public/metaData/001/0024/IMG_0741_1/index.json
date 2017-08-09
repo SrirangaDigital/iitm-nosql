@@ -1,6 +1,9 @@
 {
     "id": "001/0024/IMG_0741_1",
     "Type": "Photograph",
-    "albumID": "0024",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0024",
+    "Caption": "Sir C.V. Raman (left) shaking hands with Dr. A.L. Mudaliar (right)",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "Third Convocation, 1966"
 }

@@ -1,6 +1,9 @@
 {
     "id": "001/0028/IMG_0839_1",
     "Type": "Photograph",
-    "albumID": "0028",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0028",
+    "Caption": "The dignitaries enjoying dinner. From left: Dr. Karl Pfauter, Dr. A.L. Mudaliar, Dr. Vikram A Sarabhai, Prof. A. Ramachandran",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "5th Convocation"
 }

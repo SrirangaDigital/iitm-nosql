@@ -1,6 +1,9 @@
 {
     "id": "001/0024/IMG_0739_1",
     "Type": "Photograph",
-    "albumID": "0024",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0024",
+    "Caption": "Sir C.V. Raman inspecting the guard of honour and being escorted by Prof. Rayudu (NCC commander, Department of Mechanical Engineering)",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "Third Convocation, 1966"
 }

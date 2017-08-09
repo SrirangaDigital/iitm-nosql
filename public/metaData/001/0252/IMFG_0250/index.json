@@ -1,6 +1,8 @@
 {
     "id": "001/0252/IMFG_0250",
     "Type": "Photograph",
-    "albumID": "0252",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0252",
+    "Caption": "Instrument",
+    "Collection": "Gauri Shankar collection",
+    "Event": "FRP"
 }

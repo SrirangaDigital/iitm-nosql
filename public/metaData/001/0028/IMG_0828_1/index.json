@@ -1,6 +1,9 @@
 {
     "id": "001/0028/IMG_0828_1",
     "Type": "Photograph",
-    "albumID": "0028",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0028",
+    "Caption": "Shri. M. Dilip Bhandarkar receiving Special Merit Prize from Dr. Vikram A Sarabhai",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "5th Convocation"
 }

@@ -1,6 +1,8 @@
 {
     "id": "001/0065/IMFG_2036_2",
     "Type": "Photograph",
-    "albumID": "0065",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0065",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "Twenty Sixth Convocation, 1989"
 }

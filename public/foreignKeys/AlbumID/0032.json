@@ -1,0 +1,8 @@
+{
+    "AlbumID": "0032",
+    "Date": "1974-09-09",
+    "Place": "KV Ground",
+    "Description": "Shrimati Indira Gandhi, Prime Minister of India has graciously consented to deliver the Convocation Address",
+    "ForeignKeyType": "AlbumID",
+    "ForeignKeyId": "0032"
+}

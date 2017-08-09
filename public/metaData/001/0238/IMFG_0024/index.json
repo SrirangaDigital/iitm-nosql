@@ -1,6 +1,9 @@
 {
     "id": "001/0238/IMFG_0024",
     "Type": "Photograph",
-    "albumID": "0238",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0238",
+    "Caption": "Shri M.S.Pathak(Member, Planning Commission, Govt. of India and Cheif Guest) deliver the Convocation address",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Convocation",
+    "Event": "10th Convocation 11-08-1973"
 }

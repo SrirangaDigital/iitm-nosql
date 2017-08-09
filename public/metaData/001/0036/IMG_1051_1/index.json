@@ -1,6 +1,9 @@
 {
     "id": "001/0036/IMG_1051_1",
     "Type": "Photograph",
-    "albumID": "0036",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0036",
+    "Caption": "Dr.V.V.Giri(President and Cheif Guest) Inspecting the guard of honour, Prof Ramachandran escorting Dr. V.V. Giri",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "7th Convocation"
 }

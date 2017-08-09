@@ -1,6 +1,9 @@
 {
     "id": "001/0038/IMFG_1127_1",
     "Type": "Photograph",
-    "albumID": "0038",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0038",
+    "Caption": "Shri M.S.Pathak(Member, Planning Commission, Govt. of India and Cheif Guest) giving away degree",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "10th Convocation"
 }

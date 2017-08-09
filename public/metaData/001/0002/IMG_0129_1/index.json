@@ -1,6 +1,9 @@
 {
     "id": "001/0002/IMG_0129_1",
     "Type": "Photograph",
-    "albumID": "0002",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0002",
+    "Caption": "IIT Second convocation . 3 April ,1965",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Second Convocation",
+    "Event": "Second Convocation, 1965"
 }

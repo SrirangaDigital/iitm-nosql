@@ -1,6 +1,9 @@
 {
     "id": "001/0044/IMFG_1405_1",
     "Type": "Photograph",
-    "albumID": "0044",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0044",
+    "Caption": "Senate Member entering OAT",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "Eighteenth Convocation, 1981"
 }

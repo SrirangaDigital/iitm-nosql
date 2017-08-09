@@ -1,6 +1,9 @@
 {
     "id": "001/0308/IMFG_0405",
     "Type": "Photograph",
-    "albumID": "0308",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0308",
+    "Caption": "Prof. Sengupto observes the NCC students",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Independence Day",
+    "Event": "IIT NCC Independence Day 1967"
 }

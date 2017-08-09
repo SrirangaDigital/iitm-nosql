@@ -1,6 +1,8 @@
 {
     "id": "001/0040/IMFG_1154_1",
     "Type": "Photograph",
-    "albumID": "0040",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0040",
+    "Caption": "Lightenberg's moire analysis of plate bending Photo",
+    "Collection": "Central Photographic section collection",
+    "Event": "Achievements & Aspirations"
 }

@@ -1,6 +1,9 @@
 {
     "id": "001/0036/IMG_1054_1",
     "Type": "Photograph",
-    "albumID": "0036",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0036",
+    "Caption": "Prof.A.Ramachandran(Director), Dr.Y.Nayudamma(Chairman Board of Governor), Dr.V.V.Giri(President and Cheif Guest) entering stage. On the dias from left Prof MVC Shastri(HOD Chemistry), Prof. P.C. Varghese, Prof. Venkateswarulu, Prof. R.K. Gupta(HOD HSS), Prof. Nigam (HOD Maths), Prof. D.V. Reddy(HOD Applied Mechanics), Prof Ramashastry(HOD Physics)",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "7th Convocation"
 }

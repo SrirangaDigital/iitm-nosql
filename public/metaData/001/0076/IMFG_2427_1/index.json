@@ -1,6 +1,9 @@
 {
     "id": "001/0076/IMFG_2427_1",
     "Type": "Photograph",
-    "albumID": "0076",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0076",
+    "Caption": "Prof.L.S.Srinath(Director) giving away degree",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Convocation",
+    "Event": "26th Convocation 1989"
 }

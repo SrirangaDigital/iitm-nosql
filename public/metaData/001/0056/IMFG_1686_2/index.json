@@ -1,6 +1,9 @@
 {
     "id": "001/0056/IMFG_1686_2",
     "Type": "Photograph",
-    "albumID": "0056",
-    "Collection": "Central Photographic section collection"
+    "AlbumID": "0056",
+    "Caption": "The principal, Mr. Natarajan in front of the school. Also seen to the left, Mr. Gowri Shankar, the photographer.",
+    "Collection": "Central Photographic section collection",
+    "EventType": "Inaugration",
+    "Event": "Inauguration of Central School Building, IIT Madras"
 }

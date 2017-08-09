@@ -1,6 +1,9 @@
 {
     "id": "001/0231/IMFG_0603",
     "Type": "Photograph",
-    "albumID": "0231",
-    "Collection": "Gauri Shankar collection"
+    "AlbumID": "0231",
+    "Caption": "Major General Virendar Singh",
+    "Collection": "Gauri Shankar collection",
+    "EventType": "Inaugration",
+    "Event": "NCC Buildings Inaguration 14-12-1965"
 }
