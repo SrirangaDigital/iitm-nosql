@@ -1,14 +1,6 @@
 {
-	"Brochure" : {
-		"selectKey" : "State",
-		"sortKey" : "Place"
-	},
 	"Photograph" : {
-		"selectKey" : "State",
-		"sortKey" : "Troupe"
-	},
-	"News Paper Clippings" : {
-		"selectKey" : "MediaTitle",
-		"sortKey" : "Date"
+		"selectKey" : "Album",
+		"sortKey" : "id"
 	}
 }
