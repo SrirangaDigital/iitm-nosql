@@ -5,6 +5,12 @@
 <script>
 $(document).ready(function(){
 
+    if($('.post').length < <?=PER_PAGE?>) {
+
+        $('#grid').attr('data-go', '0');
+        $('#grid').append('<div id="no-more-icon">No more<br />items<br />to show</div>');
+    }
+
     $('#posts').prepend('<div class="post no-border"><div class="albumTitle <?=$parentType?>"><span><?=$parentType?></span></div></div>');
 
     $(window).scroll(function(){
