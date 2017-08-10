@@ -16,7 +16,8 @@ class listingModel extends Model {
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
 
-		$match = [ 'DataExists' => $this->dataShowFilter, 'Type' => $type ] + $filter;
+		$matchFilter = $this->preProcessQueryFilter($filter);
+		$match = [ 'DataExists' => $this->dataShowFilter, 'Type' => $type ] + $matchFilter;
 
 		$iterator = $collection->aggregate(
 				 [
@@ -45,15 +46,23 @@ class listingModel extends Model {
 		foreach ($iterator as $row) {
 			
 			$category['name'] = (isset($row['_id']['Category'])) ? $row['_id']['Category'] : MISCELLANEOUS_NAME;
+			$filter[$selectKey] = (isset($row['_id']['Category'])) ? $category['name'] : 'notExists';
 
 			$category['nameURL'] = $this->filterSpecialChars($category['name']);
 		
 			$category['parentType'] = $row['_id']['Type'];
 			$category['leafCount'] = $row['count'];
-			$category['thumbnailPath'] = $this->getThumbnailPath($this->getRandomID($type, $selectKey, $category['name'], $category['leafCount']));
+			$category['thumbnailPath'] = $this->getThumbnailPath($this->getRandomID($type, $filter, $category['leafCount']));
 
             if($nextSelectKey)
-                $category['nextURL'] = BASE_URL . 'listing/categories/' . $category['parentType'] . '/?select=' . $nextSelectKey . '&' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
+            	if(isset($row['_id']['Category'])) {
+            		
+        			$category['nextURL'] = BASE_URL . 'listing/categories/' . $category['parentType'] . '/?select=' . $nextSelectKey . '&' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
+            	}
+        		else{
+
+        			$category['nextURL'] = BASE_URL . 'listing/categories/' . $category['parentType'] . '/?select=' . $nextSelectKey . '&' . $selectKey . '=notExists' . $urlFilter;
+        		}
             else
                 $category['nextURL'] = BASE_URL . 'listing/artefacts/' . $category['parentType'] . '?' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
 
@@ -80,13 +89,9 @@ class listingModel extends Model {
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
 
-		foreach ($filter as $key => $value) {
-			
-			if($value == 'notExists')
-				$filter{$key} = ['$exists' => false];
-		}
+		$matchFilter = $this->preProcessQueryFilter($filter);
 
-		$match = ['DataExists' => $this->dataShowFilter, 'Type' => $type] + $filter;
+		$match = ['DataExists' => $this->dataShowFilter, 'Type' => $type] + $matchFilter;
 		$iterator = $collection->aggregate(
 				 [
 					[ '$match' => $match ],

@@ -32,15 +32,15 @@ class Model {
 		return (isset($structure{$type}['selectKey'])) ? $structure{$type}{$key} : '';
 	}
 
-	public function getRandomID($type, $selectKey, $category, $count){
+	public function getRandomID($type, $filter, $count){
 
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
-		$result = $collection->findOne(['DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => $category], ['projection' => ['id' => 1], 'skip' => rand(0, $count - 1)]);
+		$filter = $this->preProcessQueryFilter($filter);
 
-		if(!$result)
-			$result = $collection->findOne(['DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => ['$exists' => false]], ['projection' => ['id' => 1], 'skip' => rand(0, $count - 1)]);
+		$match = ['DataExists' => $this->dataShowFilter, 'Type' => $type] + $filter;
+		$result = $collection->findOne($match, ['projection' => ['id' => 1], 'skip' => rand(0, $count - 1)]);
 		
 		return $result['id'];
 	}
@@ -120,6 +120,17 @@ class Model {
 			if(isset($data{$param})) unset($data{$param});
 		}
 		return $data;
+	}
+
+	public function preProcessQueryFilter($filter){
+
+		foreach ($filter as $key => $value) {
+			
+			if($value == 'notExists')
+				$filter{$key} = ['$exists' => false];
+		}
+
+		return $filter;
 	}
 }
 
