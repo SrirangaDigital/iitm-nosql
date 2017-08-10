@@ -16,7 +16,8 @@ $(document).ready(function(){
                 var pagenum = parseInt($('#grid').attr('data-page')) + 1;
                 $('#grid').attr('data-page', pagenum);
 
-                getresult(base_url + 'listing/artefacts/<?=$parentType?>/<?=$auxilairy['category']?>?page='+pagenum);
+                var nextURL = window.location.href + '&page=' + pagenum;
+                getresult(nextURL);
             }
         }
     });

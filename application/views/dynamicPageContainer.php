@@ -3,7 +3,7 @@
         <!-- Column 1 -->
         <div class="col-md-12 text-center">
             <ul class="list-inline sub-nav">
-                <li><a href="<?=BASE_URL?>listing/Categories/Photograph">Photographs</a></li>
+                <li><a href="<?=BASE_URL?>listing/Categories/Photograph?select=Collection">Photographs</a></li>
                 <li><a>·</a></li>
                 <li id="searchForm">
                     <form class="navbar-form" role="search" action="<?=BASE_URL?>search/field/" method="get">

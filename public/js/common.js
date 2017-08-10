@@ -213,7 +213,7 @@ function buildMasonryFromJson(json){
             // This snippet id for listing of categories
 
             displayString += '<div class="post">';
-            displayString += '<a href="' + base_url + 'listing/artefacts/' + obj[i].parentType + '/' + obj[i].nameURL + '" title="View Album" target="_blank">';
+            displayString += '<a href="' + obj[i].nextURL + '" title="View Album" target="_blank">';
             displayString += '<div class="fixOverlayDiv">';
             displayString += '<img class="img-responsive" src="' + obj[i].thumbnailPath + '">';
             displayString += '<div class="OverlayText">' + obj[i].leafCount + ' ' + obj[i].parentType;

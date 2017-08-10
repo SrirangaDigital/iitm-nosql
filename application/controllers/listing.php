@@ -25,19 +25,15 @@ class listing extends Controller {
 			echo json_encode($categories);
 	}
 
-	public function artefacts($query = [], $type = DEFAULT_TYPE, $category = '') {
+	public function artefacts($query = [], $type = DEFAULT_TYPE) {
 
-		$category = str_replace('_', '/', $category);
-		$category = htmlspecialchars_decode($category, ENT_QUOTES);
+		// $category = str_replace('_', '/', $category);
+		// $category = htmlspecialchars_decode($category, ENT_QUOTES);
 
-		$page = (isset($query['page'])) ? $query['page'] : "1";
-
-		$selectKey = $this->model->getPrecastKey($type, 'selectKey');
+		$query['page'] = (isset($query['page'])) ? $query['page'] : "1"; $page = $query['page']; unset($query['page']);
 		$sortKey = $this->model->getPrecastKey($type, 'sortKey');
 
-		if(!($selectKey)) {$this->view('error/index');return;}
-
-		$artefacts = $this->model->getArtefacts($type, $category, $selectKey, $sortKey, $page);
+		$artefacts = $this->model->getArtefacts($type, $sortKey, $page, $query);
 
 		if($page == '1')
 			($artefacts != 'noData') ? $this->view('listing/artefacts', $artefacts) : $this->view('error/index');

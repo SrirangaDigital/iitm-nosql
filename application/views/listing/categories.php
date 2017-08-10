@@ -16,7 +16,8 @@ $(document).ready(function(){
                 var pagenum = parseInt($('#grid').attr('data-page')) + 1;
                 $('#grid').attr('data-page', pagenum);
 
-                getresult(base_url + 'listing/categories/' + '<?=$parentType?>' + '/?select=<?=$auxilairy['selectKey']?>&page='+pagenum);
+                var nextURL = window.location.href + '&page=' + pagenum;
+                getresult(nextURL);
             }
         }
     });
@@ -26,7 +27,7 @@ $(document).ready(function(){
     <div id="posts">
 <?php foreach ($data as $row) { ?>
         <div class="post">
-            <a href="<?=BASE_URL?>listing/artefacts/<?=$row['parentType'] . '/' . $row['nameURL']?>" title="<?=$row['name']?>" target="_blank">
+            <a href="<?=$row['nextURL']?>" title="<?=$row['name']?>" target="_blank">
                 <div class="fixOverlayDiv">
                     <img class="img-responsive" src="<?=$row['thumbnailPath']?>">
                     <div class="OverlayText"><?=$row['leafCount']?> <?=$row['parentType']?><?php if($row['leafCount'] > 1) echo 's'; ?><br /><span class="link"><i class="fa fa-link"></i></span></div>

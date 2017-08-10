@@ -29,6 +29,19 @@ class listingModel extends Model {
 			);
 
 		$data = [];
+
+		$precastSelectKeys = $this->getPrecastKey($type, 'selectKey');
+		$selectKeyIndex = array_search($selectKey, $precastSelectKeys);
+		$nextSelectKey = (isset($precastSelectKeys[$selectKeyIndex + 1])) ? $precastSelectKeys[$selectKeyIndex + 1] : false;
+
+		$urlFilterArray = [];
+		foreach ($filter as $key => $value) {
+			
+			array_push($urlFilterArray, $key . '=' . $value);
+		}
+		$urlFilter = implode('&', $urlFilterArray);
+		$urlFilter = ($urlFilter) ? '&' . $urlFilter : '';
+
 		foreach ($iterator as $row) {
 			
 			$category['name'] = (isset($row['_id']['Category'])) ? $row['_id']['Category'] : MISCELLANEOUS_NAME;
@@ -39,11 +52,17 @@ class listingModel extends Model {
 			$category['leafCount'] = $row['count'];
 			$category['thumbnailPath'] = $this->getThumbnailPath($this->getRandomID($type, $selectKey, $category['name'], $category['leafCount']));
 
+            if($nextSelectKey)
+                $category['nextURL'] = BASE_URL . 'listing/categories/' . $category['parentType'] . '/?select=' . $nextSelectKey . '&' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
+            else
+                $category['nextURL'] = BASE_URL . 'listing/artefacts/' . $category['parentType'] . '?' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
+
 			array_push($data, $category);
 		}
 
 		// This marks the end of sifting through results
 		if($data){
+
 			$auxiliary = ['parentType' => $type, 'selectKey' => $selectKey];
 			$data['auxiliary'] = $auxiliary;
 		}
@@ -53,7 +72,7 @@ class listingModel extends Model {
 		return $data;
 	}
 
-	public function getArtefacts($type, $category, $selectKey, $sortKey, $page){
+	public function getArtefacts($type, $sortKey, $page, $filter){
 		
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
@@ -61,14 +80,14 @@ class listingModel extends Model {
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
 
-		$match = ($category == MISCELLANEOUS_NAME) ? ['DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => ['$exists' => false] ] : [ 'DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => $category ];
+		// $match = ($category == MISCELLANEOUS_NAME) ? ['DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => ['$exists' => false] ] : [ 'DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => $category ];
+		$match = ['DataExists' => $this->dataShowFilter, 'Type' => $type] + $filter;
 		$iterator = $collection->aggregate(
 				 [
 					[ '$match' => $match ],
 					[ 
 						'$project' => [
 							'Type' => 1,
-							$selectKey => 1,
 							$sortKey => 1,
 							'id' => 1,
 							'sortKeyExists' => [ '$cond' => [ '$' . $sortKey, '1', '0' ]]
@@ -104,7 +123,7 @@ class listingModel extends Model {
 		}
 
 		if($data){
-			$auxiliary = ['category' => $this->filterSpecialChars($category), 'selectKey' => $selectKey, 'sortKey' => $sortKey];
+			$auxiliary = ['category' => '', 'selectKey' => '', 'sortKey' => $sortKey];
 			$data['auxiliary'] = $auxiliary;
 		}
 		else
