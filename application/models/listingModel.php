@@ -80,7 +80,12 @@ class listingModel extends Model {
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
 
-		// $match = ($category == MISCELLANEOUS_NAME) ? ['DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => ['$exists' => false] ] : [ 'DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => $category ];
+		foreach ($filter as $key => $value) {
+			
+			if($value == 'notExists')
+				$filter{$key} = ['$exists' => false];
+		}
+
 		$match = ['DataExists' => $this->dataShowFilter, 'Type' => $type] + $filter;
 		$iterator = $collection->aggregate(
 				 [
@@ -116,7 +121,6 @@ class listingModel extends Model {
 			$artefact['thumbnailPath'] = $this->getThumbnailPath($artefact['id']);
 			$artefact['idURL'] = str_replace('/', '_', $artefact['id']);
 			$artefact['cardName'] = (isset($artefact{$sortKey})) ? $artefact{$sortKey} : '';
-
 			$artefact['cardName'] = $viewHelper->formatDisplayString($artefact['cardName']);
 
 			array_push($data, $artefact);

@@ -27,9 +27,6 @@ class listing extends Controller {
 
 	public function artefacts($query = [], $type = DEFAULT_TYPE) {
 
-		// $category = str_replace('_', '/', $category);
-		// $category = htmlspecialchars_decode($category, ENT_QUOTES);
-
 		$query['page'] = (isset($query['page'])) ? $query['page'] : "1"; $page = $query['page']; unset($query['page']);
 		$sortKey = $this->model->getPrecastKey($type, 'sortKey');
 
