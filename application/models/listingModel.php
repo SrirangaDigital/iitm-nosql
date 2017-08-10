@@ -35,12 +35,7 @@ class listingModel extends Model {
 		$selectKeyIndex = array_search($selectKey, $precastSelectKeys);
 		$nextSelectKey = (isset($precastSelectKeys[$selectKeyIndex + 1])) ? $precastSelectKeys[$selectKeyIndex + 1] : false;
 
-		$urlFilterArray = [];
-		foreach ($filter as $key => $value) {
-			
-			array_push($urlFilterArray, $key . '=' . $value);
-		}
-		$urlFilter = implode('&', $urlFilterArray);
+		$urlFilter = $this->filterArrayToString($filter);
 		$urlFilter = ($urlFilter) ? '&' . $urlFilter : '';
 
 		foreach ($iterator as $row) {
@@ -132,7 +127,7 @@ class listingModel extends Model {
 		}
 
 		if($data){
-			$auxiliary = ['category' => '', 'selectKey' => '', 'sortKey' => $sortKey];
+			$auxiliary = ['filter' => $this->filterArrayToString($filter), 'sortKey' => $sortKey];
 			$data['auxiliary'] = $auxiliary;
 		}
 		else

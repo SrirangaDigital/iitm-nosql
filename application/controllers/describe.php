@@ -17,7 +17,8 @@ class describe extends Controller {
 			$foreignKeys = $this->model->getForeignKeyTypes(FOREIGN_KEY_TYPE);
 			$artefact['details'] = $this->model->insertForeignKeyDetails($artefact['details'], $foreignKeys);
 			$artefact['images'] = $this->model->getArtefactImages($id);
-			$artefact['neighbours'] = $this->model->getNeighbourhood($artefact['details']);
+			$artefact['neighbours'] = $this->model->getNeighbourhood($artefact['details'], $query);
+			$artefact['filter'] = $this->model->filterArrayToString($query);
 		}
 
 		($artefact['details']) ? $this->view('describe/artefact', $artefact) : $this->view('error/index');

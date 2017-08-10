@@ -132,6 +132,18 @@ class Model {
 
 		return $filter;
 	}
+
+	public function filterArrayToString($filter){
+
+		$urlFilterArray = [];
+		foreach ($filter as $key => $value) {
+			
+			array_push($urlFilterArray, $key . '=' . $value);
+		}
+		$urlFilter = implode('&', $urlFilterArray);
+
+		return $urlFilter;
+	}
 }
 
 ?>

@@ -1,5 +1,5 @@
 <?php
-    $auxilairy = array_pop($data);
+    $auxiliary = array_pop($data);
     $parentType = $data[0]['Type'];
 ?>
 <script>
@@ -32,7 +32,7 @@ $(document).ready(function(){
         </div>
 <?php foreach ($data as $row) { ?>
         <div class="post">
-            <a href="<?=BASE_URL?>describe/artefact/<?=$row['idURL']?>" title="View Details" target="_blank">
+            <a href="<?=BASE_URL?>describe/artefact/<?=$row['idURL']?>?<?=$auxiliary['filter']?>" title="View Details" target="_blank">
                 <img src="<?=$row['thumbnailPath']?>">
                 <p class="image-desc"><?=$row['cardName']?></p>
             </a>

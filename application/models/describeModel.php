@@ -31,20 +31,19 @@ class describeModel extends Model {
 		return $images;
 	}
 
-	public function getNeighbourhood($details) {
+	public function getNeighbourhood($details, $filter) {
 
 		$id = $details['id'];
 		$type = $details['Type'];
-		$selectKey = $this->getPrecastKey($type, 'selectKey');
 		$sortKey = $this->getPrecastKey($type, 'sortKey');
-		$category = (isset($details{$selectKey})) ? $details{$selectKey} : null;
 
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
+		$match = [ 'DataExists' => $this->dataShowFilter, 'Type' => $type] + $filter;
 		$iterator = $collection->aggregate(
 				 [
-					[ '$match' => [ 'DataExists' => $this->dataShowFilter, 'Type' => $type, $selectKey => $category ] ],
+					[ '$match' => $match ],
 					[ 
 						'$project' => [
 							'id' => 1,
