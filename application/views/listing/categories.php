@@ -16,7 +16,7 @@ $(document).ready(function(){
                 var pagenum = parseInt($('#grid').attr('data-page')) + 1;
                 $('#grid').attr('data-page', pagenum);
 
-                getresult(base_url + 'listing/categories/' + '<?=$parentType?>' + '/?page='+pagenum);
+                getresult(base_url + 'listing/categories/' + '<?=$parentType?>' + '/?select=<?=$auxilairy['selectKey']?>&page='+pagenum);
             }
         }
     });

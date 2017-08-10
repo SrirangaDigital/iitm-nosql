@@ -1,6 +1,9 @@
 {
 	"Photograph" : {
-		"selectKey" : "Album",
+		"selectKey" : [
+			"Collection",
+			"Album"
+		],
 		"sortKey" : "Caption"
 	}
 }

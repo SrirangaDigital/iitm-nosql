@@ -11,13 +11,13 @@ class listing extends Controller {
 
 		if($type == 'Miscellaneous') $this->redirect('listing/artefacts/Miscellaneous/' . MISCELLANEOUS_NAME);
 
-		$page = (isset($query['page'])) ? $query['page'] : "1";
+		$query['select'] = (isset($query['select'])) ? $query['select'] : ''; $selectKey = $query['select']; unset($query['select']);
+		$query['page'] = (isset($query['page'])) ? $query['page'] : "1"; $page = $query['page']; unset($query['page']);
 
-		$selectKey = $this->model->getPrecastKey($type, 'selectKey');
+		$precastSelectKeys = $this->model->getPrecastKey($type, 'selectKey');
+		if(array_search($selectKey, $precastSelectKeys) === false) {$this->view('error/index');return;}
 
-		if(!($selectKey)) {$this->view('error/index');return;}
-
-		$categories = $this->model->getCategories($type, $selectKey, $page);
+		$categories = $this->model->getCategories($type, $selectKey, $page, $query);
 
 		if($page == '1')
 			($categories != 'noData') ? $this->view('listing/categories', $categories) : $this->view('error/index');

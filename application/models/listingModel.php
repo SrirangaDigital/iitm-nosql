@@ -8,17 +8,19 @@ class listingModel extends Model {
 		parent::__construct();
 	}
 
-	public function getCategories($type, $selectKey, $page){
-		
+	public function getCategories($type, $selectKey, $page, $filter = ''){
+
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
 
+		$match = [ 'DataExists' => $this->dataShowFilter, 'Type' => $type ] + $filter;
+
 		$iterator = $collection->aggregate(
 				 [
-					[ '$match' => [ 'DataExists' => $this->dataShowFilter, 'Type' => $type ] ],
+					[ '$match' => $match ],
 					[ '$group' => [ '_id' => [ 'Category' => '$' . $selectKey, 'Type' => '$Type' ], 'count' => [ '$sum' => 1 ]]],
 					[ '$sort' => [ '_id' => 1 ] ],
 					[ '$skip' => $skip ],
@@ -42,7 +44,7 @@ class listingModel extends Model {
 
 		// This marks the end of sifting through results
 		if($data){
-			$auxiliary = ['parentType' => $type];
+			$auxiliary = ['parentType' => $type, 'selectKey' => $selectKey];
 			$data['auxiliary'] = $auxiliary;
 		}
 		else
