@@ -4,5 +4,6 @@
     "AlbumID": "0001",
     "Collection": "Central Photographic section collection",
     "Album": "Third Inter IIT Sports Meet",
-    "Event": "Sports Meet"
+    "Event": "Sports Meet",
+    "AccessLevel": 0
 }
