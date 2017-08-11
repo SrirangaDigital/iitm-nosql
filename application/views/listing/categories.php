@@ -1,6 +1,7 @@
 <?php 
-    $auxilairy = array_pop($data);
-    $parentType = $auxilairy['parentType'];
+    $auxiliary = array_pop($data);
+    $parentType = $auxiliary['parentType'];
+    $filter = $auxiliary['filter'];
 ?>
 <script>
 $(document).ready(function(){
@@ -10,8 +11,6 @@ $(document).ready(function(){
         $('#grid').attr('data-go', '0');
         $('#grid').append('<div id="no-more-icon">No more<br />items<br />to show</div>');
     }
-
-    $('#posts').prepend('<div class="post no-border"><div class="albumTitle <?=$parentType?>"><span><?=$parentType?></span></div></div>');
 
     $(window).scroll(function(){
 
@@ -31,6 +30,15 @@ $(document).ready(function(){
 </script>
 <div id="grid" class="container-fluid" data-page="1" data-go="1">
     <div id="posts">
+        <div class="post no-border">
+            <div class="albumTitle <?=$parentType?>">
+                <span class="head"><?=$parentType?>S</span><br />
+<?php foreach ($filter as $key => $value) { ?>
+                <span class="select"><em><?=$key?>:</em> <?=$value?></span><br />
+<?php } ?>
+                <span class="select"><?=$auxiliary['selectKey']?><em>-wise</em></span>
+            </div>
+        </div>
 <?php foreach ($data as $row) { ?>
         <div class="post">
             <a href="<?=$row['nextURL']?>" title="<?=$row['name']?>" target="_blank">

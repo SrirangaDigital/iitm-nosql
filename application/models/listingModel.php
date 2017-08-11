@@ -38,6 +38,8 @@ class listingModel extends Model {
 		$urlFilter = $this->filterArrayToString($filter);
 		$urlFilter = ($urlFilter) ? '&' . $urlFilter : '';
 
+		$auxiliary = ['parentType' => $type, 'selectKey' => $selectKey, 'filter' => $filter];
+
 		foreach ($iterator as $row) {
 			
 			$category['name'] = (isset($row['_id']['Category'])) ? $row['_id']['Category'] : MISCELLANEOUS_NAME;
@@ -63,7 +65,6 @@ class listingModel extends Model {
 		// This marks the end of sifting through results
 		if($data){
 
-			$auxiliary = ['parentType' => $type, 'selectKey' => $selectKey];
 			$data['auxiliary'] = $auxiliary;
 		}
 		else
@@ -123,7 +124,7 @@ class listingModel extends Model {
 		}
 
 		if($data){
-			$auxiliary = ['filter' => $this->filterArrayToString($filter), 'sortKey' => $sortKey];
+			$auxiliary = ['filterString' => $this->filterArrayToString($filter), 'filter' => $filter, 'sortKey' => $sortKey];
 			$data['auxiliary'] = $auxiliary;
 		}
 		else

@@ -205,7 +205,7 @@ function buildMasonryFromJson(json){
     var displayString = "";
     
     var aux = (obj.auxiliary === undefined) ? '' : obj.auxiliary;
-    var filter = (aux.filter === undefined) ? '' : aux.filter;
+    var filterString = (aux.filterString === undefined) ? '' : aux.filterString;
 
     for(i = 0; i < Object.keys(obj).length - 1; i++) {
 
@@ -231,7 +231,7 @@ function buildMasonryFromJson(json){
             // This snippet is for listing of artefacts
 
             displayString += '<div class="post">';    
-            displayString += '<a href="' + base_url + 'describe/artefact/' + obj[i].idURL + '?' + aux.filter + '" title="View Details" target="_blank">';
+            displayString += '<a href="' + base_url + 'describe/artefact/' + obj[i].idURL + '?' + aux.filterString + '" title="View Details" target="_blank">';
             displayString += '<img class="img-responsive" src="' +  obj[i].thumbnailPath + '">';
             displayString += '<p class="image-desc">' + obj[i].cardName + '</p>';
             displayString += '</a>';

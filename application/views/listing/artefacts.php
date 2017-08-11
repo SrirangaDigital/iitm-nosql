@@ -1,11 +1,12 @@
 <?php
     $auxiliary = array_pop($data);
     $parentType = $data[0]['Type'];
+    $filter = $auxiliary['filter'];
 ?>
 <script>
 $(document).ready(function(){
 
-    $('.post.no-border').prepend('<div class="albumTitle <?=$parentType?>"><span><?=$parentType?></span></div>');
+    // $('.post.no-border').prepend('<div class="albumTitle <?=$parentType?>"><span><?=$parentType?></span></div>');
 
     $(window).scroll(function(){
 
@@ -27,12 +28,16 @@ $(document).ready(function(){
 <div id="grid" class="container-fluid" data-page="1" data-go="1">
     <div id="posts">
         <div class="post no-border">
-            <div class="image-desc-full">
+            <div class="albumTitle <?=$parentType?>">
+                <span class="head"><?=$parentType?>S</span><br />
+<?php foreach (array_reverse($filter) as $key => $value) { ?>
+                <span class="select"><em><?=$key?>:</em> <?=$value?></span><br />
+<?php } ?>
             </div>
         </div>
 <?php foreach ($data as $row) { ?>
         <div class="post">
-            <a href="<?=BASE_URL?>describe/artefact/<?=$row['idURL']?>?<?=$auxiliary['filter']?>" title="View Details" target="_blank">
+            <a href="<?=BASE_URL?>describe/artefact/<?=$row['idURL']?>?<?=$auxiliary['filterString']?>" title="View Details" target="_blank">
                 <img src="<?=$row['thumbnailPath']?>">
                 <p class="image-desc"><?=$row['cardName']?></p>
             </a>
