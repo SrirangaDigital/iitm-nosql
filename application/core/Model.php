@@ -111,6 +111,27 @@ class Model {
 		return $result;
 	}
 
+	public function insertForeignKeyDetails($artefactDetails , $foreignKeys){
+
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
+
+		$data = [];
+		foreach($foreignKeys as $fkey){
+
+			if(array_key_exists($fkey, $artefactDetails)){
+
+				
+				$result = $collection->findOne([$fkey => $artefactDetails[$fkey]]);
+				$result = $this->unsetControlParams($result);
+
+				$artefactDetails = array_merge((array) $artefactDetails, (array) $result);
+			}
+		}
+
+		return $artefactDetails;
+	}
+
 	public function unsetControlParams($data){
 
 		$controlParams = ['_id', 'AccessLevel','oid', 'DataExists', 'ForeignKeyId', 'ForeignKeyType', 'Aid', 'ColorType'];

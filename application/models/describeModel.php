@@ -68,7 +68,7 @@ class describeModel extends Model {
 
 		$match = array_search($id, $idList);
 
-		if(!($match === False)){
+		if(!($match === False)) {
 			
 			$data['prevID'] = (isset($idList[$match - 1])) ? $idList[$match - 1] : '';
 			$data['nextID'] = (isset($idList[$match + 1])) ? $idList[$match + 1] : '';
@@ -82,29 +82,6 @@ class describeModel extends Model {
 
 			return False;
 		}
-
-	}
-
-	public function insertForeignKeyDetails($artefactDetails , $foreignKeys){
-
-		$db = $this->db->useDB();
-		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
-
-		$data = [];
-		foreach($foreignKeys as $fkey){
-
-			if(array_key_exists($fkey, $artefactDetails)){
-
-				
-				$result = $collection->findOne([$fkey => $artefactDetails[$fkey]]);
-				$result = $this->unsetControlParams($result);
-
-				$artefactDetails = array_merge((array) $artefactDetails, (array) $result);
-			}
-		}
-
-		return $artefactDetails;
 	}
 }
-
 ?>
