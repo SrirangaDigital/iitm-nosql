@@ -40,7 +40,9 @@ class describeModel extends Model {
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
-		$match = [ 'DataExists' => $this->dataShowFilter, 'Type' => $type] + $filter;
+		$matchFilter = $this->preProcessQueryFilter($filter);
+		
+		$match = [ 'DataExists' => $this->dataShowFilter, 'Type' => $type] + $matchFilter;
 		$iterator = $collection->aggregate(
 				 [
 					[ '$match' => $match ],

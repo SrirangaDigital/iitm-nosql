@@ -49,18 +49,14 @@ class listingModel extends Model {
 			$category['leafCount'] = $row['count'];
 			$category['thumbnailPath'] = $this->getThumbnailPath($this->getRandomID($type, $filter, $category['leafCount']));
 
+            if(!(isset($row['_id']['Category'])))
+            	$category['nameURL'] = 'notExists';
+			
             if($nextSelectKey)
-            	if(isset($row['_id']['Category'])) {
-            		
-        			$category['nextURL'] = BASE_URL . 'listing/categories/' . $category['parentType'] . '/?select=' . $nextSelectKey . '&' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
-            	}
-        		else{
-
-        			$category['nextURL'] = BASE_URL . 'listing/categories/' . $category['parentType'] . '/?select=' . $nextSelectKey . '&' . $selectKey . '=notExists' . $urlFilter;
-        		}
+    			$category['nextURL'] = BASE_URL . 'listing/categories/' . $category['parentType'] . '/?select=' . $nextSelectKey . '&' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
             else
                 $category['nextURL'] = BASE_URL . 'listing/artefacts/' . $category['parentType'] . '?' . $selectKey . '=' . $category['nameURL'] . $urlFilter;
-
+            
 			array_push($data, $category);
 		}
 
