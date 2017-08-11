@@ -942,5 +942,9 @@ img.img-center{
     text-align: right;
   }
 }
-
+.term-not-exists{
+  color: #d9534f !important;
+  text-decoration: line-through;
+  font-style: italic;
+}
 

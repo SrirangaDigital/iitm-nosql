@@ -68,6 +68,7 @@ class searchModel extends Model {
 		$searchTerm = $searchTerm;
 		$terms = explode(' ', $searchTerm);
 		$termsRegex = implode('|', $terms);
+		$allWords = $terms;
 
 		$matches = [];
 		if(isset($descArray['Type'])) array_push($matches, '<strong>Type</strong> : ' . $descArray['Type']);
@@ -84,7 +85,15 @@ class searchModel extends Model {
 				}
 			}			
 		}
-		return implode($matches, '<br />');
+
+		$html = implode($matches, '<br />');
+
+		preg_match_all('/<span class="highlight">(.*?)<\/span>/', $html, $matches);
+		$removedWords = array_unique(array_map('strtolower', $matches[1]));
+		$remainigWords = array_map('ucwords', array_diff($allWords, $removedWords));
+		$remainingWordsString = '<span class="term-not-exists">' . implode('</span> <span class="term-not-exists">', $remainigWords) . '</span>';
+
+		return ($remainigWords) ? $html . '<br />' . $remainingWordsString : $html;
 	}
 }
 ?>

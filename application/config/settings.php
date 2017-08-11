@@ -1,6 +1,7 @@
 <?php
 //Collections
 define('ARTEFACT_COLLECTION', 'artefacts');
+define('FOREIGN_KEY_COLLECTION', 'foreignKeys');
 define('USER_COLLECTION', 'userdetails');
 
 //Default Values

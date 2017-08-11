@@ -75,7 +75,7 @@ class Model {
 
 	}
 
-	public function beforeDbUpadte($data){
+	public function beforeDbUpdate($data){
 
 		if(isset($data['Date'])){
 
@@ -103,24 +103,21 @@ class Model {
 		return $string;
 	}
 
-	public function getForeignKeyTypes($foreignKeyType){
+	public function getForeignKeyTypes($db){
 
-		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
-		$result = $collection->distinct($foreignKeyType);
+		$result = $collection->distinct(FOREIGN_KEY_TYPE);
 		return $result;
 	}
 
-	public function insertForeignKeyDetails($artefactDetails , $foreignKeys){
+	public function insertForeignKeyDetails($db, $artefactDetails , $foreignKeys){
 
-		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
 
 		$data = [];
 		foreach($foreignKeys as $fkey){
 
 			if(array_key_exists($fkey, $artefactDetails)){
-
 				
 				$result = $collection->findOne([$fkey => $artefactDetails[$fkey]]);
 				$result = $this->unsetControlParams($result);
