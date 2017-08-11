@@ -7,7 +7,7 @@ class searchModel extends Model {
 		parent::__construct();
 	}
 
-	public function getSearchResults($data, $page){
+	public function getSearchResults($data, $foreignKeyMatches, $page){
 
 		$db = $this->db->useDB();
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
@@ -18,27 +18,24 @@ class searchModel extends Model {
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
 
+
+		// Artefact query
 		$iterator = $collection->find(
 			[	
 				'DataExists' => $this->dataShowFilter,
 				'$text' => [
 					'$search' => $term
 				]
-			], 
-			[
-				'projection' => [
-					'score' => [
-						'$meta' => 'textScore'
-					],
+			]
+		);
 
-				],
-				'sort' => [
-					'score' => [
-						'$meta' => 'textScore'
-					]
-				],
-				'skip' => $skip,
-				'limit' => $limit
+		// Foreign key query
+		$iterator = $collection->find(
+			[	
+				'DataExists' => $this->dataShowFilter,
+				'$or' => [
+					'$search' => $term
+				]
 			]
 		);
 	
@@ -61,6 +58,42 @@ class searchModel extends Model {
 			$data = 'noData';
 
 		return $data;
+	}
+
+	public function getResultsFromForeignKeys($foreignKey, $term){
+
+       $db = $this->db->useDB();
+       $collection = $this->db->selectCollection($db, FOREIGN_KEY_COLLECTION);
+
+       $term = preg_quote($term, '/');
+
+       $iterator = $collection->find(
+               [       
+                       'ForeignKeyType' => $foreignKey,
+                       '$text' => [
+                               '$search' => $term
+                       ]
+               ], 
+               [
+                       'projection' => [
+                               $foreignKey => 1
+                       ],
+                       'sort' => [
+                               'ForeignKeyId' => 1
+                       ]
+               ]
+       );
+
+       $data = [];
+
+       $result = iterator_to_array($iterator, true);
+
+       foreach ($result as $row) {
+
+               array_push($data, $row[$foreignKey]);
+       }
+
+       return $data;
 	}
 
 	public function getMatchingFieldsHTML($descArray, $searchTerm){
