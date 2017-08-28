@@ -5,5 +5,13 @@
 			"Album"
 		],
 		"sortKey" : "Caption"
+	},
+	"Publication" : {
+		"selectKey" : ["Publication"],
+		"sortKey" : "Date"
+	},
+	"Multimedia" : {
+		"selectKey" : ["Media"],
+		"sortKey" : "Description"
 	}
 }

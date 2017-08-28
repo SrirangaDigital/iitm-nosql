@@ -87,7 +87,7 @@
                     </a>
                 </li>
                 <li class="stat-elem">
-                    <a href="#">
+                    <a href="<?=BASE_URL?>listing/categories/Publication?select=Publication">
                         <h2><i class="fa fa-book"></i></h2>
                         <p>Publications</p>
                     </a>
@@ -111,7 +111,7 @@
                     </a>
                 </li>
                 <li class="stat-elem">
-                    <a href="#">
+                    <a href="<?=BASE_URL?>listing/categories/Multimedia?select=Media">
                         <h2><i class="fa fa-volume-up"></i></h2>
                         <p>Oral History</p>
                     </a>
