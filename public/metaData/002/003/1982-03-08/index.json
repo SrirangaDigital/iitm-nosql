@@ -1,0 +1,44 @@
+{
+    "id": "002/003/1982-03-08",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "8",
+    "Date": "1982-02-06",
+    "Toc": [
+        {
+            "Title": "Paut Cricket Tourney",
+            "Page": "1,2",
+            "Keywords": "Match, report"
+        },
+        {
+            "Title": "3 A Side Open Chess Tournament",
+            "Page": "2",
+            "Keywords": "Swiss league, matches"
+        },
+        {
+            "Title": "All the Carrom Men",
+            "Page": "2",
+            "Keywords": "Jamuna, humour"
+        },
+        {
+            "Title": "Inter Hostel",
+            "Page": "3,4",
+            "Keywords": "Sports, report"
+        },
+        {
+            "Title": "Spectator Man of the Week",
+            "Page": "4",
+            "Keywords": "Ananthakrishnan, Jamuna"
+        },
+        {
+            "Title": "This Week For You",
+            "Page": "5",
+            "Keywords": "Schedule"
+        },
+        {
+            "Title": "Flash",
+            "Page": "5",
+            "Keywords": "Announcement, basketball"
+        }
+    ]
+}

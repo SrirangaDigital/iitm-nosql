@@ -1,0 +1,38 @@
+{
+    "id": "002/003/Special_1982-04-15",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Date": "1982-04-15",
+    "Toc": [
+        {
+            "Title": "Editorially Scribing",
+            "Page": "1,2,3",
+            "Keywords": "Editorial, Farewell"
+        },
+        {
+            "Title": "Men and Matters",
+            "Page": "3,4",
+            "Keywords": "Vote of Thanks"
+        },
+        {
+            "Title": "The Best of '81-'82",
+            "Page": "5,6",
+            "Keywords": "Humour, Awards"
+        },
+        {
+            "Title": "What-A-Poll-Oh!",
+            "Page": "6",
+            "Keywords": "Humour, Awards, Poll"
+        },
+        {
+            "Title": "Tally Ho!",
+            "Page": "7",
+            "Keywords": "Schoeter Tally"
+        },
+        {
+            "Title": "\"..What the hell's Going on Here?\"-",
+            "Page": "8",
+            "Keywords": "Spectator"
+        }
+    ]
+}

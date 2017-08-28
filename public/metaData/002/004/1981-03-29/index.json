@@ -1,0 +1,37 @@
+{
+    "id": "002/004/1981-03-29",
+    "Type": "Publication",
+    "Publication": "Rag Mandak",
+    "Issue": "9",
+    "Date": "1981-03-29",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Editorial, Mandakini Hostel, Humour, Holi"
+        },
+        {
+            "Title": "Perios - Oh! What a Pain",
+            "Author": "Rajeev J.",
+            "Page": "1",
+            "Keywords": "Preparation, Quizzes, Exams, Studying"
+        },
+        {
+            "Title": "Riddle Me This",
+            "Author": "G. C. Prasad",
+            "Page": "1",
+            "Keywords": "Riddles, Jokes, Humour"
+        },
+        {
+            "Title": "Learning to Drive",
+            "Author": "R. Bharat Rao",
+            "Page": "2, 3",
+            "Keywords": "Poem, Driving, Accident, First Time"
+        },
+        {
+            "Title": "Heard in Class",
+            "Page": "3",
+            "Keywords": "Humour, Jokes, Science, Math, Lecturer"
+        }
+    ]
+}

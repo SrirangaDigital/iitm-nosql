@@ -1,0 +1,48 @@
+{
+    "id": "002/002/1982-01",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Date": "1982-01-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2,3",
+            "Keywords": "GF-KR, Mardi Gras, Posters, Freshmen Participation"
+        },
+        {
+            "Title": "Quotes",
+            "Author": "Michener, Joel",
+            "Page": "3",
+            "Keywords": "Dreams, Reality, Advice"
+        },
+        {
+            "Title": "A Treatise on the Creative Utilisation of Tokens",
+            "Author": "Muf3mood",
+            "Page": "4,5",
+            "Keywords": "City Bus, Travel, Tokens, Humour, Creativity"
+        },
+        {
+            "Title": "The Work Week",
+            "Page": "5",
+            "Keywords": "Cartoon, Snoopy, Work Week Expressions "
+        },
+        {
+            "Title": "Poem",
+            "Author": "Wock",
+            "Page": "6",
+            "Keywords": "Poetry, Rhymes, Humour"
+        },
+        {
+            "Title": "Meal Time",
+            "Author": "D. Ananth",
+            "Page": "7",
+            "Keywords": "Mess Woes, Shakespeare, Humour, Poetry "
+        },
+        {
+            "Title": "Cell No. 131",
+            "Author": "Vipin B",
+            "Page": "8",
+            "Keywords": "Student Life, Poetry, Hostel Room, Messy "
+        }
+    ]
+}

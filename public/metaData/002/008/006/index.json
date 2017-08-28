@@ -1,0 +1,54 @@
+{
+    "id": "002/008/006",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "9",
+    "Issue": "7",
+    "Date": "1987-04-27",
+    "Toc": [
+        {
+            "Title": "Farewell Note",
+            "Page": "1",
+            "Keywords": "Correspondents, production, goodbye"
+        },
+        {
+            "Title": "Editor's Note",
+            "Author": "Sundar, Arul Murugan, Ramanan",
+            "Page": "2,3",
+            "Keywords": "Cover, article, end sems, events"
+        },
+        {
+            "Title": "Focus",
+            "Page": "4,5",
+            "Keywords": "Last issue, criticism, life, elections, suggestions"
+        },
+        {
+            "Title": "Focus",
+            "Page": "6,7",
+            "Keywords": "Computer centre, state, management, maintenence"
+        },
+        {
+            "Title": "Publisher's Note",
+            "Page": "8",
+            "Keywords": "Reply"
+        },
+        {
+            "Title": "Review Committee Report",
+            "Author": "John Kenneth Galbraith",
+            "Page": "9,10,11,12,13,14,15,16",
+            "Keywords": "IITs, shortfalls, students, research, migration"
+        },
+        {
+            "Title": "Do We Need a Change?",
+            "Author": "Mamidala Jagadesh Kumar",
+            "Page": "17,18,19,20",
+            "Keywords": "Students, Research, RAS, contribution, necessity"
+        },
+        {
+            "Title": "Attendence Problem: A New Perspective",
+            "Author": "Laxman C. Marathe",
+            "Page": "20,21,22,23",
+            "Keywords": "Attendence, solution, analysis, suggestions"
+        }
+    ]
+}

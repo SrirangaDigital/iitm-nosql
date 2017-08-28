@@ -1,0 +1,61 @@
+{
+    "id": "002/002/1969-10",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Volume": "VIII",
+    "Issue": "1",
+    "Date": "1969-09-00",
+    "Toc": [
+        {
+            "Title": "Dear Diary",
+            "Author": "S.R.Nair",
+            "Page": "15",
+            "Keywords": "Humour, Studying, Exams, Grades"
+        },
+        {
+            "Title": "Romantonomics",
+            "Author": "P.C.V",
+            "Page": "15",
+            "Keywords": "Limerick, Science"
+        },
+        {
+            "Title": "Moonstruck",
+            "Author": "D.Kalyanaraman",
+            "Page": "16,18",
+            "Keywords": "Humour, Love"
+        },
+        {
+            "Title": "The Fatal Lift",
+            "Author": "M.P.Sarnath",
+            "Page": "17",
+            "Keywords": "Short Story, Dreams"
+        },
+        {
+            "Title": "A Survey of Friendship",
+            "Page": "17",
+            "Keywords": "Landmarks of Indo-German Cooperation"
+        },
+        {
+            "Title": "Sportfolio",
+            "Page": "18",
+            "Keywords": "Sport updates"
+        },
+        {
+            "Title": "The Bureaucrats",
+            "Author": "Shivram",
+            "Page": "19",
+            "Keywords": "Humour, Bureaucracy"
+        },
+        {
+            "Title": "From Here And There",
+            "Author": "C.S.Sastri",
+            "Page": "20",
+            "Keywords": "Film Screening, Gymkhana Elections"
+        },
+        {
+            "Title": "Convocation",
+            "Page": "20",
+            "Keywords": "Photograaphs"
+        }
+    ]
+}

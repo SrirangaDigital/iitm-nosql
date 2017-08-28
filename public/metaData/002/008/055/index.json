@@ -1,0 +1,57 @@
+{
+    "id": "002/008/055",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "6",
+    "Issue": "1",
+    "Date": "1983-00-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Author": "Venkatesh, Suheim Sheikh, Vijay Nambesan",
+            "Page": "1,2,3",
+            "Keywords": "Focus, General Student Body, Students' Constitution"
+        },
+        {
+            "Title": "Quark: An Overview",
+            "Author": "Anand Kasthuri",
+            "Page": "3,4,5",
+            "Keywords": "Quark, Hostel Affairs Secretary, Hostels, Suggestions"
+        },
+        {
+            "Title": "The Missing Convocation",
+            "Author": "G Ganapathi",
+            "Page": "5,6",
+            "Keywords": "Convocation, General Secretary"
+        },
+        {
+            "Title": "Concerning the Library",
+            "Page": "6,7,8",
+            "Keywords": "Institute Library, Bureacracy, Complaint"
+        },
+        {
+            "Title": "The Library Replies",
+            "Author": "C.Deenadayalu",
+            "Page": "8,9",
+            "Keywords": "Rejoinder, Overnight lending, Problems"
+        },
+        {
+            "Title": "The Library Again",
+            "Author": "A.Balaraman",
+            "Page": "9,10,11,12",
+            "Keywords": "Institute Library, Working Hours, Senate Resolution"
+        },
+        {
+            "Title": "PGs Raise a Point",
+            "Author": "Uday Prakash",
+            "Page": "12,13",
+            "Keywords": "Transcripts, Placements, PG Admissions"
+        },
+        {
+            "Title": "General Secretary's Information Bulletin",
+            "Author": "Ramani Ramaswamy",
+            "Page": "13,14",
+            "Keywords": "General Secretary, Senate meetings, BAC"
+        }
+    ]
+}

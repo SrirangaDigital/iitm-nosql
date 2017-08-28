@@ -1,0 +1,107 @@
+{
+    "id": "002/002/1980-11",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Volume": "XIX",
+    "Issue": "1",
+    "Date": "1980-11-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1,2",
+            "Keywords": "Campastimes"
+        },
+        {
+            "Title": "Higgledy-Piggledy",
+            "Author": "Dr. M. Anthony Reddy",
+            "Page": "2,3,4",
+            "Keywords": "Humour, Campastimes"
+        },
+        {
+            "Title": "Lokus-Fokus",
+            "Author": "Envy",
+            "Page": "4,5",
+            "Keywords": "Anecdotes, Humour"
+        },
+        {
+            "Title": "Topper Talks",
+            "Author": "M.Muralikrishna",
+            "Page": "5",
+            "Keywords": "Mathematics Puzzles"
+        },
+        {
+            "Title": "\"Life is Short. Make it Exciting\"",
+            "Page": "6,7,8",
+            "Keywords": "Interview, Dr.P.M. Bhargava"
+        },
+        {
+            "Title": "Classified Divertisements",
+            "Page": "8",
+            "Keywords": "Humour"
+        },
+        {
+            "Title": "Campus Games",
+            "Author": "Sneaker",
+            "Page": "9,10,11",
+            "Keywords": "Sketch, Humour, Classes"
+        },
+        {
+            "Title": "A [Mammoth] Fly in the Ointment",
+            "Author": "Swamy",
+            "Page": "11,12",
+            "Keywords": "Humour,Gajendra Circle"
+        },
+        {
+            "Title": "On Etymology",
+            "Author": "Ranjit Padmanabhan",
+            "Page": "12,13",
+            "Keywords": "Humour, English language"
+        },
+        {
+            "Title": "Bucket's Sportfolio",
+            "Page": "13",
+            "Keywords": "Sport facts"
+        },
+        {
+            "Title": "Convocation '80",
+            "Author": "G. Sharath Chandra",
+            "Page": "13,14",
+            "Keywords": "Report, Convocation"
+        },
+        {
+            "Title": "Bitte Listenen Sie",
+            "Author": "N.Arunachalam",
+            "Page": "14",
+            "Keywords": "Announcement, German lessons"
+        },
+        {
+            "Title": "\"Just A Minute, Bucket!\"",
+            "Page": "14",
+            "Keywords": "Quiz"
+        },
+        {
+            "Title": "Crossword",
+            "Author": "I.K.Sailesh",
+            "Page": "15,16",
+            "Keywords": "Crossword puzzle"
+        },
+        {
+            "Title": "On Love",
+            "Author": "Dr. M.S. Gopinath",
+            "Page": "16",
+            "Keywords": "Poem, Science"
+        },
+        {
+            "Title": "Mystery Man",
+            "Author": "L.S. Ganesh",
+            "Page": "16",
+            "Keywords": "Poem, Humans"
+        },
+        {
+            "Title": "Not a mere TV Gazer, Please!",
+            "Author": "Envy and Swamy",
+            "Page": "17",
+            "Keywords": "Humour, Television, Research"
+        }
+    ]
+}

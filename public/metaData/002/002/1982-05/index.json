@@ -1,0 +1,42 @@
+{
+    "id": "002/002/1982-05",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Date": "1982-05-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2,3",
+            "Keywords": "Reminiscence, photography club, film society, memories, final year"
+        },
+        {
+            "Title": "Square One",
+            "Author": "C - Thru",
+            "Page": "4,5,6",
+            "Keywords": "Bus, girls, theatre, IITian"
+        },
+        {
+            "Title": "As It Turned Out",
+            "Author": "Amrit",
+            "Page": "9,10,11",
+            "Keywords": "Computer, artificial intelligence, psychology, dystopia"
+        },
+        {
+            "Title": "Campastimes",
+            "Author": "P. S. Srinivas",
+            "Page": "12,13",
+            "Keywords": "First year, ragging, exams, life at IIT"
+        },
+        {
+            "Title": "Pearls of Wisdom",
+            "Page": "13",
+            "Keywords": "Humour, one liners"
+        },
+        {
+            "Title": "Femme Fatale",
+            "Author": "PGW",
+            "Page": "14",
+            "Keywords": "Heroine, intelligence, thriller, commentary"
+        }
+    ]
+}

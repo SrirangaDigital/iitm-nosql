@@ -1,0 +1,121 @@
+{
+    "id": "002/002/1987-02",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Issue": "2",
+    "Date": "1987-02-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1"
+        },
+        {
+            "Title": "Once Upon A Time",
+            "Author": "K. Karthik",
+            "Page": "2, 3, 4",
+            "Keywords": "Story, Fiction"
+        },
+        {
+            "Title": "Farewell Note",
+            "Author": "P. Seshu",
+            "Page": "4",
+            "Keywords": "Poem, Farewell"
+        },
+        {
+            "Title": "How I Survived",
+            "Author": "V. Menon",
+            "Page": "5",
+            "Keywords": "Poem, Time, Science Fiction"
+        },
+        {
+            "Title": "The Diogenes Law of Diminishing Damages",
+            "Page": "6, 7",
+            "Keywords": "Humour, Interview"
+        },
+        {
+            "Title": "Distant Strains",
+            "Author": "P. Ganesh",
+            "Page": "7",
+            "Keywords": "Poem, Life, God"
+        },
+        {
+            "Title": "One and the Other",
+            "Author": "P. Ganesh",
+            "Page": "8",
+            "Keywords": "Poem, Life"
+        },
+        {
+            "Title": "Cross Word",
+            "Page": "9, 16"
+        },
+        {
+            "Title": "Wait Until Dark",
+            "Author": "Anuradha. C",
+            "Page": "10, 11",
+            "Keywords": "Fiction, Story, Mystery"
+        },
+        {
+            "Title": "Oh Venus, Here I Come",
+            "Author": "R. Sridhar",
+            "Page": "12, 13",
+            "Keywords": "Story, Kindness, Trickery, Fraud"
+        },
+        {
+            "Title": "Log of Agent-PC/XT",
+            "Author": "Sathyanarayana (E.T)",
+            "Page": "14, 15",
+            "Keywords": "Fiction, Story, Future, Space, Humour"
+        },
+        {
+            "Title": "21st Century",
+            "Author": "Sriranjan Chaudhuri",
+            "Page": "15",
+            "Keywords": "Poem, Future, 21st Century"
+        },
+        {
+            "Title": "Chess",
+            "Author": "T.K. Mohapatra",
+            "Page": "16"
+        },
+        {
+            "Title": "Adventures of a Research Scholar",
+            "Page": "17, 18",
+            "Keywords": "Humour, Fiction, Research Scholar, Frustration"
+        },
+        {
+            "Title": "Rahu Column",
+            "Author": "Fingerer Future-wrist",
+            "Page": "19, 20",
+            "Keywords": "Humour, Rahu, Astrology"
+        },
+        {
+            "Title": "Which Path Did I Take",
+            "Author": "M. Suresh Mejella",
+            "Page": "20",
+            "Keywords": "Poem, God"
+        },
+        {
+            "Title": "The Photograph",
+            "Author": "Rajat. M",
+            "Page": "21, 22",
+            "Keywords": "Story, Love, Rejection, Relationship"
+        },
+        {
+            "Title": "Re-quest",
+            "Author": "R. Balaji",
+            "Page": "22",
+            "Keywords": "Poem, Relationship"
+        },
+        {
+            "Title": "TV - The Idiot Box",
+            "Page": "23",
+            "Keywords": "Poem, Television"
+        },
+        {
+            "Title": "The Mood (Tarams Polamaa)",
+            "Author": "Flask",
+            "Page": "24",
+            "Keywords": "Taramani, Story, Insti Culture"
+        }
+    ]
+}

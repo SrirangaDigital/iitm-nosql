@@ -1,0 +1,50 @@
+{
+    "id": "002/008/018",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "5",
+    "Issue": "6",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1,2",
+            "Keywords": "Focus, Contributions, Call for Editors, Mardi Gras"
+        },
+        {
+            "Title": "Mardi Gras- Time for a Change",
+            "Author": "L.S.Ganesh",
+            "Page": "3,4,5,6,7",
+            "Keywords": "Mardi Gras, Audience,Participation, Problems, Suggestions"
+        },
+        {
+            "Title": "Events Needed through the Year",
+            "Author": "Arjun Krishnamachari",
+            "Page": "8,9",
+            "Keywords": "Mardi Gras, Budget allocation, Events, Participation"
+        },
+        {
+            "Title": "An honest Effort is Required",
+            "Author": "Uday Prakash",
+            "Page": "10,11",
+            "Keywords": "Mardi Gras, Improvisation, Suggestions"
+        },
+        {
+            "Title": "On Mardi Gras",
+            "Author": "Malcolm Panthaki",
+            "Page": "12,13,14",
+            "Keywords": "Mardi Gras, Purpose, Competitions"
+        },
+        {
+            "Title": "Restructuring is Useless",
+            "Author": "Dr. Anthony Reddy",
+            "Page": "15,16,17,18",
+            "Keywords": "Mardi Gras, Finance, Professional Shows, Competitions"
+        },
+        {
+            "Title": "Cut Down Expenditure",
+            "Author": "M.Subramani",
+            "Page": "19,20,21,22",
+            "Keywords": "Mardi Gras, Expenditure, Purpose, opinion Polls"
+        }
+    ]
+}

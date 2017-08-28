@@ -1,0 +1,47 @@
+{
+    "id": "002/003/1982-02-28",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "7",
+    "Date": "1982-02-28",
+    "Toc": [
+        {
+            "Title": "Summeritorial",
+            "Page": "1",
+            "Keywords": "Schroeter, sports, cheering"
+        },
+        {
+            "Title": "Cricket",
+            "Page": "1",
+            "Keywords": "Humour, poem, rules"
+        },
+        {
+            "Title": "Inter Hostel",
+            "Page": "2",
+            "Keywords": "Report, football, volleyball, kabaddi"
+        },
+        {
+            "Title": "Making Waves",
+            "Page": "3,4",
+            "Keywords": "Report, points"
+        },
+        {
+            "Title": "Open House",
+            "Page": "4",
+            "Keywords": "Desk"
+        },
+        {
+            "Title": "Wrestling",
+            "Page": "4"
+        },
+        {
+            "Title": "Pot Pourri",
+            "Page": "4"
+        },
+        {
+            "Title": "This Week For You",
+            "Page": "5",
+            "Keywords": "Schedule"
+        }
+    ]
+}

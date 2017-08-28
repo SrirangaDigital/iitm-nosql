@@ -1,0 +1,44 @@
+{
+    "id": "002/008/046",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Issue": "2",
+    "Date": "1979-09-20",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1, 2",
+            "Keywords": "Criticism, Convocation, Indifference, Unity, Union"
+        },
+        {
+            "Title": "A Technological Enterpirse at the Service of the Nation?",
+            "Author": "Devdas Menon",
+            "Page": "2, 3, 4, 5, 6",
+            "Keywords": "Technology, Institute, Industries, Brain Drain, IITians, IIT, Village, Management, Higher Studies, Abroad, Service"
+        },
+        {
+            "Title": "Horrorspital?",
+            "Author": "S. Sampath",
+            "Page": "6, 7, 8",
+            "Keywords": "Inter IIT, Sports Meet, Institute Hospital, Treatment, Player"
+        },
+        {
+            "Title": "Injuries of Atheletes",
+            "Author": "Dr. M.S. Prakas",
+            "Page": "8, 9",
+            "Keywords": "Player, Injury, Sports, Institute Hospital"
+        },
+        {
+            "Title": "Long Live Students' Unity",
+            "Author": "Students' Union of SIET College",
+            "Page": "9",
+            "Keywords": "Letter, Unity, Union, Indifference"
+        },
+        {
+            "Title": "Rear Window",
+            "Author": "P.V Indiresan, R. Ravindra",
+            "Page": "10",
+            "Keywords": "Convocation, Senate, Faculty, Graduands"
+        }
+    ]
+}

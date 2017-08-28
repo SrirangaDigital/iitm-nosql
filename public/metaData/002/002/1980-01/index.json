@@ -1,0 +1,57 @@
+{
+    "id": "002/002/1980-01",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Issue": "3",
+    "Date": "1980-01-00",
+    "Toc": [
+        {
+            "Title": "Sport: Inter IIT Log Book",
+            "Page": "2",
+            "Keywords": "Inter IIT, 1979, Ninth Time Winners, KGP, IITD, Brandy"
+        },
+        {
+            "Title": "How to Lecture Effectively",
+            "Page": "3,4",
+            "Keywords": "Toike-Oike, University of Toronto, Teaching, Tips, "
+        },
+        {
+            "Title": "Unser Sage",
+            "Author": "Dr. P. T. Manoharan (Dean, Student Affairs)",
+            "Page": "5",
+            "Keywords": "Student Demands, Inter IIT, Inefficiency, Suggestions, "
+        },
+        {
+            "Title": "Letter to the Editor",
+            "Author": "Dr. B. Vishwanathan (Chemistry Department )",
+            "Page": "5",
+            "Keywords": "Research, Creativity, "
+        },
+        {
+            "Title": "Serial: Murphy's Law- Compleat and Unabridged",
+            "Page": "6",
+            "Keywords": "Edsel Murphy, Electronics Engineering, Bad Luck, Maths, Engineering "
+        },
+        {
+            "Title": "Groovy Man Groovy",
+            "Page": "6",
+            "Keywords": "Poetry, Rhymes, Drugs, Hippie Culture, Words, Life "
+        },
+        {
+            "Title": "You've Had Too Much to Drink When",
+            "Page": "6",
+            "Keywords": "Poetry, Drunken Stupor, Tipsy, Humour, "
+        },
+        {
+            "Title": "Inter IIT Reminiscences",
+            "Page": "9,10",
+            "Keywords": "Inter IIT, Memories, Stories, Analysis, Rivalries,Friendships "
+        },
+        {
+            "Title": "Foto: Inter IIT Photos",
+            "Author": "D. Shivakumar",
+            "Page": "11",
+            "Keywords": "Inter IIT, Photographs, Memories"
+        }
+    ]
+}

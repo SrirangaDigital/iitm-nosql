@@ -1,0 +1,30 @@
+{
+    "id": "002/004/1981-04-04",
+    "Type": "Publication",
+    "Publication": "Rag Mandak",
+    "Issue": "10",
+    "Date": "1981-04-04",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Rag Mandak, Contributions, Weekly Reports, Mardi ras"
+        },
+        {
+            "Title": "Miss-Identity'",
+            "Author": "Vivvekrishna De",
+            "Page": "2,3",
+            "Keywords": "Mardi Gras, Volunteer, Misunderstandings"
+        },
+        {
+            "Title": "Photo Caption Contest",
+            "Page": "3",
+            "Keywords": "Contest, Photo captions"
+        },
+        {
+            "Title": "Results",
+            "Page": "4",
+            "Keywords": "Results, Best Article Competition, Blurb Contest, Photo Caption Contest"
+        }
+    ]
+}

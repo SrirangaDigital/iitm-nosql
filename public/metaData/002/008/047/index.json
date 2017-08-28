@@ -1,0 +1,62 @@
+{
+    "id": "002/008/047",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "8",
+    "Issue": "2",
+    "Date": "1985-08-16",
+    "Toc": [
+        {
+            "Title": "Food For Thought",
+            "Page": "2",
+            "Keywords": "One liners, humour, quotes"
+        },
+        {
+            "Title": "Editorially Speaking",
+            "Page": "3, 4",
+            "Keywords": "Documentary, OAT, Quiz, CLT, Students"
+        },
+        {
+            "Title": "The Institute Hospital - A Rethinking",
+            "Author": "Rajagopal S. Kishore",
+            "Page": "5, 6",
+            "Keywords": "Institute Hospital, Clinic, Dean"
+        },
+        {
+            "Title": "Beauty Without Cruelty",
+            "Author": "S. Chinny Krishna",
+            "Page": "7, 8",
+            "Keywords": "Animal Welfare, Charity, Trust, Cruelty, Humanity"
+        },
+        {
+            "Title": "A Negative View of IIT",
+            "Author": "Thomas Tharu",
+            "Page": "9, 10, 11",
+            "Keywords": "IIT, Students, Brain Drain, Evaluation, Hostel Affairs, Higher Studies, Abroad"
+        },
+        {
+            "Title": "Reflections",
+            "Author": "Focus, P.V. Indiresan",
+            "Page": "12, 13, 14",
+            "Keywords": "IIT, Germany, Culture, Unity, Economy"
+        },
+        {
+            "Title": "An Environmentalist Speaks",
+            "Author": "Focus, C.A. Sastry",
+            "Page": "15, 16, 17, 18, 19",
+            "Keywords": "Environment, Forest, Industry, Pollution, Development"
+        },
+        {
+            "Title": "Speacial Feature - RSIC",
+            "Author": "Sudhit Murthy",
+            "Page": "20, 21, 22, 23",
+            "Keywords": "Science, Technology, Research, Project, Laboratory"
+        },
+        {
+            "Title": "Meet the Dean of Students",
+            "Author": "Focus, R. Natarajan",
+            "Page": "24, 25, 26, 27",
+            "Keywords": "Dean, Students, Interview, Workshop, Institute Hospital, Abroad, Counselling, Hostels, Gymkhana, Inter IIT, Mardi Gras"
+        }
+    ]
+}

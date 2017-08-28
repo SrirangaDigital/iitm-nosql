@@ -1,0 +1,39 @@
+{
+    "id": "002/004/1981-02-02",
+    "Type": "Publication",
+    "Publication": "Rag Mandak",
+    "Issue": "1",
+    "Date": "1981-02-02",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Rag Mandak, Contributions"
+        },
+        {
+            "Title": "Puzzle",
+            "Page": "1,2",
+            "Keywords": "Word Games, Marsupial words"
+        },
+        {
+            "Title": "Special Report",
+            "Page": "2,3",
+            "Keywords": "Sports, Report, Volleyball tournament"
+        },
+        {
+            "Title": "Stop Press",
+            "Page": "4",
+            "Keywords": "Announcement, Toilets, Water crisis"
+        },
+        {
+            "Title": "Seeing 'Stars'",
+            "Page": "4",
+            "Keywords": "Humour, Puns, English Language"
+        },
+        {
+            "Title": "Inter-Hostel Table Tennis- Mandak vs Jamuna",
+            "Page": "4,5",
+            "Keywords": "Report, Inter-Hostel Sports, Table Tennis"
+        }
+    ]
+}

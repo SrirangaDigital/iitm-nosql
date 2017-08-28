@@ -1,0 +1,36 @@
+{
+    "id": "002/008/041",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "7",
+    "Issue": "2",
+    "Date": "1985-04-03",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2, 3, 5"
+        },
+        {
+            "Title": "SACked",
+            "Author": "Rajgopal S. Kishore",
+            "Page": "5, 6, 7",
+            "Keywords": "SAC, Speaker, Student Body, Elections, Constitution"
+        },
+        {
+            "Title": "Looking Back",
+            "Author": "Arun Duggal, Vibhas & Gari",
+            "Page": "8, 9, 10",
+            "Keywords": "Mardi Gras, Culturals, Freshers, Ragging"
+        },
+        {
+            "Title": "Know Your Candidate",
+            "Page": "11, 12, 13, 14",
+            "Keywords": "Elections, Secretaries, Culturals, Management"
+        },
+        {
+            "Title": "MG Debriefing - A Report",
+            "Page": "15, 16,17",
+            "Keywords": "Culturals, Mardi Gras, Informals, Accounts, Report"
+        }
+    ]
+}

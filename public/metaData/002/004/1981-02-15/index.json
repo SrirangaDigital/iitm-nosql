@@ -1,0 +1,51 @@
+{
+    "id": "002/004/1981-02-15",
+    "Type": "Publication",
+    "Publication": "Rag Mandak",
+    "Date": "1981-02-15",
+    "Toc": [
+        {
+            "Title": "Magic Number",
+            "Author": "Vijay Iyengar",
+            "Page": "2",
+            "Keywords": "Puzzle, Maths, Fun"
+        },
+        {
+            "Title": "Jokes",
+            "Page": "2",
+            "Keywords": "Fun, Jokes, Humour"
+        },
+        {
+            "Title": "Solution to last week's Brain Teaser",
+            "Page": "2",
+            "Keywords": "Puzzle, Game, Series, Fun"
+        },
+        {
+            "Title": "Complete the Series",
+            "Author": "Bharat",
+            "Page": "2, 3",
+            "Keywords": "Puzzle, Game, Series, Fun"
+        },
+        {
+            "Title": "PJ Paje",
+            "Page": "3",
+            "Keywords": "Humour, Jokes, Fun"
+        },
+        {
+            "Title": "Howzaat!",
+            "Author": "Chelluri",
+            "Page": "3",
+            "Keywords": "Humour, Sports, Jokes"
+        },
+        {
+            "Title": "Can You Guess What These Are?",
+            "Page": "4",
+            "Keywords": "Puzzle, Game, Series, Fun"
+        },
+        {
+            "Title": "Solution to Puzzle",
+            "Page": "5",
+            "Keywords": "Puzzle, Game, Series, Fun"
+        }
+    ]
+}

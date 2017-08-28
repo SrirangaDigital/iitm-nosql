@@ -1,0 +1,108 @@
+{
+    "id": "002/008/013",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "2",
+    "Issue": "3,4",
+    "Date": "1980-03-03",
+    "Toc": [
+        {
+            "Title": "FOCUS",
+            "Page": "1",
+            "Keywords": "Coverpage, Contents, Editorial Board"
+        },
+        {
+            "Title": "Editorial",
+            "Page": "2",
+            "Keywords": "Focus, Bureaucracy, Contributions, Elections"
+        },
+        {
+            "Title": "Appointments",
+            "Page": "3",
+            "Keywords": "Notice, Focus, Recruitments, Editors"
+        },
+        {
+            "Title": "Why All this Fuss About going Abroad?",
+            "Author": "Devdas Menon",
+            "Page": "3,4,5",
+            "Keywords": "Brain Drain, IITians, Central Government, Patriotism"
+        },
+        {
+            "Title": "The Library is Brought to Book",
+            "Author": "S.K.Raja, K.Raghuraman",
+            "Page": "6,7,8,9",
+            "Keywords": "Central Library, Complaints, Documentation, Departmental Libraries"
+        },
+        {
+            "Title": "Our Comments",
+            "Page": "9,10",
+            "Keywords": "Central Library, Suggestions, Research, Librarian"
+        },
+        {
+            "Title": "The Bata Trick",
+            "Author": "Prof.P.V.Indresan",
+            "Page": "10,11",
+            "Keywords": "Constitution, Repreentation, Under-Graduates, Post-Graduates, Academic Suicide"
+        },
+        {
+            "Title": "The Stroke of the Bureaucratic Pen",
+            "Author": "Bose, Lalith, Sancho",
+            "Page": "12",
+            "Keywords": "Letter to the Editor, Dictatorship, Steering Committee"
+        },
+        {
+            "Title": "We Beg to Differ",
+            "Author": "Balu, Maruti, Boob",
+            "Page": "12,13",
+            "Keywords": "Letter to the Editor, Steering Committee, Alienation"
+        },
+        {
+            "Title": "Credit to the 'New System'",
+            "Author": "R.Srinivasan",
+            "Page": "13",
+            "Keywords": "Letter to the Editor, Credit System, Reforms"
+        },
+        {
+            "Title": "Psst! It's the Credit System Again",
+            "Author": "S.Mahadevan",
+            "Page": "14,15",
+            "Keywords": "Credit System, Reforms, Evaluation, Core Subjects"
+        },
+        {
+            "Title": "Rejoinder",
+            "Author": "Venkatraman, CSO",
+            "Page": "16",
+            "Keywords": "Rejoinder, Thefts, Security"
+        },
+        {
+            "Title": "In Defense of the Hostel Sweepers",
+            "Author": "I.Kannan",
+            "Page": "17,18,19",
+            "Keywords": "Hostels, Maintenance, Management, Sweepers"
+        },
+        {
+            "Title": "Twilight at Noon",
+            "Author": "Kaikini",
+            "Page": "19,20",
+            "Keywords": "Report, Astronomy Club, Field Trip, \"The Diamond Ring\""
+        },
+        {
+            "Title": "The other Side of the Eclipse",
+            "Author": "YVSN Prasad",
+            "Page": "20,21",
+            "Keywords": "Astronomy Club, Field Trip, Solar Eclipse, Complaints"
+        },
+        {
+            "Title": "Extra-Mural lectures",
+            "Author": "Dr.R.Srinivasan",
+            "Page": "21",
+            "Keywords": "Schedule, Extra-Mural Lectures"
+        },
+        {
+            "Title": "Tantrum over a T-Shirt",
+            "Author": "N.Goutham",
+            "Page": "22",
+            "Keywords": "Physics Lab, T-Shirts, Dress Code"
+        }
+    ]
+}

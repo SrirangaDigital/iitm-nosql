@@ -1,0 +1,87 @@
+{
+    "id": "002/002/misc3",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1,2",
+            "Keywords": "Campastimes"
+        },
+        {
+            "Title": "Retreat Review",
+            "Author": "Hairy Pillar",
+            "Page": "2,3",
+            "Keywords": "IIT, Gajendra Circle, Pritish Nandy"
+        },
+        {
+            "Title": "Astro-Nut",
+            "Page": "4,5",
+            "Keywords": "Interview, Mr.Charles Duke"
+        },
+        {
+            "Title": "Trupti",
+            "Author": "Shankar",
+            "Page": "6,7",
+            "Keywords": "Short Story"
+        },
+        {
+            "Title": "Letter to The Editor",
+            "Author": "M.A.Reddy",
+            "Page": "7,8,9,10",
+            "Keywords": "Humour, Zodiac signs, Crocodiles, Campastimes"
+        },
+        {
+            "Title": "Encounters in IIT",
+            "Author": "Dr. Miss. Rina Ghatak",
+            "Page": "10,11,12",
+            "Keywords": "IITians, Depression, Students' life"
+        },
+        {
+            "Title": "Aliens",
+            "Author": "Swamy",
+            "Page": "12,13",
+            "Keywords": "Humans"
+        },
+        {
+            "Title": "Intel",
+            "Author": "Vidya Shankar",
+            "Page": "13,14",
+            "Keywords": "Humour, Campastimes' Articles"
+        },
+        {
+            "Title": "I am an Anti-Humanist",
+            "Author": "Dr. Rashmi Mayur",
+            "Page": "14,15,16,17",
+            "Keywords": "India in 2000 A.D"
+        },
+        {
+            "Title": "Journalism Workshop",
+            "Author": "Envy Swamy",
+            "Page": "17",
+            "Keywords": "Inter-Collegiate competitions"
+        },
+        {
+            "Title": "Classified Divertisements",
+            "Page": "17,18",
+            "Keywords": "Humour"
+        },
+        {
+            "Title": "Sotto Voce",
+            "Author": "Dr.A.V.Krishna Rao",
+            "Page": "18, 19",
+            "Keywords": "IITians literary taste"
+        },
+        {
+            "Title": "Judges Must be Judged",
+            "Page": "19,20,21,22",
+            "Keywords": "Interview with Justice V.R.Krishna"
+        },
+        {
+            "Title": "My Crisis",
+            "Author": "M.S.Gopinathan",
+            "Page": "21",
+            "Keywords": "Poetry"
+        }
+    ]
+}

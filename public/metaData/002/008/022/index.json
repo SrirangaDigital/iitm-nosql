@@ -1,0 +1,56 @@
+{
+    "id": "002/008/022",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "II",
+    "Issue": "3",
+    "Date": "1989-03-03",
+    "Toc": [
+        {
+            "Title": "Foreword",
+            "Page": "1,2",
+            "Keywords": "Ganga, Focus, EW, GSB, SAC, quotes"
+        },
+        {
+            "Title": "Environmental Tight Rope",
+            "Author": "Ajay Lakshmanan, Nagraj",
+            "Page": "3-5",
+            "Keywords": "seminar, workshop, environment, tight rope, CLT, pollution, appraisal, talent"
+        },
+        {
+            "Title": "X+1 Syndrome",
+            "Author": "J. Rajagopal",
+            "Page": "6-9",
+            "Keywords": "brain drain, USA, procastrination, GPA, NRI, malady"
+        },
+        {
+            "Title": "S.A.C.",
+            "Author": "Rajgopal S. Kishore",
+            "Page": "10-15",
+            "Keywords": "SAC, GSB, secretaries, EW, election, ID cards, plastic, attendance, rule, protest, quotes"
+        },
+        {
+            "Title": "R.K. Laxman",
+            "Author": "Focusteam",
+            "Page": "16",
+            "Keywords": "interview, cartoon, cartoonist, R.K. Laxman, humour, life, poverty, money, potter, master"
+        },
+        {
+            "Title": "Conversation",
+            "Author": "Partha Ghosh",
+            "Page": "17-19",
+            "Keywords": "IIT KGP, Union Carbide, MIT, MBA, Mackenzie, management, experience, America, consultant, population, population control, contraception, contraceptives, economy, revolution, technology"
+        },
+        {
+            "Title": "What is Engineering?",
+            "Page": "20-23",
+            "Keywords": "engineering, science, mathematics, physics, chemistry, biology, technology, jobs, opportunities, society, English, speaking skills, women, minorities, student"
+        },
+        {
+            "Title": "A Format For Public Debate",
+            "Author": "Dr. Ch Durgaprasad Rao",
+            "Page": "24-34",
+            "Keywords": "education, projects, public, planning, problem, analysis, solution, strategy, precondition, environment, quantification, concepts,school, education, groups, agencies, syllabus, activity, language, stream, preconditions, assumptions, employment"
+        }
+    ]
+}

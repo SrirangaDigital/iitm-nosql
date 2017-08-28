@@ -1,0 +1,89 @@
+{
+    "id": "002/002/1987-01",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Date": "1987-01-20",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2",
+            "Keywords": "Silver Jubilee, Retrospect, Deteriorate"
+        },
+        {
+            "Title": "Physics Lab Record",
+            "Page": "3",
+            "Keywords": "Humour, Lab, Record Book"
+        },
+        {
+            "Title": "Chess",
+            "Author": "T.K. Mohapatra",
+            "Page": "4"
+        },
+        {
+            "Title": "Life's Like That",
+            "Author": "Nandita Basu",
+            "Page": "5, 6",
+            "Keywords": "Fiction, Hostel Day, General Secretary, Open Hostel, Monkey, Humour"
+        },
+        {
+            "Title": "Are We an Independent Nation?",
+            "Author": "Dr. T.T. Narendran",
+            "Page": "7, 8",
+            "Keywords": "India, Language, Racism, West, Independent"
+        },
+        {
+            "Title": "Impure Mathematics",
+            "Page": "9",
+            "Keywords": "Math, Wordplay, Story"
+        },
+        {
+            "Title": "Into the Fire",
+            "Author": "A. Sengupta",
+            "Page": "10, 11, 12, 13, 14, 15",
+            "Keywords": "Visual Story, Creative Writing, Fire"
+        },
+        {
+            "Title": "A Cool Breeze in Summer",
+            "Author": "S. Ramadurai",
+            "Page": "16, 17",
+            "Keywords": "Poem, Adyar, Experience, Weather"
+        },
+        {
+            "Title": "Burning Issues",
+            "Author": "Dr. M.S. Gopinathan",
+            "Page": "17",
+            "Keywords": "Poem, Dowry, Burning, Brides"
+        },
+        {
+            "Title": "Lettricks",
+            "Page": "18"
+        },
+        {
+            "Title": "Crossword",
+            "Page": "19, 24"
+        },
+        {
+            "Title": "Quiz",
+            "Author": "Prof. R. Vasudevan",
+            "Page": "20, 21, 23, 24"
+        },
+        {
+            "Title": "Auction",
+            "Author": "Dr. M.S. Gopinathan",
+            "Page": "21",
+            "Keywords": "Satire, Poem, Auction, Racism"
+        },
+        {
+            "Title": "Stopping by the Woods on a 'Frosty' Evening",
+            "Author": "R. Devanathan",
+            "Page": "22",
+            "Keywords": "Poem, Nature"
+        },
+        {
+            "Title": "Limerick",
+            "Author": "Deepa Ramasamy",
+            "Page": "22",
+            "Keywords": "Limerick"
+        }
+    ]
+}

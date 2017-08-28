@@ -1,0 +1,60 @@
+{
+    "id": "002/008/033",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "6",
+    "Issue": "1",
+    "Date": "1984-08-13",
+    "Toc": [
+        {
+            "Title": "Editorial Policy",
+            "Page": "1",
+            "Keywords": "Focus, points, policy, facts, criticism, freedoom, censorship"
+        },
+        {
+            "Title": "Focussing on Focus",
+            "Author": "Alaganandan Balaraman",
+            "Page": "2,3,4",
+            "Keywords": "Forum, views, editor, constraints, policy, scandal"
+        },
+        {
+            "Title": "An Interview With Prof. P. V. Indiresan",
+            "Page": "5,6,7,8",
+            "Keywords": "Former director, views, students, credit system, constitution"
+        },
+        {
+            "Title": "Mardi Gras Poll Results",
+            "Page": "9",
+            "Keywords": "Events, rating, opinions"
+        },
+        {
+            "Title": "M.C.M: S.O.S",
+            "Author": "Man Sundaram",
+            "Page": "10,11",
+            "Keywords": "Scholarship, notice, indifference, measures"
+        },
+        {
+            "Title": "C.L.T Debate - A Farce",
+            "Author": "N. S. Vinod",
+            "Page": "12,13",
+            "Keywords": "Open debate, deception, judgement, arguments, recommendations"
+        },
+        {
+            "Title": "Rejoinder",
+            "Author": "Somnath Sivaskandan",
+            "Page": "13,14,15",
+            "Keywords": "SAC, credit system, review, appeal, committee"
+        },
+        {
+            "Title": "SAC on our SWOTS",
+            "Page": "16,17,18,19",
+            "Keywords": "Strength, weakness, opportunities, threats, analysis"
+        },
+        {
+            "Title": "\"Raggees\" Speak",
+            "Author": "Rajesh K. Jha, B. Ashok, Girish S. Welling",
+            "Page": "20,21,22",
+            "Keywords": "Hostels, ragging, advantages, limit, prohibition, drawbacks"
+        }
+    ]
+}

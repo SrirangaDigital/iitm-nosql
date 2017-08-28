@@ -1,0 +1,56 @@
+{
+    "id": "002/008/017",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "5",
+    "Issue": "3",
+    "Date": "1982-08-26",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1,2",
+            "Keywords": "IITians, Focus, Contributions, Attendance"
+        },
+        {
+            "Title": "Tech. Ed. In F.R.G",
+            "Author": "Malcolm J P",
+            "Page": "2,3,4,5,6",
+            "Keywords": "Report, Academics, German Education, Examinatons"
+        },
+        {
+            "Title": "Behind the Screens of Film Club",
+            "Author": "Srishail",
+            "Page": "6,7",
+            "Keywords": "Film Club, Selection of movies, Suggestions"
+        },
+        {
+            "Title": "Why Attendance?",
+            "Page": "7,,8,9,10,11,12,13",
+            "Keywords": "Attendance, Grading, Students, Suggestions, Discipline"
+        },
+        {
+            "Title": "Letters to the Editors",
+            "Author": "Ahobala Rao P",
+            "Page": "14",
+            "Keywords": "Extra Mural Lectures, Suggestions"
+        },
+        {
+            "Title": "Letters to the Editors",
+            "Author": "Uday Prakash",
+            "Page": "14,15",
+            "Keywords": "Focus, Purpose, General Student Body"
+        },
+        {
+            "Title": "The Guidance and Counselling Unit…",
+            "Author": "V.S.Mani, P.Sunder Shekhar",
+            "Page": "17,18",
+            "Keywords": "Counselling Unit, Mental Illness, Student Life"
+        },
+        {
+            "Title": "Information Bulletin",
+            "Author": "Ahobala Rao P",
+            "Page": "19",
+            "Keywords": "Focus, Better Communication, Recommendations, Board of Academic Courses, Evaluation System"
+        }
+    ]
+}

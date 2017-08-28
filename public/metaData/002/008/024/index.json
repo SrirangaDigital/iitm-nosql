@@ -1,0 +1,45 @@
+{
+    "id": "002/008/024",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "II",
+    "Issue": "1",
+    "Date": "1980-01-18",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1, 2",
+            "Keywords": "Focus, Censorship, Opinion Poll, Mardi Gras, Inter-IIT"
+        },
+        {
+            "Title": "What the Walrus Said",
+            "Author": "V. Shridhar, Devdas Menon",
+            "Page": "2, 3",
+            "Keywords": "Mardi Gras, Rules, Schedule, Constraints, Administration"
+        },
+        {
+            "Title": "About the Credit System",
+            "Author": "N.V.C. Swamy",
+            "Page": "4, 5",
+            "Keywords": "Senate, Credit System, Relative Grading, Marks, Exams"
+        },
+        {
+            "Title": "Games People Play",
+            "Author": "M. Krishna Kumar, Arun Khatri",
+            "Page": "6, 7, 8, 9, 10",
+            "Keywords": "Poll, Inter-IIT, Sports, Hypothesis"
+        },
+        {
+            "Title": "The Proposed Constitution - An Introduction",
+            "Author": "Constitution Committee",
+            "Page": "11",
+            "Keywords": "Senate, Gymkhana, Constitution, Administration, Academic Affairs"
+        },
+        {
+            "Title": "Just Another Sucker",
+            "Author": "Sunil Kuntey",
+            "Page": "12",
+            "Keywords": "Administration, Hostel, Fees, Rules"
+        }
+    ]
+}

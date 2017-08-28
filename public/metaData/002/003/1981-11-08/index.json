@@ -1,0 +1,35 @@
+{
+    "id": "002/003/1981-11-08",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "9",
+    "Date": "1981-11-08",
+    "Toc": [
+        {
+            "Title": "From Us to You",
+            "Page": "1",
+            "Keywords": "Inter IIT, Kharagpur, Anticipation"
+        },
+        {
+            "Title": "Institute Open Indian Classical Music",
+            "Author": "Mama (TTN)",
+            "Page": "1,2,3",
+            "Keywords": "Classical Music, Results, Report"
+        },
+        {
+            "Title": "IIT in the Lead",
+            "Page": "3",
+            "Keywords": "Footbal, Series, Saidapet"
+        },
+        {
+            "Title": "IIT Knocked Out in the Semis",
+            "Page": "4",
+            "Keywords": "Basketball, Inter-College Tournament, T. Nagar Junior Basketball Club"
+        },
+        {
+            "Title": "Cartoon",
+            "Page": "4",
+            "Keywords": "Cartoon, Gym, Humour"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "002/003/1981-09-27",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "3",
+    "Date": "1981-09-27",
+    "Toc": [
+        {
+            "Title": "From Us to You",
+            "Page": "1",
+            "Keywords": "Editorial, Third Issue, Reactions"
+        },
+        {
+            "Title": "Tintoretto",
+            "Page": "1,2,3",
+            "Keywords": "Tintoretto, Joy, Interview, Lit Scenes, Results"
+        },
+        {
+            "Title": "So Near Yet So Far",
+            "Page": "3,4",
+            "Keywords": "Aquatics Meet, Cancellations, Institute Team"
+        },
+        {
+            "Title": "Buckuizz",
+            "Page": "4",
+            "Keywords": "Sports Quiz"
+        },
+        {
+            "Title": "Inter Hostel",
+            "Page": "4",
+            "Keywords": "Report, Kabaddi, Basketball, Fixtures"
+        },
+        {
+            "Title": "Spectator Sportsman of the Week",
+            "Page": "4",
+            "Keywords": "Vaidyanathan, Mandakini, Table Tennis"
+        }
+    ]
+}

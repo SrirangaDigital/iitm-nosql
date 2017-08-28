@@ -1,0 +1,94 @@
+{
+    "id": "002/008/003",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "14",
+    "Issue": "3",
+    "Toc": [
+        {
+            "Title": "The Road Not Taken",
+            "Page": "2",
+            "Keywords": "Editorial, Schumaker, Science & Technology, Development, Alternative Technologies"
+        },
+        {
+            "Title": "Crosstalk",
+            "Page": "4",
+            "Keywords": "Mess Mismanagement, Quark, Central Libraray, Problems & Solutions"
+        },
+        {
+            "Title": "Great Exoectations",
+            "Page": "7",
+            "Keywords": "Expectations, Reality, IIT Madras, Student Life, Survery, Analysis"
+        },
+        {
+            "Title": "Rose-bush in a Cabbage-patch: Role of Social Sciences and Humanities in Engineering Education",
+            "Author": "Prof. S. Ambiranjan",
+            "Page": "12",
+            "Keywords": "Humanities, Engineering, Curriculum, Development, All Round Learning"
+        },
+        {
+            "Title": "A Cul-de-sac?",
+            "Author": "P. Sriram and S. Venkataraghavan",
+            "Page": "18",
+            "Keywords": "Cultural Scene in IITM, Decline, Audience, Participation"
+        },
+        {
+            "Title": "Will PSMs be Indigenized?",
+            "Author": "Darshan Shankar",
+            "Page": "23",
+            "Keywords": "People's Sciences Movement, Indigenization, Native Sciences"
+        },
+        {
+            "Title": "Inching ahead the wrong way: Malpractices in Academics",
+            "Author": "Prathap Haridoss",
+            "Page": "26",
+            "Keywords": "Cheating, Copying, Morals & Ethics, Education"
+        },
+        {
+            "Title": "Night Life",
+            "Author": "T.R Sridhar",
+            "Page": "32",
+            "Keywords": "Night Life, Echolocation, Bats, Dppler, Chirp Radar, Night Creatures"
+        },
+        {
+            "Title": "Night Life: Illustrations",
+            "Author": "S. Rajasekhar",
+            "Page": "32",
+            "Keywords": "Line Drawings, Night Life, Bats"
+        },
+        {
+            "Title": "Tete-a-tete: \"...I see lots of hope...\"- Udavum Karangal",
+            "Page": "37",
+            "Keywords": "Interview, Social Work, Awareness, Development, Funding"
+        },
+        {
+            "Title": "JEE: Square pegs in round holes?",
+            "Author": "T.R. Ramachandran, Prathap Haridoss",
+            "Page": "41",
+            "Keywords": "JEE, Entrance Exams, Set Backs, Changes, Solutions"
+        },
+        {
+            "Title": "Double Speak: Truth, Logic and the Paradoxical",
+            "Author": "Di-Borane",
+            "Page": "47",
+            "Keywords": "Cretans,Paradoxes, Logic, Holism, Reductionism"
+        },
+        {
+            "Title": "First Person: A'High' for a Low",
+            "Author": "Prof. L. S. Ganesh",
+            "Page": "49",
+            "Keywords": "Drugs, Marijuana, Advice, Professor, Student Life"
+        },
+        {
+            "Title": "Laughing Gas",
+            "Author": "Prof. Durgaprasad Rao, Prof. K.V. Gopalakrisnan",
+            "Page": "50",
+            "Keywords": "Humour, IITian, Anonymous, Professors, Computers"
+        },
+        {
+            "Title": "En Passant",
+            "Page": "55",
+            "Keywords": "CS Club, Cricket Tournament, Device Driver, Contraptions, Nari"
+        }
+    ]
+}

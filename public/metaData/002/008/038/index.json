@@ -1,0 +1,65 @@
+{
+    "id": "002/008/038",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1,2",
+            "Keywords": "IITians, Education System, Intramural Affairs"
+        },
+        {
+            "Title": "Counselling Revisited- Attention all Newcomers",
+            "Author": "Dr. R.Ghatak",
+            "Page": "3,4,5,6",
+            "Keywords": "Counselling, Stress, Self-help, Guidance"
+        },
+        {
+            "Title": "More Counsel for Newcomers",
+            "Author": "Shahrukh Irani",
+            "Page": "7,8",
+            "Keywords": "Letter to the Editors,Academic curriculum, Library, Grades, Evaluation"
+        },
+        {
+            "Title": "How Cat are we?",
+            "Author": "Malcolm.J.Panthaki",
+            "Page": "8,9",
+            "Keywords": "Letter to the Editors, General Student Body, Extra Mural Lectures"
+        },
+        {
+            "Title": "The Editors Elucidate their View",
+            "Page": "9,10",
+            "Keywords": "Rejoinder, General Student Body, Freedom of Press"
+        },
+        {
+            "Title": "IITians have no Social Awareness",
+            "Author": "Dr.R.Srinivasan",
+            "Page": "11,12,13,14",
+            "Keywords": "IITians, Social Responsibility, Environment"
+        },
+        {
+            "Title": "Saturdays are for Resting",
+            "Author": "Sundar.J",
+            "Page": "14,15",
+            "Keywords": "Saturdays, Holidays, Quiz Weeks, Academic Section"
+        },
+        {
+            "Title": "We Deserve Better Teachers",
+            "Author": "A. Kasthuri",
+            "Page": "16,17,18,19",
+            "Keywords": "Faculty, Classrooms,Lectures, Course Structure"
+        },
+        {
+            "Title": "Beating the System is a Masochistic Exercise",
+            "Author": "S.G.Krishna",
+            "Page": "19,20",
+            "Keywords": "Administration Block, Credit System, Course Structure"
+        },
+        {
+            "Title": "A Hobby Workshop for Students",
+            "Author": "S.Govindakrishna",
+            "Page": "21,22",
+            "Keywords": "Workshop, Gymkhana, Extra-Curricular Activities"
+        }
+    ]
+}

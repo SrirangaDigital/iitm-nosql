@@ -1,0 +1,74 @@
+{
+    "id": "002/008/021",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "6",
+    "Issue": "3",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2, 3",
+            "Keywords": "Director, Suicide, SAC, Election, Dean"
+        },
+        {
+            "Title": "The New Director: Prof. L.S. Srinath",
+            "Author": "Focus",
+            "Page": "4, 5, 6, 7, 8, 9, 10, 11, 12",
+            "Keywords": "Director, Suicide, SAC, Election, Dean"
+        },
+        {
+            "Title": "If Only: Reflections on a Tragedy",
+            "Author": "G.C. Prasad",
+            "Page": "13, 14, 15",
+            "Keywords": "Suicide, Mental Health, IIT Life"
+        },
+        {
+            "Title": "Perhaps",
+            "Author": "Roy Matthews",
+            "Page": "16, 17, 18, 19",
+            "Keywords": "Counselling, Suicide, Depression, Apathy, Management"
+        },
+        {
+            "Title": "A Psychiatrist Speaks",
+            "Author": "Dr. R. Sathianathan",
+            "Page": "20, 21, 22",
+            "Keywords": "Suicide, Mental Health, IIT Life"
+        },
+        {
+            "Title": "Hostel Miscellany",
+            "Author": "Dr. S. Krishnan",
+            "Page": "23-30",
+            "Keywords": "Addiction, Drugs, Depression, Hostel, Mess, Suicide"
+        },
+        {
+            "Title": "Dr. Udupa + Enthu = CSU",
+            "Author": "Sanjay R., Hari Narayan, Karthikeyan",
+            "Page": "31, 32, 33, 34, 35",
+            "Keywords": "Quark, Sales, Hostels"
+        },
+        {
+            "Title": "Gen Sec's Column",
+            "Author": "Somnath S.",
+            "Page": "36, 37",
+            "Keywords": "Accident, Interactions, Hostel Life, Precaution"
+        },
+        {
+            "Title": "Ammending the Constitution",
+            "Author": "V. Subbaraman",
+            "Page": "38, 39, 40",
+            "Keywords": "SAC, Elections, Secretaries, Constitution"
+        },
+        {
+            "Title": "Audience - The Perennial Scapegoat",
+            "Author": "Suheim Sheikh",
+            "Page": "41, 42, 43",
+            "Keywords": "Audience, Quark, Theatre, Dramatics, CLT"
+        },
+        {
+            "Title": "At Half Time - An Interview with Somnath",
+            "Author": "Focus",
+            "Page": "44-51",
+            "Keywords": "General Secretary, Hostel Affairs, Academic, Steering Committee, Gymkhana, Management"
+        }
+    ]
+}

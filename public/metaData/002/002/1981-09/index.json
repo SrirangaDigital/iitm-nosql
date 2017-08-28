@@ -1,0 +1,70 @@
+{
+    "id": "002/002/1981-09",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Date": "1981-09-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2",
+            "Keywords": "Contribution, indifference, campastimes"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "2",
+            "Keywords": "Campastimes, humour, first issue"
+        },
+        {
+            "Title": "Random 'Arvest",
+            "Author": "The Jabberwock",
+            "Page": "3,4,5",
+            "Keywords": "Quotes, writing, phlosophy, maxims"
+        },
+        {
+            "Title": "Clouds",
+            "Author": "A. Sridhar",
+            "Page": "3",
+            "Keywords": "Poem, nature, life"
+        },
+        {
+            "Title": "Creation",
+            "Author": "T. S. B.",
+            "Page": "6",
+            "Keywords": "Poem, love, hope"
+        },
+        {
+            "Title": "Mountains",
+            "Author": "P. N. Krishna, G. S. Raghavan, Suresh Dore, Aseem Vaid",
+            "Page": "6,7",
+            "Keywords": "Mountaineering, camping, rock climbing"
+        },
+        {
+            "Title": "Crossword",
+            "Author": "Raja",
+            "Page": "8,9,10",
+            "Keywords": "Crossword, puzzle"
+        },
+        {
+            "Title": "Bolzmann on Style in Physics",
+            "Page": "10",
+            "Keywords": "Equations, beauty"
+        },
+        {
+            "Title": "CAUTION: This Article Has Already Measured Your Reaction",
+            "Author": "N. Sundar",
+            "Page": "11",
+            "Keywords": "Humour, statistics, behaviour"
+        },
+        {
+            "Title": "Pillar's Column",
+            "Page": "12,13",
+            "Keywords": "Pronouns, feminism, bike, security"
+        },
+        {
+            "Title": "The Triumph of Mass",
+            "Author": "Vijay Nambisan",
+            "Page": "14",
+            "Keywords": "Poem, dinosaur, brain"
+        }
+    ]
+}

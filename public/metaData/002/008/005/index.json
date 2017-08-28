@@ -1,0 +1,129 @@
+{
+    "id": "002/008/005",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "14",
+    "Issue": "2",
+    "Date": "1991-10-00",
+    "Toc": [
+        {
+            "Title": "Cui Bono?",
+            "Page": "1",
+            "Keywords": "Science, technology, research, social problems, humanities"
+        },
+        {
+            "Title": "Pop Goes the Rock",
+            "Page": "2",
+            "Keywords": "Rock show, alcohol, drugs, Mardi Gras"
+        },
+        {
+            "Title": "What's in a Name",
+            "Page": "2",
+            "Keywords": "Alumni Avenue, convocation, signboard, GC"
+        },
+        {
+            "Title": "Dog Eat Dog World",
+            "Page": "2",
+            "Keywords": "Pet dogs, Jamuna hostel, protest, students"
+        },
+        {
+            "Title": "Spring in the Air",
+            "Page": "2",
+            "Keywords": "Romance, OAT movies, love, Delhi Avenue"
+        },
+        {
+            "Title": "'NRIchment Strategy",
+            "Page": "2",
+            "Keywords": "Financial assistance, Germany, JEE, foreign students"
+        },
+        {
+            "Title": "The Not So Sad SAC",
+            "Page": "2",
+            "Keywords": "Meetings, constitution, ammendments, cats"
+        },
+        {
+            "Title": "Crosstalk",
+            "Page": "3,4,5,6",
+            "Keywords": "Letters to the Editor, complaints, articles"
+        },
+        {
+            "Title": "At the Crossroads",
+            "Page": "7,8,9,10,11",
+            "Keywords": "Interview, director, N. V. C. Swamy, evaluation, management"
+        },
+        {
+            "Title": "A Time for Rethinking",
+            "Author": "Anand P. Narayan, Sekhar Krishnamoorthy, Chitra Narayan",
+            "Page": "12,13,14",
+            "Keywords": "Cultural fests, selections, responsibilty, teams"
+        },
+        {
+            "Title": "Vibes '91 - The Actual Story",
+            "Page": "13,14,16",
+            "Keywords": "Fest, publicity, confusion, culturals, teams"
+        },
+        {
+            "Title": "The Cultural Secretary's Rejoinder",
+            "Author": "Pradipta Saha",
+            "Page": "15A",
+            "Keywords": "Letter to the Editor, fest, misunderstanding, facts"
+        },
+        {
+            "Title": "The Author's Reply",
+            "Author": "S.K and A. P. N",
+            "Page": "15B"
+        },
+        {
+            "Title": "Sanctuary",
+            "Author": "R. K. Menon",
+            "Page": "17,18,19,20,21",
+            "Keywords": "Ecology, nature, Guindy National Park, Chital, blackbuck"
+        },
+        {
+            "Title": "Photographs",
+            "Author": "A. N. Jagannatha Rao",
+            "Page": "18,19",
+            "Keywords": "Photo, pictures, nature"
+        },
+        {
+            "Title": "A View from Within",
+            "Author": "V. G. Sundarraman",
+            "Page": "22,23",
+            "Keywords": "IIM, management, placement, myths, FAQs"
+        },
+        {
+            "Title": "J' Accuse",
+            "Author": "K. Srinivasaraghavan",
+            "Page": "24,25,26",
+            "Keywords": "Courses, teaching, assessment, system, rating"
+        },
+        {
+            "Title": "In Search of El Dorado",
+            "Page": "27,28,29",
+            "Keywords": "Interview, Dr. Bhami Shenoy, abroad, alumni, first batch"
+        },
+        {
+            "Title": "Quark",
+            "Author": "Matthew Joshua and Prathap Haridoss",
+            "Page": "30,31,32",
+            "Keywords": "Food, expensive, prices, profit, problems"
+        },
+        {
+            "Title": "What's Behind Those Stacks?",
+            "Author": "Prathap Haridoss",
+            "Page": "33",
+            "Keywords": "Central Library, Media Resources Room, Periodicals, resources "
+        },
+        {
+            "Title": "A Letter from thhe Dean, Students - Prof. N. Venkatrayulu",
+            "Page": "34,35,36",
+            "Keywords": "Gymkhana, student secretaries, expenses, activities, ragging"
+        },
+        {
+            "Title": "Wordstruck",
+            "Author": "Di - Borane",
+            "Page": "37,38",
+            "Keywords": "Lingo, slang, students, ragging, hostels, faculty"
+        }
+    ]
+}

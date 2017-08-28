@@ -1,0 +1,40 @@
+{
+    "id": "002/008/052",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "9",
+    "Issue": "2",
+    "Date": "1986-08-27",
+    "Toc": [
+        {
+            "Title": "Editor's Note",
+            "Page": "1, 2, 3, 4",
+            "Keywords": "evaluation, election, secretaries, sports, hostel affairs, culturals, academics, constitution, interview"
+        },
+        {
+            "Title": "General Secretary",
+            "Page": "5, 6, 7, 8",
+            "Keywords": "students, improvements, maintenance, facilities, convocation, institute hospital, interview"
+        },
+        {
+            "Title": "Academic Affairs Secretary",
+            "Page": "9, 10",
+            "Keywords": "academics, evaluation, research, placements, education, interview"
+        },
+        {
+            "Title": "Hostel Affairs Secretary",
+            "Page": "11, 12",
+            "Keywords": "Hostels, Hostel Life, Hostel Affairs, Maintenance, interview"
+        },
+        {
+            "Title": "Sports Secretary",
+            "Page": "13, 14",
+            "Keywords": "sports, inter-hostel, gymkhana, SAC, inter-IIT, interview"
+        },
+        {
+            "Title": "Cultural Secretaries",
+            "Page": "15, 16, 17, 18, 19",
+            "Keywords": "culturals, arts, literary, Mardi Gras, lit-soc, clubs, interview"
+        }
+    ]
+}

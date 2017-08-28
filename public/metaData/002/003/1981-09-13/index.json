@@ -1,0 +1,54 @@
+{
+    "id": "002/003/1981-09-13",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "1",
+    "Date": "1981-09-13",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Spectator, Purpose, Sports Magazine"
+        },
+        {
+            "Title": "Message from Prof. Surjit Singh (Advisor, Sports)",
+            "Page": "2",
+            "Keywords": "Sports Magazine, Acknowledgement, Outreach"
+        },
+        {
+            "Title": "Road Race",
+            "Page": "2,3",
+            "Keywords": "Road Race, Sunder, V3, George, Interview, Report"
+        },
+        {
+            "Title": "Badminton Selections",
+            "Page": "3",
+            "Keywords": "Shuttle Badminton, Try Outs, Institue Team, Report"
+        },
+        {
+            "Title": "Volleyball",
+            "Page": "3",
+            "Keywords": "Report, Volleyball, Institute Team, United Youth, Friendly Match"
+        },
+        {
+            "Title": "Buckuizz",
+            "Page": "3,4",
+            "Keywords": "Sports Quiz"
+        },
+        {
+            "Title": "Inter Hostel",
+            "Page": "4",
+            "Keywords": "Report, Basketbal,, Footer, Volleyball"
+        },
+        {
+            "Title": "Spectator Sportsman of the Week",
+            "Page": "4",
+            "Keywords": "Sunder, Jamuna, Road Race, Silver"
+        },
+        {
+            "Title": "This Week for You",
+            "Page": "4",
+            "Keywords": "League Matches, Selections, Week Ahead"
+        }
+    ]
+}

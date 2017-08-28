@@ -1,0 +1,74 @@
+{
+    "id": "002/008/030",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "5",
+    "Issue": "2",
+    "Date": "1983-09-01",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1,2",
+            "Keywords": "Articles, indifference, introspection, debate"
+        },
+        {
+            "Title": "Counselling Revisited - Attention All Newcomers",
+            "Author": "Dr. R. Ghatak",
+            "Page": "3,4,5,6",
+            "Keywords": "Life, obstacles, guidance, resources, mental health"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Author": "Shahrukh Irani, Malcolm J. Panthaki",
+            "Page": "7,8,9",
+            "Keywords": "Counselling, library, curriculum, apathy, litter"
+        },
+        {
+            "Title": "The Editors Elucidate Their View",
+            "Page": "9,10",
+            "Keywords": "Response, article, controversy, argument, conviction"
+        },
+        {
+            "Title": "IITians Have No Social Awareness",
+            "Author": "Dr. R. Srinivasan",
+            "Page": "11,12,13,14",
+            "Keywords": "Motivation, citizens, responsibility, debate, views"
+        },
+        {
+            "Title": "Saturdays Are For Resting",
+            "Author": "SundarJ",
+            "Page": "14,15",
+            "Keywords": "Holidays, compensation, working, quiz week, rules"
+        },
+        {
+            "Title": "We Deserve Better Teachers",
+            "Author": "Editors",
+            "Page": "16,17,18,19",
+            "Keywords": "Courses, students, lack of interest, enthusiasm, class"
+        },
+        {
+            "Title": "Beating the System is a Masochistic Exercise",
+            "Author": "S. G. Krishna",
+            "Page": "19,20",
+            "Keywords": "Credit system, courses, registration, rules, Ad block"
+        },
+        {
+            "Title": "A Hobby Workshop for Students",
+            "Author": "S. Govindkrishna",
+            "Page": "21,22",
+            "Keywords": "Equipment, machinery, tools, skills"
+        },
+        {
+            "Title": "Shuttling Around the Second Years",
+            "Author": "Mohan",
+            "Page": "23,24",
+            "Keywords": "Classrooms, miscommunication, invigilator, registration"
+        },
+        {
+            "Title": "Gen Secy's Information Bulletin",
+            "Author": "Ramani Ramaswamy",
+            "Page": "24,25,26,27",
+            "Keywords": "Problems, discussion, examinations, participation, representation"
+        }
+    ]
+}

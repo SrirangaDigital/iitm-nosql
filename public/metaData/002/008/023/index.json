@@ -1,0 +1,67 @@
+{
+    "id": "002/008/023",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "II",
+    "Issue": "2",
+    "Date": "1980-02-01",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1,2",
+            "Keywords": "Mardi Gras, Restriction, Students, Administration, Director"
+        },
+        {
+            "Title": "Letter to the Director",
+            "Page": "3, 4",
+            "Keywords": "Steering Committee, Director, Mardi Gras, Restriction, Barricade"
+        },
+        {
+            "Title": "The Last Straw",
+            "Author": "Steering Committee",
+            "Page": "4, 5, 6",
+            "Keywords": "Steering Committee, Director, Mardi Gras, Restriction, Administration"
+        },
+        {
+            "Title": "Place - Meant for Placement?",
+            "Author": "M. Krishna Kumar & M.R. Sundar",
+            "Page": "6, 7, 8, 9",
+            "Keywords": "Placement Office, Placement, Final Year, Ignorance"
+        },
+        {
+            "Title": "Past Time for Campastimes",
+            "Author": "Sunil Algade",
+            "Page": "9, 10",
+            "Keywords": "Campastimes, Content Management, Culturals Special"
+        },
+        {
+            "Title": "Catch-22",
+            "Author": "K. Datta, S. Rajagopal",
+            "Page": "10",
+            "Keywords": "Mess System, Mess Employees, Facilities, Job Security"
+        },
+        {
+            "Title": "About the Credit System - II",
+            "Author": "N.V.C. Swamy",
+            "Page": "11, 12",
+            "Keywords": "Senate, Credit System, Relative Grading, Marks, Exams"
+        },
+        {
+            "Title": "The Venerable Surd Rides Again",
+            "Author": "Jaskaran Singh",
+            "Page": "13, 14, 15, 16",
+            "Keywords": "Mardi Gras, Cultural Festival, Competitions, Campastimes"
+        },
+        {
+            "Title": "Nightmare",
+            "Author": "Sharoukh Irani",
+            "Page": "17",
+            "Keywords": "Security, Harassment, Attack, Safety, Children"
+        },
+        {
+            "Title": "Letter from the Director",
+            "Page": "18",
+            "Keywords": "Steering Committee, Director, Mardi Gras, Restriction"
+        }
+    ]
+}

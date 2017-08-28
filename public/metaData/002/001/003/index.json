@@ -1,0 +1,268 @@
+{
+    "id": "002/001/003",
+    "Type": "Publication",
+    "Publication": "Annual Number",
+    "Issue": "3",
+    "Date": "1961-00-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "5",
+            "Keywords": "Third Issue, Campus, Development, Changes, Library"
+        },
+        {
+            "Title": "Message",
+            "Page": "7",
+            "Keywords": "Director's Message, Prof. Sengupto, Campus, Three years, Development"
+        },
+        {
+            "Title": "An Extract",
+            "Page": "9",
+            "Keywords": "Sir.Sidney Smith, Address, University of Toronto, M.C Gupta"
+        },
+        {
+            "Title": "At the Circus",
+            "Author": "Dr. Th. Ramachandran",
+            "Page": "10",
+            "Keywords": "Anecdotes, Cricket, Tickets, Humour, Test Match"
+        },
+        {
+            "Title": "The Canteen",
+            "Author": "G. Viswanathan",
+            "Page": "14",
+            "Keywords": "Poetry, Rhymes, Canteen, Food, Student Life"
+        },
+        {
+            "Title": "Damn the Congo",
+            "Author": "T. S Ananthu and K. M Kripanarayanan",
+            "Page": "15",
+            "Keywords": "Humour, Anecdotes, Congo Crisis, Politics, Interview, Jobs"
+        },
+        {
+            "Title": "Dejections",
+            "Page": "18",
+            "Keywords": "Poetry, Prize WInning, Rhymes, "
+        },
+        {
+            "Title": "Annual Number",
+            "Author": "Ramakrishna Shettigar",
+            "Page": "",
+            "Keywords": "Painting, Diya, Lamp, Lady"
+        },
+        {
+            "Title": "Noises",
+            "Author": "V. K. Vedapuri",
+            "Page": "20",
+            "Keywords": "Poetry, Rhymes, Silence, Noises, Sounds"
+        },
+        {
+            "Title": "Rock Climbing",
+            "Author": "C. V. Seshadri",
+            "Page": "22",
+            "Keywords": "Rock Climbing, Outdoors Club, Lessons, Knots, Signals "
+        },
+        {
+            "Title": "For Official Use Only",
+            "Author": "T. S.R",
+            "Page": "27",
+            "Keywords": "Humour, Annual Reports, Satire, Inconsistency "
+        },
+        {
+            "Title": "Balmy Days at Brisbane",
+            "Author": "R. Natarajan, I.A.S",
+            "Page": "29",
+            "Keywords": "Cricket, Australia, Test, COmmentary, Opinion"
+        },
+        {
+            "Title": "The First Five Year Plan",
+            "Author": "V. S. Kumar",
+            "Page": "34",
+            "Keywords": "Poetry, National Policy, Promises, Five Year Plans"
+        },
+        {
+            "Title": "Summer",
+            "Author": "G. Viswanathan",
+            "Page": "34",
+            "Keywords": "Poetry, Summer, Seasons, Draught"
+        },
+        {
+            "Title": "A WIsh Granted",
+            "Author": "K. M. Kripanarayanan",
+            "Page": "35",
+            "Keywords": "Story, Christmas, Faith, Wishes"
+        },
+        {
+            "Title": "Impressions",
+            "Author": "J. C. Camillus",
+            "Page": "36",
+            "Keywords": "Poetry, Cities, Impressions, Rhymes"
+        },
+        {
+            "Title": "Astha Graha (D-Day the 5th of February)",
+            "Author": "R. T. Narayanan",
+            "Page": "37",
+            "Keywords": "Poetry, Rhymes, Astronomy, Planets Allign"
+        },
+        {
+            "Title": "Grades are Sour",
+            "Author": "T. S. Ananthu",
+            "Page": "38"
+        },
+        {
+            "Title": "The Engineer's Wand- A Fantasy",
+            "Author": "P. Mohan",
+            "Page": "40",
+            "Keywords": "Story, Fantasy, Fairy Tale, Engineering Life"
+        },
+        {
+            "Title": "The Road to IIT",
+            "Author": "V. S. Kumar",
+            "Page": "44",
+            "Keywords": "Poetry, Rhymes, I.I.T, Student Life, Campus"
+        },
+        {
+            "Title": "A Novel Souvenir",
+            "Author": "Dr. V. Anantaraman",
+            "Page": "45",
+            "Keywords": "Anecdote, Accident, America, Milwankee, Compensation"
+        },
+        {
+            "Title": "Timachine",
+            "Author": "Sudhir Puri",
+            "Page": "48",
+            "Keywords": "Hmuour, Story, Time Travel"
+        },
+        {
+            "Title": "German Language",
+            "Author": "M. Venkateswara Rao",
+            "Page": "51",
+            "Keywords": "Poetry, Rhymes, German, Languages"
+        },
+        {
+            "Title": "If I were the Creator",
+            "Author": "D. D. Samuel",
+            "Page": "52",
+            "Keywords": "Story, Satire, Creation, Apocalypse"
+        },
+        {
+            "Title": "The Buddha",
+            "Author": "G. Viswanathan",
+            "Page": "54"
+        },
+        {
+            "Title": "Defence of our Motherland",
+            "Author": "R. Prabhakar",
+            "Page": "55"
+        },
+        {
+            "Title": "The Gestetner Civilization",
+            "Author": "Dr. Th, Ramachandran",
+            "Page": "58",
+            "Keywords": "Humour, Gestetners, Writing, Student Life"
+        },
+        {
+            "Title": "Fly",
+            "Author": "N. Ramesh",
+            "Page": "59",
+            "Keywords": "Poetry, Rhymes, Flying, Skies"
+        },
+        {
+            "Title": "A Pet problem",
+            "Author": "V. S. Kumar",
+            "Page": "60",
+            "Keywords": "Poetry, Rhymes, Madras, River, Cooum"
+        },
+        {
+            "Title": "The Aromatic River",
+            "Author": "R. T. Narayanan",
+            "Page": "62",
+            "Keywords": "Nehru, Character Sketch, Opinion"
+        },
+        {
+            "Title": "A Portrait of Nehru",
+            "Author": "M.A Abdul Khader",
+            "Page": "63"
+        },
+        {
+            "Title": "The Quaint ways in British Parliment",
+            "Author": "S. Seshadri",
+            "Page": "65",
+            "Keywords": "British Parliment, Opinion, Formalities, Guy Fawkes"
+        },
+        {
+            "Title": "The Chemistry of an Engineer",
+            "Author": "K. Koteeswaran",
+            "Page": "69",
+            "Keywords": "Humour, Chemistry, Engineering Life"
+        },
+        {
+            "Title": "IIT Through Photographs",
+            "Page": "",
+            "Keywords": "Photographs, Hostels, Workshops, Shanti Kunj, Play"
+        },
+        {
+            "Title": "IIT Through Cartoons",
+            "Page": "",
+            "Keywords": "Cartoons, Visitors, Road Signs, "
+        },
+        {
+            "Title": "Institute Gymkhana",
+            "Page": "74",
+            "Keywords": "Scope of Activities, Committees, Designs, Sports, Publications"
+        },
+        {
+            "Title": "Chronicle",
+            "Page": "78",
+            "Keywords": "Udates, Monthly, Campus Chronicles"
+        },
+        {
+            "Title": "A Distinguished visitor to our Campus",
+            "Page": "80",
+            "Keywords": "List of Distinguished Visitors "
+        },
+        {
+            "Title": "Faculty Association",
+            "Page": "81",
+            "Keywords": "Inauguration, Faculty, Membership"
+        },
+        {
+            "Title": "IIT Co-Operative Stores",
+            "Page": "82"
+        },
+        {
+            "Title": "Students Aid Fund",
+            "Page": "83"
+        },
+        {
+            "Title": "Hostels",
+            "Page": "84",
+            "Keywords": "Hostels, Krishna, Kaveri, Facilities, Updates"
+        },
+        {
+            "Title": "IIT Employees Co-Operative Housing Society Ltd.",
+            "Page": "85",
+            "Keywords": "Co-Operatives, Building Sites, Land "
+        },
+        {
+            "Title": "Tech-Out",
+            "Page": "86",
+            "Keywords": "Outdoor Club, Inaugural, Outings, Report"
+        },
+        {
+            "Title": "Report on the Inter-IIT Sports Meet",
+            "Author": "S.A. Aleem",
+            "Page": "87",
+            "Keywords": "Inter IIT, Report, First Inter IIT, Bombay"
+        },
+        {
+            "Title": "N.C.C Rifles",
+            "Author": "2/Lt. G. V. N. Rayudu",
+            "Page": "88",
+            "Keywords": "National Cadet Corps, Annual Report, Missions"
+        },
+        {
+            "Title": "Our Library",
+            "Page": "90"
+        }
+    ]
+}

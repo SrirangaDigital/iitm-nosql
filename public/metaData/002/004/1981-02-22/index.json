@@ -1,0 +1,36 @@
+{
+    "id": "002/004/1981-02-22",
+    "Type": "Publication",
+    "Publication": "Rag Mandak",
+    "Issue": "4",
+    "Date": "1981-02-22",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Rag Mandak, Budget allocation, Mess manager"
+        },
+        {
+            "Title": "Our Messy Mess",
+            "Author": "Hogpot",
+            "Page": "1,2",
+            "Keywords": "Complaints, Mess, Food, Humour"
+        },
+        {
+            "Title": "That's What it Is",
+            "Author": "Tautomer",
+            "Page": "3,4",
+            "Keywords": "Report, Inter-hostel Tournaments, Volleyball"
+        },
+        {
+            "Title": "PJ",
+            "Page": "3",
+            "Keywords": "Humour, Poor Jokes"
+        },
+        {
+            "Title": "Word Play",
+            "Page": "4",
+            "Keywords": "Optical Illusions, Word Games, Puzzles"
+        }
+    ]
+}

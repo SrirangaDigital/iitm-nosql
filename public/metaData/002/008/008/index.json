@@ -1,0 +1,48 @@
+{
+    "id": "002/008/008",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "4",
+    "Date": "1989-00-00",
+    "Toc": [
+        {
+            "Title": "The Day of the Punk",
+            "Page": "1",
+            "Keywords": "Cartoon, Common Man, Punk, Bands"
+        },
+        {
+            "Title": "Our Say",
+            "Author": "Editors",
+            "Page": "1",
+            "Keywords": "Editorial, FOCUS, Compliants, Campus Times, Spectator"
+        },
+        {
+            "Title": "The Spirit of MG",
+            "Author": "Dr.B.Subramaniam",
+            "Page": "2,3",
+            "Keywords": "Mardi Gras, Freedom, Cultural Meet, Technological Revolution"
+        },
+        {
+            "Title": "The Trials and Tribullations of a Stella Marian in IIT",
+            "Author": "Ravathi Padmakumar",
+            "Page": "4",
+            "Keywords": "Inter-Collegiate meets, Safety of Women, Discrimination"
+        },
+        {
+            "Title": "Report of the General Secretary",
+            "Author": "K.Murali",
+            "Page": "5,6,7,8,9,10,11,12",
+            "Keywords": "Report, SFC, Quark, ID Cards, Constitution(Students), Extra Mural Lectures"
+        },
+        {
+            "Title": "Dilemma(?)",
+            "Page": "13,14,15,16",
+            "Keywords": "India, Brain Drain, IITians, Graduates, Education System"
+        },
+        {
+            "Title": "The Professional Shows - A picture of Monotony",
+            "Page": "17",
+            "Keywords": "Professional Shows, Mardi Gras, Classical Music, Change"
+        }
+    ]
+}

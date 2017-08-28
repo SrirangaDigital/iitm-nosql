@@ -1,0 +1,79 @@
+{
+    "id": "002/008/025",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "III",
+    "Issue": "5",
+    "Date": "1981-04-20",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Author": "Vaidhy",
+            "Page": "4,5,6,7,8",
+            "Keywords": "Focus, review, problems, administration, students"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "9,10,11",
+            "Keywords": "Letters, issues, quark, abroad, reply"
+        },
+        {
+            "Title": "FocusReports on Sarayu",
+            "Page": "11,12,13,14",
+            "Keywords": "Sarayu hostel, girls, grievances, facilities, complaints"
+        },
+        {
+            "Title": "In Defense of Nature",
+            "Author": "Vaidhy, Pinjare",
+            "Page": "14,15,16",
+            "Keywords": "Vegetation, fauna, measures, lake, protection"
+        },
+        {
+            "Title": "Why We Cannot Assert Ourselves",
+            "Author": "Irani",
+            "Page": "16,17,18,19",
+            "Keywords": "Student authority, constitution, politics, administration"
+        },
+        {
+            "Title": "When the Pond's Gift Speaks Out",
+            "Author": "N. Venkatasubramanian",
+            "Page": "19, 20,21",
+            "Keywords": "Crocodile, story, focus, humour, stroll"
+        },
+        {
+            "Title": "Whither ... Siddhir Bhavathi Karmaja?",
+            "Author": "Vijay",
+            "Page": "21,22,23,24",
+            "Keywords": "Phrase, motto, relevance, conformity, success"
+        },
+        {
+            "Title": "Musings",
+            "Author": "B. Natarajan",
+            "Page": "24",
+            "Keywords": "Issues, views, opinions, academics, student governance"
+        },
+        {
+            "Title": "Whither Electricity?",
+            "Author": "Ramesh",
+            "Page": "25,26",
+            "Keywords": "Electric appliances, state, contract, maintenence"
+        },
+        {
+            "Title": "Rejoinder From Mr. Swaminathan, A.E.",
+            "Author": "S. Swaminathan",
+            "Page": "26,27",
+            "Keywords": "Repairs, staff, standards, work, completion"
+        },
+        {
+            "Title": "Role of Institutions in Preserving Mental Health",
+            "Author": "Vijay",
+            "Page": "27,28,29",
+            "Keywords": "Ignorance, neglect, suicide, complexities, health"
+        },
+        {
+            "Title": "FocusInterview ...",
+            "Page": "29,30,31",
+            "Keywords": "Interview, Cho Ramaswamy, theatre, journalism"
+        }
+    ]
+}

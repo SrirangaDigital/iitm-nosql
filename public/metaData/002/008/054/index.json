@@ -1,0 +1,52 @@
+{
+    "id": "002/008/054",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Toc": [
+        {
+            "Title": "A Word From Us...",
+            "Page": "1",
+            "Keywords": "Student participation, Attitude, Disappointment, Focus"
+        },
+        {
+            "Title": "A Whisper From Within",
+            "Author": "Samer W. Dandage",
+            "Page": "4",
+            "Keywords": "Education, Premier Institutions, Responsibility, Nation Building"
+        },
+        {
+            "Title": "B.Tech Project",
+            "Author": "Dr. Ashok Jhunjhunwala",
+            "Page": "7",
+            "Keywords": "B.Tech Projects, BTPs, Student Participation, Topics, Lab Work, Graduation"
+        },
+        {
+            "Title": "The Status of Education in IIT Madras: A Group Discussion",
+            "Page": "8",
+            "Keywords": "Group Discussion, Debates, Education, Teaching Methods, Facilities, Student Participation"
+        },
+        {
+            "Title": "Research in India and IIT Madras",
+            "Author": "Prof. V. Ramjee",
+            "Page": "16",
+            "Keywords": "Motherland, Research, Ph.Ds, Migration, Globalization"
+        },
+        {
+            "Title": "Research in Science and Technology: Some Random Observations",
+            "Author": "Prof. V.G.K Murti",
+            "Page": "18",
+            "Keywords": "R&D Units, Quality Consciousness, Facilities, Research"
+        },
+        {
+            "Title": "Some Reflections on Research in IITs",
+            "Author": "Prof. M.S. Ananth",
+            "Page": "21",
+            "Keywords": "Teaching, Research, Industrial Consultancy, Productive Research"
+        },
+        {
+            "Title": "Cover Story: Research and Development in IIT Madras",
+            "Page": "24",
+            "Keywords": "Institute, Instrumentation, Industries, Teaching, Research "
+        }
+    ]
+}

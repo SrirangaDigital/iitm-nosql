@@ -1,0 +1,68 @@
+{
+    "id": "002/008/012",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "II",
+    "Issue": "4",
+    "Date": "1989-04-12",
+    "Toc": [
+        {
+            "Title": "Foreword",
+            "Page": "1, 2",
+            "Keywords": "Secretaries, Elections, Mess, Student Problems"
+        },
+        {
+            "Title": "Samskritam",
+            "Page": "3",
+            "Keywords": "Language, Sanskrit, Teaching, Camp"
+        },
+        {
+            "Title": "A Report by B.Tech. Students",
+            "Page": "4-22",
+            "Keywords": "National Importance, Academics, JEE, Student Life, Teaching"
+        },
+        {
+            "Title": "JEE",
+            "Page": "6-10",
+            "Keywords": "Exam, JEE, Preparations"
+        },
+        {
+            "Title": "Students",
+            "Page": "10-12",
+            "Keywords": "Student Life, Interactions, Grades"
+        },
+        {
+            "Title": "Teachers, Courses and Evaluation",
+            "Page": "12-17",
+            "Keywords": "Teaching, Staff-Student Relationships, Grading"
+        },
+        {
+            "Title": "Accountability and Social Attitudes",
+            "Page": "18-22",
+            "Keywords": "Engineering, Students, Staff"
+        },
+        {
+            "Title": "Hostel Maintenance - A Farce",
+            "Author": "FOCUS",
+            "Page": "",
+            "Keywords": "Hostel, Maintenance, Hostel Staff, CCW, PG"
+        },
+        {
+            "Title": "Introspection",
+            "Author": "Nagraj",
+            "Page": "25",
+            "Keywords": "Religion, Controversy, Satanic Verses, Rushdie"
+        },
+        {
+            "Title": "A Word about PPST",
+            "Author": "Ashok Jhunjhunwala",
+            "Page": "26, 27",
+            "Keywords": "PPST, Patriotism, Research, Science and Technology"
+        },
+        {
+            "Title": "Indian Science and Technology Journals - Whither?",
+            "Page": "28",
+            "Keywords": "Journals, Papers, Funding, Quality, Publications"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "002/003/Special_1982-03-25",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Date": "1982-03-25",
+    "Toc": [
+        {
+            "Title": "Down Memory Lane",
+            "Page": "1,2",
+            "Keywords": "Report,Sprinculin '82"
+        },
+        {
+            "Title": "Back To Our Times",
+            "Page": "2,3",
+            "Keywords": "Sprinculin'82,Report, Drama"
+        },
+        {
+            "Title": "Quiz",
+            "Page": "3,4",
+            "Keywords": "Sprinculin'82,Report, Quiz"
+        },
+        {
+            "Title": "Western Music",
+            "Page": "4",
+            "Keywords": "Sprinculin'82,Report, Quiz"
+        }
+    ]
+}

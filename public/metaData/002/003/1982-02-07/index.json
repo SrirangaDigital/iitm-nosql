@@ -1,0 +1,64 @@
+{
+    "id": "002/003/1982-02-07",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "4",
+    "Date": "1982-02-07",
+    "Toc": [
+        {
+            "Title": "Tennis",
+            "Page": "1,2",
+            "Keywords": "Report, hostels, match"
+        },
+        {
+            "Title": "Hockey",
+            "Page": "2",
+            "Keywords": "Report, ganga hostel, silver medal"
+        },
+        {
+            "Title": "Kabaddi",
+            "Page": "2",
+            "Keywords": "Report, Narmada, Krishna"
+        },
+        {
+            "Title": "Football",
+            "Page": "2,3",
+            "Keywords": "Report, hostels, matches"
+        },
+        {
+            "Title": "Ball Baddy",
+            "Page": "3",
+            "Keywords": "Report, ganga"
+        },
+        {
+            "Title": "Cricket",
+            "Page": "3",
+            "Keywords": "Report, Jamuna, Brahmaputra"
+        },
+        {
+            "Title": "Table Tennis",
+            "Page": "3",
+            "Keywords": "Report, matches"
+        },
+        {
+            "Title": "Bridge",
+            "Page": "3,4",
+            "Keywords": "Report, sports, championship, tournament"
+        },
+        {
+            "Title": "Bertram Tournaments",
+            "Page": "4",
+            "Keywords": "Sports, ball baddy, tennis"
+        },
+        {
+            "Title": "North Star Quiz",
+            "Page": "4",
+            "Keywords": "Quiz, finals"
+        },
+        {
+            "Title": "Spring Spree '02",
+            "Page": "4",
+            "Keywords": "Culturals, announceent, REC Warangal"
+        }
+    ]
+}

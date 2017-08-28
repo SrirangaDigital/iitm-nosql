@@ -1,0 +1,73 @@
+{
+    "id": "002/008/019",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "5",
+    "Issue": "4",
+    "Date": "1982-09-22",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Water Crisis, Guidance and Counselling Unit, Focus"
+        },
+        {
+            "Title": "Thaneer- Thaneer",
+            "Page": "2,3,4,5,6,7",
+            "Keywords": "Analytical Report, Water Crisis, Reasons, Schemes"
+        },
+        {
+            "Title": "Counselling- An attempt at Conceptual Clarity",
+            "Author": "Dr.Rita Ghatak",
+            "Page": "8,9,10,11",
+            "Keywords": "Counselling and Guidance Unit, Psychology, Faculty Guide"
+        },
+        {
+            "Title": "All you Wanted to know about what happened in IIT Delhi",
+            "Author": "Shankar Naniwadekar",
+            "Page": "10,11",
+            "Keywords": "Inter-collegiate Competitions,IIT Delhi, Complaints"
+        },
+        {
+            "Title": "Student Affairs in the FRG",
+            "Author": "Malcolm J P",
+            "Page": "12,13,14,15",
+            "Keywords": "Education, West Germany, Student Affairs, Senate"
+        },
+        {
+            "Title": "Letters to the Editors",
+            "Author": "M.A.Parameshwaran",
+            "Page": "14,15",
+            "Keywords": "Education, West Germany, Comparison, Indian Graduates"
+        },
+        {
+            "Title": "Letters to the Editors",
+            "Author": "T.Ravishankar, Ajit Paranjpe",
+            "Page": "15,16",
+            "Keywords": "German Technical University,Indian Graduates, Comparison"
+        },
+        {
+            "Title": "Information Bulletin",
+            "Author": "P.Srinivasa Rao",
+            "Page": "17,18",
+            "Keywords": "Report, 123rd Senate Meeting,Attendance Rule, Modfied Evaluation Pattern"
+        },
+        {
+            "Title": "Purchase of Books for Book Bank/General",
+            "Author": "Ahobala Rao, Ramani Ramaswamy",
+            "Page": "18,19,20",
+            "Keywords": "Library, Rules, Services"
+        },
+        {
+            "Title": "Rendevouz with the Directors",
+            "Page": "21,22,23",
+            "Keywords": "Student Representation in Senate, Student Problems, Staff Student Interaction, Mess Problems"
+        },
+        {
+            "Title": "Suggestions",
+            "Author": "Govind Rao",
+            "Page": "23,24,25",
+            "Keywords": "Furniture, Notices, Cauvery Hostel"
+        }
+    ]
+}

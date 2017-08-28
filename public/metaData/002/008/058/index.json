@@ -1,0 +1,39 @@
+{
+    "id": "002/008/058",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Issue": "3",
+    "Date": "1979-10-15",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Author": "Devdas Menon, M. Krishnakumar, V. Shridhar",
+            "Page": "1,2",
+            "Keywords": "departures, focus, IITD, IITK, steering committee"
+        },
+        {
+            "Title": "A Comedy of Errors",
+            "Author": "Devdas Menon",
+            "Page": "2-4",
+            "Keywords": "comedy, errors, delayed, reaction, institute, KV, condolence, meeting, J.P., steering, committee, loss, movie, ditched, JAM, Musical Nite, mourning, OAT, Mountbatten, Lord, Shades, Hypocrisy, That Splendid November, CLT, irony, cricket, administration"
+        },
+        {
+            "Title": "The Grass on the Other Side",
+            "Author": "M. Krishnakumar",
+            "Page": "5-8",
+            "Keywords": "External Affairs, secretary, IITD, Gymkhana, budget, facilities, swimming, club, film, tennis, photography, common room, hostel, magazines, student, grants, government, subisidy, mess, Campastimes, Pulse, sports, recreation, cultural, lit, fine arts, arts, social, uncensored, karate, judo, hostel, library"
+        },
+        {
+            "Title": "Fresh Impressions on IIT",
+            "Author": "Malcolm",
+            "Page": "8-11",
+            "Keywords": "surprise, freshers, fresh, impressions, faculty, lectures, boring, dopes, tutorial, fixed, curriculum, electives, quizzes, relative, grading, RG, mess, swimming pool, skating rink, food, grub, stereoset, TV"
+        },
+        {
+            "Title": "Letter to Editor",
+            "Author": "Murali",
+            "Page": "11",
+            "Keywords": "quality, quantity, rumours, hospital, philosophy, incompetance"
+        }
+    ]
+}

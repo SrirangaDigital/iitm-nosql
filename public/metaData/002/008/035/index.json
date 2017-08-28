@@ -1,0 +1,43 @@
+{
+    "id": "002/008/035",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "8",
+    "Issue": "1",
+    "Date": "1985-02-29",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "3",
+            "Keywords": "Freshies, Editorial Policy, Welcome Message"
+        },
+        {
+            "Title": "A Practical Outlook- Meet Prof. Surjit Singh",
+            "Page": "6",
+            "Keywords": "Interview, Dean (Academic Courses), Compliants"
+        },
+        {
+            "Title": "G.C.U - Ramblings of the New Chief",
+            "Author": "Dr. T.T. Narendran",
+            "Page": "9",
+            "Keywords": "Guidance & Counselling Unit, Freshers, Institute Life"
+        },
+        {
+            "Title": "Why not a Better Deal- C.J. Paul",
+            "Author": "C.J Paul",
+            "Page": "10",
+            "Keywords": "Retrospective, Analysis, Solutions, Policy, Procedure"
+        },
+        {
+            "Title": "Whither Indian Education? - A Talk with Prof. E.C.G. Sudarshan",
+            "Page": "14",
+            "Keywords": "Interview, Physicist, Convocation, Chief Guest"
+        },
+        {
+            "Title": "The Indian Scientist- Some Reflections",
+            "Author": "Prof. E.C.G Sudarshan, Prof. Swadesh Mahajan",
+            "Page": "19",
+            "Keywords": "Scientist's Life, Migration, Psychology, Professional Life, Research"
+        }
+    ]
+}

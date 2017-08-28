@@ -1,0 +1,61 @@
+{
+    "id": "002/008/001",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Toc": [
+        {
+            "Title": "Cartoon",
+            "Author": "Manoj Mehrotra",
+            "Page": "Cover",
+            "Keywords": "Common Man, Causes, Social Consciousness, Cartoon, Humour"
+        },
+        {
+            "Title": "Letter to the Editors of Spectator",
+            "Author": "K. Murali",
+            "Page": "2",
+            "Keywords": "Spectator, Extra Murals, Criticism, Reply, General Secretary"
+        },
+        {
+            "Title": "A Reflection on Some of the Malpractices in Exams",
+            "Author": "Benny Raphael",
+            "Page": "3,4,5",
+            "Keywords": "Exams, Malpractices, Cheating, Morals and Ethics, Techniques"
+        },
+        {
+            "Title": "The Executioner",
+            "Author": "Navin Chandra Rao",
+            "Page": "6,7",
+            "Keywords": "Campus Dogs, Dog Catchers, Killing Dogs"
+        },
+        {
+            "Title": "Rejoinder to Gen.Sec's Report from the Menber, Hostel Affairs Committee",
+            "Author": "K.V. Suresh Babu",
+            "Page": "8",
+            "Keywords": "General Secretary, Report, Insufficient, Unprofessional"
+        },
+        {
+            "Title": "Setting the Record Straight",
+            "Author": "Quark-Coords",
+            "Page": "9,10,11",
+            "Keywords": "Quark, Student Run, Night Canteens, SAC"
+        },
+        {
+            "Title": "Closure of Quark: Justified?",
+            "Author": "Uday Kumar Jagannathan",
+            "Page": "12,13",
+            "Keywords": "Quark, Shut Down, Credit System, Student Run, Night Canteens"
+        },
+        {
+            "Title": "On my Soujourn at IIT Madras - In Retrospect",
+            "Author": "Prasad Akella",
+            "Page": "14-33",
+            "Keywords": "IIT Madras, Stanford University, Comparisons, Analysis, Solutions, Student Problems "
+        },
+        {
+            "Title": "Peak Excitement",
+            "Author": "Chitra Krishnan",
+            "Page": "",
+            "Keywords": "Himalayas, Mountaineering, Stories, Basics, Lessons"
+        }
+    ]
+}

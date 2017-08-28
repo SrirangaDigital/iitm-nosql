@@ -1,0 +1,32 @@
+{
+    "id": "002/002/misc2",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2,3",
+            "Keywords": "Semester, schroeter, open house"
+        },
+        {
+            "Title": "Open House",
+            "Page": "4,5,6",
+            "Keywords": "Interview, opinions, machines, exhibits"
+        },
+        {
+            "Title": "Overheard",
+            "Page": "6",
+            "Keywords": "Humour, technical terms"
+        },
+        {
+            "Title": "What Went Into Open House ... And What We Got Out Of It",
+            "Page": "7",
+            "Keywords": "Budget, statistics, publicity"
+        },
+        {
+            "Title": "Seen",
+            "Page": "7",
+            "Keywords": "Departments, humour"
+        }
+    ]
+}

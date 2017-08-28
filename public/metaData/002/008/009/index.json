@@ -1,0 +1,82 @@
+{
+    "id": "002/008/009",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Date": "1989-10-06",
+    "Toc": [
+        {
+            "Title": "Our Say",
+            "Page": "1",
+            "Keywords": "Promise, Criticism, Censorship"
+        },
+        {
+            "Title": "Vox Populi",
+            "Page": "2",
+            "Keywords": "Voice of the People, Policy, Innovation, Debate"
+        },
+        {
+            "Title": "An Interview: R. Natrajan (Dean (Students))",
+            "Page": "3, 4, 5, 6",
+            "Keywords": "Staff, Students, Protest, SAC, Mardi Gras, Attendance"
+        },
+        {
+            "Title": "Convocation - Some Observations",
+            "Author": "S. Sundar Kumar Iyer",
+            "Page": "7, 8",
+            "Keywords": "SAC, Convocation, Function"
+        },
+        {
+            "Title": "Staff Student Interaction on Campus - Some Reflections",
+            "Author": "Joseph Koshy",
+            "Page": "9, 10, 11, 12",
+            "Keywords": "Staff-Student Relationships, Conservatism"
+        },
+        {
+            "Title": "Need for a Master Plan for I.I.T. Madras - 2001 A.D.",
+            "Author": "M.S. Mathews",
+            "Page": "13, 14, 15",
+            "Keywords": "Planning, Programmes, Syllabus"
+        },
+        {
+            "Title": "FocusConverses with Mr. Russi Modi",
+            "Author": "FOCUS",
+            "Page": "16, 17, 18",
+            "Keywords": "Industry, Convocation, JEE, Education, Workers, Management"
+        },
+        {
+            "Title": "The Central Library - A Student's Perspective",
+            "Author": "Benedict Mathias",
+            "Page": "19, 20, 21, 22",
+            "Keywords": "Library, Books, Studying, Facilities"
+        },
+        {
+            "Title": "IIT - First Impressions",
+            "Author": "I.B.Tech. Ladies of Sarayu",
+            "Page": "23",
+            "Keywords": "Orientation, Hostel Life, College Life, Activities, NSO, NCC"
+        },
+        {
+            "Title": "Quark - Major Objectives and Improvements",
+            "Author": "Quark Co-ordinators",
+            "Page": "24",
+            "Keywords": "Quark, Quality, Food"
+        },
+        {
+            "Title": "My Experience in IIT",
+            "Author": "Dr. M. Anthony Reddy",
+            "Page": "25, 26",
+            "Keywords": "Standards, Restructuring, Staff-Student Relationships, Higher Studies, Placement"
+        },
+        {
+            "Title": "The Plight of an IIT Research Scholars",
+            "Page": "27",
+            "Keywords": "Research, Research Scholars, Referrendum, College Life, Scholarship"
+        },
+        {
+            "Title": "Teacher Evaluation",
+            "Author": "Kaushik Iyer and Sridhar Rajgoplan",
+            "Page": "28",
+            "Keywords": "Teacher Evaluation, Education, Loopholes"
+        }
+    ]
+}

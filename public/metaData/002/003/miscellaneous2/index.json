@@ -1,0 +1,42 @@
+{
+    "id": "002/003/miscellaneous2",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Toc": [
+        {
+            "Title": "…In Extremes..",
+            "Author": "V.Sundar",
+            "Page": "1",
+            "Keywords": "Cartoons"
+        },
+        {
+            "Title": "Inter Hostel Cricket",
+            "Author": "Subodh.R",
+            "Page": "2",
+            "Keywords": "Report, Inter hostel Cricket"
+        },
+        {
+            "Title": "The Haze-The Curtain",
+            "Author": "Sundar",
+            "Page": "3,4",
+            "Keywords": "Report, The Haze-Music Troupe"
+        },
+        {
+            "Title": "6-d-side Footer Reports",
+            "Author": "Rajiv Rai",
+            "Page": "4,5",
+            "Keywords": "Report, 6-d-side"
+        },
+        {
+            "Title": "Staff vs Students Quiz",
+            "Page": "5",
+            "Keywords": "Report, Staff vs Students Quiz"
+        },
+        {
+            "Title": "Interview",
+            "Author": "Auto",
+            "Page": "5,6,7",
+            "Keywords": "Interview, K.V.Shankar, Sanjeev Joshi"
+        }
+    ]
+}

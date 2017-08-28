@@ -1,0 +1,65 @@
+{
+    "id": "002/008/028",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "5",
+    "Issue": "6",
+    "Date": "1982-11-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2,3",
+            "Keywords": "Semester, evaluation system, students, attitude, exammination"
+        },
+        {
+            "Title": "Comparison of IITs",
+            "Page": "4,5,6,7,8,9,10,11,12,13",
+            "Keywords": "Academics, comparitive study, classes, hostel, amenities, facilities"
+        },
+        {
+            "Title": "PG Scholarship Delays: Causes ans Possible Solutions",
+            "Page": "14",
+            "Keywords": "Procedure, transfers, students, bureaucracy, delays"
+        },
+        {
+            "Title": "Computer Centre and Workshops",
+            "Author": "Focus",
+            "Page": "17,18,19,20",
+            "Keywords": "Users, cards, revenue, manuals, problems, absenteeism"
+        },
+        {
+            "Title": "Teacher Evaluation",
+            "Author": "T. Ravi Shanker",
+            "Page": "21,22",
+            "Keywords": "System, courses, facets, questionnaire, anonymity "
+        },
+        {
+            "Title": "Examinations: Their Value in Education",
+            "Author": "R. Parthasarathi",
+            "Page": "23,24,25",
+            "Keywords": "Students, opinions, defects, evaluation, nepotism"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "25,26",
+            "Keywords": "Stray dogs, shooting, safety, complaint, solution"
+        },
+        {
+            "Title": "Suggestions",
+            "Page": "27,28",
+            "Keywords": "ID cards, academic section, PG scholarships, implementation"
+        },
+        {
+            "Title": "A Referendum on ... Our Library",
+            "Author": "S. A. Irani",
+            "Page": "29",
+            "Keywords": "Questionnaire, humour, state of library, suggestions"
+        },
+        {
+            "Title": "If You've Never Been",
+            "Author": "Artyomy Mikhailov",
+            "Page": "30",
+            "Keywords": "Poem, 20th century, life"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "002/003/1981-09-20",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "2",
+    "Date": "1981-09-20",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Reviews, Reactions, Reporting, Hochronicle"
+        },
+        {
+            "Title": "Ping Pong Selections",
+            "Page": "1,2",
+            "Keywords": "Selections, Report, Leagues, Table Tennis, Institute Team"
+        },
+        {
+            "Title": "Change in Hockey Rules",
+            "Page": "2",
+            "Keywords": "Hockey, Rules, Inter IIT, Inter Hostel"
+        },
+        {
+            "Title": "Te Judice",
+            "Page": "2",
+            "Keywords": "Letters to the Editor, Road Race, Irregular Publications"
+        },
+        {
+            "Title": "Buckuizz",
+            "Page": "2,3",
+            "Keywords": "Sports Quiz"
+        },
+        {
+            "Title": "Krishna 7+1 A Side",
+            "Page": "3",
+            "Keywords": "Tournament, Krishna Hostel, Rules"
+        },
+        {
+            "Title": "Volleyball, Basketball, Footer, Kabaddi",
+            "Page": "4",
+            "Keywords": "Report, Inter-Hostel "
+        },
+        {
+            "Title": "This Week for You",
+            "Page": "4",
+            "Keywords": "League Matches, Inter Hostel, Week Ahead"
+        }
+    ]
+}

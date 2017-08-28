@@ -1,0 +1,57 @@
+{
+    "id": "002/008/020",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "5",
+    "Issue": "4",
+    "Date": "1983-11-15",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1,2,3",
+            "Keywords": "Focus, Constitution Committee, Sponsorships"
+        },
+        {
+            "Title": "A Short History of the Student's Constitution",
+            "Author": "L.S.Ganesh",
+            "Page": "4,5,6,7,8,9,10,11,12",
+            "Keywords": "Student's Constitution, Timeline, History"
+        },
+        {
+            "Title": "Brahmaputra Elections: A sorry Episode",
+            "Author": "S.Mohan",
+            "Page": "12,13,14,15,16",
+            "Keywords": "Brahmaputra Hostel, Elections, Administration, Constitution"
+        },
+        {
+            "Title": "Our Slipping Image",
+            "Author": "Ravi Viswanath",
+            "Page": "16,17,18,19",
+            "Keywords": "Complaints, IITians, Mardi Gras, Bad image"
+        },
+        {
+            "Title": "Get Students interested",
+            "Author": "Joy Thomas",
+            "Page": "19,20,21,22,23",
+            "Keywords": "Academic Standards,Professors, Education System"
+        },
+        {
+            "Title": "The Agrawal Syndrome is a part of us",
+            "Author": "J.Sreekanth",
+            "Page": "24,25,26",
+            "Keywords": "Agrawal Syndrome, Education System, IIT"
+        },
+        {
+            "Title": "-But it isn't our fault",
+            "Author": "Sundar.J",
+            "Page": "27,28,29,30",
+            "Keywords": "Staff-Student Relationship, IIT, American Engineers, Discipline"
+        },
+        {
+            "Title": "Most servile than Scientific",
+            "Author": "R. Srinivasan",
+            "Page": "30,31",
+            "Keywords": "Chandra-Day, Scientists, Lec+D60:I114turers"
+        }
+    ]
+}

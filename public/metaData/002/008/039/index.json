@@ -1,0 +1,78 @@
+{
+    "id": "002/008/039",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Toc": [
+        {
+            "Title": "Foreword",
+            "Page": "1",
+            "Keywords": "Focus, Academics, Ragging, Girl-Boy Interactions"
+        },
+        {
+            "Title": "Editorial Policy",
+            "Page": "2",
+            "Keywords": "Focus, Contributions, Freedom of Press"
+        },
+        {
+            "Title": "Survey",
+            "Page": "3",
+            "Keywords": "Survey, Focus, Suggestions, contributions"
+        },
+        {
+            "Title": "F.O.C.I. Farce",
+            "Page": "4,5",
+            "Keywords": "Teacher Evaluation, Attendance rule, Course Restructure"
+        },
+        {
+            "Title": "IIT to an Outside Eye",
+            "Author": "Srinivasan",
+            "Page": "6,7",
+            "Keywords": "IITians, Lifestyle in IIT, Environment, Hostels, OAT"
+        },
+        {
+            "Title": "Conversation",
+            "Author": "Prof.L.N. Ramamurthy",
+            "Page": "8,9,10,11",
+            "Keywords": "Senate Resolutions, Evaluation, Suggestions, Education System"
+        },
+        {
+            "Title": "A Talk with a Group of Ph.D Students",
+            "Page": "12,13,14",
+            "Keywords": "Research Scholars, Facilities, Administrative Block, Guides"
+        },
+        {
+            "Title": "IIT Education- Commitment to Excellence",
+            "Page": "15,16,17",
+            "Keywords": "Course Restructure, Faculty, Brain Drain, Grading System"
+        },
+        {
+            "Title": "\"O God! What Fools These Mortals Be!\"",
+            "Author": "A. Sriram",
+            "Page": "18,19,20",
+            "Keywords": "Undergraduates, Indian Universities, Brain Drain"
+        },
+        {
+            "Title": "Student Organized Events- Whither?",
+            "Page": "21,22",
+            "Keywords": "Mardi Gras, Misappropriation of Funds, Gymkhana Reserve Funds"
+        },
+        {
+            "Title": "The Girl Boy Scene-Solutions I",
+            "Author": "R.Kamala",
+            "Page": "23,24",
+            "Keywords": "Girl-Boy Relationship, Extra-curricular Activities"
+        },
+        {
+            "Title": "An Open Letter to the Dean",
+            "Author": "Suresh Balaraman",
+            "Page": "25,26",
+            "Keywords": "Ragging, Senior-Junior Relationship, Hostel Life"
+        },
+        {
+            "Title": "A Senior's Point of View",
+            "Author": "T.Nambikrishnan",
+            "Page": "27,28",
+            "Keywords": "Attendance Rule, Freshies, Ragging"
+        }
+    ]
+}

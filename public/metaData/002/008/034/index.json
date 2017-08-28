@@ -1,0 +1,50 @@
+{
+    "id": "002/008/034",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "9",
+    "Issue": "1",
+    "Date": "1986-02-02",
+    "Toc": [
+        {
+            "Title": "Editor's Note",
+            "Page": "1,2",
+            "Keywords": "Articles, anonymous, interviews, monitor, responsibility"
+        },
+        {
+            "Title": "Focus",
+            "Page": "3,4",
+            "Keywords": "Director, prejudice, teacher, publication, opinions, community"
+        },
+        {
+            "Title": "Letters",
+            "Author": "Anuradha Ramaswamy, R. Devanatgan, Ram Mohan P.",
+            "Page": "4,5,6,7",
+            "Keywords": "Sarayu, accomodation, EML, security, hostel sector"
+        },
+        {
+            "Title": "Analysis ..",
+            "Author": "Editors",
+            "Page": "8",
+            "Keywords": "SAC, security, accessibility, vehicles, road"
+        },
+        {
+            "Title": "GCU - The Problems It Cannot Solve",
+            "Author": "Mama",
+            "Page": "9,10",
+            "Keywords": "Academics, mugging, research, hypocrisy, problems"
+        },
+        {
+            "Title": "Jis Desh May Ganga Behti Hai",
+            "Author": "L. Kannan",
+            "Page": "11,12",
+            "Keywords": "Spoof, satire, story, Narayana, ganga, pollution"
+        },
+        {
+            "Title": "On P.G. Problems",
+            "Author": "S. Karmalkar",
+            "Page": "13,14",
+            "Keywords": "Population, motivation, intelligence, participation, linguistics"
+        }
+    ]
+}

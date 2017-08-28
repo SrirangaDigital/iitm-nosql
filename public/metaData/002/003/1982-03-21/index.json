@@ -1,0 +1,51 @@
+{
+    "id": "002/003/1982-03-21",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Date": "1982-03-21",
+    "Toc": [
+        {
+            "Title": "Fair Draft of the Rough Constitution",
+            "Page": "1,2",
+            "Keywords": "Humour, constitution"
+        },
+        {
+            "Title": "AC Tech Quiz",
+            "Page": "2"
+        },
+        {
+            "Title": "Bridge",
+            "Page": "2,3"
+        },
+        {
+            "Title": "Tamil Nadu Inter Engineering Basketball Tourney",
+            "Page": "3",
+            "Keywords": "Sport"
+        },
+        {
+            "Title": "Inter Hostel",
+            "Page": "3,4,5",
+            "Keywords": "Sports, report"
+        },
+        {
+            "Title": "Inter Hostel Bridge",
+            "Page": "5",
+            "Keywords": "Report, Cauvery, Tapti"
+        },
+        {
+            "Title": "Inter Hostel Gymnastics",
+            "Page": "5",
+            "Keywords": "Report, Mani, participation"
+        },
+        {
+            "Title": "For You - From Spectator",
+            "Page": "6,7",
+            "Keywords": "Schroeter, report, hostels, events"
+        },
+        {
+            "Title": "Spectator's Men of the Week",
+            "Page": "7",
+            "Keywords": "Mani, Sundar, Jamuna"
+        }
+    ]
+}

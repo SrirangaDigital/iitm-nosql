@@ -1,0 +1,84 @@
+{
+    "id": "002/007/005",
+    "Type": "Publication",
+    "Publication": "Pradeep Annual Number",
+    "Date": "1969-00-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "",
+            "Keywords": "Pradeep Annual Number, content"
+        },
+        {
+            "Title": "Birth Daze",
+            "Author": "S. Srikant",
+            "Page": "1,2,3",
+            "Keywords": "Women, age, birthdays, sexism"
+        },
+        {
+            "Title": "Discipline",
+            "Author": "T. Gopichand",
+            "Page": "4,5",
+            "Keywords": "Duty, rights, behaviour, perspective"
+        },
+        {
+            "Title": "Hail the Critic",
+            "Author": "R. Karthik",
+            "Page": "6",
+            "Keywords": "Social progress, communication, constructive, skills"
+        },
+        {
+            "Title": "Chicago Goes",
+            "Author": "Gautam Mahajan",
+            "Page": "7,8",
+            "Keywords": "IIT, America, India, academics"
+        },
+        {
+            "Title": "Views and Interviews",
+            "Author": "Joshy Paul",
+            "Page": "9,10,11",
+            "Keywords": "Central school, IIT, hostel, children"
+        },
+        {
+            "Title": "On Career Planning",
+            "Author": "S. Ramani",
+            "Page": "12,13",
+            "Keywords": "Engineering, curriculum, life, career"
+        },
+        {
+            "Title": "Care to Know the IIT Campus?",
+            "Page": "14,15",
+            "Keywords": "Hostels, guide, photographs, humour"
+        },
+        {
+            "Title": "Annual Report",
+            "Author": "M. R. Sridharan",
+            "Page": "16",
+            "Keywords": "Complaints, activities, alumni"
+        },
+        {
+            "Title": "Unemployed Engineers and Industrial Development",
+            "Author": "S. Sampath",
+            "Page": "17,18,19",
+            "Keywords": "Engineering, technical education, training"
+        },
+        {
+            "Title": "News-flash from the Department",
+            "Page": "20,21,22,23,24,25,26,27,28,29,30,31,32",
+            "Keywords": "Departments, news, report"
+        },
+        {
+            "Title": "Marriages",
+            "Page": "33",
+            "Keywords": "Wedding, announcement"
+        },
+        {
+            "Title": "Alumni Placement Position",
+            "Page": "34"
+        },
+        {
+            "Title": "Alumni Directory",
+            "Page": ""
+        }
+    ]
+}

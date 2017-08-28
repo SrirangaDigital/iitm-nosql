@@ -1,0 +1,62 @@
+{
+    "id": "002/008/050",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "8",
+    "Issue": "3",
+    "Date": "1985-09-13",
+    "Toc": [
+        {
+            "Title": "Food For Thought",
+            "Page": "2",
+            "Keywords": "One liners, humour, quotes"
+        },
+        {
+            "Title": "Editorially Speaking",
+            "Page": "3, 4",
+            "Keywords": "Government, Industry, Education, Policy, Hospital, IC&SR"
+        },
+        {
+            "Title": "Letters to the Editors",
+            "Author": "P. Sridhar, N. Malayalam, K. Srinivasa Raghavan",
+            "Page": "5, 6",
+            "Keywords": "Temple, Sacrifice, Opinion, Director"
+        },
+        {
+            "Title": "On Hostel Maintenance",
+            "Author": "P. Kandaswamy, R.S. Kishore",
+            "Page": "7, 8, 9",
+            "Keywords": "Hostels, Hostel Affairs, Maintenance"
+        },
+        {
+            "Title": "Hobby Workshop",
+            "Author": "A.R. Pradeep Annual Number",
+            "Page": "10",
+            "Keywords": "Hobby, Workshops, Clubs, Music, Alumni Association"
+        },
+        {
+            "Title": "Power of Positive Perception",
+            "Author": "V. Kalyanraman",
+            "Page": "11, 12, 13",
+            "Keywords": "Alumni, Study Abroad, Higher Studies, USA, Attitudes, Comparison"
+        },
+        {
+            "Title": "On Student Evaluation of Teachers",
+            "Author": "M.S. Gopinathan",
+            "Page": "14, 15, 16, 17",
+            "Keywords": "Student-Staff relationships, students, professors, evaluation"
+        },
+        {
+            "Title": "Let us Debate the new Educational Policy",
+            "Author": "K.A.V. Pandalai",
+            "Page": "18-24",
+            "Keywords": "debate, education, policy, curriculum, India, schools, society, teaching, learning"
+        },
+        {
+            "Title": "Special Feature - IC and SR",
+            "Author": "Sudhir Murthy, V. Jayashankar",
+            "Page": "25-30",
+            "Keywords": "IC&SR, consultancy, academics, promotions, projects, government, Entrepreneur"
+        }
+    ]
+}

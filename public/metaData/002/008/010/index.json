@@ -1,0 +1,42 @@
+{
+    "id": "002/008/010",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "II",
+    "Issue": "5",
+    "Date": "1989-04-27",
+    "Toc": [
+        {
+            "Title": "Foreword",
+            "Page": "1",
+            "Keywords": "Migration, Higher Studies, Alternatives, Graduation"
+        },
+        {
+            "Title": "We Thank You",
+            "Page": "2",
+            "Keywords": "Focus, Thanks, Dean"
+        },
+        {
+            "Title": "Academics at IIT Madras - A Response to Student Report",
+            "Author": "Prof. M.S. Gopinathan",
+            "Page": "3, 4, 5, 6, 7",
+            "Keywords": "Academics, IIT Life, Fees, Curriculum, JEE, Evaluation"
+        },
+        {
+            "Title": "Conversation",
+            "Page": "8, 9, 10, 11, 12",
+            "Keywords": "Brain Drain, Graduation, Struggles, Entrepreneur"
+        },
+        {
+            "Title": "Talk with a group of Research Scholars - II",
+            "Page": "13, 14, 15, 16, 17",
+            "Keywords": "Research, Thesis, Stipend, Allotment"
+        },
+        {
+            "Title": "Letter",
+            "Author": "K. Ramaswamy",
+            "Page": "18, 19",
+            "Keywords": "Secretaries, Post Graduates, Hostel Affairs, Hostel Life"
+        }
+    ]
+}

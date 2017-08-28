@@ -1,0 +1,51 @@
+{
+    "id": "002/003/1982-04-11",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "13",
+    "Date": "1982-04-11",
+    "Toc": [
+        {
+            "Title": "Institute Day",
+            "Author": "Fooyong",
+            "Page": "1",
+            "Keywords": "Humour, prizewinners"
+        },
+        {
+            "Title": "Open Badminton",
+            "Author": "Mahadevan",
+            "Page": "2",
+            "Keywords": "Report, participation, results"
+        },
+        {
+            "Title": "Open Non-Medallists Volleyball",
+            "Page": "2",
+            "Keywords": "Gymkhana, tournament"
+        },
+        {
+            "Title": "Te Judice",
+            "Author": "Fooyong",
+            "Page": "3",
+            "Keywords": "Spectator, editors, letter"
+        },
+        {
+            "Title": "Krishna 7 A Side Tennis Ball Cricket",
+            "Page": "3",
+            "Keywords": "Tournament, Hostel day"
+        },
+        {
+            "Title": "TT Open Tournaments' Results",
+            "Page": "3,4"
+        },
+        {
+            "Title": "Open Carrom Tourneys",
+            "Page": "4",
+            "Keywords": "Results"
+        },
+        {
+            "Title": "Spectator Man of the Week",
+            "Page": "4",
+            "Keywords": "Satyapal, Cauvery"
+        }
+    ]
+}

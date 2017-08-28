@@ -1,0 +1,45 @@
+{
+    "id": "002/004/1981-02-08",
+    "Type": "Publication",
+    "Publication": "Rag Mandak",
+    "Issue": "2",
+    "Date": "1981-02-08",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Name, magazine, suggestions, title"
+        },
+        {
+            "Title": "IIT Pills",
+            "Page": "1",
+            "Keywords": "Staff, tickets, feminism, professors"
+        },
+        {
+            "Title": "To Nandakumar With Love",
+            "Page": "3",
+            "Keywords": "Gen sec, resignation, humour"
+        },
+        {
+            "Title": "Volley Bolley Titbits",
+            "Page": "3",
+            "Keywords": "Match, updates, score"
+        },
+        {
+            "Title": "Guess Who",
+            "Page": "3",
+            "Keywords": "Cricket, tennis ball, sports"
+        },
+        {
+            "Title": "Cricket",
+            "Page": "4",
+            "Keywords": "Match, report, finals"
+        },
+        {
+            "Title": "Brain Teasers",
+            "Author": "R. Bharat Rao",
+            "Page": "4",
+            "Keywords": "Puzzle"
+        }
+    ]
+}

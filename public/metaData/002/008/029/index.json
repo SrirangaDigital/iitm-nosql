@@ -1,0 +1,24 @@
+{
+    "id": "002/008/029",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "5",
+    "Issue": "1",
+    "Toc": [
+        {
+            "Title": "FocusCalls",
+            "Page": "1",
+            "Keywords": "Editors, help, work, drawings, duties"
+        },
+        {
+            "Title": "Editorial",
+            "Page": "1,2",
+            "Keywords": "Campus, responsibility, contribution, suggestions, "
+        },
+        {
+            "Title": "Focus... How it's Done",
+            "Page": "3,4",
+            "Keywords": "Editing, publication, help, contribution"
+        }
+    ]
+}

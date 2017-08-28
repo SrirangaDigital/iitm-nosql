@@ -1,0 +1,44 @@
+{
+    "id": "002/008/014",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "9",
+    "Issue": "6",
+    "Date": "1987-03-12",
+    "Toc": [
+        {
+            "Title": "Editor's Note",
+            "Page": "1,2",
+            "Keywords": "Mardi-Gras, Focus, Elections, Spectator"
+        },
+        {
+            "Title": "Octopus Autopsy",
+            "Page": "2,3,4,5,6,7,8,9,10",
+            "Keywords": "Mardi-Gras, Polls, Standards, Complaints, Suggestions"
+        },
+        {
+            "Title": "An Interview With the Cul-Secs. On MG'87",
+            "Author": "N.Sundar, S.Sunil Kumar",
+            "Page": "11,12,13",
+            "Keywords": "Mardi Gras, Culturals, Professional Shows, Audience"
+        },
+        {
+            "Title": "An Opportunity Missed",
+            "Author": "Prof.N.V.C. Swamy",
+            "Page": "14",
+            "Keywords": "Letters to the Editor, Swami Ranganadananda"
+        },
+        {
+            "Title": "On Attendance",
+            "Author": "Dr.Ch.Durgaprasad Rao",
+            "Page": "15,16,17",
+            "Keywords": "Attendance, Credit System, Grading System, Education System"
+        },
+        {
+            "Title": "IITians in USA",
+            "Author": "Prof.J.Shobanadri",
+            "Page": "18,19",
+            "Keywords": "Brain Drain, IITians, Morality"
+        }
+    ]
+}

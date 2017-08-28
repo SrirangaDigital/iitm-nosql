@@ -1,0 +1,87 @@
+{
+    "id": "002/007/006",
+    "Type": "Publication",
+    "Publication": "Pradeep Annual Number",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": ""
+        },
+        {
+            "Title": "My Teachers",
+            "Author": "T. GOPHICHAND",
+            "Page": "1, 2, 3, 4",
+            "Keywords": "Education, Teaching, Learning, Morals, Teachers"
+        },
+        {
+            "Title": "Ulysses and the Land of Automation",
+            "Author": "C. V. RAMAMOHAN",
+            "Page": "5",
+            "Keywords": "Future, Man and Technology, Technology, Human Nature"
+        },
+        {
+            "Title": "A Significant Aspect Missing",
+            "Author": "T. S. RAMASWAMY",
+            "Page": "6, 7",
+            "Keywords": "Hostel Life, Spirituality, College Life, Worship"
+        },
+        {
+            "Title": "Hobbies I.I.T. Style",
+            "Author": "V. S. BANDHUVULA",
+            "Page": "8",
+            "Keywords": "Extracurricular Activies, Hobbies, Pastime, IIT Life"
+        },
+        {
+            "Title": "lch bin ein Braunschweiger",
+            "Author": "R. RADHAKRISHNAN",
+            "Page": "9",
+            "Keywords": "Life Abroad, Germany, Comparison, Higher Studies"
+        },
+        {
+            "Title": "Mulkraj Anand's Morning Face: A Synoptic Review",
+            "Author": "Dr. A. V. KRISHNA RAO",
+            "Page": "10, 11",
+            "Keywords": "Review, Analysis, Story"
+        },
+        {
+            "Title": "The Alumni Association, Indian Institute of Technology, Madras-36. Annual Report for the year 1969-70",
+            "Page": "12",
+            "Keywords": "Alumni, Alumni Association"
+        },
+        {
+            "Title": "Farewell to Dr. Sir. A. Lakshmanaswami Mudaliar",
+            "Page": "13, 14, 15",
+            "Keywords": "Farewell, Alumni Association"
+        },
+        {
+            "Title": "Dr. A. L. Mudaliar's Reply",
+            "Page": "15, 16, 17",
+            "Keywords": "Farewell, Alumni Association, History"
+        },
+        {
+            "Title": "Eleventh Annual Day held on 25th March 1970",
+            "Page": "19, 20, 21, 22",
+            "Keywords": "Annual Day, Report"
+        },
+        {
+            "Title": "Appreciations for Placement Section",
+            "Page": "23, 24, 25, 26",
+            "Keywords": "Placement, Alumni"
+        },
+        {
+            "Title": "Wedding",
+            "Page": "",
+            "Keywords": "Alumni, Wedding"
+        },
+        {
+            "Title": "Alumni Placement Position",
+            "Page": "",
+            "Keywords": "Alumni, Placement"
+        },
+        {
+            "Title": "Alumni Directory",
+            "Page": "",
+            "Keywords": "Alumni, Director"
+        }
+    ]
+}

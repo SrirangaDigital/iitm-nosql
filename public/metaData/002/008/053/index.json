@@ -1,0 +1,43 @@
+{
+    "id": "002/008/053",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "8",
+    "Issue": "6",
+    "Date": "1986-03-10",
+    "Toc": [
+        {
+            "Title": "Editorially Speaking",
+            "Page": "1",
+            "Keywords": "General Elections, Manifestos, Surveys, Soap Box"
+        },
+        {
+            "Title": "A Letter to the Editors",
+            "Author": "Sports Secretary",
+            "Page": "2",
+            "Keywords": "Sports Fests, Volleyball, Tennis, Publicity, Organization"
+        },
+        {
+            "Title": "On Mediocrity",
+            "Author": "V.C Ramesh",
+            "Page": "6",
+            "Keywords": "India, Mentality, Mediocrity, Sports, Tradition, IIT Life"
+        },
+        {
+            "Title": "The Irresponsible P.G Student",
+            "Author": "Thomas Tharu",
+            "Page": "8",
+            "Keywords": "Morals, Attendance, Research, Scholarship, Ethics"
+        },
+        {
+            "Title": "The Proposed Constitution Amendment: FocusMeets Dr. R.R. Srinivasan",
+            "Page": "9",
+            "Keywords": "Interview, Constitution, Revamp, Amendments, Legislations"
+        },
+        {
+            "Title": "The General Elections: Interviews with the Candidates",
+            "Page": "12",
+            "Keywords": "Interviews, Candidates, General Elections, General Secretary"
+        }
+    ]
+}

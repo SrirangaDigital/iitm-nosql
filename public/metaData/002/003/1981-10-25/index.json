@@ -1,0 +1,39 @@
+{
+    "id": "002/003/1981-10-25",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "7",
+    "Date": "1981-10-25",
+    "Toc": [
+        {
+            "Title": "Pot Pourri",
+            "Page": "1",
+            "Keywords": "Report, Results, CLT, Pot Pourri"
+        },
+        {
+            "Title": "What's in a No-Name Festival",
+            "Page": "2",
+            "Keywords": "WCC, College Fests, Report "
+        },
+        {
+            "Title": "Te Judice",
+            "Page": "2",
+            "Keywords": "Letters to the Editor, Reporting Bias , Clarifications"
+        },
+        {
+            "Title": "Odds & Ends",
+            "Page": "3",
+            "Keywords": "Reports, Inter Hostel, League Matches "
+        },
+        {
+            "Title": "Cartoons",
+            "Page": "4",
+            "Keywords": "Diwali, Inter Hostels, Swimming Pool Inaugural, Humour "
+        },
+        {
+            "Title": "This Week for You",
+            "Page": "4",
+            "Keywords": "League Matches, Inter Hostel, Week Ahead"
+        }
+    ]
+}

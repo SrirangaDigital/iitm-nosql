@@ -1,0 +1,36 @@
+{
+    "id": "002/004/1981-02-28",
+    "Type": "Publication",
+    "Publication": "Rag Mandak",
+    "Issue": "5",
+    "Date": "1981-02-28",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Articles, contest, garden, rag"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Author": "Rajeev Jayaraman, Raghavendra",
+            "Page": "1",
+            "Keywords": "Articles, writing, standard, suggestions"
+        },
+        {
+            "Title": "What's what",
+            "Author": "Roy Matthew",
+            "Page": "1,2",
+            "Keywords": "Mess, humour, food, hostel, definitions"
+        },
+        {
+            "Title": "Howzaat!",
+            "Author": "Chelluri",
+            "Page": "2",
+            "Keywords": "Cricket, stadium, humour"
+        },
+        {
+            "Title": "Puzzle",
+            "Page": "4"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "002/004/1981-04-11",
+    "Type": "Publication",
+    "Publication": "Rag Mandak",
+    "Issue": "11",
+    "Date": "1981-04-11",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Last issue, nostalgia, hostel, life"
+        },
+        {
+            "Title": "On Ragging, in the 'Rag'",
+            "Author": "Rajeev Jayaraman",
+            "Page": "1",
+            "Keywords": "Freshies, seniors, opinions"
+        },
+        {
+            "Title": "Cartoon Corner",
+            "Author": "Ashish Paralkar",
+            "Page": "3",
+            "Keywords": "Illustrations, humour"
+        },
+        {
+            "Title": "Brain Teaser",
+            "Author": "Mukund Srinivasan",
+            "Page": "3",
+            "Keywords": "Puzzle, maths"
+        },
+        {
+            "Title": "Moses 'Coins' a New Record",
+            "Page": "3",
+            "Keywords": "Coin snatch, record"
+        },
+        {
+            "Title": "Complete the Series",
+            "Page": "4",
+            "Keywords": "Puzzle "
+        },
+        {
+            "Title": "Misleading Headlines",
+            "Page": "4",
+            "Keywords": "Humour, puns, compilation"
+        }
+    ]
+}

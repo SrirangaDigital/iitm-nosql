@@ -1,0 +1,28 @@
+{
+    "id": "002/002/1981-07",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Date": "1981-09-04",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2,3,4",
+            "Keywords": "Contribution, campastimes, writing, ideas"
+        },
+        {
+            "Title": "Up The Down Staircase",
+            "Page": "4,5",
+            "Keywords": "Alcohol, drunk, experiences"
+        },
+        {
+            "Title": "Questions and Answers",
+            "Page": "5",
+            "Keywords": "Quiz "
+        },
+        {
+            "Title": "The Triumph of Reason",
+            "Page": "6",
+            "Keywords": "Dinosaur, brain, illustration"
+        }
+    ]
+}

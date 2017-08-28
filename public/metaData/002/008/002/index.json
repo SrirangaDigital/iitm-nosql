@@ -1,0 +1,51 @@
+{
+    "id": "002/008/002",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Toc": [
+        {
+            "Title": "Foreword",
+            "Page": "1,2",
+            "Keywords": "Hibernation, G.S.B, Woes, Participation, Apathy"
+        },
+        {
+            "Title": "The Environment Tightrope",
+            "Author": "Ajay Lakshman, Nagraj",
+            "Page": "3,4,5",
+            "Keywords": "Green Canopy, Environment, Summit, Problems, Solutions"
+        },
+        {
+            "Title": "The X+1 Syndrome",
+            "Author": "J. Rajagopal",
+            "Page": "6,7,8,9",
+            "Keywords": "NRIs, American Dream, Nostalgia, Culture, Careers"
+        },
+        {
+            "Title": "SACked",
+            "Author": "Rajgopal S. Kishore",
+            "Page": "10-15",
+            "Keywords": "Students Affairs Council, GSB, Participation, Procedures"
+        },
+        {
+            "Title": "R. K Laxman: A Brief Encounter with the Master Cartoonist",
+            "Page": "16",
+            "Keywords": "R.K. Laxman, Common Man, Cartoonist, Cartoon, Interview"
+        },
+        {
+            "Title": "Conversation: Partha Ghosh",
+            "Page": "17,18,19",
+            "Keywords": "Consultant, IIT KGP, MIT, Harvard, Interview, Union Carbide"
+        },
+        {
+            "Title": "What is Engineering?",
+            "Page": "20,21,22,23",
+            "Keywords": "Engineering, Career Choices, Functions, Job Oppurtunities"
+        },
+        {
+            "Title": "A Format for Public Debates",
+            "Author": "Dr. Ch Durgaprasad Rao",
+            "Page": "24-34",
+            "Keywords": "Education, Tables, GOPP, Problem Analysis, Strategies, Solutions"
+        }
+    ]
+}

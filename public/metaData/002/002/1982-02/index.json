@@ -1,0 +1,75 @@
+{
+    "id": "002/002/1982-02",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Date": "1982-08-00",
+    "Toc": [
+        {
+            "Title": "Campastimes",
+            "Page": "1",
+            "Keywords": "Sketch"
+        },
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Announcements, Contributions"
+        },
+        {
+            "Title": "You are What You Eat",
+            "Author": "Rajeev",
+            "Page": "2,3",
+            "Keywords": "Humour, News"
+        },
+        {
+            "Title": "Pre Registration",
+            "Author": "The Registered One",
+            "Page": "4",
+            "Keywords": "Poem, Registration"
+        },
+        {
+            "Title": "Limericka",
+            "Page": "4",
+            "Keywords": "Limericks"
+        },
+        {
+            "Title": "Of Feet and Footwear",
+            "Author": "Shahrukh Irani",
+            "Page": "5,6",
+            "Keywords": "Humour, Footwear"
+        },
+        {
+            "Title": "CAT",
+            "Author": "J.Shashidhar",
+            "Page": "6,7",
+            "Keywords": "Humour, Classrooms, Attendence"
+        },
+        {
+            "Title": "Film and Film Societies",
+            "Author": "Mazhar. Q",
+            "Page": "8,9",
+            "Keywords": "Film Societies"
+        },
+        {
+            "Title": "Teachers Of the World, Unite!",
+            "Page": "9",
+            "Keywords": "Sketch"
+        },
+        {
+            "Title": "Campus Scene",
+            "Page": "10,11",
+            "Keywords": "Humour, Movies, IIT"
+        },
+        {
+            "Title": "Katyayini",
+            "Author": "C-Thru",
+            "Page": "12,13",
+            "Keywords": "Literature, Women"
+        },
+        {
+            "Title": "Ode to a Spectator",
+            "Author": "Kohn Jeats",
+            "Page": "13",
+            "Keywords": "Poem, Editor, Spectator"
+        }
+    ]
+}

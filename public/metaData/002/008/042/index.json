@@ -1,0 +1,48 @@
+{
+    "id": "002/008/042",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "7",
+    "Issue": "3",
+    "Date": "1985-04-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "3, 4, 5, 6",
+            "Keywords": "Institute Day, SAC, Ecology"
+        },
+        {
+            "Title": "Job Hunting - A Lack of Ethics",
+            "Author": "Sudesh Kannan",
+            "Page": "7, 8",
+            "Keywords": "Placement, Interview, Feedback"
+        },
+        {
+            "Title": "SAC - An Appraisal",
+            "Author": "Santosh Zachariah",
+            "Page": "9-14",
+            "Keywords": "SAC, Gymkhana, Executive Wing, Committee"
+        },
+        {
+            "Title": "What's Happening to our Green IIT?",
+            "Author": "Kumaran Sathasivam",
+            "Page": "15, 16, 17, 18",
+            "Keywords": "Building, Environment, Ecology, Green, Forest"
+        },
+        {
+            "Title": "Interview with Mr. V.N. Murthy - Estate Officer",
+            "Page": "19, 20, 21",
+            "Keywords": "Building, Environment, Ecology, Green, Forest"
+        },
+        {
+            "Title": "Interview with Horticulture Superintendent - Mr. Manickavasagam",
+            "Page": "22, 23, 24",
+            "Keywords": "Building, Environment, Ecology, Green, Forest"
+        },
+        {
+            "Title": "Interview with T.N. Venkataraghavan - Chief Security Officer",
+            "Page": "25, 26, 27",
+            "Keywords": "Building, Environment, Ecology, Green, Forest"
+        }
+    ]
+}

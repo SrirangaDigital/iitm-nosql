@@ -1,0 +1,39 @@
+{
+    "id": "002/003/1981-10-11",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "5",
+    "Date": "1981-10-11",
+    "Toc": [
+        {
+            "Title": "Fiasco at Feasto",
+            "Page": "1",
+            "Keywords": "Feasto, Calicut, Basketball Tournament , Report "
+        },
+        {
+            "Title": "Te Judice",
+            "Page": "1,2",
+            "Keywords": "Letters to the Editor, Corrections, Commendation"
+        },
+        {
+            "Title": "Buckuizz",
+            "Page": "2",
+            "Keywords": "Sports Quiz"
+        },
+        {
+            "Title": "This Week for You",
+            "Page": "2",
+            "Keywords": "League Matches, Inter Hostel, Week Ahead"
+        },
+        {
+            "Title": "Sports Spec-x-Word",
+            "Page": "3",
+            "Keywords": "Crossword, Clues, Answers "
+        },
+        {
+            "Title": "Spectacle of the Month",
+            "Page": "4",
+            "Keywords": "Cartoon, R.K Laxman, Focus, Campus Times, Humour"
+        }
+    ]
+}

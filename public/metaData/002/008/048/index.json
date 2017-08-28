@@ -1,0 +1,72 @@
+{
+    "id": "002/008/048",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "8",
+    "Issue": "4",
+    "Date": "1985-10-02",
+    "Toc": [
+        {
+            "Title": "Food For Thought",
+            "Page": "2",
+            "Keywords": "One liners, humour, quotes"
+        },
+        {
+            "Title": "Editorially Speaking ...",
+            "Page": "3",
+            "Keywords": "Debate, education policy, discussion, commitment, course structure"
+        },
+        {
+            "Title": "Education Policy Discussions ... A Resume",
+            "Author": "G. Ganapathi",
+            "Page": "4,5",
+            "Keywords": "Report, discussions, education policy, teacher training, formula"
+        },
+        {
+            "Title": "Reacting to the 'Common Sense Approach'",
+            "Author": "Thomas Tharu",
+            "Page": "6",
+            "Keywords": "Panel, discussion, presentation, ideas, contents, comments"
+        },
+        {
+            "Title": "One Year Mark - Interview With the Director",
+            "Page": "7,8,9,10,11,12,13,14,15",
+            "Keywords": "Plans, transformation, research, faculty, system, department"
+        },
+        {
+            "Title": "Career Options",
+            "Author": "S. Mahadeva Iyer",
+            "Page": "16,17,18",
+            "Keywords": "Decision, opportunities, government, service, jobs, culture"
+        },
+        {
+            "Title": "No Sense in Bickering - Inter IIT and M.G.",
+            "Author": "Nikhil Narayan",
+            "Page": "19,20,21",
+            "Keywords": "Event, mediocrity, sponsor, expenditure, suggestions"
+        },
+        {
+            "Title": "Labs - A Purpose Unfulfilled",
+            "Author": "Ravi Sonnad",
+            "Page": "22,23,24",
+            "Keywords": "Experiments, facilities, complaints, electives, suggestions"
+        },
+        {
+            "Title": "Course Restructuring ... In the Air",
+            "Author": "C. J. Paul & Co.",
+            "Page": "25,26",
+            "Keywords": "Education, analysis, assignments, computer, training, course content"
+        },
+        {
+            "Title": "Sexual Morality",
+            "Author": "G. V. Mohan Rao",
+            "Page": "27,28,29",
+            "Keywords": "Orthodox, conventions, marriage, introspection, love"
+        },
+        {
+            "Title": "From the Film Club Sec",
+            "Page": "30",
+            "Keywords": "OAT, movies, guests, ticket, crowd, members"
+        }
+    ]
+}

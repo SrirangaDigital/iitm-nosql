@@ -1,0 +1,70 @@
+{
+    "id": "002/002/1984-02",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Date": "1984-02-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "3",
+            "Keywords": "Mardi Gras, NCC, NSS, hostel day"
+        },
+        {
+            "Title": "Causerie",
+            "Author": "Kumaran Sathasivam",
+            "Page": "4",
+            "Keywords": "Lawn, cycle, nature, deer park"
+        },
+        {
+            "Title": "Mardi Gras Private Ltd",
+            "Author": "Sriram R.",
+            "Page": "5",
+            "Keywords": "Festival, programmes, cigarette, events"
+        },
+        {
+            "Title": "Is The Lady Mad?",
+            "Author": "R. Srivatsan",
+            "Page": "6,7",
+            "Keywords": "Marriage, infidelity, murder, insanity"
+        },
+        {
+            "Title": "Interview",
+            "Page": "8,9,10",
+            "Keywords": "Dance, bharatanatyam, religion, Chitra Visweswaran"
+        },
+        {
+            "Title": "The Silent Valley",
+            "Author": "Mani Sundaram",
+            "Page": "11,12",
+            "Keywords": "Nature, child, rain, jungle"
+        },
+        {
+            "Title": "The Monk",
+            "Author": "Rajat Mukherjee",
+            "Page": "12,13,14",
+            "Keywords": "Life, religion, rain, God"
+        },
+        {
+            "Title": "NCC and NSS: It Is Time For a Change",
+            "Author": "Suresh Babu",
+            "Page": "14,17",
+            "Keywords": "Volunteers, attitude, change"
+        },
+        {
+            "Title": "Quiztimes",
+            "Author": "V. Phaniraj",
+            "Page": "15",
+            "Keywords": "Quiz, questions"
+        },
+        {
+            "Title": "Erno Rubik Talks to Campastimes",
+            "Page": "16",
+            "Keywords": "Interview, engineering, design, Rubik's cube"
+        },
+        {
+            "Title": "Answers to Quiztimes",
+            "Page": "17",
+            "Keywords": "Quiz, answers"
+        }
+    ]
+}

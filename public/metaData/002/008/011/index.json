@@ -1,0 +1,66 @@
+{
+    "id": "002/008/011",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "9",
+    "Issue": "5",
+    "Date": "1987-02-11",
+    "Toc": [
+        {
+            "Title": "Leach & The Lecher",
+            "Page": "1",
+            "Keywords": "Sketch, Math Reform, Contents"
+        },
+        {
+            "Title": "Editor's Note",
+            "Page": "1,2",
+            "Keywords": "Focus, Mardi Gras, Central Supplies Unit, Deforestation"
+        },
+        {
+            "Title": "The Inter IIT",
+            "Page": "2,3",
+            "Keywords": "Inter IIT, Expenditure, Sports contingents"
+        },
+        {
+            "Title": "Attendance Issue",
+            "Author": "Y.Markandeyalu",
+            "Page": "4, 5",
+            "Keywords": "Attendance, Bureaucracy, Rules and Regulations"
+        },
+        {
+            "Title": "To SAC(K) or not to SAC(K)",
+            "Author": "G.Chandrasekhara Reddy",
+            "Page": "5,6",
+            "Keywords": "SAC Meetings, Students' Constitution, Speaker, Violation of rules"
+        },
+        {
+            "Title": "Rejoinder by the SAC Speaker",
+            "Author": "G.Ganapati",
+            "Page": "6,7,8",
+            "Keywords": "Rejoinder, SAC Meetings, Attendance issues, Students' Constitution"
+        },
+        {
+            "Title": "Focusin The eyes of PGs",
+            "Author": "Mamidala Jagadesh Kumar, L.Srinivasa Reddy",
+            "Page": "9,10",
+            "Keywords": "Post Graduates, Focus, Complaints, Suggestions"
+        },
+        {
+            "Title": "\"We must Have a Common Civil Code\"",
+            "Author": "L.Kannan",
+            "Page": "11,12,13,14,15,16",
+            "Keywords": "Interview, Swami Ranganathananda, Hinduism, Religion, Civil Code"
+        },
+        {
+            "Title": "Towards \"Mastering\" Math",
+            "Author": "Mr. G.H.Gadiyar",
+            "Page": "17,18,19,20,21",
+            "Keywords": "Suggested reforms in the Teaching of Math at M.Sc Level"
+        },
+        {
+            "Title": "What IIT Lacks",
+            "Page": "22,23",
+            "Keywords": "Complaints, Academics, Student-Professor relationships, Mardi Gras, Home Sickness"
+        }
+    ]
+}

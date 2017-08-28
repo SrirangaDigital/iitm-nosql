@@ -1,0 +1,68 @@
+{
+    "id": "002/008/007",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "4",
+    "Issue": "1",
+    "Date": "1981-09-04",
+    "Toc": [
+        {
+            "Title": "Cartoon",
+            "Author": "Mr.Swamy",
+            "Page": "1",
+            "Keywords": "Contents, Credit System, Humanities department"
+        },
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "FOCUS, Policy, Goal, objective criticism"
+        },
+        {
+            "Title": "A Time for Action",
+            "Author": "Swami and Vijay",
+            "Page": "2,3,4",
+            "Keywords": "Suicide, Depression, Counselling, Emotional support"
+        },
+        {
+            "Title": "Impressions",
+            "Author": "Editors",
+            "Page": "4",
+            "Keywords": "Dean of Academic Courses, Credit System, Course Restructuring, Slot system"
+        },
+        {
+            "Title": "Are all the Girls in Their Beds- It's Past 11 o' Clock",
+            "Author": "Sarayu",
+            "Page": "5,6,7,8",
+            "Keywords": "\"Sarayu\" hostel, Curfew, Discrimination, Rules and Regulations"
+        },
+        {
+            "Title": "Stolen Books- It's The Library Again…",
+            "Author": "Namasivayam, Ramesh",
+            "Page": "8,9,10",
+            "Keywords": "Central Library, Misuse of ID cards, Bureaucracy, Callous attitude of Students"
+        },
+        {
+            "Title": "Rejoinder From the Librarian",
+            "Author": "Librarian",
+            "Page": "11,12",
+            "Keywords": "Central Library, Administration, Reminders, Central Security Officer"
+        },
+        {
+            "Title": "The Humanities Trinity",
+            "Author": "FOCUS",
+            "Page": "12,13,14,15,16",
+            "Keywords": "Department of Humanities and Social Sciences, Management Courses, Suggestions, Registration of Courses"
+        },
+        {
+            "Title": "Interview with Dr.P.S.Rao",
+            "Author": "FOCUS, Ahobala Rao",
+            "Page": "17,18,19,20,21,22,23,24",
+            "Keywords": "Credit System, Core Courses, Registration, Class Committees, Re-Evaluation"
+        },
+        {
+            "Title": "\"…Young Girls are made Differently\"",
+            "Page": "24",
+            "Keywords": "Sketch, Satire, Gender Disrimination"
+        }
+    ]
+}

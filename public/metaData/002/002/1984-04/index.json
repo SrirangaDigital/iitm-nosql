@@ -1,0 +1,32 @@
+{
+    "id": "002/002/1984-04",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Date": "1984-04-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Author": "Srivatsan.R, Sriram.R, Kumaran Sathasivam",
+            "Page": "1,2",
+            "Keywords": "Farewell"
+        },
+        {
+            "Title": "First Prize Winner- Plotter Competition",
+            "Author": "Joseph Joy",
+            "Page": "3",
+            "Keywords": "Drawing"
+        },
+        {
+            "Title": "Second Prize Winner- Plotter Competition",
+            "Author": "K.Suresh",
+            "Page": "4",
+            "Keywords": "Drawing"
+        },
+        {
+            "Title": "Third Prize Winner- Plotter Competition",
+            "Author": "Ashok",
+            "Page": "5",
+            "Keywords": "Drawing"
+        }
+    ]
+}

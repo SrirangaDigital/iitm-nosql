@@ -1,0 +1,70 @@
+{
+    "id": "002/008/031",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Date": "1982-00-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1,2",
+            "Keywords": "Dean, student affairs, administration, selection"
+        },
+        {
+            "Title": "How We Run Focus",
+            "Page": "2,3",
+            "Keywords": "Speaker, response, articles, publication, complaints"
+        },
+        {
+            "Title": "Letters",
+            "Author": "R. Srinivasan, J. Rajakumar",
+            "Page": "3",
+            "Keywords": "Complaints, discipline, alcohol, structure, SAC"
+        },
+        {
+            "Title": "To Be A Dayscholar",
+            "Author": "\"Day Scholar\"",
+            "Page": "4,5,6,7",
+            "Keywords": "Accomodation, hostel, facilities, reasons, notice"
+        },
+        {
+            "Title": "Rejoinder From the Dean of Students",
+            "Author": "Dr. R. Srinivasan",
+            "Page": "7,8,9",
+            "Keywords": "Day scholars, response, commute, exemptions, problems"
+        },
+        {
+            "Title": "Students Activity Centre",
+            "Author": "Focus",
+            "Page": "9,10",
+            "Keywords": "Construction, building, auditorium, plans, architect"
+        },
+        {
+            "Title": "A Talk With Prof. Coughanowr",
+            "Page": "10,11,12,13",
+            "Keywords": "Interview, chemical engineering, Philadelphia, university, students"
+        },
+        {
+            "Title": "Selection of Guides: a Most Important Course of Action",
+            "Author": "Ramesh",
+            "Page": "14,15,16",
+            "Keywords": "Advisor, thesis, career, faculty, characteristics, work"
+        },
+        {
+            "Title": "Of Gates and Locks",
+            "Page": "16,17,18,19",
+            "Keywords": "Taramani gate, meeting, points, responsibility, decisions"
+        },
+        {
+            "Title": "Letter to the Editor",
+            "Author": "Dr. R. Srinivasan",
+            "Page": "19,20",
+            "Keywords": "Cheque, Mardi Gras, account, facts"
+        },
+        {
+            "Title": "Rejoinder to the Director's Letter",
+            "Author": "S. Balachandran",
+            "Page": "20,21,22",
+            "Keywords": "Inter IIT, comclusions, alcohol, drugs, boycott"
+        }
+    ]
+}

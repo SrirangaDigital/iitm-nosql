@@ -1,0 +1,49 @@
+{
+    "id": "002/003/1987-00-00",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2",
+            "Keywords": "Freshies, seniors, ragging, convocation"
+        },
+        {
+            "Title": "A Feast Melodius: Curtain To Convo '88",
+            "Page": "2,3",
+            "Keywords": "Music, tamil, songs"
+        },
+        {
+            "Title": "The Steel Nerved Stealer",
+            "Page": "4",
+            "Keywords": "Godavari, theft, calculator"
+        },
+        {
+            "Title": "A Qua( r )ky Report",
+            "Page": "4",
+            "Keywords": "Quark, food"
+        },
+        {
+            "Title": "Extra Mural Lecture : A Report",
+            "Author": "Sridhar Chandrashekaran",
+            "Page": "5",
+            "Keywords": "Science, religion, Dr. Sengupta, power cut"
+        },
+        {
+            "Title": "Lit Soc Rally",
+            "Page": "5",
+            "Keywords": "Quiz, dumb charades, report"
+        },
+        {
+            "Title": "Institue Rags",
+            "Author": "Pram and VT",
+            "Page": "6,7",
+            "Keywords": "Humour, freshies, seniors"
+        },
+        {
+            "Title": "The Competition of Competitions",
+            "Page": "7",
+            "Keywords": "Humour"
+        }
+    ]
+}

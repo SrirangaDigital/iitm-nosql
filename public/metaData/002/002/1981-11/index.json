@@ -1,0 +1,64 @@
+{
+    "id": "002/002/1981-11",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Date": "1981-11-00",
+    "Toc": [
+        {
+            "Title": "To The Editors",
+            "Page": "2",
+            "Keywords": "Letters"
+        },
+        {
+            "Title": "... And Now a Word from the Editors",
+            "Author": "Editors",
+            "Page": "3",
+            "Keywords": "Campastimes, contribution, mathematics, humour"
+        },
+        {
+            "Title": "... And We Received One More Letter",
+            "Author": "Durgaprasada Rao",
+            "Page": "4",
+            "Keywords": "Letter, proccal"
+        },
+        {
+            "Title": "Forever - HSB",
+            "Author": "The Doodlebugs",
+            "Page": "4,5,6",
+            "Keywords": "Lecture, professor"
+        },
+        {
+            "Title": "Crossword",
+            "Author": "Bong & Shiva",
+            "Page": "7",
+            "Keywords": "Crossword, puzzle"
+        },
+        {
+            "Title": "Insight",
+            "Page": "8,9",
+            "Keywords": "Humanities, seriousness"
+        },
+        {
+            "Title": "One & Zero",
+            "Author": "N. Sundar",
+            "Page": "9,10,11",
+            "Keywords": "Exams, grades, study"
+        },
+        {
+            "Title": "Crossword Solution",
+            "Page": "11",
+            "Keywords": "Answers"
+        },
+        {
+            "Title": "Piller's Column",
+            "Page": "12,13",
+            "Keywords": "SAC, meeting, debate"
+        },
+        {
+            "Title": "Poetic Resolutions",
+            "Author": "The Bald One",
+            "Page": "14",
+            "Keywords": "Poem, poetry, humour, writing"
+        }
+    ]
+}

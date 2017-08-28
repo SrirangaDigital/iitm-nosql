@@ -1,0 +1,30 @@
+{
+    "id": "002/003/1982-01-31",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "3",
+    "Date": "1982-01-31",
+    "Toc": [
+        {
+            "Title": "To Whomsoever It May Concern",
+            "Page": "1",
+            "Keywords": "Editorial Policy, Campus Reporting, Candid"
+        },
+        {
+            "Title": "On Inter IIT",
+            "Author": "Prof. Sujit Singh (Sports Advisor)",
+            "Page": "2,3",
+            "Keywords": "Inter IIT, Kharagpur, Analysis"
+        },
+        {
+            "Title": "Bertram Tournaments",
+            "Page": "3,4",
+            "Keywords": "Loyola College, Inter College Tournament, Reports"
+        },
+        {
+            "Title": "This Week for You",
+            "Page": "4",
+            "Keywords": "League Matches, Inter Hostel, Week Ahead"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "002/008/026",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "III",
+    "Issue": "1",
+    "Date": "1981-01-21",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "4,5",
+            "Keywords": "criticism, sports, inter iit, general championship, GC, CAMPASTIMES"
+        },
+        {
+            "Title": "Letters",
+            "Author": "Sri R. Narayanaswamy, Dr. R. Srinivasan, Mr. Venugopal",
+            "Page": "6-8",
+            "Keywords": "gratitude, Tapti, warden, donate, memory, biology, research, dean, academic, EML, speakers, institute bus, bus, timings, PTC,"
+        },
+        {
+            "Title": "XVII Inter IIT Meet",
+            "Author": "Shiva",
+            "Page": "9,10",
+            "Keywords": "Madras, GC, general championship, tenth, consecutive, athletics, tennins, weight-lifting, hockey, Bombay, Kanpur"
+        },
+        {
+            "Title": "Story of the Decade",
+            "Author": "Vaidhy",
+            "Page": "11,12",
+            "Keywords": "champions, cheating, assualt, marksmen, umpires, referees, Kanpur, animosity"
+        },
+        {
+            "Title": "From the Horse's Mouth",
+            "Page": "12,13,14",
+            "Keywords": "lit sec, Mardi Gras, sponsored, events, entertainment, schedule, CLT, OAT, CSOAT, Shanti Kunj"
+        },
+        {
+            "Title": "More on the Film Club",
+            "Page": "14,15",
+            "Keywords": "tax, ticket, profit, prices, collection, subscription"
+        },
+        {
+            "Title": "A Shopping Centre for IITM",
+            "Author": "K. Sridhar Reddy",
+            "Page": "15",
+            "Keywords": "shopping centre, stationery, cosmetics, sportsgoods, electronics, hosiery, subsidy, Brahmaputra, basement"
+        },
+        {
+            "Title": "The Last Straw",
+            "Author": "Pinjare",
+            "Page": "16,17",
+            "Keywords": "Research scholars, screen, movies, attitude, GBM, meetings, advise, RSC"
+        },
+        {
+            "Title": "Rear Window",
+            "Author": "Art Editor Nagesh",
+            "Page": "18",
+            "Keywords": "Cartoon, rear window"
+        }
+    ]
+}

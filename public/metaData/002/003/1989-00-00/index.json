@@ -1,0 +1,34 @@
+{
+    "id": "002/003/1989-00-00",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Toc": [
+        {
+            "Title": "Results! Results! Results!",
+            "Page": "3,4,5",
+            "Keywords": "Opinion poll, elections, hostels"
+        },
+        {
+            "Title": "Football Reports",
+            "Author": "Raghu and Subodh",
+            "Page": "6",
+            "Keywords": "Report, match, Narmada, Godav"
+        },
+        {
+            "Title": "Inter Hostel TT",
+            "Author": "Ramesh Mantha",
+            "Page": "7",
+            "Keywords": "Alakananda, Saras"
+        },
+        {
+            "Title": "Inter Hostel Jam",
+            "Page": "7",
+            "Keywords": "Humour, event"
+        },
+        {
+            "Title": "Kaat-oon Korner",
+            "Page": "8",
+            "Keywords": "Cartoons, illustrations, humour"
+        }
+    ]
+}

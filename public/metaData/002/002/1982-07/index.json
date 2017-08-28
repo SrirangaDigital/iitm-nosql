@@ -1,0 +1,48 @@
+{
+    "id": "002/002/1982-07",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Date": "1982-07-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Author": "Editors",
+            "Page": "2",
+            "Keywords": "Campastimes, contributions, mid sem exams"
+        },
+        {
+            "Title": "Epitaphs",
+            "Page": "3",
+            "Keywords": "Humour, poems"
+        },
+        {
+            "Title": "Oh! Metropolis",
+            "Author": "Dan",
+            "Page": "4,5,6",
+            "Keywords": "City, college life, girls, youth"
+        },
+        {
+            "Title": "Breslin",
+            "Author": "Khaleej Times",
+            "Page": "7",
+            "Keywords": "Computer, satire, devices"
+        },
+        {
+            "Title": "Tea and IIT",
+            "Author": "Poonam",
+            "Page": "8,9,10",
+            "Keywords": "College life, tea shop, gossip"
+        },
+        {
+            "Title": "Limericka",
+            "Page": "10",
+            "Keywords": "Limericks, humour, ragging"
+        },
+        {
+            "Title": "Those Letters",
+            "Author": "Ananth",
+            "Page": "10,11",
+            "Keywords": "Ragging, administration, humour"
+        }
+    ]
+}

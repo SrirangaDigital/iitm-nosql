@@ -1,0 +1,73 @@
+{
+    "id": "002/004/1981-03-07",
+    "Type": "Publication",
+    "Publication": "Rag Mandak",
+    "Issue": "6",
+    "Date": "1981-03-07",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "1",
+            "Keywords": "Report, Mess Food"
+        },
+        {
+            "Title": "Limerick Contest",
+            "Page": "1",
+            "Keywords": "Limericks, Contest"
+        },
+        {
+            "Title": "How Can This Be?",
+            "Author": "Hari",
+            "Page": "1, 2, 3, 4",
+            "Keywords": "Riddles, Jokes, Humour"
+        },
+        {
+            "Title": "Bravo Mandak!",
+            "Author": "Stylo 311",
+            "Page": "2",
+            "Keywords": "Poem, Football, Mandakini Hostel"
+        },
+        {
+            "Title": "Why Is It So?",
+            "Author": "Tautomer",
+            "Page": "2",
+            "Keywords": "Institute Life, Hostel Liife, Humour, Life"
+        },
+        {
+            "Title": "Pondy's Quiz",
+            "Page": "3",
+            "Keywords": "Quiz, Competition"
+        },
+        {
+            "Title": "Cartoon Corner",
+            "Author": "Ashish Parelkar",
+            "Page": "3",
+            "Keywords": "Cartoon, Humour, Dark"
+        },
+        {
+            "Title": "Solution: Chess",
+            "Page": "4",
+            "Keywords": "Chess, Answers, Solutions"
+        },
+        {
+            "Title": "Howzaat!",
+            "Page": "4",
+            "Keywords": "Humour, Jokes, Fun"
+        },
+        {
+            "Title": "Fleas",
+            "Page": "4",
+            "Keywords": "Poem, Humour, Abstract"
+        },
+        {
+            "Title": "Palindromes",
+            "Page": "4",
+            "Keywords": "Palindromes, Fun"
+        },
+        {
+            "Title": "Heard in Class",
+            "Page": "4",
+            "Keywords": "Humour, Jokes, Science, Math, Lecturer"
+        }
+    ]
+}

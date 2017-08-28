@@ -1,0 +1,49 @@
+{
+    "id": "002/003/1982-01-24",
+    "Type": "Publication",
+    "Publication": "Spectator",
+    "Issue": "2",
+    "Date": "1982-01-24",
+    "Toc": [
+        {
+            "Title": "Institute Guessword Finals",
+            "Page": "1",
+            "Keywords": "Guessword, Report, Results, "
+        },
+        {
+            "Title": "Inter University Tennis",
+            "Page": "1,2",
+            "Keywords": "Tennis Tournament, Report, Results"
+        },
+        {
+            "Title": "Te Judice",
+            "Page": "2",
+            "Keywords": "Letters to the Editor, GF & KR, Puns, Kudos"
+        },
+        {
+            "Title": "Jest for Kix",
+            "Page": "2",
+            "Keywords": "Humour"
+        },
+        {
+            "Title": "In N' Aroun' MG",
+            "Page": "2,3",
+            "Keywords": "Mardi Gras, Humour, Report"
+        },
+        {
+            "Title": "Western Music",
+            "Page": "3,4",
+            "Keywords": "Mardi Gras, Humour, Report"
+        },
+        {
+            "Title": "In 'Formal' Events",
+            "Page": "4",
+            "Keywords": "Mardi Gras, Humour, Report"
+        },
+        {
+            "Title": "Cateen",
+            "Page": "4",
+            "Keywords": "Mardi Gras, Humour, Report"
+        }
+    ]
+}

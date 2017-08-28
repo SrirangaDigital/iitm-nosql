@@ -1,0 +1,45 @@
+{
+    "id": "002/008/040",
+    "Type": "Publication",
+    "Publication": "Focus",
+    "Volume": "7",
+    "Issue": "1",
+    "Date": "1985-01-00",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "2, 3",
+            "Keywords": "Editorial Policy, Editorial Board"
+        },
+        {
+            "Title": "A New Breed",
+            "Author": "Alaganandan B.",
+            "Page": "4, 5, 6",
+            "Keywords": "Mardi Gras, Informals, Events, Culturals, Management"
+        },
+        {
+            "Title": "Teacher Evaluation: An Indictment",
+            "Author": "S. Vaidyanathan",
+            "Page": "7, 8",
+            "Keywords": "Evaluation, Feedback, System, Administration"
+        },
+        {
+            "Title": "FocusMeets the Sports Sec.",
+            "Author": "Focus",
+            "Page": "9, 10, 11",
+            "Keywords": "Sports, Secretary, Inter IIT, Inter Hostel, Tournaments"
+        },
+        {
+            "Title": "Western Music - A Defence",
+            "Author": "Nikesh Sinha",
+            "Page": "12, 13",
+            "Keywords": "Mardi Gras, Opinion Poll, Security, Culturals"
+        },
+        {
+            "Title": "Interviewing Duggal (Lit Sec.)",
+            "Author": "Focus",
+            "Page": "14, 15, 16, 17",
+            "Keywords": "ProShows, Culturals, Western Music, Quiz, Mardi Gras"
+        }
+    ]
+}
