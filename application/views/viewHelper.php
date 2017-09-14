@@ -60,7 +60,7 @@ class viewHelper extends View {
     }
 
     public function formatDisplayString($str){
-		
+    		
 		if(preg_match('/^\d{4}\-/', $str))
 		$str = preg_replace('/\b(\d)\b/',"0$1",$str);
 
@@ -117,6 +117,24 @@ class viewHelper extends View {
         $accessionCardsHtml .= '</div>';
 
         return $accessionCardsHtml;
+    }
+
+    public function displayToc($toc){
+
+        $tocHtml = '
+            <div id="toc"><p><strong>Table of Contents:</strong></p><ul class="toc">';
+
+        foreach ($toc as $row) {
+
+            $page = explode(',', $row['Page'])[0];
+
+            $tocHtml .= '<li><a data-href="image_' . $page . '">' . $row['Title'] . '</a><br />';
+            if(isset($row['Author'])) $tocHtml .= '<span class="author">' . $row['Author'] . '</span>';
+            $tocHtml .= '</li>';
+        }
+
+        $tocHtml .= '</ul></div>';
+        return $tocHtml;
     }
 }
 
