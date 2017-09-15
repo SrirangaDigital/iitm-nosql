@@ -1,5 +1,6 @@
 {
     "ForeignKeyType": "Collection",
     "ForeignKeyId": "0004",
-    "Collection": "Mymoon collection"
+    "Collection": "Mymoon collection",
+    "key": "value"
 }
