@@ -6,14 +6,6 @@ $(document).ready(function(){
 
     $('.albumTitle span').css('color', bgColor);
     $('.albumTitle.' + '<?=$data['details']['Type']?>').css('background-color', fgColor);
-
-
-    // Triggering a click event on page which has to be opened
-    $('.toc a').on('click', function(e){
-
-        var imageID = $(this).attr('data-href');
-        $('#' + imageID).trigger('click');
-    });
 });
 </script>
 <div class="container">
@@ -35,13 +27,9 @@ $(document).ready(function(){
                     foreach ($data['images'] as $imageThumbPath ) {
                             
                         $imagePath = str_replace('thumbs/', '', $imageThumbPath);
-
+                        if(!isset($_SESSION['login'])){$imagePath = $imageThumbPath;}
                         if ($class == 'img-center ') $imageThumbPath = $imagePath;
-
-                        $imageID = str_replace(DATA_URL . $data['details']['id'] . '/', '', $imagePath);
-                        $imageID = 'image_' . intval(str_replace(PHOTO_FILE_EXT, '', $imageID));
-
-                        echo '<img id="' . $imageID . '" class="' . $class . 'img-responsive" data-original="' . $imagePath . '" src="' . $imageThumbPath . '">';
+                        echo '<img class="' . $class . 'img-responsive" data-original="' . $imagePath . '" src="' . $imageThumbPath . '">';
                     }
                 ?>
             </div>
@@ -62,23 +50,17 @@ $(document).ready(function(){
                     }
 
                     $idURL = str_replace('/', '_', $data['details']['id']);
-
-                    $toc = $data['details']['Toc'] = (isset($data['details']['Toc'])) ? $data['details']['Toc'] : '';
-                    unset($data['details']['Toc']);
-
                     foreach ($data['details'] as $key => $value) {
 
                         echo '<li><strong>' . $key . ':</strong><span class="image-desc-meta">' . $viewHelper->formatDisplayString($value) . '</span></li>';
                     }
-
                 ?>
                 <?php if(isset($_SESSION['login'])) {?>
                     <?=$viewHelper->linkPDFIfExists($data['details']['id'])?>
                     <li><a class="editDetails" href="<?=BASE_URL?>edit/artefact/<?=$idURL?>">Edit Details</a></li>
                 <?php } ?>
                 </ul>
-                <?php if($accessionCards) echo $viewHelper->includeAccessionCards($accessionCards); ?>
-                <?php if($toc) echo $viewHelper->displayToc($toc); ?>
+               <?php if($accessionCards) echo $viewHelper->includeAccessionCards($accessionCards); ?>
             </div>
         </div>
     </div>

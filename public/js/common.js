@@ -80,14 +80,40 @@ jQuery(window).load(function () {
     
     jQuery(window).bind('resize', buildMasonry()).trigger('resize');
 
+  var vieweroptions = {
+        // inline: true,
+        url: 'data-original',
+        ready:  function (e) {
+          console.log(e.type);
+        },
+        show:  function (e) {
+          console.log(e.type);
+        },
+        shown:  function (e) {
+          console.log(e.type);
+        },
+        hide:  function (e) {
+          console.log(e.type);
+        },
+        hidden:  function (e) {
+          console.log(e.type);
+        },
+        view:  function (e) {
+          console.log(e.type, e.detail.index);
+        },
+        viewed:  function (e) {
+          console.log(e.type, e.detail.index);
+          // this.viewer.zoomTo(1).rotateTo(180);
+        }
+      };
     if(document.getElementById('viewletterimages')){
         
-        var viewer = new Viewer(document.getElementById('viewletterimages'), {url: 'data-original'});
+        var viewer = new Viewer(document.getElementById('viewletterimages'),vieweroptions);
     }
 
     if(document.getElementById('viewCardImages')){
-        
-        var viewer = new Viewer(document.getElementById('viewCardImages'), {url: 'data-original'});
+		
+		var viewerCard = new Viewer(document.getElementById('viewCardImages'),vieweroptions);
 	}
 
 });

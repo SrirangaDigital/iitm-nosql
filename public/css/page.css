@@ -646,24 +646,13 @@ button.toggle-button{
 }
 
 .toc{
-    padding-left: 20px;
+  display: none;
+  padding-left: 1em;
 }
-.toc li{
-  padding-top: 8px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #ededed;
-  line-height: 24px;
-}
-.toc li a{
-  text-decoration: none;
-  cursor: pointer;
-}
-.toc li .author{
+
+.toc .toc-author{
+  font-size: 11px;
   font-style: italic;
-  margin-left: 20px;
-}
-.toc li .author:before{
-  content: '–';
 }
 
 .spp-general{
@@ -766,7 +755,7 @@ img.img-center{
 .albumTitle.Letter{
   background-color: #3F51B5;
 }
-.albumTitle.Article, .albumTitle.Publication{
+.albumTitle.Newspaper{
   background-color: #00AA8D;
 }
 .albumTitle.Book{
