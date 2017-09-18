@@ -10,167 +10,167 @@
             "Page": "1",
             "Keywords": "Photograph, Deer Park"
         },
-        {
+        {	
             "Title": "Our Institute Motto",
-            "Page": "1",
+            "Page": "3",
             "Keywords": "Institute Motto"
         },
         {
             "Title": "Message",
             "Author": "Prof. B. Sengupto",
-            "Page": "3",
+            "Page": "5",
             "Keywords": "Annual Number"
         },
         {
             "Title": "Editorial",
-            "Page": "5",
+            "Page": "7",
             "Keywords": "Annual Number"
         },
         {
             "Title": "An Editor's Job",
-            "Page": "5",
+            "Page": "7",
             "Keywords": "Editor"
         },
         {
             "Title": "Chronicle for 1959-60",
             "Author": "R.C.Sinha",
-            "Page": "6",
+            "Page": "8",
             "Keywords": "Activity calendar, IIT Madras"
         },
         {
             "Title": "Inauguration of the Institute",
             "Author": "Extracts from \"The Hindu\"",
-            "Page": "7,8",
+            "Page": "9",
             "Keywords": "Inauguration, IIT Madras"
         },
         {
             "Title": "Amber-Old, Yet Not Forgotten",
             "Author": "Y.Sahai",
-            "Page": "9,10",
+            "Page": "11",
             "Keywords": "Travelogue, Amber"
         },
         {
             "Title": "My Team to Mars",
             "Author": "R.Natarajan I.A.S",
-            "Page": "10,11",
+            "Page": "12",
             "Keywords": "Cricket"
         },
         {
             "Title": "\"Q\"",
             "Author": "P.C.Gupta",
-            "Page": "12,13",
+            "Page": "14",
             "Keywords": "Queues"
         },
         {
             "Title": "Lament of the Lamentable",
             "Author": "P.S. Srinivasan, B.E",
-            "Page": "13",
+            "Page": "15",
             "Keywords": "Poem, Love"
         },
         {
             "Title": "Illumination Design- A survey",
             "Author": "B.S.V. Gopalam, M.Sc",
-            "Page": "14,15",
+            "Page": "16",
             "Keywords": "Illumination Engineering,"
         },
         {
             "Title": "Brain Twisters",
             "Author": "B.S.Baliga",
-            "Page": "16,17",
+            "Page": "18",
             "Keywords": "Puzzles, Lateral thinking"
         },
         {
             "Title": "The Charms of Music",
             "Author": "P.S.Sundaram",
-            "Page": "17",
+            "Page": "19",
             "Keywords": "Music"
         },
         {
             "Title": "One World State- Only Solution to World Peace",
             "Author": "R.C.Sinha",
-            "Page": "18,19",
+            "Page": "20",
             "Keywords": "Peace, Politics"
         },
         {
             "Title": "A Society Hero",
             "Author": "M.K.Suri",
-            "Page": "20",
+            "Page": "22",
             "Keywords": "Humour, Student"
         },
         {
             "Title": "About our Library",
             "Author": "P.S. Srinivasan, B.A, Dip.Lib",
-            "Page": "21",
+            "Page": "23",
             "Keywords": "Institue Library"
         },
         {
             "Title": "On Humility",
             "Author": "T. Gopichand, D.Sc",
-            "Page": "22",
+            "Page": "24",
             "Keywords": "Humility"
         },
         {
             "Title": "Letter from Mr.Lamda to Miss. Theeta",
             "Author": "K.Nayak",
-            "Page": "23",
+            "Page": "25",
             "Keywords": "Humour, Love Letter, Mathematics"
         },
         {
             "Title": "?",
             "Author": "R.T.Narayanan",
-            "Page": "23",
+            "Page": "25",
             "Keywords": "Poem, Classes, Labs"
         },
         {
             "Title": "Tit-Bits",
             "Author": "V.Joshi",
-            "Page": "24",
+            "Page": "26",
             "Keywords": "Humour"
         },
         {
             "Title": "Can You Tell?",
             "Author": "P.C.Gupta",
-            "Page": "24",
+            "Page": "26",
             "Keywords": "Humour, Questions, Intelligence, Contentment"
         },
         {
             "Title": "Our First Academic Year",
             "Author": "D.Venkateswaralu, Ph.D",
-            "Page": "25,26",
+            "Page": "27",
             "Keywords": "Report, 1959-1960"
         },
         {
             "Title": "Laugh A While",
             "Author": "Extracts",
-            "Page": "27,28",
+            "Page": "29",
             "Keywords": "Jokes"
         },
         {
             "Title": "Definitions in Lighter Vein",
             "Author": "Extracts D.V",
-            "Page": "28,29",
+            "Page": "30",
             "Keywords": "Humour, Definitions"
         },
         {
             "Title": "Winners of events at the Annual Athletic Meet held on February 21,1960",
-            "Page": "29,30",
+            "Page": "31",
             "Keywords": "Prize Winners, Annual Athletic Meet"
         },
         {
             "Title": "Results of Tournaments",
-            "Page": "31",
+            "Page": "33",
             "Keywords": "Results, Tournaments"
         },
         {
             "Title": "Sports Report",
             "Author": "S.Randhawa",
-            "Page": "32",
+            "Page": "34",
             "Keywords": "Report, Sports Events"
         },
         {
             "Title": "Economy of Via-Media(Mixed Economy) An Advocacy",
             "Author": "A.V.Rajagopalan, M.A",
-            "Page": "32",
+            "Page": "34",
             "Keywords": "Economic Policy, Industrial Policy Resolution 1956"
         }
     ]
