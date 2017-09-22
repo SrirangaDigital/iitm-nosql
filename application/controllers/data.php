@@ -29,8 +29,8 @@ class data extends Controller {
 		}
 	}
 	
-	private function insertForeignKeys()
-	{
+	private function insertForeignKeys() {
+
 		$jsonFiles = $this->model->getFilesIteratively(PHY_FOREIGN_KEYS_URL, $pattern = '/.json$/i');
 		
 		$db = $this->model->db->useDB();
@@ -42,6 +42,29 @@ class data extends Controller {
 			$content = json_decode($contentString, true);
 			$content = $this->model->beforeDbUpdate($content);
 
+			$result = $collection->insertOne($content);
+		}
+	}
+
+	public function insertFulltext() {
+
+		$txtFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/\/text\/\d+\.txt$/i');
+
+		$db = $this->model->db->useDB();
+		$collection = $this->model->db->createCollection($db, FULLTEXT_COLLECTION);
+
+		foreach ($txtFiles as $txtFile) {
+
+			$content['text'] = file_get_contents($txtFile);
+			$content['text'] = $this->model->processFulltext($content['text']);
+			
+			$txtFile = str_replace(PHY_METADATA_URL, '', $txtFile);
+			preg_match('/^(.*)\/text\/(.*)\.txt/', $txtFile, $matches);
+
+			$content['id'] = $matches[1];
+			$content['page'] = $matches[2];
+
+			$content = $this->model->beforeDbUpdate($content);
 			$result = $collection->insertOne($content);
 		}
 	}
