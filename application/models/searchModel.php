@@ -62,6 +62,80 @@ class searchModel extends Model {
 		return $data;
 	}
 
+	public function getFullTextSearchResults($data, $page){
+	
+		$db = $this->db->useDB();
+		$collection = $this->db->selectCollection($db, FULLTEXT_COLLECTION);
+	
+		$term = $data['term'];
+		$term = preg_quote($term, '/');
+	
+		$skip = ($page - 1) * PER_PAGE;
+		$limit = PER_PAGE;
+	
+		$iterator = $collection->find(
+			[	
+				'$text' => [
+					'$search' => $term
+				]
+			], 
+			[
+				'projection' => [
+					'score' => [
+						'$meta' => 'textScore'
+					],
+				],
+				'sort' => [
+					'score' => [
+						'$meta' => 'textScore'
+					]
+				],
+				'skip' => $skip,
+				'limit' => $limit
+			]
+		);
+	
+		$data = [];
+	
+		$result = iterator_to_array($iterator, true);
+	
+		foreach ($result as $row) {
+	
+			$row['idURL'] = str_replace('/', '_', $row['id']);
+			$row['cardName'] = '<strong>Page ' . $row['page'] . ':</strong> ' . $this->getFulltextSnippet($row['text'], $term);
+			$row['thumbnailPath'] = $this->getThumbnailPath($row['id']);
+	
+			array_push($data, $row);
+		}
+	
+		if(!empty($data))
+			$data['term'] = $term;
+		else
+			$data = 'noData';
+	
+		return $data;
+	}
+
+	public function getFulltextSnippet($text, $term){
+
+		// Considering only the first word in the search term
+		$term = preg_replace('/(.*?) .*/', "$1", $term);
+	
+		$words = explode(' ', $text);
+		$matches = preg_grep('/.*' . $term . '.*/i', $words);
+		$matchedKey = array_keys($matches)[0];
+		
+		$left = $matchedKey - FULLTEXT_SNIPPET_SIZE;
+		$left = ($left < 0) ? 0 : $left;
+
+		$right = $matchedKey + FULLTEXT_SNIPPET_SIZE;
+		$right = ($right > sizeof($words)) ? sizeof($words) : $right;
+
+		$text = '<span class="fulltextSnippet">' . implode(' ', array_slice($words, $left, $right - $left)) . '</span>';
+		$text = preg_replace("/($term)/i", "<span class=\"highlight\">$1</span>", $text);
+		
+		return $text;
+	}	
 
 	public function getMatchingFieldsHTML($descArray, $searchTerm){
 

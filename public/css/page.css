@@ -241,7 +241,10 @@ a.moretag {
 .image-desc > small:empty{
     display: none;
 }
+.image-desc .fulltextSnippet:before, .image-desc .fulltextSnippet:after {
 
+  content: '...';
+}
 #grid.container .post img { padding: 0; }
 
 /* Small devices */
