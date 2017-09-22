@@ -1,0 +1,214 @@
+8
+
+CAMPASTIMES
+
+Solutions to last
+month's Puzzles
+There are seven bus routes and seven
+stations.
+a. There was an unfortunate mistake in
+the phrasing of the problem. The problem
+as it reads, is too simple. Sundararama~
+should choose Batra-Subba-Batra. The
+correct requirement for the prize is that
+Sundararaman must win at least two successive
+matches in the three-match series. In this
+case Subba-Batra-Subba is preferable to
+Da!ra-Su~ba-Batra although it means playing
+tWIce agalDst the better player.
+Let • a' be the probability of defeating
+Suhba Rao and ' b' that of defeating Batra.
+Now if S-B-S is chosen the prize is won if
+and only if the series has one of the following
+outcomes: (x) Win all three matches (a)
+Win the first two and lose the third, and (3)
+Lose the first and win the next two matches.
+The probability of (I) is axbxa; that of (a)·
+is a X b X (I -a); and that of (3) is (I-a)x b Xa.
+These three outcomes are mutually exclusive'
+that is, no single series can have more th~
+one of these outcomes. So we add the three
+probabilities to get the probability of winning
+the prize. This turns out to be zab-a2 b or
+ab(z-a). Similar reasoning gives the proba:'
+bility of winning the prize if B-S-B is chosen
+as aab-ab 2 or ab (a-b). Now. as b is
+greater than a. (a- b) is smaller than (2 - a)
+and so ab (2-a) is greater than ab(a-b).
+3. The following deal satisfies the
+conditions :
+810 9
+H 109
+I.
+
+D Q J 10 9 8
+
+C 10987
+
+N
+
+88765
+
+W
+
+E
+
+H876
+
+S
+
+D765
+CQ 6 5
+
+SAKQJ
+HAKQJ
+DAK
+CAKJ
+
+[ October. 1967
+
+If spades (or hearts) are trumps the declarer plays two rounds of hearts (or spades).
+North ruffs the third round and the club
+finesse is taken. Now the trumps are drawn
+and South makes the remaining tricks.
+If diamonds are trumps. two rounds of
+trumps are followed by three rounds of
+spades, North ruffing the third round. Two
+more rounds are played followed by a club
+finesse. South's hand makes the remaining
+tricks.
+If clubs are trumps, three rounds of spades,.
+or hearts are played, North cuffing the third
+round. The club finesse is taken and trumps
+are drawn. South makes the remaining tricks.
+
+A book on mathematics has mentioned
+that the problem can be solved in two diffe~
+rent ways. But the book did not give any
+solution and the writer is not aware of second
+solution. If any reader has found it he is
+requested to send the solution to Campastimes.
+The same book mentioned that a deal has
+been constrilcted in which N-S cannot even
+make a small slam in No Trumps while a
+grand slam is possible in any suit. Surely,
+some. of our bridge maniacs will solve the
+problem and' send the solution to Campas
+tlmes.
+w
+
+CRYPTARITHMS
+. I wonder how many have heard of crypta
+nthms although many of us must have tried
+them some time or other. These are puzzles
+which operate by substituting letters, dots or
+asterisks for numbers. Each letter stands for
+a particular digit while· a dot or as asterisk
+mar stand for any digit. It is a popular
+bellef that these are solved by inspiration
+alone. Let me assure you there is no truth
+in it. To achieve proficiency in this it is
+essential that you proceed logically using all
+the properties of numbers that you know.
+Let us take an example and see how it is
+solved. It is a multiplication by the method
+of partial products.
+w
+
+ABe
+DE
+FEe
+DEC
+HGBC
+First we note that in the second partial productDxA=D. Theref<;lreA=1. Thenboth
+C X E and C X D end in C. This means that
+(i) e is equal to zero
+(ii) C is equal to 2, 4 or 8 while D and E
+are I and 6.
+or (iii) e is.;equal to 5 while D and E are
+both odd.
+I
+(i) is not possible as in the addition of the
+two partial products, E+ C ends in B different from E. (ii) Is not possible as neither D
+nor E can be 1. If either of them were I the
+corresponding partial product would be ABC
+itself and this is not the case. So e is S. D
+and E are both odd, 3. 7 or 9.
+Now we see that ExBC==ExBS ends in
+ES.. So, if E is 3, B must be 4; if E is 7. B is
+2 ; 1f E 1S 9. B is 5. The third case is not
+admis.sible as e is already S. Now D X BC
+ends in Ee. If E is 3. B is 4 and D is 7 or
+9. But neither of these two values satisfy
+this condition. So we are left with E=7 and
+B==2. D turns out to be 3.
+Now it only remains to complete the multiplication to o9tain
+l!Z5X 37=4625.
+Here are a few simple ones:
+(1) TWOx,TWO=THREE
+(2) SEND+MORE=MONEY
+(3)
+ALE
+
+RUM
+WINE
+WUL
+EWWE
+
+ERMPNE
+In each case the aim should be not only to
+get the solution but, more important, to
+prove its uniqueness.
+- R. RAJASEKHAR.
+
+~NAN-
+
+IN
+
+r
+
+I=OUR..TIJ ,-/EJ)R,
+
+Ir
+
+THOCnN1
+
+f,JASIlfN6 usE'
+C-'~/Nt;, 'JUST
+
+H'I
+
+t»IRL ,
+
+W FU·.ITt: l>
+
+,
+
+Z
+Tel
+
+C-,E"T -rH'E PRESIP£NTS (...,0 .... 0
+,..., eOpjL So THn1
+-:J:. co UI-I> ""I)RR~
+
+HiA. So
+
+.
+
+-,,~
+
+~
+
+v:.~
+
+~
+
+r.
+
+(..)OQICED VEJty
+
+) "'Ft~D..
+Edited by Venkatesh Mannar, published by Prof. S. Sampath, and printed by C. E. Koshyat the Diocesan Press
+for Indian Institute of Technology, Madras.
+
+

@@ -1,0 +1,276 @@
+[S pring 1972
+
+CAMPASTIMES
+
+4
+
+Thesis on Periodical
+Tests ...... .
+It seems IITl3ns were born for penodlcals
+or vice-versa. Having spent sometime In
+lIT, one develops a peculiar attitude towards
+them. Some outsiders now firmly believe
+that the fame which lIT M has won In the
+press recently IS the result of these penodlcals. ThiS Imtlated some of the research
+scholars here to go sull deep In the Theory of
+Perwdu:als and make some more developments.
+They preferred working out mathematics of
+It so that things could be a.gued out nicely.
+Here's a brief review of what they dId • The vanous problems posed before estabhshmg .. Theory of Penodlcals" were as to
+how many perIodicals should be conducted In a
+semester; what should be thel' duratIon; on
+what days should these be conducted and
+so on?'
+The Fundamental Lemma '-' Each penodlcal test shall have a duratIOn of 50 mmutes.'
+The theorems which follow w!ll assume thiS
+Lemma to be true, Without lilly proof.
+CalculatuJ1t of number of Penodlcals, number
+of subjects betng ullkllown.-FoIlowmg theorem
+wIll be Important to diSCUSS here.
+Theorem :-' Total number of perIodicals m
+a semester cannot exceed certam fimte value'.
+Proof :-Assume that Nt 1 represent number
+of perIodicals conducted till t1
+N~tlll~
+
+Then/).N=N~-Ntl
+
+l:!>t, and t\, ~ finite.
+Imposmg Fundamental Lemma. We see
+that If (t2 - t 1) = duration of semester and
+perIodicals are conducted one after another,
+With one break-2f hours dally, even then
+their numbers bound to be fimte.
+This number N mu. can be eastly seen to
+be:N..-.=30X4X 24X60/so=34S6
+assuming on an average 30 days In a month
+and 4 months In a semester.
+Thus N:}-Nmu . and hence the proof.
+Remarks .-The case discussed above is
+ideal. In fact It IS not possible to conduct so
+many periodicals and IITlallS need not be
+afraid of It. The purpose of the above theorem
+was to demonstrate the maxlIDum hmlt to
+wruch N could tend under perfectly Ideal
+conditions.
+This IS also supported by an lIDportant
+onciuslon drawn from expenence t1Iat .
+'There can be no teaching or learmng
+without penodIcals. Time gap between two
+successive periodicals IS Important.'
+, TheoTem, 2 . -Total number of perIodicals IS always dIVIsible by the number 3.'
+ThiS theorem IS derived from the experience.
+An empirical formula has been developed
+to get the number of penodicals (N)
+N=3 n - 6 2 , - 6 1
+Where n-Number of weeks per semester.
+It is assumed that not more than three penodlcals shall be conducted m any week. That
+is how a factor of 3 n comeS in the expression.
+6 2 -ThiS factor explaInS reduction due
+to the fact that there are no perIOdicals for some time at the begInning of the semester.
+e1 :-Thls factor explainS reduction as
+there are no periodicals durmg
+final examinatIOn.
+ThiS explams reduction for after
+N/3 periodIcals have been conducted, there IS always certam gap
+p :-Thls factor, It IS dIfficult to explam
+as It depends upon clrcum~tances
+which lead to 'Re-penodlcals '.
+A slight tlunklng would reveal
+that qhould have a negative value
+ID the expresSIOn as It tends to
+mCrease N
+ThiS is only a bnef review. Fairly complrcated expreSSions for 71, 6 2 , el , t. P etc.
+have been dtveloped. These are beyond the
+However those who are
+scope of thIS thlSIS
+interested may work them out from the baSIC
+relatIOns given below (t) e z = f(z, I, k)
+where
+z
+Date on which the
+semester starts
+
+-+-p·
+
+1: Represents hohdays on
+days scheduled for
+penodlcal
+k: Date of commencement
+of penodlcals
+IS normally not known An Iterative procedure IS suggested for thIS I.e, by tnal
+assume values for k.. I could be found from
+• Instltute Calendar' keepmg m view holidays
+on Tuesdays, Thursdays and Saturdays.
+(II) 'I'=F (c,l)
+where c IS a constant, found experimentally
+I as defined earher.
+Note - ' If periodicals arc conducted, these wtll
+be conducted only on these days and on no othe.
+day'
+
+(m) El =Fo (If l' Ifz, 1)
+where If 1
+Date on which final examination starts
+If2 .
+Date on which final examination ends
+These are also available from 'Institute
+Calendar '.
+I as defined earher.
+(if}) P=JL ¢ (y)
+Normally p eXIst:. when 'y' IS very high
+which represents degree of toughness of
+perIOdIcals.
+1"=0, when Y IS low or medIum
+1"= It when Y IS high.
+As a check one must always remember that·(l) 6 2 , e1, o/,p all should be mtegers; may be
+zero also.
+tit) Fmally N must be diVISible by three.
+(m) Also N must be < N max. as calculated
+prevlOusl).
+"Even before thIS t1Iesls was publIShed, some
+people complained that IITlans comphcate
+thmgs rather than sunpltfymg them. It IS for
+these fellows that a very Simple method has
+been developed to get number of penodlcals
+conducted. ThiS method IS falfly accurate.
+Procedure IS given below in steps : Step I· Between 9.00 pm. to 10.00 p.m. go
+to the sub-statIOns supplying electncal
+power to all hostels, on Mondays, Wednesdays and Fndays.
+Step 2 -SWitch off supply for two minutes
+and walt for the response.
+Step 3 .-If you hear any of the followmg:(I) No periodIcal!
+(n) PerIodical postponed!
+(IiI) EEAH.
+No more mugging! .
+. •. an so on, so forth Make a count
+of one I.e.
+Initially n=o
+Step 4 :-Repeat thiS process t1l1 you stop
+gettmg such response.
+Step 5 ·-Look for the final valve m the box
+
+I
+
+X
+
++I
+
+I.
+
+ThIS IS same as N/3
+
+ThIS method can be eaSily computerised
+and have some advantages other than bemg
+so Simple
+HS+ SA++A+A A-A= B++B+ B B-B=F
+
+F
+F
+
+o
+
++:-
+
+l
+
+II
+
+I
+
+'V
+
+BIG WHEELS KEEP ON
+
+TURNING
+Nothmg one can do can stop the awesome
+march of progress. You may do what
+you Irke, but the big wheels turn mexorably,
+and keep on turmng First, there came the
+speedbreakers. Some poor bloke was unfortunate enough to ram one of them at a high rate
+of mph, thereby leavmg blhmd him vanous
+e"sentJal component<; of hiS mobtke. ThiS IS
+where the story actuJlly begms The cogs
+began to turn. StrIpes, It was whispered,
+were the answer
+Let there be stflpes', they
+said, and there were stripes. A pleasmg black
+and white combmatlOn to match any, but any,
+decor But that was not enough The speedbreakers were stlll practically InvlS)ble and
+so the red Irghts went up. That was not the
+perfect solution either ~elther lights nor signboards worked. Some sap or the other was
+mcessantly runmng mto a speedbreaker.
+'Watch that sharp night Lander near Vanavam', the word went round, as It no doubt
+has at Le Mans on several occaSlOn~, 'It'S a
+mean one! .
+The "uspen'e was unbearable ' What',
+one wondered, Wide-eyed, 'would they do
+next?' ThIS was the time of the Great
+DepreSSIOn ID my Periodical grades. I Simply
+could not concentrate The speed breaker
+was a more Vital Issue than the next day's
+periodIcal. Haggard and unshaven apparitIOns were frequently noticed near the BSB,
+muttenng. ' There must be a way" FmaIly,
+when I was close to breaking pomt, somebody
+came up With the Idea of the )ear. And as
+a consequence, the black and white stnpes
+were rotated by r/z. Now there IS progress
+for you. While people outSide the campus are
+merely talkmg about '<;clentdic endeavour'
+and vanous other polysyllabhc Ideals, we are
+qUietly gettmg things done.
+Somebody IS bound to nohce that the
+latest development cau::.es vertigo as one
+passes over the speed breaker even from the
+height of four feet. I must say that I find
+the general attltude towards the speed breaker
+a tnfle dlsappomtmg. There IS a general
+tendency to diSSOCiate oneself from them,
+e I have nothmg to do With It', you say, With
+your nose In the aIr. When are we gOlDg
+to realise that the speed breakers are our
+own? They have been bU1lt at conSiderable
+co::.t, for our own comfort. Now I have 10
+mmd a lIttle contest that ought to generate a
+tremendous amount of enthUSiasm. When
+the Big Men on Campus (who are dlffe.ent
+from the Big Boys on campus) deCide to
+make further Improvements on the speedbreakers, a contest Will be held to suggest
+SUitable deSigns for them The contest IS
+open to all students except those who are
+domg CIVIl Engmeeflng. I have 10 mmd a
+Jaz7Y op-art deSign In lummous pamt for the
+speedbreakers. And how about decoratmg
+all the roads With floral patterns ~ So ChiC
+you know 1 There Will also be an essay
+contest on the speedbreaker m not less than
+2,000 words startmg With the words, 'The
+speedbreaker 1S the shortage of whisky m
+sodablue eyes'
+When a bunch of keys are found on the
+road between Ganga and Jamuna, IS it
+customary procedure to leave them at the
+Main Gate to be picked up, one wondenng
+what a wonderful aid to commUnIcation the
+OAT mOVIe projector IS! Next week, If you
+see a terse announcement, 'WlII the gorgeous
+girl In the yellow saree meet the undel"'lgned
+at the gate after the movie ~ " the undersignatory IS gomg to be yours truly. I thought
+It would be a novel way to fix a date. Many
+others seem to have had the same Idea. Can
+you Imagme how thrilling It would be to
+have your messages flashing across the screen
+on a starry Saturday mght" Utterly romantic!
+Here's another Idea. Why not have classes
+at mght ID OAT In the form of cartoon strIps?
+It IS whlspend that many lecturers could
+eaSily be madc the subjects of cartoons,
+purely In the 1I1terests of education of course.
+I persona)ly prefer Donald Duck, .•...
+I
+
+-K.
+
+MAHESH.
+
+

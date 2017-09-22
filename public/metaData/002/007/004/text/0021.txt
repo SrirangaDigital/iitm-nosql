@@ -1,0 +1,170 @@
+7
+IV. Ten professors at I.I.T., Madras were asked to judge the relative sweetness of five hostel
+sweetsCauvery
+A;
+Krishna
+B;
+Narmada
+C
+Tapti
+D;
+Godavari
+E;
+by the method
+of paired comparisons. In jUdging ~ach of the possible pairs they were required to unequivocally state which of the two sweets was sweeter; a judgment of equality or no
+difference was not permitted. The results of the judgment are summarised below.
+In studying the table note that each cell entry corresponds to the no. of comparisons in
+which the row sweet was judged to be sweeter than the column sweets.
+A
+
+B
+
+C
+
+E
+
+D
+
+-- ---- -- -- -A
+I-
+
+B
+
+-C
+
+5
+
+-
+
+-5
+
+~-
+
+2
+
+2
+-----9
+6
+3
+8
+
+---7
+
+10
+
+- -- 8
+
+7
+
+Fig. 3
+
+- - - - - - - -- - - D
+
+0
+
+-- -E
+
+8
+
+1
+~-
+
+4
+
+3
+
+4
+
+- - --1-2
+
+6
+
+I
+
+16.
+
+How many sweets did each professor eat?
+A)
+10
+B) 20
+C) 30
+D) 40
+17. Which hostel sweet is judged to be the sweetest?
+A)
+A
+B) B
+C) C
+D) D
+18. Which hostel sweet was judged to be the least sweet?
+A)
+A
+B) B
+C) C D ) D
+19. Which of the following statements is most nearly correct?
+A) There was almost perfect agreement among the ten professors.
+B) The clearest discrimination was between B & C
+C) The professors' wives probably do not prepare good sweets.
+D) Hostel D was most clearly discriminated from the other four.
+20. Between which of the two sweets was the discrimination least consistent?
+B) B&A
+C) C&E
+A) A&D
+D) D&C
+
+BRAIN TEASERS
+Answers
+1.
+
+2.
+3.
+4.
+5.
+
+C
+A
+A
+B
+D
+
+6.
+7.
+8.
+
+9.
+
+B
+C
+B
+D
+
+10.
+
+B
+
+11.
+
+12.
+13.
+14.
+15.
+
+A
+C
+B
+A
+
+B
+
+16.
+17.
+-18.
+19.
+20.
+
+B
+A
+D
+D
+B
+
+

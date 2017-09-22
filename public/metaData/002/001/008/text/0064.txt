@@ -1,0 +1,39 @@
+Thermal Power From Sea
+M. N. Viswaoathao,
+Associate Lecturer in Mechanical Engineering
+Steam Laboratory.
+The use of tidal waves as the source of generating electricity is a well known
+phenomenon and there are already some power stations that generate power
+by tapping energy from from tidal waves. Another method of energy production,
+as yet untried in the commercial sense, is that of exploiting the difference between
+the temperatures at the surface and at the bottom of the sea in tropical zones.
+This scheme was envisaged over a hundred years ago by Jules Verne, whose
+forecasts in so many fields of science have come true in recent years. He made
+this proposal in "Twenty Thousand Leagues Under'the Sea". In 1926, M. Georges
+Claude put forward a proposal based on the Carnot cycle for a practical scheme
+for utilizing this sea temperature difference.
+Basically, the scheme is simple. It is a well known fact that water boils
+at a lower temperature at reduced pressures. Suppose now that one has a source
+of warm water that is led into a chamber which is continually exhausted or
+maintained at sub-atmospheric pressure. The water instantly boils. If the vapour
+is passed into a chamber containing cold water it will at once condense. If the
+vapour in its passages from the evacuated chamber to the condensing chamber
+strikes the blades of a turbine, then the turbine will be driven round, thus
+generating power. The warm water from the surface of the tropical ocean is led
+into an evacuated chamber where it vaporizes. The vapour is sucked down
+through the blades of a large tubine wheel into the condensing area, containing
+cold water from the bottom of the sea. In doing so it turns the turbine blades
+which are of, the reaction type and drives the alternator mounted at the top of the
+turbine shaft.
+Mr. M. Daric, a French engineer, has put forward a totally different
+proposal. In his proposal, he uses an intermediate fuel such as propane or
+isobutane as the working fluid. Warm water, from the top of a steel tower,
+evaporates the propane and the gas then drives the turbine. The cold water at
+the bottom of the tower recondenses the gaseous propane and the cycle is
+repeated. Operation of the plant on a fluid other then water eliminates the
+problems of deaeration and high-vacuum production. Propane is used as the
+working fluid because of its low cost and non-corrosive action.
+
+48
+
+

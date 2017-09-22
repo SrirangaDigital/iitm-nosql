@@ -1,0 +1,46 @@
+developed by Schroedinger and Dirace required complicated partIal differential
+equations. Modern Physics and electronics required plenty of mathmatics of a
+very higb standard for its thorough understanding. This led to new methods for
+solving dIfferential equations and new statistical analysis in probability theory.
+The advent of the modern space age with its space rockets gave a great
+boost to mathematics. The equations of Rocket motion and jet propulsion were
+first quantitatively worked out by the great Russian space pioneer K. Tsiolkovsky
+about th~ turn of the century. The Russians honoured his birth centenary by
+launching the World's first artificial satellite in OcL 1957.
+In modern science mathematics fiinds its place not only in science and
+technology but is indispensable in almost evey sphere of human activity, Its
+extensive applications in economics and economic theory, trade, market
+research, stocks and shares, banking, clerical work and in Cact in the daiJy life
+of the ordinary citizen.
+Any account of the history of mathematics would be incomplete without
+the mention of modern electronic computers. The need for such high speed
+calculating machines was strongly felt during the second World War. The
+possible trajectories of missiles had to be computed before they struck their
+target. A brief outline of the history of calculating machines may be given
+here. The first to invent an adding machine was the French genius Blaise Pascal
+in the seventeenth century. The desk calculating machines now used in offices
+was only a modification of this simple original device.
+The next idea came from Oxford student Charles Babbage in 1822. Babbage
+designed a machine which could handle numbers upto five digits. He had plans
+for constructing a much larger machine. Unfortunately this was never built
+as the mechanical engineering know-how of his time was not up to this formidable task. According to Babbage mathematical operations with numbers was the
+lowest operation of the human brain., Thus his idea of a calculating machine.
+8abbage's idea was taken up about a century later by Bush and his
+colleaugues at the Massachessuts Institute of Technology. Bush made Babbage's
+dream come true, although his machine had nothing to do with electronics. The
+era of eleetronic computers began about the middle of the Second World War.
+Goldstein was a pioneer in this field. He made the first computer 'the Eniac'.
+Computers developed rapidly after the second world war. They could perform
+arithmetical operations and solve differential equations millions of times faster
+than the human brain. It was soon realised that computers would be extremely
+useful in clerical work in offices and business houses. Such a computer could
+duplicate the lifetime work of an ordinary clerk in two minutes 1 Computers
+found their way into banks and insurance companies. The first electronic bank
+clerk was 'Emma·. It weighed 25 tons. One difficulty about computers was
+their size. Even this was considerably reduced with the invention of the
+transistor by William Shockley. Computers shrank in size from that of a big
+
+room to that of a small suitcase.
+95
+
+

@@ -1,0 +1,154 @@
+5
+The rectangular solid shown in figure 1 is 9 cms long (X) 7 ems high (y) and 5 cms thick (Z)
+and is composed of centimetre cubes. The cubes are identified by their coordinates (X, Y, Z)
+for ego A is (1, 2, 0) and B is (8, 4, 2).
+
+1.
+
+How many cubes are there for which Z
+A)
+C)
+
+2.
+
+3.
+
+4.
+
+5.
+
+30
+31
+
+=
+
+1 and (X + y
+
+B)
+D)
+
++ Z)
+
+is even?
+
+32
+None of the above
+
+What are the co-ordinates of the cube 'B' if the layer Z = 2 is rotated by 180 0 and the
+0
+layer Y 3 = is rotated by 180 in the order indicated?
+A) (0, 2, 2)
+B) (2, 6, 2)
+C) (8, 2, 2)
+D) (8, 3, 2)
+Which cube does not have a face which touches a face of the cube (4,'5, 3)?
+A) (3, 5, 2)
+B) (4, 5, 4)
+D) (4, 6, 3)
+C) (3, 5, 3)
+What is the side of the largest cube that could be constructed using the cm. cubes
+which would have the greatest of the exterior cubes of the rectangular solid?
+A)
+
+7
+
+C)
+
+6
+
+B)
+D)
+
+5
+None of the above
+
+In what arrange is the exterior surface area of the rectangular solid that could. be con..
+structed from the cm. cubes which would have the greatest external surface?
+
+A)
+C)
+
+200-400
+800-1200
+
+B)
+D)
+
+400-800
+None of the above.
+
+II.
+M
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+-- - - - - - ------ --
+
+N
+
+Fig. 2
+
+i
+
+j
+
+k
+
+I
+
+o
+
+p
+
+Q
+
+R
+
+s
+
+T
+
+In Fig. 2 M, N, 0 are the sums of the entries in the respective rows and P, Q, R, S are the
+sums of the entries in the respective columns. Each of the table entries a, b, c. d - - l
+is a positive number
+a+b+c+d = M
+c
+g
+k, = R
+M+N+O=P+Q+R+S=T
+
+For e.g.,
+
+6.
+
++ +
+
+If the numerical values for the capitals are all known, how few of the values for the
+lower case letters must also be given to assign correct values to all of the letters in the
+diagram?
+A)
+C)
+
+5
+7
+
+B)
+D)
+
+6
+None of the above.
+
+

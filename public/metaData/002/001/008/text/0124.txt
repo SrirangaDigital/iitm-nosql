@@ -1,0 +1,44 @@
+Maxwell's theory was proved correct by the results of the experiments of
+Hertz and Marwani. Maxwell's electromagnetic theory was undoubtedly one of
+the greatest achievements of nineteenth century mathematics.
+Another important landmark in mathematics in the nineteenth century was
+the prediction of the existence of the planet Neptune before it was seen. It was
+observed by mathematicians that the planet Uranus (discovered by Herschel) was
+not exactly following its predicted path around the sun. It sometimes lagged behind or went too fast at other times. The suggestion was made that an unknown
+planet was pulling on Uranus and tending to drag it away. Two mathematicians
+John Adams of England aud Le Verrier of France using the data supplied by
+observations of Uranus' orbit successfully worked out (on paper!) the exact
+position of the unknown planet which was causing these discrepencies
+When astronomers turned their telescopes to the spo~ predicted they saw
+the new planet! This clearly showed the mathematical accuracy and correctness
+of Newton's law of gravitation. It wa& under similar circumstances that Lowell
+and Pictcering predicted the existence of the planet Pluto from perturburations
+on Neptune's orbit. The planet Pluto was actually discovered by Clyde Tombaug
+in 1930.
+Pure mathematics also advanced greatly in the 19th Century. Riemann
+postulated a new type of geometry different from that of Euclid. This is
+known as non-Euclidean or Riemann geometry. Algebra also underwent
+siginificant changes. The theory of matrices was postulated. The vast Physical
+scope and sigi~ificance of matrices were recognised. Number theory advanced
+a lot. Modern Algebra beean its appearance in the realm of mathematics.
+Several methods to solve differential equations were postulated by Bessel,
+Laplace, Euler and others.
+Towards the end of the nineteenth century the famous Michelson - Morley
+experiment was conducted, This experiment opened the door to one of the
+greatest mathematical works of all time-The Theory of Relativity-by Albert
+Eintsein. Using the Lorentz transformations (worked out a few years earlier by
+Lorentz; Eintsein succeeded in deriving the many revolutionary and starting
+conclusions of special relativity. The truth of his mass-energy equation was
+clear1y demonstrated by the 'small' atom bombs (small by modern standards for,
+~ the 50 megaton bomb is 2,500 times more powerful than these bombs!) which
+completely wiped out the fine cities of Hiroshima and Nagasaki. Einstein alao
+developed a simple mathematical relation for the Photoelectric effect (discovered
+by Hertz) and for this he got the Nobel Prize in 1921. Eintsein also extended
+the tensor calculus and the non Euclidean Riemanan geometry theory of electroInagnetic radiation was worked out by Planck. Planck's radiation equation was
+the starting point for the developme~t of modern quantum mechanics and
+quantum physics. The great advances in physics made in the twentieth century
+~imultaneously advanced mathematics. The probability wave theory of matte.
+
+94
+
+

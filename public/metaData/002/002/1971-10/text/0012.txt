@@ -1,0 +1,291 @@
+[Fall 1971
+
+CAMPASTIMES
+
+12
+
+on the experimental verIficatIon of these
+predictions.
+A new look: A suggestion has been made
+to take a quantum mechantcal mode ) of a
+person. The clgen values of the characteristic operator H IS supposed to give aU the
+pOSSible states (ground state and eXCIted
+states). Also It IS mterestlng W notIce the
+fact that the elgen values of the multlphcatlon operator HI H2 can be only mtegral
+(such as 0, 1, 2, 3, 4 etc) the maxImum
+bemg hmlted by the order of the day.
+lrandukku Pzragu Ippodhu Vendham.
+A. V. PRASAD.
+
+JF YOU HAVE NOTHING TO DO-HERE'S
+SOMETHING FOR YOU
+The mtncate human being IS best explalOed
+If you agree wIth It,
+come on Let us proceed, If you don't,
+forget about It.
+Every person can be represented, III general,
+by a complex entzty H where
+H = h ' +111." where I = y'-:::"i:
+Men differ. You know that best. But
+why? Here IS the answer. They vary becauSe their h' and h" factors vary. As sunple
+as that.
+N ow let us consider the varIOUS possIble
+-cases We will classify the persons mto two
+dlstI~ct categories, the values of h' and h"
+bemg deCISive In so dOIng.
+A i For all those who come under thiS
+head h" (the Imaginary part) IS so small that
+for all pracucal purposes (theorehcal purposes
+not excluded) It can be taken as 7ero. Animals,
+~f course come under thIS group. Some
+human bemg too have thIS prIVIlege.
+We WIll make an agreement (agreement
+NO.1) that posItive sIgn refers to construction
+.and negatIve sign to destructIOn (unless otherWise spectfied).
+The real part, in general, can be a Surd
+h' = a + :y;b
+Sub-group (I) b = 0: Persons belongmg
+to thiS type, though lackmg m Imagmatlon,
+:are rational. An Ideal (I.e. unheard of)
+-example IS, a SIlent pohtlclan People WIth
+negative 'a' are cold, calculatmg villams.
+Highly constructive people (lIke mel) are
+thought to be haV10g a hIgh pOSitive value
+• for a.'
+S.G. (ll) a = 0, b posItIve persons who
+can't Imagme totally lr~onal. No dou~
+you would lIke to wnte y' b better as ± y' b.
+So these Irrational ones can be destructive as
+well. Such people are very dangerous.
+B. Here comes the group With large h" and
+<Jf course With ordmary values for hi but
+negligible In companson With h".
+• Lovers, lunatics and poets' along with
+sClentlsts and artISts form tlus 1II0St lnteresbng
+group.
+Needless to say, 11'" can 10 general be a surd
+h" = c +
+Rere agalll, we agree that positIve and negattve sIgn for h" refers to optimism and
+pessUTusm respectively.
+(I) C = 0 People who do imagine-but
+IrratIOnally. The Shakespearean trw IS a direct
+InclUSion to thIS sub-group. Here attachmg
+a Sign to y'd doesn't make much difference.
+It has been reported, (and Will be discussed a
+tutle later) that the factor
+varies With time
+and space co-ordInates; This In partIcular,
+bemg worth nothing. The clasSIC examples
+of thiS grQup are said to acqUire a fit of
+spmtedness at particular mstants of tJme and
+.a partIcular places (obVIously correspondmg
+to the extremum values of d).
+([1) ThiS IS a group With a large value for
+-c. People who are capable of Imagmlllg meantngful thmgs as well as interpretIng them
+rationally; or rea)lSmg theIr Imagmauon With
+.an admIrable pIece of art. An Emsteln, a
+Michelangelo, a Russell-all comb me to make
+thIS sub-group a promInent one (It has been an
+tnterestlng observation that people of B (11)
+batch have 1n them an erratic dlstnbutlon of
+factor d too).
+So we arnve at a most general representation of a human beIng.
+H = [a (x, t) ±
+(x, t)
+± i (c (x, t)
+.L y'd (x, t)
+It IS hoped the lOtroductory part given so
+far IS not too difficult to understand.
+as a compleX vanable.
+
+vid
+
+vd
+
+vb
+
+Assrgnment to readers (1) For a particular
+value for x and t plot the lOdlvldual probability dlstnbutlon for a, b, c and d.
+(2) Plot the tIme varIatIOn of a, b, c and d
+for a partlcular x, and hence predict the
+general atmosphere and tendency In the IlT
+-campus dUring the year 1999-2000.
+(3) See for what value of x (for the present)
+the factor d has a maxImum (6tark lUnacy).
+DefimtlMs: To make the subject look
+sophIsticated, we define some coeffklcnts
+.arbltrardy.
+
+= Coefficient of complexity =
+
+h"
+
+~
+
+hI
+
+M. A.
+
+SREENIVAS.
+
+NIGHT COMES AT 10.00 A. M.
+
+.........
+a
+
+= Coefficient of real rationality =
+
+b
+
+c
+= Coefficient of imagmary
+rationalIty
+d
+Readers are free to enumerate as many coeffiCients as possible, so as to make the problem look more confusmg and open out new
+branches of research.
+It would be worthwhile introducing a
+couple of more terms charactenslng persons.
+When a person can multIply, but has got no
+smaller factors, we call that person a
+pnme.
+Squares are usually old fashioned. In fact,
+persons who obey UnIverse square law are
+always conservative.
+OperatIOns WIth people: The primary operation m the case of people IS multIplicatIon.
+The result of multtp\!catlon of two people
+IS called a product, and multIplYIng persons
+are called conjugates, we wIll represent them
+by HI and Hz
+We come across an Ideal case when Hi and
+Hz are complex conjugates of each other.
+HI = Hz'" In thiS case the product at the
+time of formation would be purely real.
+ASSIgnment (4) Give an InterpretatIOn for
+the addition of two complex numbers, keepmg
+In mmd that the sum of two complex conjugates IS Simply the sum of theIr real parts.
+Appearance '-The factor h' is supposed to
+playa major role m decldlOg what IS called
+the' beauty' of a person The space part of
+C A'
+for beautiful people IS thought to be
+smusoldal With perIodiC peaks (may be
+attenuated) hI = hI (f) exp (I-a)x' lx' IS a
+vanable over the human
+body.] The
+values of the functIOn at mmtma and maxima
+give what we would lIke to call 'vital
+statistics '.
+Mod of a perron :-At this juncture, we
+can define a quantity called the mod of a
+per<;on. It IS a characteristic length associated
+With a person (not to be confused With the
+length of side burns or depth of waist hnes).
+For example HI = 4
+5i IS mod. than
+H2 = 1+ 4i
+and hence I HI I > I Hz I
+Note that In the case of multiplication of
+complex conjugates the Mod IS conserved.
+ThIS has sinCe been confirmed JIl many
+cases.
+Prt'dJcil0ns
+Any new theory mllSt predIct
+ncw phenomena. The present theory predicts
+the fo\lowmg . I ]~I\tlrely real persons are their own
+compkx <-onJugatlon.
+z. Rtal product results when two purely
+imaginary people multiply.
+The validity of thiS theory will depend
+
++
+
+The colour IS a dull drab grey
+Tho' It may be the middle of May
+The world IS too cunnmg
+It IS past Just punfllng
+There are too many III the fray.
+A man with feelmg IS sad and lost
+An and adventure are reaIly the cost
+Of course they laugh
+ThInk of Jeeves and Falstaff
+But mSlde pam takes the place of the past •
+Men often come and (If you are lucky)
+men often go
+With their women always making up
+the row
+But what happened to Goodness
+The enemy of their mdIfferent rudeness
+That the Vedanta and Schweitzer asked
+us to show .
+Men can exploit and men can kill
+They can make theIr children follow
+their will •
+They are the pillars of society
+The repositenes of piety.
+Fire If you want to be Jack,
+Take me as your Jill.
+They mumble' sorry' they murmur
+• pleaae'
+They remmd you all the time of grease
+They sing and they dme
+And call him •a swme'
+Who has three kids With pot-bellies.
+There 18 a debate there IS a seminar
+Followlllg It IS food With CigarS from afar
+, Rank IS but a gUInea-stamp
+Sunpilclty IS nature's lamp'
+So saymg the words tra11 mto the
+nearest bar.
+Man, why don't you try to be true
+Only then Will my plaintive cry be thro'
+You may fad
+MIght end up In jaJ!
+But InSide the cell atieast, you
+w1l1 be You.
+P. N. VIJAY.
+
+As
+
+r
+
+The elouds
+
+calmly lie down
+QUIte fatlgu.ed after the day-long
+lonely toil,
+Waiting all-all alone
+so long for the sweet sleep's arrival,
+Thoughts, lIke gushing waves,
+Splash on the Silent shore of mmd
+and set It In cold and fiery wind,
+from the distant graves.
+Listen-to the howhng Jackals.
+hootIng owls,
+BaYing hands and slidmg grounds,
+From r I know not where.
+When that sound
+slowly turns milder and mIlder
+And those VIolent wa,es descend
+and eyehds stealthily drown In slumber,
+The fearful-felt nolS::
+of those dreadful ascendmg waves
+Get transformed IIItO frIghtening shapes
+before the half-lIt eyes.
+On\;e those dreaded eyes open out
+to the stark darkness, WIth my
+frightened SIghs
+The struggle for slumber's Sight, is
+all Ifi yam and desperate
+Tomorrow? Tomorrow IS nothmg
+but to-day's monotonous repetltlon
+The same bird smgmg
+The same dreary tune In tts everheard tone to those who lIsten
+So the future fate IS bound to be-this
+There can be no expectation of more blIss
+'Yet_
+I rISe with the rising sun-amid
+the clouds.
+
+A. 'V. PI\ASAD.
+
+

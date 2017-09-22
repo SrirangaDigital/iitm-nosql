@@ -1,0 +1,40 @@
+News-Flash From The Departments
+DEPARTMENT OF AERONAUTICS AND APPLIED MECHANICS
+In addition to the conventional facilities for testing, such as testing machines, loading
+frames. load cells and strain and deflection gauge instrumentation, tht're exist special items
+such as a network analyser, a membrane analogy apparatus. photoelastic equipment, and a
+column testing apparatus which have been deslgned and fabricated by the Staff. A Bi-axial
+testing machine has been designed and is under fabrication.
+The research projects under active investigation In this field are; Buckling of AnIsotropic pJates and shells (experimental and theory); VIbration of Anisotropic plates, shells
+and structures; Development and lmplementation of general purpose computer programmes
+for structural and eJastlc problems; Limit analysis of anisotropic plates and shells; Buckling
+of shells of lamination under axial loading; Ultimate load analysis of steel and R C. model
+slabs with cut outs; R.C. rings subjected to diametral loads~ Analysis of structures for
+creep; Plastic behaviour of metals like steel and aluminium under certain condi lions; and
+stress analysis of the junction of a cylindrical and conical shells.
+As a result of generous West German Aid, it has been possible to i!lstall major items
+of equipment in this laboratory such as (i) Open test section c1osed-ci rcui t low-speed wind
+tunnel of nozzle diameter 1.5 m with an installed power of 180KW, a maximum flow
+velocity of 60 m/second. equipped with a semi-automatic six-component balance: (ii) An
+open circuit low speed wind~tunnel with cJosed test section of 0.6 m x 0.6 m; (iil) a diffuser
+test stand with 75 KW installed power.
+The current research activities in the field of Fluid Mechanics areExperimental investigation of incompressible 3 - dimensional turbulent boundary
+Jayers on yawed flat plate; Experimental investigation of incompressible axi-symmetric
+turbulent boundary layers; Aerodynamic interference between fuselage and nacel1es in case
+of rear mounted engines; Theoretical computation and expenmental investigation of the
+incompressible flow in annuJar diffusers: Theoretical computation of the aerodynamic
+characteristics of swept wings and delta wings in compressible subsonIc flow; Experimental
+investigation of the drag and lift coefficients of sphere rotating in a uniform flow about its
+axis normal to the flow.
+This Laboratory is also assisted by West German Aid and some of the major items of
+equipment from West Germany include various types of mechanical and electrical shakers
+and transducers, statIc and dynamic stram measunng equipment, frequency counters and
+recording instruments, noise and random vibration measuring equipment and spectra a nalysers. Besides, the Labora tory possesses a number of indigeneous general purpose electrical
+and electronic instruments used in vIbration studies.
+The Mechanisms Laboratory has a considerable number (about 130) of mechanism
+models. link motions, mechanical harmonic analysers and function generators. A model of
+lobe pump has been fabricated for demonstration, while a Dynamic Balancing Machine has
+been designed and is under fabrication.
+\
+
+
