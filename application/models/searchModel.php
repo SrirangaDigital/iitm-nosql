@@ -72,26 +72,16 @@ class searchModel extends Model {
 	
 		$skip = ($page - 1) * PER_PAGE;
 		$limit = PER_PAGE;
-	
-		$iterator = $collection->find(
-			[	
-				'$text' => [
-					'$search' => $term
-				]
-			], 
+		
+		$match = [ '$text' => [ '$search' => $term ] ];
+
+		$iterator = $collection->aggregate(
 			[
-				'projection' => [
-					'score' => [
-						'$meta' => 'textScore'
-					],
-				],
-				'sort' => [
-					'score' => [
-						'$meta' => 'textScore'
-					]
-				],
-				'skip' => $skip,
-				'limit' => $limit
+				[ '$match' => $match ],
+				[ '$group' => [ '_id' => '$id', 'pages' => [ '$push' => '$page' ] ] ],
+				[ '$sort' => [ '_id' => 1 ] ],
+				[ '$skip' => $skip ],
+				[ '$limit' => $limit ]
 			]
 		);
 	
@@ -100,11 +90,23 @@ class searchModel extends Model {
 		$result = iterator_to_array($iterator, true);
 	
 		foreach ($result as $row) {
-	
+
+			$row['id'] = $row['_id'];
+			$row['pages'] = (array) $row['pages'];
 			$row['idURL'] = str_replace('/', '_', $row['id']);
-			$row['cardName'] = '<strong>Page ' . $row['page'] . ':</strong> ' . $this->getFulltextSnippet($row['text'], $term);
+			
+			$row['cardName'] = '<span class="fulltextSnippet">';
+			$row['cardName'] .= '<strong>Found at page(s): </strong>';
+
+			sort($row['pages']);
+			foreach ($row['pages'] as $page) {
+					
+				$row['cardName'] .= '<span><a href="#' . $page . '">' . preg_replace('/^0+/', '', $page) . '</a></span>';
+			}
+			$row['cardName'] .= '</span>';
+
 			$row['thumbnailPath'] = $this->getThumbnailPath($row['id']);
-	
+
 			array_push($data, $row);
 		}
 	
@@ -139,6 +141,9 @@ class searchModel extends Model {
 
 	public function getMatchingFieldsHTML($descArray, $searchTerm){
 
+		// Toc fields are excluded here
+		if(isset($descArray['Toc'])) unset($descArray['Toc']);
+		
 		$searchTerm = $searchTerm;
 		$terms = explode(' ', $searchTerm);
 		$termsRegex = implode('|', $terms);
@@ -150,7 +155,7 @@ class searchModel extends Model {
 		foreach ($terms as $term) {
 			
 			foreach ($descArray as $key => $value) {
-				
+
 				if(preg_match('/' . $term . '/i', $value)){
 
 					$value = preg_replace("/($termsRegex)/i", "<span class=\"highlight\">$1</span>", $value);

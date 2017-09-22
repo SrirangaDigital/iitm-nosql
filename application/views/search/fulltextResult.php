@@ -27,10 +27,10 @@ $(document).ready(function(){
         <div class="post">
             <a href="<?=BASE_URL?>describe/artefact/<?=$row['idURL']?>" title="View Details" target="_blank">
                 <img src="<?=$row['thumbnailPath']?>">
-                <p class="image-desc">
-                    <?=$row['cardName']?>
-                </p>
             </a>
+            <p class="image-desc">
+                <?=$row['cardName']?>
+            </p>
         </div>
 <?php } ?>
     </div>

@@ -241,9 +241,9 @@ a.moretag {
 .image-desc > small:empty{
     display: none;
 }
-.image-desc .fulltextSnippet:before, .image-desc .fulltextSnippet:after {
+.image-desc .fulltextSnippet > span:not(:last-of-type):after{
 
-  content: '...';
+  content: ', ';
 }
 #grid.container .post img { padding: 0; }
 

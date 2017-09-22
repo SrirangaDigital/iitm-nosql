@@ -207,8 +207,8 @@ function buildMasonryFromJson(json){
             displayString += '<div class="post">';    
             displayString += '<a href="' + base_url + 'describe/artefact/' + obj[i].idURL + '?' + aux.filterString + '" title="View Details" target="_blank">';
             displayString += '<img class="img-responsive" src="' +  obj[i].thumbnailPath + '">';
-            displayString += '<p class="image-desc">' + obj[i].cardName + '</p>';
             displayString += '</a>';
+            displayString += '<p class="image-desc">' + obj[i].cardName + '</p>';
             displayString += '</div>';
         }
     }
