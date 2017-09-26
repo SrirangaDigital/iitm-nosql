@@ -27,6 +27,9 @@ class data extends Controller {
 
 			$result = $collection->insertOne($content);
 		}
+
+		// Insert fulltext
+		$this->insertFulltext();
 	}
 	
 	private function insertForeignKeys() {

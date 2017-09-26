@@ -46,6 +46,15 @@ $(document).ready(function() {
         });
     });  
 
+    $('#toggleSearchType input').on('change', function(){
+
+        var actionUrl = $('#searchForm form').attr('action');
+
+        actionUrl = ($(this).is(":checked")) ? actionUrl.replace('field', 'fulltext') : actionUrl.replace('fulltext', 'field');
+        
+        $('#searchForm form').attr('action', actionUrl);
+    });
+
     // $( '.email-submit' ).on('click', function(event){
 
     //     event.preventDefault();
