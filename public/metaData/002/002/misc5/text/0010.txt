@@ -1,0 +1,93 @@
+ask, "Let me have a look at the present dear."
+
+Almost in a stupor
+
+he extended his hand.
+Her hand was poised over the box and she proceeded to open it.
+The ball was but a red blur as it hit her hand.
+from
+
+her hand onto the wet sand.
+
+The box flew
+
+Before she could react, a wave
+
+gently engulfed the box in its reaches and retreated with it into
+the fathomless depths of the ocean.
+"I'm sorry missus."
+
+The little boy was looking meekly at her.
+
+She iust turned and buried her face in Sam's shoulders, tears
+flowing in a 'torrent.
+They are now happily married and have two
+Rometimes wonders if it was a smile
+the box went into the water.
+
+th~t
+
+~he
+
+kids~
+
+but she
+
+saw on Sam's face as
+
+Her vision had blurred with tears, she
+
+could never be sure.
+- Shripati Acharya.
+
+§§§
+
+SOLUTIONS TO MIND BENDERS
+1~
+
+Assume the array to be a 10 x 10 chess board.
+
+will now consist of one black and one white square.
+first square white, then the
+with your 8 x 8 chess
+
+An adjacent pair
+If you make the
+
+1QOth square will also he white (check
+
+bo~rd).
+
+Removing those two squares leaves us
+
+with two black ,squares which cannot be paired.
+2.
+
+You can be at any spot on a circle which is 10 km away from a
+
+point on earth where the circumference
+is 10 km i.e., if you start from this
+point (say A) and reach B (10 km south)
+and move 10 km east from B. it would
+take you round the earth back to B1 and
+10 km north will lead you to A.
+You can also start from a spot so near
+the south pole that it would take you round
+the earth twice.
+
+Of course this generalizes
+
+to eastern trips that qo n
+
+t~es
+
+round the
+
+pole~
+
+so the problem is solved by an infinity of spots on an infinity
+of circles.
+
+g -
+
+

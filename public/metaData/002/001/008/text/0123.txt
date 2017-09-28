@@ -1,0 +1,41 @@
+The idea of using 10 as the logarthamic base was first given by Charles
+Briggs. Logarithms have considerably simplified complicated mathematical
+calculations. Before the invention of modern computers the use of logarithms
+was the only reliable way to simplify intricate mathematica1 operations. The
+usefulness of logarithms in this respect is strongly felt even in this age of
+electronic computors.
+The work of Newton and others inspired several men with the result that
+there were great advances in mathematics in the 18th and 19th centuries, Here
+again several names may be mentioned. The advances were specially prominent
+in the field of applied mathematics and mechanics. The diffierential and integral
+calculus were freely uscd in mechanics and physics. The great mathematician
+Leonhard Euler solved several problems in particle and rigid body dynamics by
+integrating differential equations. John Bernoulli developed for the first time the
+principles of hydrodynamics and fluid flow. D'Alembert evolved his famous
+principle in dynamics. Euler, Bernoulli and D'AIembert also made contributions
+in pure mathematics. Joseph Lalrange evolved the famous general method of solv...
+ing dynamical problems using differential equations based on virtual work and D'
+Alember's principle. The Russian mathemaicians Ostrogradsky and Chebyshev
+also made important contributions to both theoritical and appled mechanics as
+as pure Mathematics. The Rus~ian Lyapunov established the Stablity theory in
+mathematics and differantial equations.
+Special mention must be made of the great French mathematician Laplace.
+He made important contributions to mathematics and astronomy. 'Together with
+the philosopher Kant he evolved the nebular hypothesis for explaining the origin
+of the solar system. He also evolved several theorems in probability, modified
+Newton s equation for the velocity of sound, made disco veres in the newly discovered phenomenon of electricity (chiefly that of eddy currents) and published
+several treatises in mathematics and astronomy. Other prominent figures during
+this time were Ferdinand Gauss the German mathematician who made important
+contributions in magnetism, electricity and astronomy; and (2) Carnot who postu.
+lated the theory of the steam-engine and laid ths foundation for the study of thermodynamics.
+One of the greatest mathematicians and scientists of all time was Clerts
+Maxwell who expressed the laws of electromagnetism in the form of elegant mathematical equations Using the powerful instrument of mathematics Maxwell carefully felt his way into the dark unknown realm of electremagnetism and came to
+the starting conclusion that light, heat, iafra-red and other radiations are electromagnetic waves. His theory confimed on Wave theory of light. Maxwell paved
+the way for the development of the radio and other electronic miracles of today!
+He predicted that the human voice could be propagated through space without
+wires and at the speed of light.
+9
+
+93
+
+

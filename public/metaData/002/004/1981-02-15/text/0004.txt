@@ -1,0 +1,41 @@
+Prize awarded to: A .P. GtLA-t>SToNk
+The prize will be given at 7:15 p.m. on
+in the mess.
+Solution
+
+========
+
+Number of tickets, n = 54.
+Consider one person.
+The probability of his ticket being picked the first time =(1 / n).
+Probabi~&ty that it is not picked = (1 - lin).
+Probability that it is not pickea even the second time = (1-1/n)(1-1/n).
+Probability that it is not picked in all n draws
+= ( 1 _ 1.n )n.
+Probable number of persons getting consolation prize
+= n x ( 1 _ 1. )n
+n
+The director will probably give away
+Rs. [na(l_1.)n]
+in the form of consolation prizes.
+n
+
+His expected profit is
+
+p = 20a - na(l_1.)n
+n
+
+i.e.
+p = 20a[l-2g(1-1/n)n]
+At the critical value, the expression in the square brackets
+becomes O.
+n(l _ 1.)n = 20.
+n
+
+By trial, it is found that for n=54, p=0.32aj for n=55, p=-O.04a.
+Thus the required value of n is 54.
+y
+
+******
+
+

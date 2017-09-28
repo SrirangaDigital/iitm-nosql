@@ -1,0 +1,102 @@
+CATCH THE MULTIBUS & BE ON BOARD
+"For the first time, High Performance, Microprocessor based
+Building Blocks and Total Systems Training package"
+Introducing the Advanced Micro Tutor Series-A
+complete range of products that offer Multibus compatible solutions to
+teach Computer Science, Engineer & Develop Real Time Systems
+Processors :
+
+Two new processors that are guaranteed
+to simplify your Multibus System design
+ATS 86
+Based on 8086, 5 or 8M Hz, with socket
+for 8087 NDP
+On board RAM of 8K Bytes
+On board sockets for 64K bytes of RAM /
+EPROM
+Multilayer board for low noise operation
+3 Isax connectors for expansion
+Printer and Serial Ports
+Timer and interrupt Controller
+ATS 85
+
+Based on 8085
+On board sockets for 2K RAM 8KB EPROM
+Printer and Serial Port
+Two ISBX Connectors
+Timer and Interrupt Controller
+Memory Module:
+The ATM 056- To speed up your System
+Design time & performance
+Expandable from 64K to 256K Bytes
+Jumper selectable base address
+Parity error check
+I/O Controllers
+For optimising your effort & budget with a
+(ATF) or sax
+choice of Multibus
+compatible (ATX) Floppy Controllers Both
+Control upto four drives of 5r' or 8" and
+have on board phased lock loop data
+separators
+And to complete the system everything
+one needs as essential accessories is
+available immediately; 6 or 8 lot
+Multibus Card Case with Power Supply,
+Enclosure and even Prototype and Extender
+B03rd:i "Design in" your unique Multibus
+and SBX HardwarrJ wIth our Prototype
+B::>ard'i, "Debug" the Hardware with
+Extender Boards.
+
+Packaged Micro Tutor Systems:
+To enable your system design & ideas to get off
+the ground quickly. MTS 85 and MTS 86 are
+ergonomically designed packaged systems that
+are incredibly cost effective & are configured
+around the standard Multibus Building Blocks.
+
+MTS 86 consists of 16 bit CPU, 256K Memory
+and Floppy Controller in a Multibus enclosure
+with PSU and 3 additional slots for user
+Hardware.
+MTS 85 consists of 8 Bit CPU, 64K Memory,
+Floppy Controller (ISaX Bus) in a Multibus
+enclsoure with PSU and 4 additional slots for
+user Hardware.
+Development Packages:
+To provide an immediate Ultra Productive
+Development environment, AMD recommends
+the ADP 85 and ADP 86 developed by Micronic Devices to make the time consuming task of
+development of your application efficient &
+cost effective.
+.
+ADP 85 Development Package for MTS 85
+The Software is a preconfigured CPM 80 with
+Assembler. Application Packages developed on
+AD? 85 can run on the AMX 80 Real Time
+Executive.
+ADP 86 Development Package
+Designed for MTS 86
+The package ;s a preconfigured RMX-86, Real
+Time Executive System, to enable user to
+develop application programmes in PL/M 86
+and ASM-86. Further, utilising the available
+optional upgrades, the user can configure the
+RMX-86 for his target system. The package
+comes with Floppy Drives and accessories
+immediately interfaceable with the MTS 86
+System.
+All these and more. From Advanced Micronic
+Devices. The company that has been extending the benefits of VLSI technology to every
+type of computer user. With a comm:tment to
+excellence, reliability, flexibility and economy.
+I
+
+,
+
+Advanced Micronic Devices (P) Ltd.
+'Arun Complex', No. 65, D. V. G. Road, Basavanagudi, Bangalore 560 004
+Branches: Bombay, Delhi, Madras, Calcutta
+
+

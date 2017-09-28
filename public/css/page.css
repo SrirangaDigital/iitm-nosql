@@ -169,7 +169,7 @@ a.moretag {
     padding: 30px 4px 0 4px;
     vertical-align: middle;
 }
-.sub-nav > li > a{
+.sub-nav > li > a, .input-group-btn{
     
     font-size: 12px;
     line-height: 21px;
@@ -179,6 +179,12 @@ a.moretag {
     text-transform: uppercase;
     color: #5d5d5d;
     text-decoration: none;
+}
+.input-group-btn{
+  margin-bottom: 2px; 
+}
+#searchForm .input-group-btn input[type="checkbox"]{
+  padding-top: 10px;
 }
 .sub-nav > li > a.active,
 .sub-nav > li > a:hover{
@@ -241,7 +247,10 @@ a.moretag {
 .image-desc > small:empty{
     display: none;
 }
+.image-desc .fulltextSnippet > span:not(:last-of-type):after{
 
+  content: ', ';
+}
 #grid.container .post img { padding: 0; }
 
 /* Small devices */

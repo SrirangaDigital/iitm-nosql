@@ -1,0 +1,148 @@
+-2-
+
+---Vijay Iyengar
+
+MAGIC NUMBER
+
+Consider the number M=588235294117647.
+Multiply it by any number from 1 to 15. There will be a
+zero in the answer. Starting from the number following the zero,
+the digits of M will be repeated.
+588235294117647 X ~ = 29411764701588235.
+
+e.g.
+
+~88235294117647
+
+X 13= 76470158823529411_
+
+******
+A boy was staring intently at an empty sheet of canvas
+when an old gentleman passimg by asked him, 'Son, what are you
+looking at?'
+II am loo~ing at a picture of a cow eating grass.'
+'Where's the grass' asked the old gentleman.
+'It's been eaten by the cow', he replied.
+'Where's the cow?', asked the confused octogenarian.
+Pat came tQe reply, 'Obviously, it went away after the grass
+was over'.
+
+**-****
+Once, when a woman in a bus was caught for ticket less
+travel, she insisted that the conductor hadn't given her a ticket.
+In his rage, the conductor gave the woman a hard shove. She fell
+out of the bus and was fatally run over.
+Later, the conductor was sentenced to death on the electric
+chair. He seemed very cheerful and was even laughing when he went
+towards the chair. A reporter asked him why he was so self-sure.
+He replied, 'I'm a bad conductor'.
+
+******
+Solution to last week's Brain Teaser
+On the basis of the first clue, namely that the product of
+the ages is 36, a large number of combinations is feasible.
+The next clue lies in the fact that in spite of his having
+known the sum of the ages, the census taker was unable to arrive
+at the correct answer. This can only mean that there is more
+than one combination of ages which ~ives the same sum. All
+possible combinati,ns are given below.
+Ages
+Product
+~
+36,
+1,
+1
+36
+38
+18,
+2,
+1
+36
+21
+12,
+3,
+1
+36
+16
+9,
+4,
+1
+36
+14
+6,
+6,
+1
+36
+13
+9,
+2,
+2
+36
+13
+6,
+. 3,
+2
+36
+11
+4,
+3,
+3
+36
+10
+A simple process of trial and error shows that only two
+combinatiohs, namely (9,2,2) and (6,6,1) can fulfil the
+given conditions. Since the eldest daughter was sleeping
+upstairs, it is obvious that their ages were 9, 2 and 2.
+(1)
+(2 )
+
+(3 )
+
+**
+
+Complete the Series:
+1, 0, 0, 3, 20, 115, 714,
+1 : 8 as? : 64 •
+Alternatives: (a) 9 (b) 16 (c) 25 (d) 36 (e) 49
+By removing and replacing just one matchstick in each of
+the following cases, make the equality hold.
+
+~.~.
+
+X:;;r' =
+
+V
+
+'J<X111
+
+11
+
+Vll
+
+c)
+~)
+
+••
+
+Ym ='1-'11
+~1
+
+-
+
+l11
+
+Sol-\JTIOH
+
+rr
+
+-=
+
+X~rV =:
+
+rv
+
+Vl
+
+-- Contributed by Bharat.
+
+

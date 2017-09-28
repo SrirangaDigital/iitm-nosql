@@ -1,0 +1,49 @@
+illuminated (ii) reflection coefficients of the
+walls, floor and the roofing (lit) geometry of
+the fittings, whether they are herni-spherical
+parabolic or hyperbolic. (iv) reflection coefficient of the fitting itself, whether it is
+diffuse, translucent, transparent or opaque6
+This indicates whether light is scattered,
+transmitted or reflected.
+
+00 arranged in a regular fashion that are
+necessary to produce the said standard illumi..
+nation on the study plane. By arranging
+adjacent tube hghts in perpendicular dIrections
+shadows can be avoided. Avoidance of sharp
+corners and cracks minimises the glare.
+
+Street lighting and floor lighting in real
+sense are far more difficult and beyond menTherefore the illumination falling on a tion. For the analysis of flood lighti.ng for
+point as viewed by a person is a function of infinite room co-efficients point... by-point
+0) the positition of the luminaire (ii) efficiency method is useful.
+and intensity or'the Iuminaire (iii) efficiency of
+The often troubled experiments in the lamp
+the fitting (iv) the inclination of the fitting manufacturing companies are the determina(iv) the inclination of the fitting with tions of the efficiencies of the fittings. For
+respect to the point under consi- this they have to find the brightness contours,
+deration (v) the efficiency of the eye polar plots of illumination in at least two
+(vi) the reflection co· efficient of the orthogon~l planes, horizontal and vertical and
+space at the point.
+determination of M. H. C. P., M. S. C. P.,
+(vii) humidity factor.
+M. H. S. C. P.. and the reduction factor of
+Special types of lighting as is the lighting of the sources. For this the ve'ry handy instruroof s and indicators classify the luminaries as : ment is the Weston photo-electric cell calIbra(i) Direct
+ted in lumens. The second and most important
+(ii) Semi-direct
+factor is the determmation of the reflection
+(iii) Semi-indIrect
+f actors of the walls, floors and roofs in and on
+(iv) Indirect.
+the spot survey of the interior or exterior
+wlth its external disturbances.
+A designing engineer for illuminatIOn there.
+fore should survey the part to be illuminat~d.
+The author thanks Radio Lamp Works,
+He IS to determine the room co-efilcient, effi.. Bombay for allowing him to go through the
+ciency lof the lamps and fittings. Next he is design features of illumination of Churchgate
+to write down the standard permissible illumI- Station, Metro Cinema and Atomic Energy
+nation for the particular purpose (i. e. reading Establishments during his practical training in
+or theatre) from the ELMA Bureau specifica- assembling and testing of lamps and instrutions. Next depending on the required ments. Tbis article is based on the informaposition and inclination and its property he is tion gathered in the course of practical
+to calculate the number of sources that should training.
+
+
