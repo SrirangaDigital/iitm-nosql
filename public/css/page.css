@@ -784,7 +784,7 @@ img.img-center{
 .albumTitle.Photograph{
   background-color: #0091EA;
 }
-.albumTitle.Brochure{
+.albumTitle.Brochure, .albumTitle.Multimedia{
   background-color: #F57C00;
 }
 .albumTitle.Miscellaneous{
