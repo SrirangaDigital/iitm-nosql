@@ -72,9 +72,7 @@
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Institute of Technology Madras" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>#physical">Physical Space</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#contribute">Contribute</a></li>
-                    <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#contact">Contact</a></li>
+                    <li><a href="#">Contact Info</a></li>
                     <li><a>·</a></li>
                     <li>
 <?php
