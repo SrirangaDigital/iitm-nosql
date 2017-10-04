@@ -1,8 +1,9 @@
 {
     "id": "003/001/002",
-    "Type": "Multimedia",
+    "Type": "Multimedia File",
     "Media": "Audio",
     "Filetype": "Mp3",
     "Duration": "00:48:50",
+    "Category": "Oral History Archives",
     "Description": "Interview with Prof Satyanarayana"
 }
