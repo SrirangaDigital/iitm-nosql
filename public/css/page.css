@@ -371,6 +371,13 @@ a.moretag {
     position: relative;
     width:100%; 
     padding:0px;
+    background: url('../images/stock/slide1.jpg') no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+.fixOverlayDiv img{
+    margin-left: auto;
+    margin-right: auto;
 }
 .OverlayText, .OverlayTextMain{
     bottom: 0;

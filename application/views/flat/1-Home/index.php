@@ -2,8 +2,7 @@
 <div class="container-fluid" id="home">
     <div class="row first-row">
         <div class="col-md-12 clear-paddings">
-            <div class="fixOverlayDiv">
-                <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide1.jpg">
+            <div class="fixOverlayDiv gap-above">
                 <div class="OverlayTextMain">
                     <div class="mainpage">
                         <h2>IIT Madras Heritage Centre</h2>
@@ -18,15 +17,6 @@
     <ul class="timeline">
         <li>
           <div class="timeline-badge">1956</div>
-          <!-- <div class="timeline-panel">
-            <div class="timeline-heading">
-              <h4 class="timeline-title">Mussum ipsum cacilds</h4>
-              <p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
-            </div>
-            <div class="timeline-body">
-              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-            </div>
-          </div> -->
           <div class="timeline-panel">
             <div class="timeline-body">
               <p>Visit of Prime Minister Jawaharlal Nehru to West Germany and the offer made to him by the Government of the Federal Republic of Germany to assist in the setting up of a higher technological institute in India.</p>
@@ -76,7 +66,7 @@
     </ul>
 </div>
 <div class="container-fluid stats" id="collection">
-    <div class="row">
+    <div class="row clear-margins">
         <div class="col-md-12">
             <h1>The Collection</h1>
             <ul class="list-inline">
@@ -141,67 +131,6 @@
             <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/ps3.JPG">
             <h2>Variety of artefacts</h2>
             <p>Also on display are a variety of artefacts including the foundation stone laid at the inauguration of the institute in 1959, a life size oil painting of Prof. B. Sengupto, the first Director of IIT Madras, and a replica of the Inter-IIT Sports Trophy.</p>
-        </div>
-    </div>
-</div>
-<div class="container contribute gap-above-large" id="contribute">
-    <div class="row">
-        <div class="col-md-12">
-            <h1>Contribute Metadata / Photos</h1>
-        </div>
-    </div>
-    <div class="row gap-above-med">
-        <div class="col-md-9">
-            <div class="image-full-size">
-                <img class="img-responsive" src="<?=PHOTO_URL?>0014/IMG_0473_1.JPG">
-            </div>
-        </div>
-        <div class="col-md-3">
-            <div class="image-desc-full">
-                <ul class="list-unstyled">
-                    <li><strong>id:</strong><span class="image-desc-meta">0014/IMG_0473_1</span></li>
-                    <li><strong>Title:</strong><span class="image-desc-meta">A get together with Shri R. Natarajan, I.A.S., the Director, Staff, and Student of IIT Madrass</span></li>
-                    <li><strong>Event:</strong><span class="image-desc-meta">Tea Party</span></li>
-                    <li><strong>Date:</strong><span class="image-desc-meta">1965-04-01</span></li>
-                    <li><strong>Place:</strong><span class="image-desc-meta">Open Air Theater, IIT Madras</span></li>
-                    <li>Do you know details about this picture? Mail us at heritage@iitm.ac.in quoting the image ID. Thank you.</li></ul>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="container-fluid" id="contact">
-    <div class="row first-row">
-        <div class="col-md-12 clear-paddings">
-            <div class="fixOverlayDiv">
-                <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide2.jpg">
-                <div class="OverlayTextMain">
-                    <div class="mainpage">
-                        <h2>Get in touch</h2><br />
-                        <form method="post" action="<?=BASE_URL . 'mail/send'?>">
-                            <div class="form-group">
-                                <input type="text" class="form-control" name="name" id="name" placeholder="Name" required="required">
-                            </div>
-                            <div class="form-group">
-                                <input type="email" class="form-control" name="email" id="email" placeholder="Email" required="required">
-                            </div>
-                            <div class="form-group">
-                                <textarea rows="5" class="form-control" name="message" id="message" placeholder="Your message here" required="required"></textarea>
-                            </div>
-                            <div class="form-group">
-                                <div class="g-recaptcha" data-sitekey="6Le_DBsTAAAAACt5YrgWhjW00CcAF0XYlA30oLPc"></div>
-                            </div>
-                            <button type="submit" class="btn btn-default naked email-submit">Submit</button>
-                        </form>
-                        <p>
-                            <br /><br /><small>
-                                © 2016 Indian Institute of Technology Madras.<br />
-                                No image available from this site may be used for commercial purposes without written permission from IIT Madras.
-                            </small><br />
-                        </p>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </div>
