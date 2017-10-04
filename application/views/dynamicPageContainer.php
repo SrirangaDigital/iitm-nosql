@@ -7,7 +7,7 @@
                 <li><a>·</a></li>
                 <li><a href="<?=BASE_URL?>listing/Categories/Publication?select=Publication">Publications</a></li>
                 <li><a>·</a></li>
-                <li><a href="<?=BASE_URL?>listing/Categories/Multimedia?select=Media">Oral History</a></li>
+                <li><a href="<?=BASE_URL?>listing/artefacts/Multimedia%20File?Category=Oral+History+Archives">Oral History Archives</a></li>
                 <li><a>·</a></li>
                 <li id="searchForm">
                     <form class="navbar-form" role="search" action="<?=BASE_URL?>search/field/" method="get">

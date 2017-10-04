@@ -92,7 +92,7 @@
                         <p>Publications</p>
                     </a>
                 </li>
-                <li class="stat-elem">
+<!--                 <li class="stat-elem">
                     <a href="#">
                         <h2><i class="fa fa-file-text-o"></i></h2>
                         <p>Brochures</p>
@@ -109,11 +109,11 @@
                         <h2><i class="fa fa-file-video-o"></i></h2>
                        <p>Videos</p>
                     </a>
-                </li>
+                </li> -->
                 <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/categories/Multimedia?select=Media">
+                    <a href="<?=BASE_URL?>listing/artefacts/Multimedia%20File?Category=Oral+History+Archives">
                         <h2><i class="fa fa-volume-up"></i></h2>
-                        <p>Oral History</p>
+                        <p>Oral History Archives</p>
                     </a>
                 </li>
             </ul>
