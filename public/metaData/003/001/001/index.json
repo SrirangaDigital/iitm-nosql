@@ -1,8 +1,9 @@
 {
     "id": "003/001/001",
-    "Type": "Multimedia",
+    "Type": "Multimedia File",
     "Media": "Audio",
     "Filetype": "Mp3",
     "Duration": "01:20:23",
+    "Category": "Oral History Archives",
     "Description": "Dr.Shobha Sharma in discussion with Prof Swamy"
 }

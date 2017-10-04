@@ -34,7 +34,7 @@
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"> -->
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/carousel.css">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css?v=1.0">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/flat.css">
@@ -72,9 +72,7 @@
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Institute of Technology Madras" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>#physical">Physical Space</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#contribute">Contribute</a></li>
-                    <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#contact">Contact</a></li>
+                    <li><a href="#">Contact Info</a></li>
                     <li><a>·</a></li>
                     <li>
 <?php

@@ -1,11 +1,11 @@
 <script>
 $(document).ready(function(){
 
-    var bgColor = $('.albumTitle.' + '<?=$data['details']['Type']?>').css('background-color');
+    var bgColor = $('.albumTitle').css('background-color');
     var fgColor = $('.albumTitle span').css('color');
 
     $('.albumTitle span').css('color', bgColor);
-    $('.albumTitle.' + '<?=$data['details']['Type']?>').css('background-color', fgColor);
+    $('.albumTitle').css('background-color', fgColor);
 
     // Triggering a click event on page which has to be opened
     $('.toc a').on('click', function(e){

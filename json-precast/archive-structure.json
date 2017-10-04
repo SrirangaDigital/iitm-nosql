@@ -10,8 +10,8 @@
 		"selectKey" : ["Publication"],
 		"sortKey" : "Date"
 	},
-	"Multimedia" : {
-		"selectKey" : ["Media"],
+	"Multimedia File" : {
+		"selectKey" : ["Category"],
 		"sortKey" : "Description"
 	}
 }
