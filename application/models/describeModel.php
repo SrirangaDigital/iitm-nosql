@@ -13,7 +13,6 @@ class describeModel extends Model {
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);
 
 		$result = $collection->findOne(['id' => $id ]);
-		$result = $this->unsetControlParams($result);
 
 		return $result;
 	}

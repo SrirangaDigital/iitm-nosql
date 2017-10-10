@@ -16,6 +16,10 @@ define('PER_PAGE', 10);
 define('FULLTEXT_SNIPPET_SIZE', 8);
 define('PHOTO_FILE_EXT', '.JPG');
 
+// External resource setting
+define('EXTERNAL_RESOURCE', 'external.html');
+define('EXTERNAL_RESOURCE_NOT_EXISTS', 'application/views/error/noExternalResource.php');
+
 // user settings (login and registration)
 define('REQUIRE_EMAIL_VALIDATION', False);//Set these values to True only
 define('REQUIRE_RESET_PASSWORD', False);//if outbound mails can be sent from the server

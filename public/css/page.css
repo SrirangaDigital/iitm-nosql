@@ -741,6 +741,20 @@ button.toggle-button{
 }
 .letter_thumbnails{
 }
+.iframeHolder{
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  min-height: 500px;
+  padding: 30px;
+}
+.iframeHolder i{
+  color: #E0E0E0;
+  font-size: 72px;
+}
+.iframeHolder .noExternalResource{
+  font-weight: 300;
+}
 img.img-small{
   height: 200px;
   display: inline-block;
@@ -748,6 +762,10 @@ img.img-small{
 }
 img.img-center{
   margin: 0 auto;
+}
+#viewletterimages, #viewCardImages{
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
 }
 #viewletterimages, #viewCardImages{
   cursor: -webkit-zoom-in;

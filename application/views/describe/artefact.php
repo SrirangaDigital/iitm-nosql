@@ -28,19 +28,30 @@ $(document).ready(function(){
             </ul>
             <div id="viewletterimages" class="letter_thumbnails">
                 <?php
-                    $numberOfImages = sizeof($data['images']);
-                    $class = ($numberOfImages > 1) ? 'img-small ' : 'img-center ';
 
-                    foreach ($data['images'] as $imageThumbPath ) {
-                            
-                        $imagePath = str_replace('thumbs/', '', $imageThumbPath);
+                    if(isset($data['external'])){
 
-                        if ($class == 'img-center ') $imageThumbPath = $imagePath;
+                        echo '<div class="iframeHolder">';
+                        include $data['external']['fileName'];
+                        echo '</div>';
+                    }
+                    else{
 
-                        $imageID = str_replace(DATA_URL . $data['details']['id'] . '/', '', $imagePath);
-                        $imageID = 'image_' . intval(str_replace(PHOTO_FILE_EXT, '', $imageID));
+                        $numberOfImages = sizeof($data['images']);
 
-                        echo '<img id="' . $imageID . '" class="' . $class . 'img-responsive" data-original="' . $imagePath . '" src="' . $imageThumbPath . '">';
+                        $class = ($numberOfImages > 1) ? 'img-small ' : 'img-center ';
+
+                        foreach ($data['images'] as $imageThumbPath ) {
+                                
+                            $imagePath = str_replace('thumbs/', '', $imageThumbPath);
+
+                            if ($class == 'img-center ') $imageThumbPath = $imagePath;
+
+                            $imageID = str_replace(DATA_URL . $data['details']['id'] . '/', '', $imagePath);
+                            $imageID = 'image_' . intval(str_replace(PHOTO_FILE_EXT, '', $imageID));
+
+                            echo '<img id="' . $imageID . '" class="' . $class . 'img-responsive" data-original="' . $imagePath . '" src="' . $imageThumbPath . '">';
+                        }
                     }
                 ?>
             </div>
