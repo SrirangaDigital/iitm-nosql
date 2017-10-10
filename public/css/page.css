@@ -748,6 +748,10 @@ button.toggle-button{
   min-height: 500px;
   padding: 30px;
 }
+.iframeHolder iframe{
+  min-width: 80%;
+  min-height: 450px;
+}
 .iframeHolder i{
   color: #E0E0E0;
   font-size: 72px;
