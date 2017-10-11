@@ -83,6 +83,8 @@ $(document).ready(function(){
                 ?>
                 <?php if(isset($_SESSION['login']) || SHOW_PDF) {?>
                     <?=$viewHelper->linkPDFIfExists($data['details']['id'])?>
+                <?php } ?>
+                <?php if(isset($_SESSION['login'])) {?>
                     <li><a class="editDetails" href="<?=BASE_URL?>edit/artefact/<?=$idURL?>">Edit Details</a></li>
                 <?php } ?>
                 </ul>
