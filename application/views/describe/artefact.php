@@ -81,7 +81,7 @@ $(document).ready(function(){
                         echo '<li><strong>' . $key . ':</strong><span class="image-desc-meta">' . $viewHelper->formatDisplayString($value) . '</span></li>';
                     }
                 ?>
-                <?php if(isset($_SESSION['login'])) {?>
+                <?php if(isset($_SESSION['login']) || SHOW_PDF) {?>
                     <?=$viewHelper->linkPDFIfExists($data['details']['id'])?>
                     <li><a class="editDetails" href="<?=BASE_URL?>edit/artefact/<?=$idURL?>">Edit Details</a></li>
                 <?php } ?>
