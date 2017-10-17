@@ -4,14 +4,14 @@
 			"Collection",
 			"Album"
 		],
-		"sortKey" : "Caption"
+		"sortKey" : {"Caption" : 1}
 	},
 	"Publication" : {
 		"selectKey" : ["Publication"],
-		"sortKey" : "Date"
+		"sortKey" : {"Date" : -1}
 	},
 	"Multimedia File" : {
 		"selectKey" : ["Category"],
-		"sortKey" : "Description"
+		"sortKey" : {"Date" : -1, "Description" : 1}
 	}
 }
