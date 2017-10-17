@@ -88,6 +88,9 @@ class Model {
 
 		if(isset($data['Date'])){
 
+			// handle mm-dd-yyyy format
+	        $data['Date'] = preg_replace('/(\d{2})\-(\d{2})\-(\d{4})/', "$3-$2-$1", $data['Date']);
+
 			if(preg_match('/^0000\-/', $data['Date'])) {
 
 				unset($data['Date']);
