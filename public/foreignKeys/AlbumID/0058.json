@@ -2,5 +2,6 @@
     "AlbumID": "0058",
     "Date": "2005-01-28",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0058"
+    "ForeignKeyId": "0058",
+    "Album": "Album 0058: All India Inter Collegiate Invitation Basket Ball Tournments"
 }

@@ -3,5 +3,6 @@
     "Description": "Chief Guest Sardar Ujjal Singh",
     "Date": "1967-03-00",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0050"
+    "ForeignKeyId": "0050",
+    "Album": "Album 0050: Institute day"
 }

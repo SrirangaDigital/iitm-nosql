@@ -3,5 +3,6 @@
     "Date": "30-01-1964",
     "Place": "OAT",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0005"
+    "ForeignKeyId": "0005",
+    "Album": "Album 0005: Visit of Mr. Hans Lenz, Minister for Science & Research, Federal Republic of Germany"
 }

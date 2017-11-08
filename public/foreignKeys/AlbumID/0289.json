@@ -2,5 +2,6 @@
     "AlbumID": "0289",
     "Place": "BSB",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0289"
+    "ForeignKeyId": "0289",
+    "Album": "Album 0289: IIT II Rejects (3rd Institute Day)"
 }

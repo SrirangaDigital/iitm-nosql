@@ -4,5 +4,6 @@
     "Place": "OAT",
     "Description": "Dr. M. S. Swaminathan, D.G., ICAR, New Delhi has graciously consented to deliver the Convocation Address",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0033"
+    "ForeignKeyId": "0033",
+    "Album": "Album 0033: 13th Convocation"
 }

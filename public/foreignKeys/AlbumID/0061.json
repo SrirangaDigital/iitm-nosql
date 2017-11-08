@@ -2,5 +2,6 @@
     "AlbumID": "0061",
     "Date": "2001-09-16",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0061"
+    "ForeignKeyId": "0061",
+    "Album": "Album 0061: Indian Cricket team Practice Match"
 }

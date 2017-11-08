@@ -2,5 +2,6 @@
     "AlbumID": "0140",
     "Date": "2006-03-08",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0140"
+    "ForeignKeyId": "0140",
+    "Album": "Album 0140: Visit of the Hon. John Howard M. P., Prime Minister of Australia"
 }

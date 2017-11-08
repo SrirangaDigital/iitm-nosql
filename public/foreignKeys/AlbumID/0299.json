@@ -1,5 +1,6 @@
 {
     "AlbumID": "0299",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0299"
+    "ForeignKeyId": "0299",
+    "Album": "Album 0299: NCC Camp at IIT Major Jaffery"
 }

@@ -2,5 +2,6 @@
     "AlbumID": "0004",
     "Date": "8-11 Dec 1966",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0004"
+    "ForeignKeyId": "0004",
+    "Album": "Album 0004: Visit of Prof. Dr. P. Hilbig, and Mr. Westphal, Techincal University, Berlin And Inauguration of NCC building"
 }

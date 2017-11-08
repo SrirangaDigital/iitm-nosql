@@ -2,5 +2,6 @@
     "AlbumID": "0255",
     "Place": "Physics Department",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0255"
+    "ForeignKeyId": "0255",
+    "Album": "Album 0255: Mr. Singh Physics Department"
 }

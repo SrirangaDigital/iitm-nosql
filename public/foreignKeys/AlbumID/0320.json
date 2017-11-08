@@ -3,5 +3,6 @@
     "Date": "20-03-1969",
     "Place": "Chemistry Block",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0320"
+    "ForeignKeyId": "0320",
+    "Album": "Album 0320: Foundation Stone of Chemistry Buildings 20th March 1969"
 }

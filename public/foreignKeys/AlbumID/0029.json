@@ -4,5 +4,6 @@
     "Place": "OAT",
     "Description": "Prof. M. G. K. Menon, F.R.S. has graciously consented to deliver the Convocation Address",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0029"
+    "ForeignKeyId": "0029",
+    "Album": "Album 0029: 8th Convocation"
 }

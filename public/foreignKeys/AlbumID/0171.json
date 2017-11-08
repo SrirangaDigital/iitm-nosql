@@ -3,5 +3,6 @@
     "Description": "Dr. A. L. Mudaliar, Chairman, Board of Governors, receives Sir C. V. Raman",
     "Date": "1966-07-30",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0171"
+    "ForeignKeyId": "0171",
+    "Album": "Album 0171: Mechanical Department"
 }

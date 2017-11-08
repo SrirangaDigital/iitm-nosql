@@ -3,5 +3,6 @@
     "Date": "!970",
     "Place": "Stadium",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0310"
+    "ForeignKeyId": "0310",
+    "Album": "Album 0310: Inter IIT meet 28th Dec 1970 Innaguration"
 }

@@ -3,5 +3,6 @@
     "Date": "1969",
     "Place": "River, Lake, Quadrangle Hostel",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0229"
+    "ForeignKeyId": "0229",
+    "Album": "Album 0229: Photos for Brochive 1969"
 }

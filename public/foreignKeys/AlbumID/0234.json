@@ -3,5 +3,6 @@
     "Date": "22-09-1967",
     "Place": "Electrical Engineering department",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0234"
+    "ForeignKeyId": "0234",
+    "Album": "Album 0234: Department Of Electrical Engineering 22-09-1967"
 }

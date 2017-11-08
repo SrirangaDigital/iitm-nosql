@@ -3,5 +3,6 @@
     "Date": "1988-07-29",
     "Place": "SAC",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0069"
+    "ForeignKeyId": "0069",
+    "Album": "Album 0069: Twenth Fifth Convocation, 1988"
 }

@@ -2,5 +2,6 @@
     "AlbumID": "0292",
     "Date": "24-03-1966",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0292"
+    "ForeignKeyId": "0292",
+    "Album": "Album 0292: Senate in session 24-03-1966 (3 Not printed)"
 }

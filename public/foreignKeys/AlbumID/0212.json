@@ -3,5 +3,6 @@
     "Date": "25-11-1970",
     "Place": "Lab",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0212"
+    "ForeignKeyId": "0212",
+    "Album": "Album 0212: 1. Dr. Klein Wind Tunnel  2. Smoke Trial Photos 25-11-1970"
 }

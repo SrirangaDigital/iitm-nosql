@@ -2,5 +2,6 @@
     "AlbumID": "0046",
     "Date": "2006-04-06",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0046"
+    "ForeignKeyId": "0046",
+    "Album": "Album 0046: Visit of Delegates from TV-9 German Institute of Technology"
 }

@@ -4,5 +4,6 @@
     "Place": "Physics Lecture Theatre",
     "Description": "Dr. H. N. Sethna, Director, Bhabha Automic Research Center, Trombay delivered the Valedictory address. This Valedictory function is jointly organised by IIT Madras and the Bhabha Automic Research Center, Trombay",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0007"
+    "ForeignKeyId": "0007",
+    "Album": "Album 0007: Valedictory Function of the Short-Term Course in High Vacuum Technology"
 }

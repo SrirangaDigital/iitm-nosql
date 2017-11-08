@@ -2,5 +2,6 @@
     "AlbumID": "0309",
     "Place": "Laboratory",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0309"
+    "ForeignKeyId": "0309",
+    "Album": "Album 0309: Dr. A Klevin Recopy Negativies"
 }

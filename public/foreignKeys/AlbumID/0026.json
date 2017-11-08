@@ -4,5 +4,6 @@
     "Place": "OAT",
     "Description": "Chief Guest - Sardar Ujjal Singh, Governor of Madras",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0026"
+    "ForeignKeyId": "0026",
+    "Album": "Album 0026: 8th Institute Day"
 }

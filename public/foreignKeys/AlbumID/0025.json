@@ -4,5 +4,6 @@
     "Place": "OAT",
     "Description": "The Chief Guest - Sri M. Bhaktavatsalam, Chief Minister, Madras & President - Dr. A. L. Mudaliar, Chairman, Board of Governors",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0025"
+    "ForeignKeyId": "0025",
+    "Album": "Album 0025: 6th Institute Day"
 }

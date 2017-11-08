@@ -2,5 +2,6 @@
     "AlbumID": "0016",
     "Date": "1965-04-01",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0016"
+    "ForeignKeyId": "0016",
+    "Album": "Album 0016: Visit to Desalination Plant in Ramanathapuram"
 }

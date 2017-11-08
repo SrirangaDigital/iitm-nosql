@@ -3,5 +3,6 @@
     "Date": "18-03-1963",
     "Place": "Guest House",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0223"
+    "ForeignKeyId": "0223",
+    "Album": "Album 0223: Guest House Furnitures 18-03-1963"
 }

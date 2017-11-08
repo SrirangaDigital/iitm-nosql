@@ -3,5 +3,6 @@
     "Date": "20-01-1965",
     "Place": "Central School",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0281"
+    "ForeignKeyId": "0281",
+    "Album": "Album 0281: Central School 9 printed and 7 not printed 20th jan 1965"
 }

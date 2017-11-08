@@ -2,5 +2,6 @@
     "AlbumID": "0248",
     "Place": "Jamuna Hostel",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0248"
+    "ForeignKeyId": "0248",
+    "Album": "Album 0248: Jamuna Hostel"
 }

@@ -2,5 +2,6 @@
     "AlbumID": "0178",
     "Date": "1963-12-04",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0178"
+    "ForeignKeyId": "0178",
+    "Album": "Album 0178: Mr. Walter Scheel for Echonomic Co-oppender 4th Dec 1963"
 }

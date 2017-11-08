@@ -2,5 +2,6 @@
     "AlbumID": "0203",
     "Place": "IIT Madras",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0203"
+    "ForeignKeyId": "0203",
+    "Album": "Album 0203: Vivek Puliyeri collection - Birds of IIT, Madras"
 }

@@ -1,5 +1,6 @@
 {
     "AlbumID": "0300",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0300"
+    "ForeignKeyId": "0300",
+    "Album": "Album 0300: Mr. P Holtz or Mr. Westphal (Directors Lunch, Staff Tea, General Staff Tea, Prof Confetence)"
 }

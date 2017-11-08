@@ -4,5 +4,6 @@
     "Place": "OAT",
     "Description": "Dr. S. Bhagavantam, Scientific Adviser to the Minister of Defence has graciously consented to deliver the Convocation Address",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0023"
+    "ForeignKeyId": "0023",
+    "Album": "Album 0023: 6th Convocation"
 }

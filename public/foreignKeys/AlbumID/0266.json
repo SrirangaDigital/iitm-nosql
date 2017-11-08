@@ -2,5 +2,6 @@
     "AlbumID": "0266",
     "Date": "16-11-1973, 17-11-1973",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0266"
+    "ForeignKeyId": "0266",
+    "Album": "Album 0266: 1. Special Convocation Hen. Erhard Eppler 2. Conputer Center Innaguration 17-11-1973"
 }

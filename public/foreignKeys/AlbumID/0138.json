@@ -2,5 +2,6 @@
     "AlbumID": "0138",
     "Date": "2005-06-20",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0138"
+    "ForeignKeyId": "0138",
+    "Album": "Album 0138: Workshop on conservation of Blackbucks on the IIT Campus"
 }

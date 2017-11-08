@@ -3,5 +3,6 @@
     "Description": "Silver Jubilee Year 1983",
     "Date": "1983-09-18",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0172"
+    "ForeignKeyId": "0172",
+    "Album": "Album 0172: 20th Convocation Silver Jublilee Year 1983"
 }

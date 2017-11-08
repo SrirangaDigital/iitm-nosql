@@ -3,5 +3,6 @@
     "Date": "30-01-1964",
     "Place": "IIT Madras",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0209"
+    "ForeignKeyId": "0209",
+    "Album": "Album 0209: Visit of Mr Hans Lenz"
 }

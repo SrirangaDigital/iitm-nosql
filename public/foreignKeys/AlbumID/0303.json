@@ -3,5 +3,6 @@
     "Date": "July 1967",
     "Place": "Library",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0303"
+    "ForeignKeyId": "0303",
+    "Album": "Album 0303: Library Opening July 1967 9 phptos bldg, 1 photo conference"
 }

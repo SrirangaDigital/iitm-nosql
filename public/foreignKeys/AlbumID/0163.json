@@ -3,5 +3,6 @@
     "Description": "Dr. K. Anji Reddy, Chairman, Dr. Reddy's Group of Companies, Hyderabad will deliver the Convocation Address",
     "Date": "2002-07-26",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0163"
+    "ForeignKeyId": "0163",
+    "Album": "Album 0163: 39th Convocation 2002"
 }

@@ -4,5 +4,6 @@
     "Place": "OAT",
     "Description": "Shri M. S. Pathak, Member, Planning Commission, Govt. of India has graciously consented to deliver the Convocation Address",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0038"
+    "ForeignKeyId": "0038",
+    "Album": "Album 0038: 10th Convocation"
 }

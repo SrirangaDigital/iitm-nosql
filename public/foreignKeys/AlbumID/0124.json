@@ -2,5 +2,6 @@
     "AlbumID": "0124",
     "Date": "2003-01-22",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0124"
+    "ForeignKeyId": "0124",
+    "Album": "Album 0124: Saarang 22-26 Jan 2003"
 }

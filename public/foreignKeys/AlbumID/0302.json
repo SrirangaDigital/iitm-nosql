@@ -1,5 +1,6 @@
 {
     "AlbumID": "0302",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0302"
+    "ForeignKeyId": "0302",
+    "Album": "Album 0302: Symposium On utilisation of chlorine march 1965"
 }

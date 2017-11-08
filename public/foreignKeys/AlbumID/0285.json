@@ -3,5 +3,6 @@
     "Date": "21-04-1965",
     "Place": "Staff Club",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0285"
+    "ForeignKeyId": "0285",
+    "Album": "Album 0285: IIT Staff Club 21-4-1965"
 }

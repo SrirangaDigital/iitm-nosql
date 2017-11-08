@@ -2,5 +2,6 @@
     "AlbumID": "0051",
     "Place": "OAT",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0051"
+    "ForeignKeyId": "0051",
+    "Album": "Album 0051: Farewell to Prof.B.Sengupto"
 }

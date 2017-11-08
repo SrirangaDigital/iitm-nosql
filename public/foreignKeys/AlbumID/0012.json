@@ -3,5 +3,6 @@
     "Date": "09-03-1962",
     "Place": "BSB",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0012"
+    "ForeignKeyId": "0012",
+    "Album": "Album 0012: 3rd Institute Day"
 }

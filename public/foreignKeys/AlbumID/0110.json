@@ -2,5 +2,6 @@
     "AlbumID": "0110",
     "Description": "Sarang Clasical Music Nite by Ayaan & Amaan Ali Bangash",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0110"
+    "ForeignKeyId": "0110",
+    "Album": "Album 0110: Saarang Classical Music Nite"
 }

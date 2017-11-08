@@ -4,5 +4,6 @@
     "Place": "CLT",
     "Description": "Dr. Erhard Eppler and Mr. C. Subramaniam at the Inauguration Function",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0030"
+    "ForeignKeyId": "0030",
+    "Album": "Album 0030: Inauguration of Computer Centre"
 }

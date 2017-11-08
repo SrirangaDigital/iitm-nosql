@@ -1,5 +1,6 @@
 {
     "AlbumID": "0048",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0048"
+    "ForeignKeyId": "0048",
+    "Album": "Album 0048: Visit of Dr. Jurgen Warnke, Federal Minister For Economic Co-Operation FRG"
 }

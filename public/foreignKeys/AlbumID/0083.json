@@ -2,5 +2,6 @@
     "AlbumID": "0083",
     "Description": "The Difference between Solution and Innovation is the Difference between what is and what can be",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0083"
+    "ForeignKeyId": "0083",
+    "Album": "Album 0083: Accurum"
 }

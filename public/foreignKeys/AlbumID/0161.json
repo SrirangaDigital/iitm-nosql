@@ -3,5 +3,6 @@
     "Description": "Chief Guest Dr. Gururaj Deshpande, Chairman, M/S Sycamore Network Inc., U.S.A. Awarded the Degree of Doctor of Science (Honoris Causa)",
     "Date": "2001-03-29",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0161"
+    "ForeignKeyId": "0161",
+    "Album": "Album 0161: Special Convocation"
 }

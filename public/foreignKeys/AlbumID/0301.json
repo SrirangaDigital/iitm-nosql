@@ -3,5 +3,6 @@
     "Date": "31-12-1965",
     "Place": "Academic Block",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0301"
+    "ForeignKeyId": "0301",
+    "Album": "Album 0301: 1-4 Photos of Lab (1. Metallurgy 2. Civil 3. Chemical 4. Electrical) 31-12-1965"
 }

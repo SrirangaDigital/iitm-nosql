@@ -3,5 +3,6 @@
     "Description": "Handing Over by His Excellency Mr. Hans Klein",
     "Date": "1988-03-22",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0068"
+    "ForeignKeyId": "0068",
+    "Album": "Album 0068: Handing Over Siemens 7580-E Computer System"
 }

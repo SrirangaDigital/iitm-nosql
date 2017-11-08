@@ -3,5 +3,6 @@
     "Date": "01-08-1969",
     "Place": "Community Hall",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0222"
+    "ForeignKeyId": "0222",
+    "Album": "Album 0222: Alumini association 01-08-1969"
 }

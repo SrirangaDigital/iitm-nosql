@@ -3,5 +3,6 @@
     "Date": "02-04-1965",
     "Place": "OAT",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0271"
+    "ForeignKeyId": "0271",
+    "Album": "Album 0271: Allumini Association 02-04-1965"
 }

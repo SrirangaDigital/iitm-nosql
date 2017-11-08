@@ -2,5 +2,6 @@
     "AlbumID": "0321",
     "Place": "Laboratory",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0321"
+    "ForeignKeyId": "0321",
+    "Album": "Album 0321: Study Of Smoke Pattern in wind Dr. N Klein"
 }

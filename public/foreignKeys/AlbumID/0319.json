@@ -2,5 +2,6 @@
     "AlbumID": "0319",
     "Place": "Central Workshop",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0319"
+    "ForeignKeyId": "0319",
+    "Album": "Album 0319: Farewell to DR. A. L Mudahar"
 }

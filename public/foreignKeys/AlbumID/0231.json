@@ -3,5 +3,6 @@
     "Date": "14-12-1965",
     "Place": "NCC building",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0231"
+    "ForeignKeyId": "0231",
+    "Album": "Album 0231: NCC Buildings Inaguration 14-12-1965"
 }

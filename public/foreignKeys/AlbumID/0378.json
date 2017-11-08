@@ -1,5 +1,6 @@
 {
     "AlbumID": "0378",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0378"
+    "ForeignKeyId": "0378",
+    "Album": "Album 0378: Chemistry Department - Vibrations Lab"
 }

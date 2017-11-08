@@ -2,5 +2,6 @@
     "AlbumID": "0313",
     "Place": "Mandakini Hostel, Administration Building",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0313"
+    "ForeignKeyId": "0313",
+    "Album": "Album 0313: 1. Mandakini Hostel-1 2. Administrative Building 3. Alumini Association Groups"
 }

@@ -2,5 +2,6 @@
     "AlbumID": "0274",
     "Place": "OAT",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0274"
+    "ForeignKeyId": "0274",
+    "Album": "Album 0274: Cultural week"
 }

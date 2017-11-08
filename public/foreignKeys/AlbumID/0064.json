@@ -3,5 +3,6 @@
     "Description": "Dr. P. Rama Rao",
     "Date": "1992-07-31",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0064"
+    "ForeignKeyId": "0064",
+    "Album": "Album 0064: 29th Convocation"
 }

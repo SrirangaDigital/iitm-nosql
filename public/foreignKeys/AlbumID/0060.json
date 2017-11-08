@@ -3,5 +3,6 @@
     "Description": "Addressed by Manmohan Singh, 13th Prime Minister of India",
     "Date": "1994-07-30",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0060"
+    "ForeignKeyId": "0060",
+    "Album": "Album 0060: Thirty First Convocation, 1994"
 }

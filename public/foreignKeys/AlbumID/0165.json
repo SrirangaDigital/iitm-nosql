@@ -2,5 +2,6 @@
     "AlbumID": "0165",
     "Date": "1997-01-13",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0165"
+    "ForeignKeyId": "0165",
+    "Album": "Album 0165: Tech 21st Century Inauguration Photo"
 }

@@ -1,5 +1,6 @@
 {
     "AlbumID": "0350",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0350"
+    "ForeignKeyId": "0350",
+    "Album": "Album 0350: Machine Tools - Concrete Bed Lathe"
 }

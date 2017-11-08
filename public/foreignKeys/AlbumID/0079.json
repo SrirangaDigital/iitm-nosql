@@ -3,5 +3,6 @@
     "Description": "Silver Jubilee Year 1983, Opened by Rashtrapati Giani Zail singh",
     "Date": "1983-09-18",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0079"
+    "ForeignKeyId": "0079",
+    "Album": "Album 0079: 20th Convocation 18th Sep 1983"
 }

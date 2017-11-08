@@ -2,5 +2,6 @@
     "AlbumID": "0183",
     "Date": "1968-03-00",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0183"
+    "ForeignKeyId": "0183",
+    "Album": "Album 0183: Institute Day, March 1968 Germon Family"
 }

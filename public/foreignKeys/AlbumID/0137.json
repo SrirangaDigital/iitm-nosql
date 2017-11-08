@@ -2,5 +2,6 @@
     "AlbumID": "0137",
     "Date": "2005-09-01",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0137"
+    "ForeignKeyId": "0137",
+    "Album": "Album 0137: Addressing the Staff and Students of IIT by Dr. David C. Mulford"
 }

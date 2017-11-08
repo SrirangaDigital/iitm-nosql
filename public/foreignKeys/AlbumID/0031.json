@@ -4,5 +4,6 @@
     "Place": "KV Ground",
     "Description": "Shrimati Indira Gandhi, Prime Minister of India has graciously consented to deliver the Convocation Address",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0031"
+    "ForeignKeyId": "0031",
+    "Album": "Album 0031: 11th Convocation"
 }

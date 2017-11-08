@@ -2,5 +2,6 @@
     "AlbumID": "0159",
     "Date": "1998-07-31",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0159"
+    "ForeignKeyId": "0159",
+    "Album": "Album 0159: 35th Convocation 31st July 1988"
 }

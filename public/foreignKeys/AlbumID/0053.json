@@ -3,5 +3,6 @@
     "Date": "02-08-1969",
     "Place": "Labs",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0053"
+    "ForeignKeyId": "0053",
+    "Album": "Album 0053: Visit Dr. S. Bhagavantam"
 }

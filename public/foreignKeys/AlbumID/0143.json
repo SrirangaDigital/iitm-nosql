@@ -4,5 +4,6 @@
     "Place": "Central Lecture Theatre",
     "Description": "Chief Guest Shri K. V. Rangaswami, Whole-time Director & President (construction), L&T Ltd. and Presides Prof. M. S. Ananth, Director",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0143"
+    "ForeignKeyId": "0143",
+    "Album": "Album 0143: 50th Institute Day Celebrations"
 }

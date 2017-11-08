@@ -4,5 +4,6 @@
     "Place": "OAT",
     "Description": "Addressed by Dr. S. Bhaghavantam, Scientific Adviser to the Minister of Defence",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0019"
+    "ForeignKeyId": "0019",
+    "Album": "Album 0019: Sixth Convocation, 1969"
 }

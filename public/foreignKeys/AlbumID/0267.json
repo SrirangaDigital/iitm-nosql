@@ -2,5 +2,6 @@
     "AlbumID": "0267",
     "Date": "02-05-1969",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0267"
+    "ForeignKeyId": "0267",
+    "Album": "Album 0267: Summer schools in Electrical & Civil Engg Inaguration on 02-05-1969"
 }

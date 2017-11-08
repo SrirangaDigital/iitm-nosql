@@ -2,5 +2,6 @@
     "AlbumID": "0314",
     "Date": "22-04-1977",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0314"
+    "ForeignKeyId": "0314",
+    "Album": "Album 0314: Special Convacation Dr. Gensher 22-04-1977"
 }

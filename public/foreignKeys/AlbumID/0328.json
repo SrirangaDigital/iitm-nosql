@@ -1,5 +1,6 @@
 {
     "AlbumID": "0328",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0328"
+    "ForeignKeyId": "0328",
+    "Album": "Album 0328:"
 }

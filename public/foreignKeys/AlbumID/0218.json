@@ -3,5 +3,6 @@
     "Date": "28-03-1980",
     "Place": "T.V. Lab",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0218"
+    "ForeignKeyId": "0218",
+    "Album": "Album 0218: T.V. Lab 3 groups 28-03-1980"
 }

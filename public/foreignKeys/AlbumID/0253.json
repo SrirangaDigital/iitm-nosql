@@ -2,5 +2,6 @@
     "AlbumID": "0253",
     "Place": "Electrical Engineering Department(?)",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0253"
+    "ForeignKeyId": "0253",
+    "Album": "Album 0253: Color TV Lab"
 }

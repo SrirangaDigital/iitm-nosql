@@ -3,5 +3,6 @@
     "Date": "1970-08-29",
     "Place": "OAT",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0036"
+    "ForeignKeyId": "0036",
+    "Album": "Album 0036: 7th Convocation"
 }

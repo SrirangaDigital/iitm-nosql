@@ -3,5 +3,6 @@
     "Date": "1967",
     "Place": "Library",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0251"
+    "ForeignKeyId": "0251",
+    "Album": "Album 0251: Library Interior General View 1967"
 }

@@ -1,5 +1,6 @@
 {
     "AlbumID": "0327",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0327"
+    "ForeignKeyId": "0327",
+    "Album": "Album 0327: IIT Madras Campus Photos"
 }

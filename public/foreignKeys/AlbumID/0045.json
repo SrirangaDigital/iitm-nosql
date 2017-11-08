@@ -2,5 +2,6 @@
     "AlbumID": "0045",
     "Place": "Staff club premises",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0045"
+    "ForeignKeyId": "0045",
+    "Album": "Album 0045: Staff Club"
 }

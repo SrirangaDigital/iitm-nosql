@@ -2,5 +2,6 @@
     "AlbumID": "0316",
     "Date": "25th August 1970",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0316"
+    "ForeignKeyId": "0316",
+    "Album": "Album 0316: Dr Wagner Lab Photos 25th August 1970 (Prof Wagner at his table 2, with colleagues 4 )"
 }

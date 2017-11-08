@@ -3,5 +3,6 @@
     "Description": "Inaugurated By Dr. Richard Von Weizsaecker, President of the Federal Republic of Germany",
     "Date": "1991-03-04",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0066"
+    "ForeignKeyId": "0066",
+    "Album": "Album 0066: Inauguration of Wave Basin Facility"
 }

@@ -3,5 +3,6 @@
     "Date": "03-05-1966",
     "Place": "Dr.Klein's house",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0237"
+    "ForeignKeyId": "0237",
+    "Album": "Album 0237: Dr Klein, General View of Buildings 03-05-1966"
 }

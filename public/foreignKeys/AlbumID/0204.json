@@ -1,5 +1,6 @@
 {
     "AlbumID": "0204",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0204"
+    "ForeignKeyId": "0204",
+    "Album": "Album 0204: Vivek Puliyeri collection - Butterflies of IIT, Madras"
 }

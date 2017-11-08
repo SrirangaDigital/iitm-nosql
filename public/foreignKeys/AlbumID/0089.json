@@ -2,5 +2,6 @@
     "AlbumID": "0089",
     "Date": "2000-00-00",
     "ForeignKeyType": "AlbumID",
-    "ForeignKeyId": "0089"
+    "ForeignKeyId": "0089",
+    "Album": "Album 0089: Potpouri Final Start at 2000"
 }
