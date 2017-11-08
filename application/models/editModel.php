@@ -18,12 +18,6 @@ class editModel extends Model {
 		return ($result) ? $result['ForeignKeyId'] : '';
 	}
 
-	public function writeJsonToPath($data, $path) {
-
-		$jsonString = json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-		return (file_put_contents($path, $jsonString)) ? True : False;
-	}
-
 	public function resyncAffectedArtefacts($db, $key, $value) {
 
 		$collection = $this->db->selectCollection($db, ARTEFACT_COLLECTION);

@@ -132,6 +132,10 @@ class edit extends Controller {
 
 		$this->redirect('gitcvs/updateRepo/' . $refererArtefact);
 	}
-}
 
+	public function bulkReplace($query) {
+		
+		$this->view('edit/bulkReplace', '');
+	}
+}
 ?>
