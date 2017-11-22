@@ -68,7 +68,7 @@
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#about">About</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#collection">Collection</a></li>
+                    <li><a href="<?=BASE_URL?>#collection">Gallery</a></li>
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Institute of Technology Madras" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>#physical">Physical Space</a></li>
                     <li><a>·</a></li>
