@@ -68,7 +68,7 @@
 <div class="container-fluid stats" id="collection">
     <div class="row clear-margins">
         <div class="col-md-12">
-            <h1>The Gallery</h1>
+            <h1>Gallery</h1>
             <ul class="list-inline">
                 <li class="stat-elem">
                     <a href="<?=BASE_URL?>listing/categories/Photograph?select=Collection">
