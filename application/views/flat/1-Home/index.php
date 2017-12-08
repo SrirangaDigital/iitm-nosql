@@ -68,7 +68,7 @@
 <div class="container-fluid stats" id="collection">
     <div class="row clear-margins">
         <div class="col-md-12">
-            <h1>The Collection</h1>
+            <h1>Gallery</h1>
             <ul class="list-inline">
                 <li class="stat-elem">
                     <a href="<?=BASE_URL?>listing/categories/Photograph?select=Collection">
@@ -82,28 +82,16 @@
                         <p>Publications</p>
                     </a>
                 </li>
-<!--                 <li class="stat-elem">
-                    <a href="#">
-                        <h2><i class="fa fa-file-text-o"></i></h2>
-                        <p>Brochures</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="#">
-                        <h2><i class="fa fa-paint-brush"></i></h2>
-                       <p>Paintings</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="#">
-                        <h2><i class="fa fa-file-video-o"></i></h2>
-                       <p>Videos</p>
-                    </a>
-                </li> -->
                 <li class="stat-elem">
                     <a href="<?=BASE_URL?>listing/artefacts/Multimedia%20File?Category=Oral+History+Archives">
                         <h2><i class="fa fa-volume-up"></i></h2>
                         <p>Oral History Archives</p>
+                    </a>
+                </li>
+                <li class="stat-elem">
+                    <a href="http://192.155.224.66/stage/iitm-da/" target="_blank">
+                        <h2><i class="fa fa-trophy"></i></h2>
+                        <p>Distinguished Alumnus Awardees</p>
                     </a>
                 </li>
             </ul>
