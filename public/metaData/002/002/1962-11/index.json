@@ -23,7 +23,6 @@
         },
         {
             "Title": "Jawans' Fund",
-            "Author": "",
             "Page": "2"
         },
         {
@@ -38,7 +37,6 @@
         },
         {
             "Title": "Editorial",
-            "Author": "",
             "Page": "4"
         },
         {
@@ -63,14 +61,12 @@
         },
         {
             "Title": "On Contract!",
-            "Author": "",
-            "Page": "4",
+			"Page": "4",
             "Keywords": "Human Relntionist."
         },
         {
             "Title": "Boring & Lousy",
-            "Author": "",
-            "Page": "4"
+			"Page": "4"
         },
         {
             "Title": "Figure IT!",
@@ -80,11 +76,6 @@
         {
             "Title": "Me And Chesterton",
             "Author": "S. K.",
-            "Page": "5"
-        },
-        {
-            "Title": "",
-            "Author": "R",
             "Page": "5"
         },
         {
