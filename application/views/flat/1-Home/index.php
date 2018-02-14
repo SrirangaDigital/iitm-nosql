@@ -89,7 +89,7 @@
                     </a>
                 </li>
                 <li class="stat-elem">
-                    <a href="http://192.155.224.66/stage/iitm-da/" target="_blank">
+                    <a href="<?=BASE_URL?>DISTINGUISHED_ALUMNUS_AWARDEES" target="_blank">
                         <h2><i class="fa fa-trophy"></i></h2>
                         <p>Distinguished Alumnus Awardees</p>
                     </a>
