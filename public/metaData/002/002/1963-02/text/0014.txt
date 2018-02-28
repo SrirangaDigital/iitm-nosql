@@ -1,0 +1,263 @@
+CAMPASTIMES
+
+14
+
+WHAT IS GRAVITY?
+By HERMANN BONDI, F.R.S.
+
+Mr. Bondi is Professor of Applied Mathematies at King's College, London
+University, and the autlzoT DJ 'Cosn.ology' and 'Tile Universe at Large'.
+There is no force with which wc are quite
+so familiar in our daily lives as gravity. From
+eady youth we know that when we fall we
+hurt ourselves. We know that this is the
+force that keeps us on the ground, that Qur
+legs must resist at every momento Nevertheless, science finds it rather difficult to digest
+gravity, and our best modero theory of gravitatian, Einstein's theoeYI is a complete and
+beautiful theory that yet does not quite lìt in
+with the rest of physies.
+The investigation of gravity in a scientific
+manner started with Galileo, and he faund the
+first of the great peculiarities of gravity. He
+discovered that .ll bodies fall equally fast.
+It is dear that this is only true when no other
+
+farees act.
+
+1ft for example, air resistance is
+
+alIowed to act at the same time as gravity,
+and acts diffc::rently on two bodies, then they
+will not fall at the same speed-like a feather
+.nd a stee! ballo On the other hand, if no
+ather force is acting, as in empty space. then
+we kno\V now with great accuracy that Galileo
+was right, and that all bodie. faH equal1y fast.
+This means that we cannot switch off gravityit means that gravity hooks on to every body.
+This is different from all other fields. An
+electrie field will puH a charged body but not
+ane that is everywhere neutraI. If it is highly
+charged,. it will be pulled strongly. If it i.
+. weakly eharged, it will be pulled lightly. lf it
+is uncharged, it will not be pulled not allo A
+magnet will pick up a piece of steel but will
+not have any attraction for glasso
+A Difficult Force to Investigate
+This property of gravity is part of the reasnn why it is such a difficult force to investigate. When we do experiments in physics,
+we try to see what things are like when we
+switch on something and alsa when we switch
+it of! to sce what the consequences of the
+particular condition are. But gravity is always
+there. Therefore experiments on gravity are
+not easy, and the number that can be carried
+out effectively is rather Hmited.
+A second peculiarity of gravity is that it is a
+farce that always has the same sign. Gravity
+is always attractive: bodies always pull towards
+each other.
+A third and rather more diffieult peculiarity .
+to understaod is that it is an exceptionally
+weak force. Perhaps this sounds rather odd
+when we conduct alI our daily lives under
+the stress of gravity. But wc must rernemhcr
+that the Earth which holds us down is a very
+big body. If we go into other realms of
+physics, then the physicist plays with small
+particles in his laboratory and ~xamines thc
+forces that act between thern. Here, perhaps,
+one can see in the most dramatic fashion how
+wcak gravity is. Two of thc most important
+constituents of matter-the proton and thc
+electron-are both charged, and both have
+mass, so that we expect them to interact both
+eleetricallyand gravitationally. The electrieal
+force between them varies like the inverse
+square of their distance, just like the gravitational force. Of course, we cannot measurc
+the gravitational force between them-it is far
+too weak. But we can compute it, and when
+we compare the electrical farce with the gravitational one, the ratio turno out to be a
+monstrous number-one that has to be written
+with forty digits. Thc electrical force is vastly greater than the gravitational one. How
+then does it cQme about that gravity is so
+important for 'us, whereas electrical forces
+apparently are not so significant? The point
+here is that electrical forces tend to neutralize
+each other. If we think again of the Earth·,
+alt the protons in it, or virtualIy alI of them,
+are shielded by electrons, and so the electrica!
+force of the Earth on us is very weak. But, in
+gravity, no sueh shielding is possible. The
+gr.vitational pull of every particle is added to
+
+the gravitational pulI of every other particle,
+and so we get the impressive totai that is
+the farce of gravity.
+There is yet another peculiarity of gravity
+c10sely connected, one would think, with this
+property of weakness, which we do not understand at all clear1y. lndeed, it seems surprising that there should be such an enormous
+ratio between any two quantities in physics as
+there is between electrica! and gravitational
+forces. But let us imagine that gravity were
+stronger and electric interactions weaker. It
+is electrical intera-::tions that make up the
+strength of materials, ' that give solid bodies
+their rigidity and fluids their compressibility,
+and aH these things that we cali the structure
+of m.tter. Now consider the surface of the
+Earth. This is itself heavy and pulled towards
+the centre, and ooly does not faH because the
+under1ying material is so strong and resists this
+tendency of the surface to faH in. But if we
+suppose that gravity \Vere strong, then this outside of the Earth could come in and we could
+indeed imagine engineers attaching apparatus
+to it,.allowing it to come in towards the centre
+and gaining energy from this.
+Energy from Contraction
+By so gaining energy, by giving in to gravity
+as it \Vere, gravity itself would be increased .
+The farce on the surface in the new. condition
+would be greater than in the old one. This is
+the opposite of what happens with any other
+force. If we stretch a string and we allow
+the ends to be pulled together, then this pulling together, this giving in to the force, will
+diminish the force itsclf. And similarly with
+aH other forces: only in gravity do we actu.Hy
+increase it by giving in to it. Our engineers
+on this hypothetical Earth, then, when they
+were next short of energyor power, could a1l0w
+the Earth to contract a little further, and after
+that contraction they would be in a more
+favourable position than before to extract more
+energy. They need not take the Earth-they
+could take an orange and aUow that to contract
+to a minute size, and allow it to go 00 contracting and gain more and more energy from it.
+The ooly reason why this is impossiblé is
+because gravity is so weak. If this were not
+impossible, thcn there would be little point in
+physies in talking about energy, because every
+system, every body, could gain as much energy
+as it liked by allowing itself to contraet a little
+under gravity.
+Indeed, we can compare energy in physics
+as a ' measure of exchange value between heat
+and electrical energy .nd all the o'hers with
+money in an economy, which is also a measure
+of exchange value. If gravity were much
+stronger and we could gain energy by allowing
+bodies to contract, there would be as little
+point in thmking about energy in physics as
+there would be in thinking about money in an
+economy in which everybody had a private
+money-printing presso
+Einstein and N ewton
+I hope to have pointed out enough about the
+peculiarities of gravity to make it cIear that
+we should expect any decent theory of gravity
+to beone that is diff~ rent from all other theories
+in physies. This is indeed the case with the
+theory of gravity we now have-Einstein's
+theory of gravitation-which for historical
+reasons is usually called the Generai Theory
+of Relativity, although this is not a particularly
+good name. This theory grew out of the first
+comprehensive theory of gravitation we had,
+which was Newton's theory. · Newton's theory
+of gravity was so good at describing thc motion
+of bodies under gravity that astronomers could
+use it to calculate the motion of alI the celestial
+bodies, the planets and their satellites, with
+eno.rrnous accuracy and to predict eclipses to
+the secondo lt was an extraordinari1y good
+
+[February 15th, 1963
+theory in the sense that it predicted innumerable facts with great accuracy.
+Why, then, have we left this theory I There
+are fundamentally two reasons. First, on
+rather generaI groy.nds, in Newtonian theory
+gravity is very much a force like a11 tbc others,
+and so the theory fails to account for the peculiar
+nature of gravity. Secondly, Newtonian theory
+did not deal with light. This was beyond the
+physics of his day, and it is only in more recent
+times that we have learned to describe well the
+motion of light. The theory that describes
+this clearly and briefly is the Special Theory
+of Relativity, also due to Einstein. It so
+happens that Newton's theory of gravitation is
+in fact incompatible with the Special Theory
+of Relativity, which wc know from countless
+experiments to describe the motion of light and
+of fast particles with great .ccuracy. Therefore
+we reqwre a new theory of gravitation and
+Einstein's attack 00 the problem was made for
+these reasons.
+.
+Newtonian theory of dynamics starts of! with
+Newton's first law, which says that if no force
+acts 00 a body, it moves in a straight line with
+COnstant velocity. We can look at this as saying that this motion in a straight line with
+constant speed is the standard motion of
+matter. If matter moves in this way, then no
+special explanation is required. It is only when
+matter moves in a different \Vay, when matter
+is accelerated, that we have to look for a force
+that causes this acceleration . What Newton
+told us, in effect, and where he differed so
+greatly from his predecessors, is that if a body
+moves in a straight li ne with constant speed,
+then it is a waste of time to look for a force
+responsible for this motion. Wc serve a
+purpose only in lookiog for a farce when there
+is acceleration.
+An Unverifiable Law
+How would a physicist go about verifying
+this important law of Newton's? Suppose he
+had a test body, then he would go round this
+test bodyand make sure that no rope \Vas pulling it; next he would make sure that there
+was no electric charge on it so that it could
+not be pulled by.n electric lìeld. He would
+try to make su re that it was, not magnetized
+so that magnetic fields could not pull it. In
+this way, with sufficient care, he could exc1ude
+every field of foree pulling the body, every field
+other than gravity. There is nO way in which
+he could exclude gravity, since aH bodies fall
+equally, since there is no shielding against
+gravity. We have therefore to deduce regretfully that Newton's first law describes an
+unattainable state. It is an unverifiable law.
+. So one is \ed to ,hink whether one should not
+perhaps try to formulate tbings a little
+differently. Since gravity is the one force that
+cannot be switched off, should we not perhaps
+look at the motioo of matter under both gravity
+and inertia, the freely falling motion of matter,
+as its staodard motion, and look for a force
+on1y when a body deviates from this standard
+motion? Geometrically the standard motion
+would be much harder to describe thao N ewtoo's standard motion of straight Hne motion
+with constant speed. On the other hand, in
+this way we would s.et gravity apart from a11
+other forces' in accordance with its pcculiarities,
+and we would be able to dc:scribe it in a
+logically far more satisfaetory way.
+Let us now go back to Galileo's law that aH
+bodies faH equally fast. What does this meanl
+It means when I am falling freely and I hold
+a book in my hand and let go of ,his book,
+it will fall with me because the book and I
+will fall at the same speed, and so the book
+wiU not move relative to me. When I am falling freely, theredoes oot seem to be any gravity.
+Wc know this well nowadays from artificial
+satellites. The astrooauts in artificial satellites
+experience weightlessness. This merely means
+that since the satellite and the astrooaut in it
+and all the equipment there are falling
+freely, giving in to gravity without resistance,
+therefore there is no differential motion-aU
+move together. Hence inside the spaceship
+a book released wiU stay where it was put. Wc
+can then say that as soon as we are falling free1y
+we have abolished gravity, and we can demand
+of any theory of gravitation that when gravity
+
+
