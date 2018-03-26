@@ -94,6 +94,12 @@
                         <p>Distinguished Alumnus Awardees</p>
                     </a>
                 </li>
+                <li class="stat-elem">
+                    <a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre">
+                        <h2><i class="fa fa-envelope"></i></h2>
+                        <p>Letters from the Heritage Centre</p>
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
