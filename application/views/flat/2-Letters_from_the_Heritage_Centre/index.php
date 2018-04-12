@@ -4,6 +4,24 @@
             <h1>Letters from the Heritage Centre</h1>
 
             <div class="strip">
+                <img class="col-md-3 img-responsive" src="<?=STOCK_IMAGE_URL?>lfh/2018-01-23/thumb.JPG"  />
+                <p class="col-md-9">
+                    <h4>23 January 2018</h4>
+                    <h3>The Heaviest of Them All</h3>
+                    <p><em>by Kumaran Sathasivam</em></p>
+                    <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2018-01-23">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2008-01-23/index.pdf" target="_blank">Download</a></p>
+                </p>
+            </div>
+            <div class="strip">
+                <img class="col-md-3 img-responsive" src="<?=STOCK_IMAGE_URL?>lfh/2017-11-02/thumb.JPG"  />
+                <p class="col-md-9">
+                    <h4>2 November 2017</h4>
+                    <h3>Mandakini Hostel</h3>
+                    <p><em>by Kumaran Sathasivam</em></p>
+                    <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2017-11-02">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2017-11-02/index.pdf" target="_blank">Download</a></p>
+                </p>
+            </div>
+            <div class="strip">
                 <img class="col-md-3 img-responsive" src="<?=STOCK_IMAGE_URL?>lfh/2017-08-07/thumb.JPG"  />
                 <p class="col-md-9">
                     <h4>7 August 2017</h4>
