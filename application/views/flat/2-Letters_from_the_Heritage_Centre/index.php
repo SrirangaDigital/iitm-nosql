@@ -9,7 +9,7 @@
                     <h4>23 January 2018</h4>
                     <h3>The Heaviest of Them All</h3>
                     <p><em>by Kumaran Sathasivam</em></p>
-                    <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2018-01-23">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2008-01-23/index.pdf" target="_blank">Download</a></p>
+                    <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2018-01-23">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2018-01-23/index.pdf" target="_blank">Download</a></p>
                 </p>
             </div>
             <div class="strip">
