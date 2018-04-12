@@ -8,8 +8,8 @@
                 <p class="col-md-9">
                     <h4>23 January 2018</h4>
                     <h3>The Heaviest of Them All</h3>
-                    <p><em>by Kumaran Sathasivam</em></p>
                     <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2018-01-23">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2018-01-23/index.pdf" target="_blank">Download</a></p>
+                    <p>&nbsp;</p>
                 </p>
             </div>
             <div class="strip">
@@ -17,8 +17,8 @@
                 <p class="col-md-9">
                     <h4>2 November 2017</h4>
                     <h3>Mandakini Hostel</h3>
-                    <p><em>by Kumaran Sathasivam</em></p>
                     <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2017-11-02">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2017-11-02/index.pdf" target="_blank">Download</a></p>
+                    <p>&nbsp;</p>
                 </p>
             </div>
             <div class="strip">
@@ -26,17 +26,17 @@
                 <p class="col-md-9">
                     <h4>7 August 2017</h4>
                     <h3>Album 208</h3>
-                    <p><em>by Kumaran Sathasivam</em></p>
                     <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2017-08-07">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2017-08-07/index.pdf" target="_blank">Download</a></p>
+                    <p>&nbsp;</p>
                 </p>
             </div>
             <div class="strip">
                 <img class="col-md-3 img-responsive" src="<?=STOCK_IMAGE_URL?>lfh/2017-01-08/thumb.JPG"  />
                 <p class="col-md-9">
                     <h4>8 January 2017</h4>
-                    <h3>Questions</h3>
-                    <p><em>by Kumaran Sathasivam</em></p>
+                    <h3>Questions, questions</h3>
                     <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2017-01-08">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2017-01-08/index.pdf" target="_blank">Download</a></p>
+                    <p>&nbsp;</p>
                 </p>
             </div>
             <div class="strip">
@@ -44,8 +44,8 @@
                 <p class="col-md-9">
                     <h4>30 November 2016</h4>
                     <h3>Gate Crashers</h3>
-                    <p><em>by Kumaran Sathasivam</em></p>
                     <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2016-11-30">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2016-11-30/index.pdf" target="_blank">Download</a></p>
+                    <p>&nbsp;</p>
                 </p>
             </div>
             <div class="strip">
@@ -53,8 +53,8 @@
             	<p class="col-md-9">
             		<h4>8 November 2016</h4>
             		<h3>A Little Known Link</h3>
-            		<p><em>by Kumaran Sathasivam</em></p>
-            		<p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2016-11-08">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2016-11-08/index.pdf" target="_blank">Download</a></p>
+                    <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2016-11-08">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2016-11-08/index.pdf" target="_blank">Download</a></p>
+            		<p>&nbsp;</p>
             	</p>
             </div>
         </div>
