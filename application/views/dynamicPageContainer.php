@@ -23,7 +23,9 @@
                             </div>
                         </div>
                     </form>
-                </li>
+				</li>
+                <li><a>·</a></li>
+                <li><a href="<?=BASE_URL?>search/advanced">Advanced Search</a></li>                
             </ul>
         </div>
     </div>

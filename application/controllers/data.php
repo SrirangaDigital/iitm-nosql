@@ -50,6 +50,8 @@ class data extends Controller {
 	}
 
 	public function insertFulltext() {
+		
+		ini_set('max_execution_time', 300);
 
 		$txtFiles = $this->model->getFilesIteratively(PHY_METADATA_URL, $pattern = '/\/text\/\d+\.txt$/i');
 
@@ -71,40 +73,7 @@ class data extends Controller {
 			$result = $collection->insertOne($content);
 		}
 	}
-
-	// Use this method for global changes in json files
-	public function modify() {
-
-		// $db = $this->model->db->useDB();
-		// $collection = $this->model->db->selectCollection($db, ARTEFACT_COLLECTION);
-
-		// $iterator = $collection->distinct("State", ["Type" => "Brochure"]);
-
-		// $data = [];
-		// foreach ($iterator as $state) {
-			
-		// 	$Places = $collection->distinct("Place", ["State" => $state]);
-		// 	$data[$state][] = $Places;
-		// }
-		// file_put_contents("StatePlaces.txt", json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-
-
-		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL . '001/' , $pattern = '/index.json$/i');
-		
-		foreach ($jsonFiles as $jsonFile) {
-
-			$contentString = file_get_contents($jsonFile);
-			$content = json_decode($contentString, true);
-			
-			if(isset($content['Album']) && preg_match('/Mymoon\ collection/', $content['Album'])) {
-
-				$content['Album'] = preg_replace('/(.*)Mymoon\ collection(.*)/', "$1Mymoon Moghul collection$2", $content['Album']);
-				$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-				file_put_contents($jsonFile, $json);
-			}
-		}
-	}
-
+	
 	public function bulkReplaceAction() {
 		
 		// Get post data	
@@ -150,6 +119,40 @@ class data extends Controller {
 			$gitcvs = new gitcvs;
 			$gitcvs->checkoutFiles($affectedFiles);
 			$this->view('error/prompt',["msg"=>"Problem in writing data to file"]); return;
+		}
+	}
+
+
+	// Use this method for global changes in json files
+	public function modify() {
+
+		// $db = $this->model->db->useDB();
+		// $collection = $this->model->db->selectCollection($db, ARTEFACT_COLLECTION);
+
+		// $iterator = $collection->distinct("State", ["Type" => "Brochure"]);
+
+		// $data = [];
+		// foreach ($iterator as $state) {
+			
+		// 	$Places = $collection->distinct("Place", ["State" => $state]);
+		// 	$data[$state][] = $Places;
+		// }
+		// file_put_contents("StatePlaces.txt", json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+
+
+		$jsonFiles = $this->model->getFilesIteratively(PHY_METADATA_URL . '001/' , $pattern = '/index.json$/i');
+		
+		foreach ($jsonFiles as $jsonFile) {
+
+			$contentString = file_get_contents($jsonFile);
+			$content = json_decode($contentString, true);
+			
+			if(isset($content['Album']) && preg_match('/Mymoon\ collection/', $content['Album'])) {
+
+				$content['Album'] = preg_replace('/(.*)Mymoon\ collection(.*)/', "$1Mymoon Moghul collection$2", $content['Album']);
+				$json = json_encode($content, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+				file_put_contents($jsonFile, $json);
+			}
 		}
 	}
 }
