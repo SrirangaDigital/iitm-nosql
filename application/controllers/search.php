@@ -49,11 +49,16 @@ class search extends Controller {
 		else
 			echo json_encode($result);
 	}
-		
+
 	public function advanced(){
 
 		$arrayOfKeys = $this->model->getUniqueKeys();
 		($arrayOfKeys)? $this->view('search/advanced', $arrayOfKeys) : $this->view('error/noResults', 'search/index/');
+	}
+
+	public function journal(){
+
+		$this->view('search/page');	
 	}
 }
 

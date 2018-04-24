@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://localhost/iitm-nosql/');
+define('BASE_URL', 'http://192.168.1.101/iitm-nosql/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('DATA_URL', PUBLIC_URL . 'data/');
 define('METADATA_URL', PUBLIC_URL . 'metaData/');

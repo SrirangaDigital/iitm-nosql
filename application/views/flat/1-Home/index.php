@@ -2,7 +2,8 @@
 <div class="container-fluid" id="home">
     <div class="row first-row">
         <div class="col-md-12 clear-paddings">
-            <div class="fixOverlayDivHome gap-above">
+            <div class="fixOverlayDiv">
+				<img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide1.jpg">
                 <div class="OverlayTextMain">
                     <div class="mainpage">
                         <h2>IIT Madras Heritage Centre</h2>
