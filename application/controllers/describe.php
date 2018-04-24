@@ -24,7 +24,7 @@ class describe extends Controller {
 
 		($artefact['details']) ? $this->view('describe/artefact', $artefact) : $this->view('error/index');
 	}
-	
+
 	public function transcription($query = [], $id = '') {
 
 		$id = preg_replace('/(.*?)_(.*?)_(.*)/', "$1/$2/$3", $id);
