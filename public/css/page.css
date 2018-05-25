@@ -851,6 +851,9 @@ img.img-center{
   border-bottom: 1px solid #CCC;
   color: #555;
 }
+.contact-info{
+	font-weight: 500 !important;
+}
 .nav>li>a:focus, .nav>li>a:hover{
   background-color: transparent;
 }
