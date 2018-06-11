@@ -64,6 +64,11 @@ class viewHelper extends View {
             echo '<li><a href="' . BASE_URL . 'describe/transcription/' . str_replace('/', '_', $id) . '" target="_blank">Transcript (Side-by-side View)</a></li>';
         }
 
+        if(file_exists(PHY_DATA_URL . $id . '/index.mp3')) {
+
+            echo '<li><a href="' . DATA_URL . $id . '/index.mp3' . '" download>Click here to download Audio</a></li>';
+        }
+
         return;
     }
 

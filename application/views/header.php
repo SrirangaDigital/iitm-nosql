@@ -27,7 +27,8 @@
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/normalize.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <!-- <link rel="stylesheet" href="css/skeleton.css"> -->
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
@@ -72,7 +73,7 @@
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Institute of Technology Madras" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>#physical">Physical Space</a></li>
                     <li><a>·</a></li>
-                    <li><a href="#">Contact Info</a></li>
+                    <li><a href="<?=BASE_URL?>Contact_info">Contact Info</a></li>
                     <li><a>·</a></li>
                     <li>
 <?php
