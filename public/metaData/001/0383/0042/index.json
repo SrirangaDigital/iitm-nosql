@@ -1,8 +1,9 @@
 {
     "id": "001/0383/0042",
     "AlbumID": "0383",
-    "Caption": "",
+    "Caption": "The geometrician",
     "Collection": "Nature Collection",
     "Type": "Photograph",
-    "AccessLevel": "0"
+    "AccessLevel": 0,
+    "Description": "Moth"
 }
