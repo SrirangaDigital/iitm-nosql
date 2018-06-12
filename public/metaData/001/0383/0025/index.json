@@ -1,8 +1,9 @@
 {
     "id": "001/0383/0025",
     "AlbumID": "0383",
-    "Caption": "Stripped Tiger",
+    "Caption": "Stripped tiger",
     "Collection": "Nature Collection",
     "Type": "Photograph",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "Description": "Butterfly"
 }
