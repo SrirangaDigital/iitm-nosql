@@ -89,6 +89,16 @@
                         <p>Oral History Archives</p>
                     </a>
                 </li>
+			</ul>
+		</div>
+		<div class="col-md-12">
+			<ul class="list-inline">
+                <li class="stat-elem">
+                    <a href="<?=BASE_URL?>listing/artefacts/Miscellaneous%20Video?Category=Videos">
+                        <h2><i class="fa fa-video-camera"></i></h2>
+                        <p>Videos</p>
+                    </a>
+                </li>
                 <li class="stat-elem">
                     <a href="<?=BASE_URL?>DAA" target="_blank">
                         <h2><i class="fa fa-trophy"></i></h2>

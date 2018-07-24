@@ -9,6 +9,8 @@
                 <li><a>·</a></li>
                 <li><a href="<?=BASE_URL?>listing/artefacts/Multimedia%20File?Category=Oral+History+Archives">Oral History Archives</a></li>
                 <li><a>·</a></li>
+		<li><a href="<?=BASE_URL?>listing/artefacts/Miscellaneous%20Video?Category=Videos">Videos</a></li>
+                <li><a>·</a></li>
                 <li id="searchForm">
                     <form class="navbar-form" role="search" action="<?=BASE_URL?>search/field/" method="get">
                         <div class="input-group add-on">
