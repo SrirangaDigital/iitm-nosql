@@ -14,6 +14,20 @@
         </div>
     </div>
 </div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-2 clear-paddings">
+            &nbsp;
+        </div>
+        <div class="col-md-8 clear-paddings news">
+            <h1>Upcoming Events</h1>
+            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/slide.jpg">
+        </div>
+        <div class="col-md-2 clear-paddings">
+            &nbsp;
+        </div>
+    </div>
+</div>
 <div class="container" id="about">
     <ul class="timeline">
         <li>
