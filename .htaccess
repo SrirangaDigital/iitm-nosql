@@ -27,6 +27,9 @@ RewriteRule artefact/pdf/(.*?)_(.*?)_(.*) public/pdfjs/web/viewer.html?file=../.
 RewriteCond %{REQUEST_URI}  /artefact/fulltext/.*
 RewriteRule artefact/fulltext/(.*?)_(.*?)_(.*) public/pdfjs/web/viewer.html?file=../../data/$1/$2/$3/index.pdf [QSA,L]
 
+RewriteCond %{REQUEST_URI}  /guestbook
+RewriteRule ^(.+)$ public/Resources/guestbook.pdf [QSA,L]
+
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 
