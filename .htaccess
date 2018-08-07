@@ -1,7 +1,7 @@
 Options -MultiViews -Indexes
 RewriteEngine On
 
-RewriteBase /iitm-nosql
+RewriteBase /stage/iitm-nosql
 
 RewriteCond %{REQUEST_URI}  artefact/.*build.*
 RewriteRule artefact/.*(build.*) public/pdfjs/$1 [QSA,L]
