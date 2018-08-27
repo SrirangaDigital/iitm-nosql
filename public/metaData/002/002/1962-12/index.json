@@ -1,17 +1,137 @@
 {
-    "id": "002/002/1962-12",
-    "Type": "Publication",
-    "Publication": "Campastimes",
-    "Issue": "Special Issue",
-    "Date": "1962-12-03",
-    "Toc": [
-        {
-            "Title": "I.I.T. MADRAS WELCOMES THE GERMAN PRESIDENT",
-            "Page": "1, 2"
-        },
-        {
-            "Title": "A Glimpse at Germany",
-            "Page": "2"
-        }
-    ]
+	"id": "002/002/1962-12",
+	"Type": "Publication",
+	"Publication": "Campastimes",
+	"Volume": "I",
+	"Issue": "5",
+	"Date": "1962-12-15",
+	"Toc": [{
+			"Title": "President luebke lays foundation stone of I.I.T. Madras",
+			"Author": "K. M. Kripanarayan",
+			"Page": "1"
+		},
+		{
+			"Title": "Fantasies in a delirium or As you please",
+			"Page": "2,"
+		},
+		{
+			"Title": "The German president arriving at the open-air theatre",
+			"Author": "E. S. B. Rao",
+			"Page": "2"
+		},
+		{
+			"Title": "Personalities-(5)",
+			"Author": "T. S. A.",
+			"Page": "3"
+		},
+		{
+			"Title": "The Uennag fantastron circuit",
+			"Author": "N. R. V. S.",
+			"Page": "3"
+		},
+		{
+			"Title": "Heard this before!!!",
+			"Author": "S. R. Majumdar",
+			"Page": "3"
+		},
+		{
+			"Title": "Workshop and Mrs. Bird",
+			"Author": "-Paichandy",
+			"Page": "4"
+		},
+		{
+			"Title": "Answers o `FIGURE IT'",
+			"Author": "V. Rathan Babu",
+			"Page": "4"
+		},
+		{
+			"Title": "From here and there",
+			"Author": "Surjit Randhava",
+			"Page": "4"
+		},
+		{
+			"Title": "Letters to the editor ",
+			"Author": "P. R. C",
+			"Page": "4,5"
+		},
+		{
+			"Title": "Curves & Strong feeling",
+			"Page": "5"
+		},
+		{
+			"Title": "Close Down!!",
+			"Author": "R. C. Pahuja.",
+			"Page": "5"
+		},
+		{
+			"Title": "Wayward Bus",
+			"Author": "P. M.",
+			"Page": "5"
+		},
+		{
+			"Title": "Artist Saha",
+			"Author": "Admirer",
+			"Page": "5"
+		},
+		{
+			"Title": "Our canteen-an introspection",
+			"Author": "S. Srikant",
+			"Page": "5-10"
+		},
+		{
+			"Title": "National integration and the square dance",
+			"Author": "K. V. Rangaswami.",
+			"Page": "5"
+		},
+		{
+			"Title": "The Quest",
+			"Author": "S. Bukht",
+			"Page": "6,8,9"
+		},
+		{
+			"Title": "The Innocents",
+			"Author": "M. S. Chandramouli",
+			"Page": "7,9,11"
+		},
+		{
+			"Title": "Institute Gymkhana",
+			"Author": "S. Gopalakrishnan",
+			"Page": "7"
+		},
+		{
+			"Title": "`Maa Ne Aaj Sindhur Maanga Hai'",
+			"Author": "R. S. Sehgal",
+			"Page": "8"
+		},
+		{
+			"Title": "The patriot's outcry",
+			"Author": "P. Mohan",
+			"Page": "8"
+		},
+		{
+			"Title": "`Narmada Hostel Tournaments'",
+			"Author": "K. K. Batra",
+			"Page": "10"
+		},
+		{
+			"Title": "Allah says `NO MORE'",
+			"Author": "N. Ramesh",
+			"Page": "11"
+		},
+		{
+			"Title": "`ON LIFE'",
+			"Author": "T. S. C.",
+			"Page": "11"
+		},
+		{
+			"Title": "Square-dance No.3",
+			"Page": "11"
+		},
+		{
+			"Title": "A Homage to the jawans",
+			"Author": "G. Viswanathan.",
+			"Page": "11"
+		}
+
+	]
 }
