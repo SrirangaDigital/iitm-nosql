@@ -1,142 +1,143 @@
 {
-	"id": "002/002/1963-04",
-	"Type": "Publication",
-	"Publication": "Campastimes",
-	"Volume": "I",
-	"Issue": "8",
-	"Date": "1963-04-15",
-	"Toc": [{
-			"Title": "Institute Day",
-			"Page": "1"
-		},
-		{
-			"Title": "A Song on the I.I.T.",
-			"Author": "M. S. Vairanapillai",
-			"Page": "1"
-		},
-		{
-			"Title": "Personal",
-			"Page": "2"
-		},
-		{
-			"Title": "Notice",
-			"Author": "Manager, The Campastimes",
-			"Page": "2"
-		},
-		{
-			"Title": "Velachery Youth Association",
-			"Author": "Hon. Secretary",
-			"Page": "2"
-		},
-		{
-			"Title": "Change of Name",
-			"Page": "2"
-		},
-		{
-			"Title": "I.I.T. Library",
-			"Author": "Librarian",
-			"Page": "2"
-		},
-		{
-			"Title": "Tenders",
-			"Page": "2"
-		},
-		{
-			"Title": "Notice",
-			"Author": "Publisher",
-			"Page": "2"
-		},
-		{
-			"Title": "Acknowledgement",
-			"Page": "2"
-		},
-		{
-			"Title": "The Psychology of National Enthusiasm",
-			"Author": "V. S. Kumar, M. S. Vairanapillai",
-			"Page": "2, 6"
-		},
-		{
-			"Title": "An Experience Non-Pareil",
-			"Author": "V. Ranganathan",
-			"Page": "2"
-		},
-		{
-			"Title": "Personalities (8)",
-			"Author": "Dr. Anantharaman, M. V. Rao",
-			"Page": "3"
-		},
-		{
-			"Title": "The Foreign Expert",
-			"Author": "Tee Aar",
-			"Page": "3, 9"
-		},
-		{
-			"Title": "Editorial-Lock Your Vehicles!",
-			"Page": "3"
-		},
-		{
-			"Title": "Why Worry?",
-			"Page": "4"
-		},
-		{
-			"Title": "From Here and There",
-			"Author": "Surjit Randhava",
-			"Page": "4"
-		},
-		{
-			"Title": "Letters to the Editor",
-			"Author": "Gymkhana",
-			"Page": "4"
-		},
-		{
-			"Title": "Speed-A-Tech",
-			"Page": "4"
-		},
-		{
-			"Title": "Letters",
-			"Author": "Parameswaram",
-			"Page": "5"
-		},
-		{
-			"Title": "N. C. C.",
-			"Page": "5"
-		},
-		{
-			"Title": "Over a-of Aye Aye Tea",
-			"Page": "5"
-		},
-		{
-			"Title": "Smiles",
-			"Author": "N. P. Narayanan",
-			"Page": "5"
-		},
-		{
-			"Title": "The Psychology",
-			"Page": "6"
-		},
-		{
-			"Title": "Jane",
-			"Author": "S. Bukhat",
-			"Page": "8"
-		},
-		{
-			"Title": "Sportfolio-Face to Face",
-			"Author": "R. Krishnan",
-			"Page": "7"
-		},
-		{
-			"Title": "Space Pilot",
-			"Author": "Prabhat Kumar",
-			"Page": "7, 8, 9"
-		},
-		{
-			"Title": "Foreign Expert",
-			"Page": "9"
-		},
-		{
-			"Title": "Celebrating Institute Day",
-			"Author": "K. Mahesh",
-			"Page": "10"
-		}
-	]
+    "id": "002/002/1963-04",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Volume": "I",
+    "Issue": "8",
+    "Date": "1963-04-15",
+    "Toc": [
+        {
+            "Title": "Institute Day",
+            "Page": "1"
+        },
+        {
+            "Title": "A Song on the I.I.T.",
+            "Author": "M. S. Vairanapillai",
+            "Page": "1"
+        },
+        {
+            "Title": "Personal",
+            "Page": "2"
+        },
+        {
+            "Title": "Notice",
+            "Author": "Manager, The Campastimes",
+            "Page": "2"
+        },
+        {
+            "Title": "Velachery Youth Association",
+            "Author": "Hon. Secretary",
+            "Page": "2"
+        },
+        {
+            "Title": "Change of Name",
+            "Page": "2"
+        },
+        {
+            "Title": "I.I.T. Library",
+            "Author": "Librarian",
+            "Page": "2"
+        },
+        {
+            "Title": "Tenders",
+            "Page": "2"
+        },
+        {
+            "Title": "Notice",
+            "Author": "Publisher",
+            "Page": "2"
+        },
+        {
+            "Title": "Acknowledgement",
+            "Page": "2"
+        },
+        {
+            "Title": "The Psychology of National Enthusiasm",
+            "Author": "V. S. Kumar, M. S. Vairanapillai",
+            "Page": "2, 6"
+        },
+        {
+            "Title": "An Experience Non-Pareil",
+            "Author": "V. Ranganathan",
+            "Page": "2"
+        },
+        {
+            "Title": "Personalities (8)",
+            "Author": "Dr. Anantharaman, M. V. Rao",
+            "Page": "3"
+        },
+        {
+            "Title": "The Foreign Expert",
+            "Author": "Tee Aar",
+            "Page": "3, 9"
+        },
+        {
+            "Title": "Editorial-Lock Your Vehicles!",
+            "Page": "3"
+        },
+        {
+            "Title": "Why Worry?",
+            "Page": "4"
+        },
+        {
+            "Title": "From Here and There",
+            "Author": "Surjit Randhava",
+            "Page": "4"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Author": "Gymkhana",
+            "Page": "4"
+        },
+        {
+            "Title": "Speed-A-Tech",
+            "Page": "4"
+        },
+        {
+            "Title": "Letters",
+            "Author": "Parameswaram",
+            "Page": "5"
+        },
+        {
+            "Title": "N. C. C.",
+            "Page": "5"
+        },
+        {
+            "Title": "Over a-of Aye Aye Tea",
+            "Page": "5"
+        },
+        {
+            "Title": "Smiles",
+            "Author": "N. P. Narayanan",
+            "Page": "5"
+        },
+        {
+            "Title": "The Psychology",
+            "Page": "6"
+        },
+        {
+            "Title": "Jane",
+            "Author": "S. Bukhat",
+            "Page": "8"
+        },
+        {
+            "Title": "Sportfolio-Face to Face",
+            "Author": "R. Krishnan",
+            "Page": "7"
+        },
+        {
+            "Title": "Space Pilot",
+            "Author": "Prabhat Kumar",
+            "Page": "7, 8, 9"
+        },
+        {
+            "Title": "Foreign Expert",
+            "Page": "9"
+        },
+        {
+            "Title": "Celebrating Institute Day",
+            "Author": "K. Mahesh",
+            "Page": "10"
+        }
+    ]
 }
