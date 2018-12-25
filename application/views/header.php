@@ -67,7 +67,7 @@
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="<?=BASE_URL?>#home">Heritage Centre</a></li>
                     <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>#about">About</a></li>
+                    <li><a href="<?=BASE_URL?>About">About</a></li>
                     <li><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#collection">Gallery</a></li>
                     <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Institute of Technology Madras" class="img-circle logo"></a></li>

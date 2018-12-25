@@ -608,6 +608,77 @@ a.moretag {
     line-height: 24px;
     text-align: left;
 }
+.latest-albums{
+    background-color: #FFF;
+    color: #5D5D5D;
+    padding: 95px 60px 0px 60px;
+    
+    text-align: center;
+    font-weight: 400;
+}
+.latest-albums h1{
+    font-size: 24px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #EFEFEF;
+}
+.latest-albums h2{
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+    line-height: 1.5;
+}
+.latest-albums p{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.latest-videos{
+    background-color: #FFF;
+    color: #5D5D5D;
+    padding: 80px 60px 0px 60px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-weight: 400;
+}
+.latest-videos h1{
+    font-size: 24px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #EFEFEF;
+}
+.latest-videos h2{
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: left;
+    line-height: 1.5;
+}
+.latest-videos p{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left;
+}
+.vthumbnail{
+   position: relative;
+   padding: 0px;
+}
+.vcaption {
+    background: linear-gradient(rgba( 0, 0, 0, 0 ), rgba( 0, 0, 0, 1 ));
+    bottom: 0;
+    color: #FFF;
+    left: 0;
+    position: absolute;
+    padding: 15px 15px;
+/*
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    color: #FFF;*/
+}
 
 /*Contribute*/
 .contribute {
@@ -842,7 +913,7 @@ img.img-center{
 .main{
   font-size: 14px;
   line-height: 24px;
-  margin-top: 120px;
+  margin-top: 72px;
 }
 .main h1{
   font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;

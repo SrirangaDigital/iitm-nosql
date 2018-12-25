@@ -81,6 +81,7 @@ class View {
 		$pageTitle = $this->getPageTitle($viewHelper, $path);
 
 		require_once 'application/views/header.php';
+		// if(preg_match('/flat\/Home/', $path)) require_once 'application/views/carousel.php';
 		require_once 'application/views/dynamicPageContainer.php';
 		require_once 'application/views/footer.php';
 	}
@@ -91,6 +92,7 @@ class View {
 		$pageTitle = $this->getPageTitle($viewHelper, $path);
 
 		require_once 'application/views/header.php';
+		if(preg_match('/flat\/Home/', $path)) require_once 'application/views/carousel.php';
 		require_once 'application/views/flatPageContainer.php';
 		require_once 'application/views/footer.php';
     }
