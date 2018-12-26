@@ -1,71 +1,76 @@
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<div class="container-fluid" id="home">
-    <div class="row first-row">
-        <div class="col-md-12 clear-paddings">
+
+<div class="container-fluid latest-albums" id="latest-albums">
+    <div class="row clear-margins">
+        <div class="col-md-12">
+            <h1>Latest Albums</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0397%3A+A+Talk+by+Prof.+P.+Sriram+on+Campus+History&Collection=Heritage%20Centre%20collection" target="_blank">
+                <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/latest-albums/window1.jpg" />
+            </a>    
+            <h2>A Talk by Prof. P. Sriram on Campus History</h2>
+            <p>History and Development of IITM Campus</p>
+        </div>
+        <div class="col-md-4">
+            <a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0396%3A+Prof.+Arcot+Ramachandran+Remembrance+-+July+31+2018&Collection=Heritage%20Centre%20collection" target="_blank">
+                <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/latest-albums/window2.jpg" />
+            </a>    
+            <h2>Prof. Arcot Ramachandran Remembrance</h2>
+            <p></p>
+        </div>
+        <div class="col-md-4">
+            <a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0395%3A+Sathasivam+collection+-+Plants&Collection=Nature%20Collection" target="_blank">
+                <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/latest-albums/window3.jpg" />
+            </a>    
+            <h2>Sathasivam collection - Plants</h2>
+            <p></p>
+        </div>
+    </div>    
+</div>        
+
+<div class="container-fluid latest-videos" id="latest-videos">
+    <div class="row clear-margins">
+        <div class="col-md-12">
+            <h1>Latest Videos</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
             <div class="fixOverlayDiv">
-				<img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide1.jpg">
-                <div class="OverlayTextMain">
-                    <div class="mainpage">
-                        <h2>IIT Madras Heritage Centre</h2>
-                        <p>The Heritage Centre was formally inaugurated by Dr. Arcot Ramachandran, former Director of IIT Madras on 3rd March 2006. The Centre is located on the ground floor of the administration building. The actual idea of a Heritage Centre was mooted in the year 2000 and it became a reality due to the efforts of Dr. Ajit Kumar Kolar and his team. The Centre is a repository of material of heritage value and historical significance of various facets of the Institute.</p>
-                    </div>
+                <a href="<?=BASE_URL?>describe/artefact/003_001_042?Category=Oral%20History%20Archives"  target="_blank">
+                    <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/latest-videos/window1.jpg" />
+                </a>    
+                <div class="OverlayText">
+                    <p>Prof. J. Sobhanadri in conversation with Prof. C. Vijayan and Ms M. Mayarani</p>
+                </div>
+            </div>    
+        </div>
+        <div class="col-md-4">
+            <div class="fixOverlayDiv">
+                <a href="<?=BASE_URL?>describe/artefact/003_001_041?Category=Oral%20History%20Archives" target="_blank">           
+                    <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/latest-videos/window2.jpg" />
+                </a>    
+                <div class="OverlayText">
+                    <p>Mr S.Thangavelu (1964) in conversation with Mr V. Sekhar (1965)</p>
+                </div>
+            </div>    
+        </div>
+        <div class="col-md-4">
+            <div class="fixOverlayDiv">
+                <a href="<?=BASE_URL?>describe/artefact/004_001_010?Category=Videos" target="_blank">            
+                    <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/latest-videos/window3.jpg" />
+                </a>    
+                <div class="OverlayText">
+                    <p>Cicada in IIT Madras</p>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="container" id="about">
-    <ul class="timeline">
-        <li>
-          <div class="timeline-badge">1956</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Visit of Prime Minister Jawaharlal Nehru to West Germany and the offer made to him by the Government of the Federal Republic of Germany to assist in the setting up of a higher technological institute in India.</p>
-            </div>
-          </div>
-        </li>
-        <li class="timeline-inverted">
-          <div class="timeline-badge">1958</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>The signing of the first Indo-German agreement in Bonn, West Germany for the establishment of the Indian Institute of Technology at Madras.</p>
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-badge">1959</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Formal inauguration of the Institute by Prof.Humayun Kabir, Union Minister for Scientific Research and Cultural Affairs, Dr.A.Lakshmanaswamy Mudaliar assumes office as the first Chairman of the Board of Governors of the Institute. Prof.B.Sengupto assumes office as the first Director of the Institute.</p>
-            </div>
-          </div>
-        </li>
-        <li class="timeline-inverted">
-          <div class="timeline-badge">1961</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Declaration of the Institute by the Parliament of India as an institution of National importance.</p>
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-badge">1962</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Visit to the Institute by Dr.Heinrich Lubke, President of the Federal Republic of Germany and the unveiling of a tablet symbolising the Indo-German technical assistance programme.</p>
-            </div>
-          </div>
-        </li>
-        <li class="timeline-inverted">
-          <div class="timeline-badge">1967</div>
-          <div class="timeline-panel">
-            <div class="timeline-body">
-              <p>Dr. A. Ramachandran takes over as Director from Prof. B. Sengupto.</p>
-            </div>
-          </div>
-        </li>
-    </ul>
-</div>
+
 <div class="container-fluid stats" id="collection">
     <div class="row clear-margins">
         <div class="col-md-12">
@@ -115,6 +120,7 @@
         </div>
     </div>
 </div>
+
 <div class="container-fluid physical" id="physical">
     <div class="row">
         <div class="col-md-12">
