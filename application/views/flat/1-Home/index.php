@@ -18,7 +18,7 @@
     <div class="row">
         <div class="col-md-6 clear-paddings">
             <div class="fixOverlayDiv">
-				<img class="img-responsive gap-above gap-below" src="<?=PUBLIC_URL?>images/stock/slide3.png">
+				<img class="img-responsive gap-above gap-below" src="<?=PUBLIC_URL?>images/stock/slide3.jpg">
             </div>
         </div>
         <div class="col-md-6 clear-paddings">
