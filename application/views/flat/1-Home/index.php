@@ -1,21 +1,6 @@
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <div class="container-fluid" id="home">
-    <div class="row first-row">
-        <div class="col-md-12 clear-paddings">
-            <div class="fixOverlayDiv">
-				<img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide1.jpg">
-                <div class="OverlayTextMain">
-                    <div class="mainpage">
-                        <h2>IIT Madras Heritage Centre</h2>
-                        <p>The Heritage Centre was formally inaugurated by Dr. Arcot Ramachandran, former Director of IIT Madras on 3rd March 2006. The Centre is located on the ground floor of the administration building. The actual idea of a Heritage Centre was mooted in the year 2000 and it became a reality due to the efforts of Dr. Ajit Kumar Kolar and his team. The Centre is a repository of material of heritage value and historical significance of various facets of the Institute.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="container-fluid" id="home">
-    <div class="row">
+    <div class="row first-row gap-above-extra-large">
         <div class="col-md-6 clear-paddings">
             <div class="fixOverlayDiv">
 				<img class="img-responsive gap-above gap-below" src="<?=PUBLIC_URL?>images/stock/slide3.jpg">
@@ -36,6 +21,21 @@
                     <footer>Date and time to be announced.</footer>
                 </blockquote>
 			</div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12 clear-paddings">
+            <div class="fixOverlayDiv">
+                <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide1.jpg">
+                <div class="OverlayTextMain">
+                    <div class="mainpage">
+                        <h2>IIT Madras Heritage Centre</h2>
+                        <p>The Heritage Centre was formally inaugurated by Dr. Arcot Ramachandran, former Director of IIT Madras on 3rd March 2006. The Centre is located on the ground floor of the administration building. The actual idea of a Heritage Centre was mooted in the year 2000 and it became a reality due to the efforts of Dr. Ajit Kumar Kolar and his team. The Centre is a repository of material of heritage value and historical significance of various facets of the Institute.</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
