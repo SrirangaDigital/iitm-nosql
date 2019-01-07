@@ -22,11 +22,19 @@
             </div>
         </div>
         <div class="col-md-6 clear-paddings">
+            <h4 class=" gap-above-extra-large">Other upcoming events</h4>
             <div class="fixOverlayDiv">
-				<h3 class="gap-above-extra-large">1. IIT Madras archive: A talk by Prof. Roland Wittje, 30 January 2019, afternoon, time to be announced.</h3>
+				<blockquote>
+                    <p>IIT Madras archive: A talk by Prof. Roland Wittje</p>
+                        <footer>Date: 30 January 2019</footer>
+                        <footer>Time to be announced</footer>
+                </blockquote>
 			</div>
             <div class="fixOverlayDiv">
-				<h3 class="gap-above">2. Photographic exhibition on the life and work of Mr. C. Gourishankar. Dates to be announced.</h3>
+				<blockquote>
+                    <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
+                    <footer>Date and time to be announced.</footer>
+                </blockquote>
 			</div>
         </div>
     </div>
