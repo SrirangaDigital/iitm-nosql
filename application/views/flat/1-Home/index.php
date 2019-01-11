@@ -1,12 +1,7 @@
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <div class="container-fluid" id="home">
     <div class="row first-row gap-above-extra-large">
-        <div class="col-md-6 clear-paddings">
-            <div class="fixOverlayDiv">
-				<img class="img-responsive gap-above gap-below" src="<?=PUBLIC_URL?>images/stock/slide3.jpg">
-            </div>
-        </div>
-        <div class="col-md-6 clear-paddings">
+        <div class="col-md-offset-3 clear-paddings">
             <h4 class=" gap-above-extra-large">Other upcoming events</h4>
             <div class="fixOverlayDiv">
 				<blockquote>
