@@ -10,7 +10,7 @@
             <h4 class=" gap-above-extra-large">Other upcoming events</h4>
             <div class="fixOverlayDiv">
 				<blockquote>
-                    <p>IIT Madras archive: A talk by Prof. Roland Wittje</p>
+                    <p>Setting up the Historical Archive of IIT Madras: A talk by Prof. Roland Wittje</p>
                         <footer>Date: 30 January 2019</footer>
                         <footer>Time: 4PM</footer>
                         <footer>Venue: Hall 3, ICSR Building</footer>
