@@ -12,7 +12,8 @@
 				<blockquote>
                     <p>IIT Madras archive: A talk by Prof. Roland Wittje</p>
                         <footer>Date: 30 January 2019</footer>
-                        <footer>Time to be announced</footer>
+                        <footer>Time: 4PM</footer>
+                        <footer>Venue: Hall 3, ICSR Building</footer>
                 </blockquote>
 			</div>
             <div class="fixOverlayDiv">
