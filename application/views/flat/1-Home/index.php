@@ -1,27 +1,6 @@
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<div class="container-fluid" id="home">
-    <div class="row first-row gap-above-extra-large">
-        <div class="col-md-offset-3 clear-paddings">
-            <h4 class=" gap-above-extra-large">Other upcoming events</h4>
-            <div class="fixOverlayDiv">
-				<blockquote>
-                    <p>Setting up the Historical Archive of IIT Madras: A talk by Prof. Roland Wittje</p>
-                        <footer>Date: 30 January 2019</footer>
-                        <footer>Time: 4PM</footer>
-                        <footer>Venue: Hall 3, ICSR Building</footer>
-                </blockquote>
-			</div>
-            <div class="fixOverlayDiv">
-				<blockquote>
-                    <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
-                    <footer>Date and time to be announced.</footer>
-                </blockquote>
-			</div>
-        </div>
-    </div>
-</div>
-<div class="container-fluid">
-    <div class="row">
+<div class="container-fluid id="home"">
+    <div class="row gap-above-large">
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDiv">
                 <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide1.jpg">
@@ -31,6 +10,32 @@
                         <p>The Heritage Centre was formally inaugurated by Dr. Arcot Ramachandran, former Director of IIT Madras on 3rd March 2006. The Centre is located on the ground floor of the administration building. The actual idea of a Heritage Centre was mooted in the year 2000 and it became a reality due to the efforts of Dr. Ajit Kumar Kolar and his team. The Centre is a repository of material of heritage value and historical significance of various facets of the Institute.</p>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid" id="home">
+    <div class="row">
+        <div class="col-md-6 clear-paddings">
+            <div class="fixOverlayDiv">
+                <img class="img-responsive gap-above gap-below-large" src="<?=PUBLIC_URL?>images/stock/Roland.jpg">
+            </div>
+        </div>
+        <div class="col-md-6 clear-paddings">
+            <h4 class=" gap-above-large">Upcoming events</h4>
+            <div class="fixOverlayDiv">
+                <blockquote>
+                    <p>Setting up the Historical Archive of IIT Madras: A talk by Prof. Roland Wittje</p>
+                    <footer>Date: 30 January 2019</footer>
+                    <footer>Time: 5PM</footer>
+                    <footer>Venue: Hall 3, ICSR Building</footer>
+                </blockquote>
+            </div>
+            <div class="fixOverlayDiv">
+                <blockquote>
+                    <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
+                    <footer>Date and time to be announced.</footer>
+                </blockquote>
             </div>
         </div>
     </div>
@@ -58,10 +63,10 @@
                         <p>Oral History Archives</p>
                     </a>
                 </li>
-			</ul>
-		</div>
-		<div class="col-md-12">
-			<ul class="list-inline">
+            </ul>
+        </div>
+        <div class="col-md-12">
+            <ul class="list-inline">
                 <li class="stat-elem">
                     <a href="<?=BASE_URL?>listing/artefacts/Miscellaneous%20Video?Category=Videos">
                         <h2><i class="fa fa-video-camera"></i></h2>
