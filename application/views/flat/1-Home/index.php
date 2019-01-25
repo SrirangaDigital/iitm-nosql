@@ -1,3 +1,4 @@
+                </blockquote>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <div class="container-fluid id="home"">
     <div class="row gap-above-large">
@@ -22,7 +23,7 @@
             </div>
         </div>
         <div class="col-md-6 clear-paddings">
-            <h4 class=" gap-above-large">Upcoming events</h4>
+            <h4 class=" gap-above">Upcoming events</h4>
             <div class="fixOverlayDiv">
                 <blockquote>
                     <p>Setting up the Historical Archive of IIT Madras: A talk by Prof. Roland Wittje</p>
@@ -36,6 +37,17 @@
                     <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
                     <footer>Date and time to be announced.</footer>
                 </blockquote>
+            </div><div class="fixOverlayDiv">
+                <blockquote>
+                    <p>Heritage Centre Day.</p>
+                    <footer>Date: 01 March 2019</footer>
+                    <footer>Time: 5 pm</footer>
+                    <footer>Venue: Hall 4, ICSR Building</footer>
+                </blockquote>
+            </div><div class="fixOverlayDiv">
+                <blockquote>
+                    <p>Heritage Treasure Hunt.</p>
+                    <footer>Date and time to be announced.</footer>
             </div>
         </div>
     </div>
