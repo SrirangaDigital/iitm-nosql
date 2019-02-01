@@ -1,44 +1,6 @@
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <div class="container-fluid" id="home">
-    <div class="row gap-above-extra-large">
-        <div class="col-md-6 clear-paddings">
-            <div class="fixOverlayDiv">
-                <img class="img-responsive gap-above-large gap-below-large" src="<?=PUBLIC_URL?>images/stock/Roland.jpg">
-            </div>
-        </div>
-        <div class="col-md-6 clear-paddings">
-            <h4 class=" gap-above">Upcoming events</h4>
-            <div class="fixOverlayDiv">
-                <blockquote>
-                    <p>Setting up the Historical Archive of IIT Madras: A talk by Prof. Roland Wittje</p>
-                    <footer>Date: 30 January 2019</footer>
-                    <footer>Time: 5PM</footer>
-                    <footer>Venue: Hall 3, ICSR Building</footer>
-                </blockquote>
-            </div>
-            <div class="fixOverlayDiv">
-                <blockquote>
-                    <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
-                    <footer>Date and time to be announced.</footer>
-                </blockquote>
-            </div><div class="fixOverlayDiv">
-                <blockquote>
-                    <p>Heritage Centre Day.</p>
-                    <footer>Date: 01 March 2019</footer>
-                    <footer>Time: 5 pm</footer>
-                    <footer>Venue: Hall 4, ICSR Building</footer>
-                </blockquote>
-            </div><div class="fixOverlayDiv">
-                <blockquote>
-                    <p>Heritage Treasure Hunt.</p>
-                    <footer>Date and time to be announced.</footer>
-                </blockquote>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="container-fluid">
-    <div class="row">
+    <div class="row gap-above-large">
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDiv">
                 <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide1.jpg">
@@ -49,6 +11,34 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="gap-above gap-below text-center">Upcoming events</h3>
+        </div>
+        <div class="col-md-4">
+            <blockquote>
+                <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
+                <footer>Date and time to be announced.</footer>
+            </blockquote>
+        </div>
+        <div class="col-md-4"> 
+            <blockquote>
+                <p>Heritage Treasure Hunt.</p>
+                <footer>Date to be announced.</footer>
+                <footer>Time to be announced.</footer>
+            </blockquote>
+        </div>
+         <div class="col-md-4">
+            <blockquote>
+                <p>Heritage Centre Day.</p>
+                <footer>Date: 01 March 2019</footer>
+                <footer>Time: 5 pm</footer>
+                <footer>Venue: Hall 4, ICSR Building</footer>
+            </blockquote>
         </div>
     </div>
 </div>
