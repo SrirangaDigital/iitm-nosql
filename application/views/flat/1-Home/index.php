@@ -31,7 +31,7 @@
             </blockquote>
             <blockquote>
                 <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
-                <footer>Date and time to be announced.</footer>
+                <footer>Date: 01–31 March 2019</footer>
             </blockquote>
             <blockquote>
                 <p>Heritage Treasure Hunt.</p>
