@@ -19,25 +19,24 @@
         <div class="col-md-12">
             <h3 class="gap-above gap-below text-center">Upcoming events</h3>
         </div>
-        <div class="col-md-4">
-            <blockquote>
-                <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
-                <footer>Date and time to be announced.</footer>
-            </blockquote>
+        <div class="col-md-6">
+        <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide4.jpg">
         </div>
-        <div class="col-md-4"> 
-            <blockquote>
-                <p>Heritage Treasure Hunt.</p>
-                <footer>Date to be announced.</footer>
-                <footer>Time to be announced.</footer>
-            </blockquote>
-        </div>
-         <div class="col-md-4">
+        <div class="col-md-6">
             <blockquote>
                 <p>Heritage Centre Day.</p>
                 <footer>Date: 01 March 2019</footer>
                 <footer>Time: 5 pm</footer>
                 <footer>Venue: Hall 4, ICSR Building</footer>
+            </blockquote>
+            <blockquote>
+                <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
+                <footer>Date and time to be announced.</footer>
+            </blockquote>
+            <blockquote>
+                <p>Heritage Treasure Hunt.</p>
+                <footer>Date to be announced.</footer>
+                <footer>Time to be announced.</footer>
             </blockquote>
         </div>
     </div>
