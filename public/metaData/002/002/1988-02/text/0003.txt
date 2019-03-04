@@ -1,0 +1,315 @@
+SIEMENS - BIT BY BIT
+tittiklttttﬁntti‘xinxtll
+
+H
+
+is
+
+something
+
+that
+
+we
+
+thought
+
+would
+
+make
+
+interesting
+
+reading - all that you wanted to know about Siemens but were
+lazy
+to
+Centre ,
+CT
+
+:
+
+ask .
+Ue interviewed
+ﬂr.P.Seehseayi and the
+
+the manager of the
+new
+following is an extract
+
+How and when did IIT Madras decide
+
+to
+
+too
+
+Computer
+.
+
+acquire the
+
+Siemens
+
+Computer ?
+:
+An Inde-German agreement was signed in July 1986 .
+
+under
+
+which
+a Siemens 7560 E Computer was to be given to IIT Hadrae by
+ERG , He did not have a choice on the make of the Computer - this
+was dictated by the agreement
+CT
+:
+Under the agreement did [IT or the Indian Government
+have
+to pay anything ?
+
+PS
+
+:
+
+The
+
+Indian
+
+Government contributed
+
+something
+
+like
+
+percent of the cost of the Computer, the rest being met
+(The approximate cost is around rupees two croree )
+CT
+1
+Is
+the
+Siemens Computer now the most powerful
+
+by
+
+18
+
+ERG
+
+in
+
+our
+
+country ?
+P5
+:
+ranks
+
+one
+
+as
+
+I cannot say that it
+among the best .
+Among
+
+is the best ,
+but
+it
+certainly
+the Siemens' products there is only
+
+other system which is more powerful than this .
+
+they
+
+are
+
+supplying only to
+However . we are
+
+" Luf " software .
+
+German Universities
+
+Japan
+getting
+
+from Siemens
+
+Siemens will treat [IT
+
+having
+
+such
+
+systems
+
+.
+
+.
+
+and this
+
+what
+
+is
+
+,
+
+termed
+
+on par with other
+
+Thus
+
+.
+
+we
+
+will
+
+receive
+
+any software updates that the German Universities will get
+CT
+:
+How many terminals have come from Siemens ?
+PS
+
+:
+
+Eighty have
+
+CT
+PS
+
+:
+:
+
+How will these be distributed on a permanent basis ?
+There will be around 30-35 terminals here at the CC and
+
+remaining
+one
+place
+
+come
+
+in the Campus
+to judge the
+
+,
+
+and
+
+all
+
+are
+
+functioning
+
+.
+
+.
+Right now we are keeping them all
+response times etc.
+However
+there
+
+at
+are
+
+certain problems in distribution
+CT
+:
+Like the length of line ...
+PS
+:
+No , I have procured cables (or this purpose . so that
+shouldn't
+be a problem .
+There is no need for modems
+.
+though
+this is also possible .
+In fact we had a Siemens terminal at the
+
+CSI
+exhibition , recently held in Madras
+telephone links to the main frame here
+But
+distribution
+.
+
+apart
+from this ,
+there
+Firstly .
+how long will
+
+terminal is in a Lab ?
+the
+
+terminal
+
+?
+
+U111
+
+Another
+
+it
+
+.
+
+connected
+
+are
+some
+it be kept
+
+through
+
+problems
+in
+working if a
+
+”he will take care of the maintenance of
+be
+
+kept
+
+possibility
+
+in
+
+a dust—tree
+
+is
+
+to
+
+have
+
+environment
+
+clusters
+
+of
+
+8-10
+
+terminals at a few points in the Campus .
+A decision about
+this
+will be taken shortly .
+CT
+:
+Hill the Computer be running 24 hours a day ?
+P5
+:
+This will be possible only after we make it available to
+
+users on a permanent basis . Ue plan to allocate numbers from the
+28th of this month .
+Us are training people from the Computer
+Science Dept. . Institute faculty and Administrative staff
+
+
