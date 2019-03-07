@@ -1,47 +1,55 @@
-(’1)
+TORNADOEL,‘
+Dr. K. srinivasan
+The history of earth' 5 surface is comprised of
+combined series of
 
-one dimensional open channel flow, (2) shallow water
+'evolutionury'
 
-flow, (5) two dimensional shallow water dam break, (4) wave
-hydrodynamics, (5) shore—wave interaction, (6) surge structure
+and 'revolutionary'
 
-wave interaction, (7) three dimensional waves—crossed secs,
-(8) sediment transport, (9) air entrainment, (10) groundwater
-flow, (’l’l) instability in groundwater flow, (’12) transport in
-groundwater (’13) transport in surface water, (’14) soil.g;cound—
-water
+processes. Evolutionary' processes are usually gradual
+and prolonged in nature. on the other hand 'revolutionary'
+processes are sudden and catagrophic which lead to deaths
 
-interaction. (15) circulation in surface water,
+of millions of people and loss of billions worth of
+property. Tornadoes belong to the latter category.
 
-(’16) stratified circulation, (’17)
+A tornado is a very rapidly rotating air funnel
 
-stratified mixing,
+hanging from a cumulonimbus cloud. It is usually observed
+as a funneloshaped cloud. It is the smallest in size and
+greatest in speed of rotation among all the formations
+with vertex motion in the atmosphere. The tornado cloud
 
-(18)watcr—
+is cery often accompanied by a thunderstorm, hail and
+heavy downpour of strength and size. This originates
+under synoptic conditions, mostly along the line of the
 
-shed hydrology, (19) pipe—line hydraulics, (20) water hammer/
-unsteady pipe flow, (21) hydraulic machinery, (22) Navier—
-stokes equation. Thus it could be seen that you can not see a
-branch left out of micro-computer treatment.
-Specifically these machines have by far made much in—
-roads in; (5.) water and waste water
+fronts of warm and cold air currents. On an average, the
+tornado clouds will be 5-10 km in length, 5-15 km in
 
-fields—water supply
+height. Large tornadoes willhave a cloud
 
-regulation, operational control, process control for treatment
-plants, water network analysis, automation in billing process
-mapping and design, power usage optimisation and control,
-maintenance of plants etc. (ii) Reservoir simulation—micro
-mathematical programming reservoir rule curve model, reservoir
-optimisation, gaming simulation, meta-games command area water
-management, economics analysis model (iii) groundwater simula—
-tion and optimisation-well hydraulics, regional modelling and
-control, solute transport in aquifers, saltwater intrusion...
-the list goes on.
-Let's see some of the elegant general purpose software,
-like wordstar, Database management, spreadsheet, Graphics 9nd
-communications(i_n all these cases improved Versions .1 ways
-follow suit immediately).
-25
+width of 50—40 km
+
+and length 50 km. The base is flat, dense and horizontal,
+
+with distinct protruberances of funnels from it.
+structure of Tornado;
+The tornado consists of three parts:
+
+i ) Horizontal vortex in the parent cloud
+ii ) Funnel
+iii) Auxiliary vortex
+
+The funnel is the main component of the tornado. It has a
+spiral: vortex consisting of very rapidly rotating air.
+
+since
+
+water and dust are entrained in the air, usually the funnel
+can be seen clearly. whenever, the air is clean without
+
+(1'1')
 
 

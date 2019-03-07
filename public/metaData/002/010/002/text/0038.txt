@@ -1,0 +1,104 @@
+.24.
+gackward Chainigg:
+
+An inference method in which system starts
+
+it
+with what it wantstc prove am tries to estuolish the facts
+needs to prove its assumption.
+Frame Based Reasoniggz
+
+This is a structured knowledge representa-
+
+tion technique which associates features with nodes representing
+concepts on objects.
+
+The features are described in terms of
+
+their attributes (called slots) and their values.
+
+One frame may
+
+represent a concrete beam and another a whole class of beams
+ie each class can be described as a specialisation of a more
+
+general class.
+
+Frames can be used to partition index and
+
+organise a systems production rules.
+Semantic nets are a network of nodes standing for concepts
+on objects connected by arcs which describe relations between
+nodes.
+OBJECT ORIENTED PROGRAMMING
+
+In object oriented programing all the action comes from
+sending messages between objects.
+
+Object scombine the proper-
+
+ties of procedures and data since they perform computations and
+save local state.
+an operation
+
+Instead of naming a procedure to perform
+
+on an object one sends the obuect a message.
+
+selection in a message specifies the kind of operation.
+
+The
+
+Objects
+
+respond to messages using their own procedures for performing
+operations.
+
+Message sending and specialisation (Class inheri-
+
+tance is used)
+
+form important concepts in object oriented
+
+programming, specialisation helps to avoid storing redundant
+information and simplifies updating to modifications.
+nLAChBOARD AR CHITECTURE
+This is a sophisticated architecture E S’;
+
+of the future.
+
+Modules of knowledge communicate via a central bolackboard.
+
+In
+
+a blackboard system the solution space is organised in to one
+on more appdsicpaagitol jdoegneedndiento
+
+vi
+1921 Ichies.
+
+The domain
+
+knowledge ,thatp transforms irhfoormatigﬁleﬁexgxeenieRVIIOeunpe
+
+s%%1‘§P°"1ed€e
+
+using information at other levels of hierarchy in to informa—
+tion on the same or other levesls.
+module
+the data
+
+The
+
+choice of the knowledge
+
+is based on the late] additions and modifications to
+structures
+
+.
+
+At each step either forward cr
+
+backward chaining can be apppied.
+
+

@@ -1,56 +1,96 @@
-THE ammo INTERPRETATION OF THE mNTEEVEB APPROACH IN THE
-CALCULATION or DEFLECTIONS
-BENNY RAPHAEL
-3 /4 B.TE(IH.
+km 1115/
 
-In the last issue of contour, we found that the deflections
-on cantilevers and simply supported beams can be written down
-directly by inspection treating each part of the structure as a
-cantilever.
+jljm 41/)
 
-The results were based on the moment area theorems.
+/
 
-In this article we will go into an interesting exercise, the
-kinematic interpretation of these results.
-First let us take the case of cantilevers.
-It can be seen that the fictitious cantilever deflections
-in the cantilever method are nothing but the deflections on
-the actual structure measured from an inclined base.
+/5mrU/j”3l"
 
-(See
+1
 
-Fig. - 1).
+balm/127311
 
-Coming to simply supported beams (Fig. - 29)
-If the end A of the beam were fixed and the end 13 free to
-move due to the action of external forces and the force equi—
-valent to to the external reaction applied at B“. ‘L‘he elastic
+V; “"
 
-curve will take a shape shown in Fig. — 2B.
-at B,
+" ‘\*7!th
 
-ment we have computed.
-OA'
+.
 
-=
+L]
+\
 
-The deﬂection
+/;
 
-AB‘ is nothing but the fictitious cantilever displace—
-The chord A 'B' is at an
+x
 
-inclination
+l
 
-AB. A.
+L\\\L Abyl’f
 
-In order to restore the kinematic conditions of the actual
-beam rotate the entire figure about A' by an angle
+/ kgk-.§hril
 
-OA' =AB'/1.
+1:1th
 
-so that the (man! A 'B' becomes horizontal.
-The deflections measured in this position would give the
+“/1th
 
-(15)
+arr/1.3
+
+C)
+C
+
+b)
+(11)
+
+6 h r (’1 ’
+L
+
+(
+
+(4m £5
+
+105314341 duty! ALL/1321:
+
+F16 2
+
+$20.55 39.5?1'0"
+
+Jim/l arr/'1‘
+su‘ 3b;-
+
+far 6%“:
+
+carmecl—v».
+
+)1
+
+(—mnx :0 mm
+
+I’jm’"
+,J—Jl—
+
+ﬂ'\/w m,
+60" ”1m
+
+\
+
+rel/m
+
+1
+
+(7"
+
+£1223
+
+($00 In M
+
+[in <5/fu tunnel-e
+
+Em
+‘
+
+bum/2015!" !)
+(may/admin
+
+mass afar/cw 0F mop/name Sun-M
 
 

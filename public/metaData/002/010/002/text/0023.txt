@@ -1,72 +1,57 @@
-+++++++
+TENSILE STRUCTURES
 
-.23.
+JOJU.M.MICHEL
+4/4 B.TECH.
 
-Design of multistoreyed RC buildings
-Concrete and steel bridges
-Steel industrial structures
-Transportation Engg.
-Geotechnical Engg.
-Trouble shooting defects in buildings
-Water resources systems etc.
-One of the most successful E S's in Civil Engg. has been
+when H.G. Wells, in the novel 'When the Sleeper Wakes'
+looks into the twentysecond century, he writes of the city
+of London covered by a transluscent membrane spanning to
+cables that arch across the city.
 
-PROSBECTOR which helps geologists 10cate ore deposits.
-The hallmark of E s is that the problem domain (knowledge
-base) is separated from the systems other knowledge (inference
-engine).
+Giant wind mills are
 
-In E S‘ s branching is the rule rather than exceptim:
+seen outside the city generating power on the inhabitants.
+He seems to describe a time when fossil fuels are gone
+and the city is encapsulated so as to give a controlled
+environment.
 
-as in conventional algorithms.
+Is it possible that this is the direction
 
-Sensitivity Analysis (If X is
+in which technology is taking us?
 
-changed how is Soln. affected?) can be carried out in E S's.
-In E S's knowledge is applied using shortcuts and tricks.
-have a permanent record of the best strategies
+Considering the history
 
-)3 S's
+of tensile structures over the last few decades, we can
+similarly expect the future will be so shaped.
 
-used by experts
+People on the move have used lightweight tensile
+structures in the form of tents for many thousands of years,
+the oldest made of branches and animal skins — going 20,000
+to 30,000 years back.
+size and shape.
 
-in the field.
-E S‘s Invaded the world often the phenomenﬂ success of :
-XCON — Configures VAX computers - developed by DEC, USA
-MYCIE - helps physiciansdiognose and treat infections
-floOd diseasssv " developed by Standard University.
-RETJRES
+Medieval
 
-T TO N OF KNOWLEDGE
+armies had tents of impressive
 
-Rule Based Reasoning:
-Knowledge is represented in the form of IF — Th‘Eh rules.
-These rules represent processes driven by a complex and rapidly
-changing environment.
+The large circus tent is one of the more
 
-a set of rules specify how the program
+recent applications.
 
-should react to the changing data without requiring detailed
-information about the flow of control.
+The main advantage of the above type of structures
+was the very light weight of the root, and hence its ability
+to cover very large area with minimum construction cost.
+But the construction of a tent structure with a comparatively
+long life period was impossible with the building materials
+available in those times.
 
-These rules adaptively
+Then the arrival of steel cables
 
-determine the best sequence of rules to execute.
+began to make an impact in this field.
 
-Conclusions
+Although the first recorded evidence for a structure
+made of steel cables dates back to l620, the idea of using
 
-can be explained by retracting the "ﬁgps‘ lf an antecedent
-(IF ~--) is satisifed then so is the consequent.
-
-If the con-
-
-sequent (Then -~—) defines an action then the action is scheduled
-for execution else a conclusion is inferred.
-inference Methods;
-got-ward Chfxining;
-
-An inference method in which rules are
-
-matched with facts to establish new facts.
+(9)
 
 

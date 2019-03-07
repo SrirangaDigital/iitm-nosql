@@ -1,46 +1,56 @@
-EDITORIAL BOARD
+THE ammo INTERPRETATION OF THE mNTEEVEB APPROACH IN THE
+CALCULATION or DEFLECTIONS
+BENNY RAPHAEL
+3 /4 B.TE(IH.
 
-JOJU M. MICHEL
-314, GANGA
+In the last issue of contour, we found that the deflections
+on cantilevers and simply supported beams can be written down
+directly by inspection treating each part of the structure as a
+cantilever.
 
-G.A. DINESH
-311, GANGA
+The results were based on the moment area theorems.
 
-KURINJI SADASIVAM
-231, GAmA
+In this article we will go into an interesting exercise, the
+kinematic interpretation of these results.
+First let us take the case of cantilevers.
+It can be seen that the fictitious cantilever deflections
+in the cantilever method are nothing but the deflections on
+the actual structure measured from an inclined base.
 
-RAGHU KOWSHIK
-332, SARAS.
-Paowcuow
+(See
 
-N.R. VIVEK
-320, SARAS
+Fig. - 1).
 
-V. SURESH
-205, SARAS
-cn.c.s.L, KUMAR
-329, SARAS
+Coming to simply supported beams (Fig. - 29)
+If the end A of the beam were fixed and the end 13 free to
+move due to the action of external forces and the force equi—
+valent to to the external reaction applied at B“. ‘L‘he elastic
 
-VERY SPECIAL THANKS TO THOMMY FOR CARTOONS
+curve will take a shape shown in Fig. — 2B.
+at B,
 
-AND TO
-THE DEPARTMENT OFFICE
-THE TRANSPORTATION EmG. OFFICE
-THE BUILDIME TECHNOLOGY OFFICE
-THE GEOTECHNICAL ENGG. OFFICE, AND
-THE
-EST RUCTURAL EIGG.
-FOR THEIRREXCELLENT CO-OPERATION
+ment we have computed.
+OA'
 
-NOT TO FORGET
-THE PRINTING SECTION
+=
 
-PUBLISHED BY
-HEAD, DEPT. OF CIVIL EmG.
-IIT-MADRAS
+The deﬂection
 
-CONTCUR,
+AB‘ is nothing but the fictitious cantilever displace—
+The chord A 'B' is at an
 
-ISSUE 2, APRIL 1989
+inclination
+
+AB. A.
+
+In order to restore the kinematic conditions of the actual
+beam rotate the entire figure about A' by an angle
+
+OA' =AB'/1.
+
+so that the (man! A 'B' becomes horizontal.
+The deflections measured in this position would give the
+
+(15)
 
 

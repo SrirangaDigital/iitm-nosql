@@ -1,68 +1,96 @@
-How can one use the ESP?
+EH94 15 Elm. are
+HELLO!
+semester.
 
-ESP is user friendly and provides efficient data entry
-methods.
+and welcome back to the beginning of another new
 
-A vast array of recoverable information can be
+we hope the last sen. went off well and this one will be
 
-presented in graphical,
+equally good.
 
-tabular,
+For the 2nd and 3rd years this is the time for build—
 
-synoptic,
+ing up CGPA'S — for final years, a time for relaxing, waiting for
+those AIDS and jobs,
 
-statistical,
+and reflecting on the lasr 3% years here. And,
 
-histogram and 3D visualisation forms.
+we hope this is a time when all of you out there will contribute to
+our magazine.
+which brings us back to the first issue of CONTOUR — the
+response from the students side has been extremely poor.
+among those whom We personally approached,
+contributed something.
 
-ESP can operate in either 'expert' or 'intcractive’
-mode.
+In such a state of affairs,
+
+it seems
+
+unfair tocrib about CONTOUR not coming out regularly,
+issues,
+
+etc.
+
+etc.
+
+Even
+
+only a handful finally
+
+not enough
+
+we hope this trend will be reversed,
+
+and expect
+
+an overwhelming response this time from U.G.'s and P.G's.
 
 The
 
-'expert system‘ made is particularly useful as
+faculty on the other hand, have been very helpful and cooperative
+in handing over interesting and informative articles.
+A short note on CEA (remember’itl).
 
-inexperienced users simply select a function such as
+The CEA's activities
 
-'comfort‘,
+over the years seem to be showing an exponential decay.
+had enthusiastic participation in all events.
+lectures,
 
-'plant sizing', or ’energy consumption estimation'.
+filmshows etc.,
 
-The
+but limited student turnout.
 
-system will set up and perform the required simulations,
-analyse the results and generate the appropriate information answering the design question.
+the years activities haven't even taken off.
+that the students take an interest in,
+CEA.
 
-The
+First, we
 
-'interactive' mode enables Special analyses to be
+Then we had several
+And now,
 
-conducted or additional investigations to be undertaken.
-In this mode the user defiL s the problem, selects a path
-through the various program modules and then interprets
-the simulation results.
+it is imperative
 
-Use of ESP under Indian conditions
+and help rejuvenate the
 
-To the best of my knowledge ESP has not been used
-for the Indian conditions.
+we feel that mis is an extremely useful and perhaps essential
 
-So the first problem would be
+organisation for furthering the student—faculty interaction, and
+for gaining knowledge which is not found in text books.
+Coming back to this issue, we have in store for you
+articles on CAD, water treatment,
+etc.
 
-to validate the ESP for Indian conditions.
+interview with Prof.R.Radhakrishnan
 
-The problem
+Before we sign off, we would like to thank the HOD,
 
-of dividing India into precise climatic zones, validating
-the ESP under the different zones and evolving criteria
-for comfort in the various zones can form the basis for
-a comprehensive research project in Building Technology
-involving laboratory work,
+typists,
 
-field measurements and
+and the printing section people who were instrumental in bringing
+out this issue.
 
-computational work.
-
-(3)
+HAPPY READING:
 
 

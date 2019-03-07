@@ -1,61 +1,71 @@
-THE SIGNIFICANCE UF DEFCJRMATIOIV IIV SOIL
-PROBLEMS
-PROF. T-s-MAMANATHJL IYER
-The general concept in mast soil mechanics problems such
-as foundation,
+INDIA'S POOR pRmEcT IMPLEMENTATION RECORD
+JOJU.M.MICHEL
+4/4 B—TECH
+Although our country spends billions of rupees in its
+development effort, its track record in implementing major
+projects is abysmal.
 
-stability of slopes and embankments etc. cent-
+The projects which are supposed to be
 
-res around the factor of safety against failure of the soil
+over decades ago are still going on, draining a significant
+portion
 
-mass.
+of citizens'
 
-However soil deformations well below working loads are
+savings in the process.
 
-equally important and methods of evaluating them to a reasonable degree of accuracy are required in a number of cases, as
-mentioned by Roscoe in his Rankine lecture in 1970.
+It is now
 
-The case
+estimated that 264 union qovernment projects for which an
+original cost of Rs.42,935 crores had been budgeted, will
+now cost Rs.64,448 crores — an aggregate cost overrun of
+staggering 50.1%.
 
-of limiting settlement (total and differential settlement) is
-only one example of this requirement.
-In the conventional design of structures,
+Why does this happen?
 
-it is custo—
+The once prestigious
 
-mary to adopt limits of total and particularly differential
-deformation criteria for various types of structures based on
-their uses and materials of which they are made of.
+salal hydro—electric project may be the best example showing
+this sorry state of affairs.
+The salal project was planned to be the first in a
+series designed to exploit the rich hydro-«electric potential
 
-These
+of chenalb river, estimated at more than 3 million kWh per
+annum.
 
-deformations may be immedi te (contact) or delayed (consolidation).
+The project was cleared by the Central Government
 
-It is possible to reasonably predict these, as a
+eighteen years ago, with an estimated cost of 55.15 crores.
+Although the original completion date was 1978, it is yet
+to produce a single unit of electricity.
 
-function of time.
-The majority of problems involving, soil—structure interaction such as pressures behind a retaining wall need the concept of strain.
+The current
 
-In the case of design of retaining walls, the
+estimated cost of the project is about 568 crores.
+This fate was evident right from the beginning.
 
-use of active pressure involves the assumption that a strain
-of approximately 0.3 '/.
+Although
 
-is mobilised at every point in the
+some work on the development of intra structure such as to
+smoothen the rocky roads to the project site in the lower
+reaches of the pi): panjal bills 80 km north of Jammu, began
+by 1970, work at the main site of salal did not begin till
+eight years later.
 
-assumed failure wedge and consequently the top of the wall
-should move away from the backfill by an amount which will
-mobilise this strain.
+The reason was purely a diplomatic one.
 
-If it does not,
+Until an agreement was negotiated with Pakistan on the key
+question of the sharing of waters of the Indus and its
+tributaries, which was finally accomplished in 1978, the
+project was inviable.
 
-the pressure for
+This lead to a lot of criticism about
 
-which the wall is to be designed is not the least (active
-pressure) and much larger design values are required.
+the utter lack of foresight on the part of Union Government,
+which could well have set about executing the project while
+simultaneously negotiating an agreement with Pakistan on the
+river waters question.
 
--12-
-
-This
+(4)
 
 

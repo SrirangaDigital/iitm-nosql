@@ -1,86 +1,41 @@
-I
+MICRO. . . .MICRO. . . . WATER. . . . WATER. .MICRO. - WATER. MICRO WATER
+by Dr.N.Indrasenan
+Advancements in micro—computer technology with in the
+last five years have been astounding. Log; Tables...slide
+rules. ”ordinary hand—held calculators..programmable cal—
+culators. . .personal computers. .ZCT (extended technology). . .AT
+(advanced technology). .microField—T (microfield transputerised)
+so on and so forth. . .0111. . .yali
 
-A‘ =
+. .really astounding indeed! 1!
 
-I
+Just consider PT Usha runs Olynpics ’IOO metre in
+”IO seconds or so..mey tron out to be a world record!. But
+imagine a guy in some other celestial body of our solar system
+runs the same distance in O.’|
 
-A5 + “;‘(1
+second or even less time with
 
-3 (a
-wt. : fP\k‘
-,1”:
+whom we are unable to communicate as of present. Are not the
+micro computer technological achievements simply comparable
+to that of this guy's, considering its rapid stride in soft/
+hardware develoyment in every nook and corner?. But then one
+must not forget that the hunger of micros is even more than
+that of an elephant's in feeding..are we satisfying this
+hunger?.. a moot point indeed.
+whatever the iseue may be; the micros have now certainly
 
-+ Ac
-'1 )ﬂ,’
-1‘
-1(V1'f
+become a way of life and havo oven turned out to be "micros
+for every one"!. Coming to our civil engineering guys (discussion is restricted to those B.Tech in our institute), the
+quick understanding and reaction of these guys to micro
+computer problems, associated software and problem solving
+etC.
 
-+
+is simly noteworthy. This article is therefore primarily
 
-W11t»
+written to further enrich (further emphasized) their
+understanding.
 
-2
-
-b)
-
-DEFLECTIONS ON SIMPLY SUPPORTED BEAMS:
-
-A
-
-rw~vﬁ
-
-4%
-
-B
-
-a
-
-76“;
-
-/“Y“Iﬁ
-
-Ii,
-
-Fig.3
-
-A
-
-T515
-Fig.4
-
-To find the end rotations DA and GB for a simply supported
-beam AB shown in Fig.3.
-
-Consider the fictitious cantilever
-
-A’B’ (Fig.4) on which the same load acts.
-at B by an equal force RB'
-end rotation 6%
-
-Replace the reaction
-
-Find the end displacementlﬁB' and
-
-for this fictitious cantilever.
-
-Then the
-
-actual end rotations are
-53!
-_ ___
-_ O v B _ 9A.
-DA _
-l.
-and GB _
-
-Note that the fictitious cantilever A'B' could further
-be divided conveniently to get standard cantilever parts as
-explained in the previous section.
-
-If there is any over hang the loads on the over hanging
-portion could be replaced by the resulting moments at the
-supports.
-
-(30)
+22
 
 

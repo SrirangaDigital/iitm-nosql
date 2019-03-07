@@ -1,55 +1,38 @@
-_
+For real time applications in natural systems,
 
-l
+eg: river
 
-x.
+basin planning, micrOS monitor the states of river, its
+tributaries and the rainfall surrounding the areas for the
+collection of data to assist in the management of the river
+and to provide a research basis into the behaviour of the
+river valley. These micros are used to perform many tasks
+in river planning management like;
 
-1‘
+sampling measurements,
 
-‘ "I“:
-
-r
-
-+ a”:
-
-1L
-
-s
-
-=
-
-2
-
-'
-
-a
-
--11 A
-
-1 23
-
-j,
-
-.: é
-
-r.
-3.]. 7.1,
-
-_,
-
-a -i ‘
-
-The proofs of these results are based on the moment area
-theorems .
-
-This method could be very useful for finding the flexib—
-ility coefficients in the consistent deformation method or the
-absolute stiffness eoefficients for the moment distribution
-method, in the analysis of indeterminate structures.
-
-I hope that this small work will be a convenient tool
-for calculating the deflections determinate structures.
-
-§§§§§§§§
+check the received data, convert the coded data, hold the
+data base, check the data against predefined limits, record
+the data in graphical form, punch a record on a paper tape,
+print the results on paper, enable changes to be made to the
+data base and disPlay the data on the mimic diagram etc.
+Micro's use as self—instructional aids is fast progressing
+in water resources disciplines. Now the situation is that
+while the so called fourth and fifth generation computers are
+performing their jobs silently, these micros are rearing and
+are violently dancing to the well—designs rmd ill-designs,
+whimsical and non-whimsical fashions of many of us. God only
+knows that one fine morning these mieros may even keep a
+distance away from mainframes (ahead of them). Already computer
+guys have started talkingabout super micro computer establish—
+ment on desk-top» while the advancements in micro computer
+technology is far reaching, no one needs to have a (cyberphobia
+or worry as these machines will never replace the civil
+engineer but will only allow him to do his job much better
+and faster (due apologies to female civil engineers for not
+using 'her' ).
+Now let's see the micros extensive usage in all the
+branches of water engineering.
+24
 
 

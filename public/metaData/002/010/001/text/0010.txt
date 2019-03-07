@@ -1,54 +1,56 @@
-'A RDDIFIED FREE SWELL PROCEDURE FOR THE CLASSIFICATION
-OF EXPANSIVE SOILS'
-by A Sridharan+ , M S Rao+ and Sanjeey_ggshi*
-(To be sent to Geotechnical Testing Journal, ASTM, USA)
-ABSTRACT:
+ESP is being successfully applied to predicting the
 
-Sridharan et al (1985) proposed the use of free swell
-tests for the classification of the soil's swelling potential.
-They defined free swell index as the sediment volume in cc/gm
-occupied by a unit weight of oven dried soil in water under
-no external constraint.
+environmental (thermal) performance of a growing number of
+major constructional projects both in the U.K. and Overseas.
+ESP is not restricted to new sophisticated, highly stressed,
+high technology buildings but can be economically and succe—
+ssfully applied to simple retrofit projects and energy
+audit tasks.
 
-In another paper, Sridharan et al
+whgt guestinns_will ESP answer?
+1.
 
-(1986), the same authors developed the differential free swell
-test comparing the sediment Volumes in water and carbon tetra
-chloride to represent swelling potential.
+What,
 
-The scientific basis
+and when, are the peak building or plant loads
 
-for the various methods used in classification has been 6X62
-mined by Sridharan and Rao (1988).
-butions,
+and what are the rank ordered causal energy flows?
+2.
 
-In spite of these contri-
+What will be the effect of some design change, such as
 
-limitations exist in the use of free swell tests for
+increasing the wall insulation, changing the glazing type
+or distribution, re—zoning the building, re-configuring
+the plant or changing the control regime?
+3.
 
-classification of soils for their swelling potentials. Soils
-with high colloidal fraction cannot be identified by the
-differential free swell test, because of long duration (even
-upto two weeks) required to settle down.
-To overcome this difficulty,
+What is the optimum plant start time or the most
 
-series of free swell tests
+effective algorithm for weather anticipation?
+4.
 
-were conducted on l5 natural soils of liquid limites varying
+How will comfort levels vary throughout the building?
 
-from 43% to 124% with 0.01% to 1% of Nacl by weight, to study
-the time taken for equilibration of sediment volume.
+5.
 
-The
+What is the contribution (to energy saving) of a range
 
-sediment volume with various percentages of Nacl has been
+of passive solar features?
+6.
 
-+ Professor and Research Scientist, Dept of Civil Engg .
-IISc , Bangalore
-* Final year B.Tech student ,
+What is the optimum arrangement of constructional elements
 
-IIT, Madras
+to encourage good load levelling and hence efficient plant
+operation?
 
--10-
+7.
+
+What are the energy consequences of non-comoliance
+
+with prescriptive energy regulations or, conversely,
+how should a design be modified to come within some deemed
+to satisfy performance target?
+
+(2)
 
 

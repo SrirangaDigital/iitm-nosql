@@ -1,1 +1,142 @@
+on the real beam acting at the points B',C'
+fictitious beams.
+
+and D' of the
+
+Due to the effect of these loads find the
+
+fictitious cantilever end displacements, ABHAC‘, AD'
+and end rotations 03'
+
+QC' and GD' respectively for the parts
+
+AIBI’ B'C' and C'D'.
+
+Then, the real rotation at D on the real beam is
+_
+OD —
+CD l + 0C I + OB
+
+l
+
+and the real displacement
+I
+
+[SD _
+— AD I + (DC I + 0C V x XCD) + (O B x XBD)
+Where XCD and XBD are the distances of C and B measured
+from D.
+
+On dividing the real beam into fictitious cantiLEVers
+(1)
+
+each fictitious cantilever should be of uniform cross
+section.
+
+(2)
+
+the standard values of deflections for the end shear, end
+moment, and the load in each fictitious nantilever should
+be known.
+
+(The resultant deflection
+
+would be the sum
+
+of the individual effects of end shear, end moment and
+
+load on the span).
+The standard result are given below:
+
+a
+
+'\ M
+
+ﬂ-————‘-———» ~
+
+A
+
+A
+
+'
+Fig.3
+
+4_‘__‘
+/
+
+Due to a moment M acting on 3
+
+r
+
+D
+
+cantilever span (Fig.3)
+
+IV
+
+oB =M_1.
+M;-2
+El, A B = 2E1
+
+V
+
+Due to a concentrated load V
+
+...(3)
+
+’_‘,"""
+
+{A
+
+t‘
+.
+
+“9'4, “
+
+\
+
+'1' "
+"
+
+i
+
+Fig.5
+
+(Fig.4)
+=v1A2
+
+e
+
+:9
+
+‘
+
+B
+
+A
+
+2131 ' B
+
+=VL3
+
+...(4)
+
+3E1
+
+Due to a UDL of magnitude w (Fig.5)
+e
+
+h
+
+eB = W1?
+EET
+(28)
+
+,
+
+AS E = _El
+Wif
+
+...(5)
+
 

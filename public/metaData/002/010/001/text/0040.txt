@@ -1,0 +1,55 @@
+_
+
+l
+
+x.
+
+1‘
+
+‘ "I“:
+
+r
+
++ a”:
+
+1L
+
+s
+
+=
+
+2
+
+'
+
+a
+
+-11 A
+
+1 23
+
+j,
+
+.: é
+
+r.
+3.]. 7.1,
+
+_,
+
+a -i ‘
+
+The proofs of these results are based on the moment area
+theorems .
+
+This method could be very useful for finding the flexib—
+ility coefficients in the consistent deformation method or the
+absolute stiffness eoefficients for the moment distribution
+method, in the analysis of indeterminate structures.
+
+I hope that this small work will be a convenient tool
+for calculating the deflections determinate structures.
+
+§§§§§§§§
+
+

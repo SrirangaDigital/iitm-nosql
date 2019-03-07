@@ -1,53 +1,61 @@
-two stone blocks were removed. The funnel lifted the
-enormous steel structure into the air, and twisted it
-beyond recognition with exceptional strength. The entire
-bridge became a thick bundle of steel plates and cables,
-snapped and bent in a fantastic way. The bundly was so
-compact and of such small diameter that it totally dis—
-appeared in the water, though the depth of the river was
-only 1.5—2 m. The bridge blow
-water in a few seconds:
+THE SIGNIFICANCE UF DEFCJRMATIOIV IIV SOIL
+PROBLEMS
+PROF. T-s-MAMANATHJL IYER
+The general concept in mast soil mechanics problems such
+as foundation,
 
-off the pillars into the
+stability of slopes and embankments etc. cent-
 
-in this time, the complex beautiful
+res around the factor of safety against failure of the soil
 
-solid structure became just a long bundle.
+mass.
 
-such was the
+However soil deformations well below working loads are
 
-strength of rotation in the wall of the funnel. Its speed
-was undoubtedly supersonic.
-It is not possible to describe here in detail the
+equally important and methods of evaluating them to a reasonable degree of accuracy are required in a number of cases, as
+mentioned by Roscoe in his Rankine lecture in 1970.
 
-hundreds of such tragic incidents which have occurred in
-the different countries over the years. However,
+The case
 
-a few
+of limiting settlement (total and differential settlement) is
+only one example of this requirement.
+In the conventional design of structures,
 
-of the most common effects of tornadoes which have been
-grouped and generalised from different incidents all ovor
-the world, are presented below;
-Quite often, food grains, branches and thick knots
-of trees, hoop of hay, quartz grains, gravel, Jars, books
-and even silver coins from hurried treasures have been
-lifted up into the tornado clouds and have been trasnportod
-to distances of tens of kilometres intict.
+it is custo—
 
-Sometimes,
+mary to adopt limits of total and particularly differential
+deformation criteria for various types of structures based on
+their uses and materials of which they are made of.
 
-even
+These
 
-a few storcys and roofs of buildings, big stones, automobiles
-tractors, heavy barrels, animals and people are lifted
+deformations may be immedi te (contact) or delayed (consolidation).
 
-and
+It is possible to reasonably predict these, as a
 
-transported to a few tens to hundreds of metres, resulting
-in complete, partial or no destruction in the process.
-Rains with micro organisms is quite frequent if the
-tornadoes occur over fresh water pools or over the sea. They
+function of time.
+The majority of problems involving, soil—structure interaction such as pressures behind a retaining wall need the concept of strain.
 
-(26)
+In the case of design of retaining walls, the
+
+use of active pressure involves the assumption that a strain
+of approximately 0.3 '/.
+
+is mobilised at every point in the
+
+assumed failure wedge and consequently the top of the wall
+should move away from the backfill by an amount which will
+mobilise this strain.
+
+If it does not,
+
+the pressure for
+
+which the wall is to be designed is not the least (active
+pressure) and much larger design values are required.
+
+-12-
+
+This
 
 

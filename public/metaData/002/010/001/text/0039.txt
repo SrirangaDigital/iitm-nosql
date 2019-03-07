@@ -1,0 +1,189 @@
+F—m—Je-vL—‘Q
+r-rw
+
+/
+
+’
+
+~
+
+1—
+
+C
+
+<_’
+
+t;
+
+7g
+
+7:
+
+c)
+
+§
+
+V
+
+{T
+
+'77
+
+/ ‘r('
+
+7‘?!
+
+c’
+
+{4;
+
+»
+
+RA
+
+(“\5
+
+Fig .5
+
+Fig .6
+
+If you are interested in the deflections CC and AC at tn:
+point C on the cantiliver simply supnorted beam AB (Fig.5).
+Consider the cantilevers A'C'
+same loads act.
+
+and C'B'
+
+(Fig.6) on which the
+
+Replace the reactions at supnorts by the
+
+forces RA and RB at the ends of the fictitious cantilivers A'
+and B'
+
+respectively.
+
+Find the ficitious cantilever end dis—
+
+placements AA1 and AB' reSpectively.
+
+Then the rotation CC
+
+on the real beam.
+
+,is
+
+QC
+
+=
+
+(EAL—EA!
+
+in the anticlockwise direction the real displacement at C
+AC
+
+=AA'i—b
+
++
+
+AB‘
+
+xLa
+
+Let me take a simple example
+
+i
+7% E‘i'
+
+p
+C
+
+E
+
+A: inc N “k
+
+E};
+
+:1"?
+
+A
+
+’3
+
+4-———-L~——~~—-~~r~>
+
+If
+
+CL
+
+_,/
+
+.l.’
+
+I
+
+(I E,
+
+L. cf
+
+l
+
+{I
+i
+
+m.
+T
+
+L
+
+Fig.20
+
+Fig.21.
+
+Let a force P acts on the 558 AB shown in Fig.20.
+find the deflections at C.
+C'B'
+
+are shown in Fig.21.
+
+ran a
+(T
+[‘4
+
+and
+
+£5 .
+
+a : i N'
+, “"
+-2,':
+
+,
+f"!
+
+and
+
+Note that the only forces on these
+
+cantilevers are the reactions 2L2
+
+, ”.
+[\A
+
+To
+
+The fictitious cantilevers A'C'
+
+_
+
+‘
+
+I:
+= All n
+"_
+
+1' F
+
+J' l-
+
+

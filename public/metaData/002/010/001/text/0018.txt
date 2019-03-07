@@ -1,41 +1,54 @@
-water, dust or smoke, the tornado is invisible.
-The wall or the funnel is sharply defined, smooth
-and dense. The internal cavity in hurricanes is of the
-order of a few hundred metres. This resembles the'eye
-of the storm'
+'A RDDIFIED FREE SWELL PROCEDURE FOR THE CLASSIFICATION
+OF EXPANSIVE SOILS'
+by A Sridharan+ , M S Rao+ and Sanjeey_ggshi*
+(To be sent to Geotechnical Testing Journal, ASTM, USA)
+ABSTRACT:
 
-of hurricanes. The movement of air inside
+Sridharan et al (1985) proposed the use of free swell
+tests for the classification of the soil's swelling potential.
+They defined free swell index as the sediment volume in cc/gm
+occupied by a unit weight of oven dried soil in water under
+no external constraint.
 
-the cavity is directed vertically downward and often
-attains great speed. It causes the formation of the
-cascade and facilitates the movement of hurricane. In
-the walls of the tornado, on the contrary, the movement
-of air is directed upward in spiral form and often attains
-unusual speeds of upto 100—200 m/s. Dust, debris, other
-objects, people and animals are lifted into the walls of the
-tornado. The cavity is usually empty. The rotational speed
-or the funnel (the wind speed in its walls) determines the
-main properties of the tornado. It often exceeds even the
-speed of sound in air (532 m/s).
+In another paper, Sridharan et al
 
-ence, accurate and direct
+(1986), the same authors developed the differential free swell
+test comparing the sediment Volumes in water and carbon tetra
+chloride to represent swelling potential.
 
-measurements of the wind speed in tornadoes are difficult.
-The speed of rotation in the funnel is very high and changes
-considerably. The lower part of the "unnel rotates consi—
-derably faster than the upper part. In the formation of a
-tornado, the parent cloud and the funnel assume the main
-role. The auxillary vortex originates at the base of the
-funnel, does not rise high but often rotates around the
-funnel and reaches the cloud. The auxiliary vortex gives
-rise to cascade and envelope. The weight of the funnel of
-the tornado is more than half a million ton. The weight of
-the parent cloud would he immeasurably more. Tornadoes occur
-frequently in USA, Western Europe, France, Alpa valleys,
-sweden, Germany, Switzerland, North Vietnam, Japan, China
-Australia and Africa. A few other places have also experiencec‘
-tornadoes, but loss frequently.
+The scientific basis
 
-(l8)
+for the various methods used in classification has been 6X62
+mined by Sridharan and Rao (1988).
+butions,
+
+In spite of these contri-
+
+limitations exist in the use of free swell tests for
+
+classification of soils for their swelling potentials. Soils
+with high colloidal fraction cannot be identified by the
+differential free swell test, because of long duration (even
+upto two weeks) required to settle down.
+To overcome this difficulty,
+
+series of free swell tests
+
+were conducted on l5 natural soils of liquid limites varying
+
+from 43% to 124% with 0.01% to 1% of Nacl by weight, to study
+the time taken for equilibration of sediment volume.
+
+The
+
+sediment volume with various percentages of Nacl has been
+
++ Professor and Research Scientist, Dept of Civil Engg .
+IISc , Bangalore
+* Final year B.Tech student ,
+
+IIT, Madras
+
+-10-
 
 

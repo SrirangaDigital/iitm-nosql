@@ -1,93 +1,40 @@
-CANTILEVER APPROACH IN THE BENDING OF BEAMS
-____________________________________________
+Cloud‘oursts often accompany the tornado and the resulting
+stream of water causes pits 5—6 meters wide and more than
+one metre deep. Also, hailstones of about 30 cm circumference have been observed along with the tornado cloud at
+many places in the USSR 8: USA. sometimes even air-planes
+are frozen as to form the hailstone nucleus.
 
-BENNY RAPHAEL, 3/4 B.TECH.
-Calculation of the deflections is an important step in
-the analysis of structures.
-deflections is
+There are also special forms of tornadoes such as Water
+spouts and Fire Tornadoes.
 
-The usual method of finding the
+Tornadoes passing over the sea
 
-based on the moment area theorems.
+or large lakes are known as Water spouts. They are accom-
 
-But this
+panied by terrifying sounds. Water Spout is often stationary
+and the duration is generally 15-20 minutes. Many times it
+is not visible. water =Spouts’seem to connect the water
+body forming significant cascades. On the other hand, Fire
+Li‘ornadoes are always accompanied by enormous amounts of heat
 
-happens to be very tedious (At least an average student thinks
+and they can be grouped under Volcanic Erruptions, fires
+and exploeions.
+Destruction Activity of Tornadoes
+The causes of destruction of tornadoes can be broadly
 
-so).
+listed as: (1) the wall thrust by funnels (2) lifting and
+splintering in the air, (5) vortex motion in the funnel.
+The following incident giving an account of the destruction
 
-One has to draw the bending moment diagram, find its
+of the Irving bridge in USA (which was-caused by the strongest
+and longest—lasting tornado 'Irvingx (1897) named after
+the township), is an evidence for the power of the tornadoes.
+The iron bridge was new. It was 75m long and the track
+of the tornado lay right across it. The funnel just touched
 
-area, moment of this area and so on.
-
-Is there any way of
-
-writing down the deflections by inspection, just like we find
-the bending moment at some section?
-
-Is it not possible to
-
-use some standard results to compute these quantities instead
-of dealing with geometric figures?
-questions
-
-a)
-
-Let me try to answer these
-
-.
-
-DEFLECTIONS ON CANTILEVERS:
-
-The detlections on cantilevers could be written down
-directly by inspection, by converting them into fictitious
-cantilevers,
-
-as shown below:
-
-A’
-
-k——._3£:;::ff:1
-
-I
-B
-
-3,
-
-cl
-
-A]
-9’
-
-SE'
-
-c
-
-HM
-(F1 9- 1)
-
-(Fig.2)
-
-If we are interested in the deflections
-
-9;;
-
-£30 and CD at
-
-the point D of the cantilever AE shown in Fig.1, the span
-AD could be divided into fictitious cantilever.
-as shown in Fig.2.
-
-A‘B‘, B’C' etc.
-
-Consider the external loading acting on
-
-the corresponding parts of the fictitious cantilever.
-
-Also
-
-consider the shear and bending moments at the points B,C and D
-
-(27)
+it and lifted it up so fast that the stone pillars on which
+the bridge rested were not damaged at all. On one pillar
+even the top layer of cement was intact and from another only
+£19)
 
 

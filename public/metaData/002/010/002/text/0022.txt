@@ -1,103 +1,50 @@
-. 22.
+The above discussion shows that proper planning, selection of structural form and its design for roof system and sunshades and selection of proper bond for load bearing walls
+considerably reduces the cost of construction of residential
+buildings without come 3 omising safety,
+aspects.
 
-ARTIFICIAL INTELLIGENCE AND THEIR APPLIGATIUNS
+strength and comfort
 
-IN CIVIL
+Improvements are possible in other building compo—
 
-EnGIuEEkING.
-P.GIRIShKUI‘/IAR
-4/4 B.TLCh.
+nents also which can optimize the cost of construction.
 
-Artificial Intelligence (AI) is the mystery topic which has
-taken the Horld and particularly engineering subjects by storm.
+It
 
-nI endeavors to make computers intelligent.
-Why at all should an engineer be interested in Al?
-The answer is ---- to make the computers
-getting the best possible solution.
-rules,
+very much shows that there is engineering in construction of
+residential buildings and the engineering judgement of
+technical personnel in every aspect of planning. design and
+construction not only improves the quality of the building,
 
-recall precedent designs,
+but also reduces the cost of construction.
+of the major industry in our country,
+for entrepreneurs with engineering
 
-new designs.
+As housing is one
 
-zhore useful for
+there is lot of scope
 
-Computers should check design
+background.
 
-offer suggestions and help create
+Especially
 
-Also computers should act as superbooks for
+among the middle class citizens of our country, constructing
+a house is the major investment.
 
-engineers.
-As an introduction it is necessary for us to have a look
-at various fields of AI.
-+ Knowledge based systems
+Cost optminization can not
 
-+ Robotics
+only bring down the pinch on their pockets, but we
 
-+ Logic and Theorem proving + Natural language processing
-+ Voice recognitiorn
-+
+can also
 
-+ Image recognition
+keep our (civil engineering community's) committment to the
+nation by producing cost effective designs and thus reducing
+the national wastage to minimum.
+make everyone's "house" really a
 
-Concept and fearing computers
+(8)
 
-Almost all Civil Engineering problems can be calssified in
-the areas of knowledge.
-
-Based systems to
-
-mbotics.
-
-In fact most
-
-of the other problem areas are responding better to the
-
-'neural
-
-network' approach.
-
-The development of Expert
-
-Systems (ES) on knowledge based
-
-systems started in the 70I s.
-An E S is a software which solves problems in the domain
-area of the expert.
-Engineering.
-
-An E S building process is called knowledge
-
-The knowledge engineer (who builds the E S) inter-
-
-acts with the domain expert's and extracts knowledge in the form
-of strategies, rules szthumb
-ing
-
-part of an E S.
-
-books and journals.
-
-etc.
-
-This is the most challeng-
-
-The term domain expert can also refer to
-a tool builder creates a friendly atmosphere
-
-(an E S building shell) for building an E s.
-
-This shell is used
-
-by the knowledge engineers to build an E S.
-Finally we have the end user who makes use of the E S to
-solve these problems.
-following areas.
-
-In CE the end user
-
-can use E S s in to
+Let us contribute to
+"dream-house".
 
 

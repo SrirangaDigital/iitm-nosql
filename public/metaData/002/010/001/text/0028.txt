@@ -1,142 +1,53 @@
-on the real beam acting at the points B',C'
-fictitious beams.
+two stone blocks were removed. The funnel lifted the
+enormous steel structure into the air, and twisted it
+beyond recognition with exceptional strength. The entire
+bridge became a thick bundle of steel plates and cables,
+snapped and bent in a fantastic way. The bundly was so
+compact and of such small diameter that it totally dis—
+appeared in the water, though the depth of the river was
+only 1.5—2 m. The bridge blow
+water in a few seconds:
 
-and D' of the
+off the pillars into the
 
-Due to the effect of these loads find the
+in this time, the complex beautiful
 
-fictitious cantilever end displacements, ABHAC‘, AD'
-and end rotations 03'
+solid structure became just a long bundle.
 
-QC' and GD' respectively for the parts
+such was the
 
-AIBI’ B'C' and C'D'.
+strength of rotation in the wall of the funnel. Its speed
+was undoubtedly supersonic.
+It is not possible to describe here in detail the
 
-Then, the real rotation at D on the real beam is
-_
-OD —
-CD l + 0C I + OB
+hundreds of such tragic incidents which have occurred in
+the different countries over the years. However,
 
-l
+a few
 
-and the real displacement
-I
+of the most common effects of tornadoes which have been
+grouped and generalised from different incidents all ovor
+the world, are presented below;
+Quite often, food grains, branches and thick knots
+of trees, hoop of hay, quartz grains, gravel, Jars, books
+and even silver coins from hurried treasures have been
+lifted up into the tornado clouds and have been trasnportod
+to distances of tens of kilometres intict.
 
-[SD _
-— AD I + (DC I + 0C V x XCD) + (O B x XBD)
-Where XCD and XBD are the distances of C and B measured
-from D.
+Sometimes,
 
-On dividing the real beam into fictitious cantiLEVers
-(1)
+even
 
-each fictitious cantilever should be of uniform cross
-section.
+a few storcys and roofs of buildings, big stones, automobiles
+tractors, heavy barrels, animals and people are lifted
 
-(2)
+and
 
-the standard values of deflections for the end shear, end
-moment, and the load in each fictitious nantilever should
-be known.
+transported to a few tens to hundreds of metres, resulting
+in complete, partial or no destruction in the process.
+Rains with micro organisms is quite frequent if the
+tornadoes occur over fresh water pools or over the sea. They
 
-(The resultant deflection
-
-would be the sum
-
-of the individual effects of end shear, end moment and
-
-load on the span).
-The standard result are given below:
-
-a
-
-'\ M
-
-ﬂ-————‘-———» ~
-
-A
-
-A
-
-'
-Fig.3
-
-4_‘__‘
-/
-
-Due to a moment M acting on 3
-
-r
-
-D
-
-cantilever span (Fig.3)
-
-IV
-
-oB =M_1.
-M;-2
-El, A B = 2E1
-
-V
-
-Due to a concentrated load V
-
-...(3)
-
-’_‘,"""
-
-{A
-
-t‘
-.
-
-“9'4, “
-
-\
-
-'1' "
-"
-
-i
-
-Fig.5
-
-(Fig.4)
-=v1A2
-
-e
-
-:9
-
-‘
-
-B
-
-A
-
-2131 ' B
-
-=VL3
-
-...(4)
-
-3E1
-
-Due to a UDL of magnitude w (Fig.5)
-e
-
-h
-
-eB = W1?
-EET
-(28)
-
-,
-
-AS E = _El
-Wif
-
-...(5)
+(26)
 
 

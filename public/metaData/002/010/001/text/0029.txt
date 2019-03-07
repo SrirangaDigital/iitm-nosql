@@ -1,128 +1,28 @@
-(3)
+are sucked and. lifted into the clouds and dropped elsewhere.
 
-If there is some arbitrary loading on some part, its
+Various insects, mollusks, shells, marine creatures, jelly
+fish and crabs are also often lifted up enmass into the
+clouds and dropped from the sky at farther places, along with
+the rain. Rains with frogs and fish are quite frequent as a
+result of tornadoes.
 
-effect should be considered separately.
+sometimes, even tortoises, toads and
 
-Integration should be
+rats are reported to be dropped.
 
-carried out for that load alone on the fictitious cantilever.
+They have been many incidents where due to the suction
+of a few metres of water from the rivers and lakes, the de3
+have been exposed. The entire water in deep wells would be
+sucked up and emptied completely.
 
-(4)
+In conclusion, eventhough tornadoe is mainly a
+meteorological phenomenon, it is geographical as well,
+because of its ability to change various surface features
 
-If there are inclined members forming the cantilever,
+of the earth in an unparalleled way.
 
-the relation between the real beam deflections and the end
-rotations and deflections of each fictitious cantilever could
-be got from the geometry of the structure.
+#***
 
-Let me illustrate b
-
-an exam le
-
-Fi
-
-.6
-
-To find the deflections at
-
-P
-A/
-
-L,
-45.1:l
-
-w
-
-l
-a
-
-L.
-ELL,
-
-the point C, divide the span
-
-"‘
-1-.
-
-into two oarts AB and BC.
-'
-On the part BC there is only
-
-Fig.6
-
-a VDL, W and no shear OI
-moment at the end C.
-
-From equation — (5)
-
-,3
-°é = Wig
-6 212
-
-and A; = vuz“
-'eE'2 T 2
-
-For the part AB the resultant shear at B = (W12 + P)
-and resultant moment = W122 .
-
-A
-
-From equations
-
-2
-
-‘2
-
-eB' = (We + P) 11
-
-+
-
-2E 1 I 1
-
-_
-
-(3) and (4).
-
-4
-
-1
-
-(W12 ) l'1 rﬁ : #9 ,, a: ,-.,.
-2
-—E111
-
-1
-.
-= (stilt/“3:5.
-f
-r/
-JEI
-
-AB'
-
-(w1‘ + p) 1 3
-=______2
-1
-315111
-
-+
-
-(M22) 1 2
-T
-l
-2E 1 I 1
-
-The result and deflections at C
-
-(29)
-
-wt” 1
-2
-(
-+ Mg.
-*7
-1,73,
-z‘- ”[1
+(21)
 
 

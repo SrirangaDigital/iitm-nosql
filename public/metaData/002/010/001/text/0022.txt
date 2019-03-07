@@ -1,41 +1,61 @@
-MICRO. . . .MICRO. . . . WATER. . . . WATER. .MICRO. - WATER. MICRO WATER
-by Dr.N.Indrasenan
-Advancements in micro—computer technology with in the
-last five years have been astounding. Log; Tables...slide
-rules. ”ordinary hand—held calculators..programmable cal—
-culators. . .personal computers. .ZCT (extended technology). . .AT
-(advanced technology). .microField—T (microfield transputerised)
-so on and so forth. . .0111. . .yali
+ultimate skin friction resistance is mobilised at a strain
+of approximately 1 '/. of tho diameter of tho pile and the
+base resistance is reached at strains of about 10 7. diame—
+ter (Whitaker and Cooke 1966).
 
-. .really astounding indeed! 1!
+This means that the design
 
-Just consider PT Usha runs Olynpics ’IOO metre in
-”IO seconds or so..mey tron out to be a world record!. But
-imagine a guy in some other celestial body of our solar system
-runs the same distance in O.’|
+of the piles for structures of restricted settlement must be
+properly proportioned apart from factor of safety against
+failure.
 
-second or even less time with
+{Enlarged bases for piles and Gaissons will provide
 
-whom we are unable to communicate as of present. Are not the
-micro computer technological achievements simply comparable
-to that of this guy's, considering its rapid stride in soft/
-hardware develoyment in every nook and corner?. But then one
-must not forget that the hunger of micros is even more than
-that of an elephant's in feeding..are we satisfying this
-hunger?.. a moot point indeed.
-whatever the iseue may be; the micros have now certainly
+increased bearing capacity only at larger settlements and the
+shaft adhesion is fully mobilised at working loads om lower
+strains.
 
-become a way of life and havo oven turned out to be "micros
-for every one"!. Coming to our civil engineering guys (discussion is restricted to those B.Tech in our institute), the
-quick understanding and reaction of these guys to micro
-computer problems, associated software and problem solving
-etC.
+The efficiency of soil anchors is also dependent on
 
-is simly noteworthy. This article is therefore primarily
+the level of strains in the soil.
 
-written to further enrich (further emphasized) their
-understanding.
+The movrm-rnt of a tied back
 
-22
+wall should bc monitored so that the
+
+stretch of the anchors
+
+arc evaluatod to ensure that stability of thn cut face is
+maintained.
+Contact pressure distribution br‘low foundations is also
+dependent on the strain m bﬂised at the interface and naturally varies with the type of foundation,
+
+rigid or flexible.
+
+It may also be of interest to note that in the Case of rafts
+on sand bed overlying thick layer of soft clays,
+
+thc stress
+
+distribution may change with time due to consolidation and
+the reinforcements to be provided will haVc to satisfy both
+short term and long tcrm settlement.
+In tho problems involving stability of slepes also the
+influence of strain will have to be accounted for,
+in composite dams.
+
+especially
+
+The cohesion and friction parameters to be»
+
+used are not the ultimate value-s as cohesion is mobilised at
+very low strain and friction at larger strains.
+
+An alterna-
+
+tive method is: to go in for finite Clsz’n‘t analysis which
+again requires a reliable stress strain relationship of the
+
+-14-
 
 

@@ -1,40 +1,93 @@
-THE EDITORIAL BOARD
+CANTILEVER APPROACH IN THE BENDING OF BEAMS
+____________________________________________
 
-JOJU M. MICHEL
-314, GANGA
+BENNY RAPHAEL, 3/4 B.TECH.
+Calculation of the deflections is an important step in
+the analysis of structures.
+deflections is
 
-G.A. DINESH
-3ll, GANGA
+The usual method of finding the
 
-KURINJI SADASIVAM
-231, GANGA
+based on the moment area theorems.
 
-RAGHU, KOWSHIK
+But this
 
-332, SARAS
+happens to be very tedious (At least an average student thinks
 
-ART
-AMALAN
-VERY SPECIAL THANKS GO TO
-THE HYDRAULICS ENGG.
+so).
 
-OFFICE,
+One has to draw the bending moment diagram, find its
 
-THE TRANSPORTATION ENGG. OFFICE,
-THE STRUCTURAL ENGG. OFFICE,
+area, moment of this area and so on.
 
-AND
+Is there any way of
 
-THE BUILDING TECHNOLOGY OFFICE
-FOR THEIR EXCELLENT CO—OPERATION
+writing down the deflections by inspection, just like we find
+the bending moment at some section?
 
-NOT TO FORGET
-THE PRINTING SECTICW.
+Is it not possible to
 
-PUBLISHED BY
+use some standard results to compute these quantities instead
+of dealing with geometric figures?
+questions
 
-PROF. HARIHAR RAMAN
-HEAD, DEPT. OF CIVIL ENGG.,
-I.I.T., MADRAS
+a)
+
+Let me try to answer these
+
+.
+
+DEFLECTIONS ON CANTILEVERS:
+
+The detlections on cantilevers could be written down
+directly by inspection, by converting them into fictitious
+cantilevers,
+
+as shown below:
+
+A’
+
+k——._3£:;::ff:1
+
+I
+B
+
+3,
+
+cl
+
+A]
+9’
+
+SE'
+
+c
+
+HM
+(F1 9- 1)
+
+(Fig.2)
+
+If we are interested in the deflections
+
+9;;
+
+£30 and CD at
+
+the point D of the cantilever AE shown in Fig.1, the span
+AD could be divided into fictitious cantilever.
+as shown in Fig.2.
+
+A‘B‘, B’C' etc.
+
+Consider the external loading acting on
+
+the corresponding parts of the fictitious cantilever.
+
+Also
+
+consider the shear and bending moments at the points B,C and D
+
+(27)
 
 

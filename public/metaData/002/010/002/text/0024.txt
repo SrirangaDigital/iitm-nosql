@@ -1,104 +1,80 @@
-.24.
-gackward Chainigg:
+steel cables as structural elements in a building however,
+is very recent.
 
-An inference method in which system starts
+One example is the tensile root used in
 
-it
-with what it wantstc prove am tries to estuolish the facts
-needs to prove its assumption.
-Frame Based Reasoniggz
+International Agricultural exhibition in Madrid (1953).
+Roofing was cable net + light weight concrete.
 
-This is a structured knowledge representa-
+Water-
 
-tion technique which associates features with nodes representing
-concepts on objects.
+fightness was achieved by a tectined cloth, painted with
+bitumen applied to the external surface.
+painted with aluminium paint.
 
-The features are described in terms of
+Exterior was
 
-their attributes (called slots) and their values.
+The root had to be repaired
 
-One frame may
+every two years for impermeability.
 
-represent a concrete beam and another a whole class of beams
-ie each class can be described as a specialisation of a more
+But now that the structure could no longer be considered
+temporary or portable, what was needed was membrane material
+that would allow for the construction of a
 
-general class.
+Structure'.
 
-Frames can be used to partition index and
+'Permanent
 
-organise a systems production rules.
-Semantic nets are a network of nodes standing for concepts
-on objects connected by arcs which describe relations between
-nodes.
-OBJECT ORIENTED PROGRAMMING
+Although in 1964 a new membrane material
 
-In object oriented programing all the action comes from
-sending messages between objects.
+was introduced - polyester reinforced with plastic fibre it was not entirely satisfactory.
 
-Object scombine the proper-
+The task was finally
 
-ties of procedures and data since they perform computations and
-save local state.
-an operation
+assigned to Gieger Berger Associates (in New York) by
+Educational Facilities Laboratory.
 
-Instead of naming a procedure to perform
+Working with various
 
-on an object one sends the obuect a message.
+other agencies they developed the permanent solution -
 
-selection in a message specifies the kind of operation.
+Teflon Coated Fibre Glass Fabric.
 
-The
+This membrane is —
 
-Objects
+translusoent, abrasion resistant and non combustible.
+This achievement immediately started showing the result.
 
-respond to messages using their own procedures for performing
-operations.
+Till the late sixties, tensile structures were
+constructed as
 
-Message sending and specialisation (Class inheri-
+'Prestressed‘
 
-tance is used)
+of the U.$. Pavalion in Expo
 
-form important concepts in object oriented
+systems.
 
-programming, specialisation helps to avoid storing redundant
-information and simplifies updating to modifications.
-nLAChBOARD AR CHITECTURE
-This is a sophisticated architecture E S’;
+But by the completion
 
-of the future.
+'70 in Osaka (Japan), a new
 
-Modules of knowledge communicate via a central bolackboard.
+structural system was introduced -
 
-In
+'Air Supported' system.
 
-a blackboard system the solution space is organised in to one
-on more appdsicpaagitol jdoegneedndiento
+In these type of structures the pressure inside the
+structure acts as a pseudogravity which keep the comparatively light roof of cables and membrane in tension and
+hence in proper shape.
 
-vi
-1921 Ichies.
+The new experiment was an immediate
 
-The domain
+success - in the brief period from 1974 to 1984 a total of
+seven air supported stadia were built,
 
-knowledge ,thatp transforms irhfoormatigﬁleﬁexgxeenieRVIIOeunpe
+the largest being
 
-s%%1‘§P°"1ed€e
-
-using information at other levels of hierarchy in to informa—
-tion on the same or other levesls.
-module
-the data
-
-The
-
-choice of the knowledge
-
-is based on the late] additions and modifications to
-structures
-
-.
-
-At each step either forward cr
-
-backward chaining can be apppied.
+Pontiac.5tadium in Michigan which covers more than 10 acres
+of unobstructed space.
 
 
