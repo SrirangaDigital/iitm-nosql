@@ -19,25 +19,18 @@
         <div class="col-md-12">
             <h3 class="gap-above gap-below text-center">Upcoming events</h3>
         </div>
-        <div class="col-md-6">
-        <img class="img-responsive gap-above" src="<?=PUBLIC_URL?>images/stock/slide4.jpg">
-        </div>
-        <div class="col-md-6">
-            <blockquote>
-                <p>Heritage Centre Day.</p>
-                <footer>Date: 01 March 2019</footer>
-                <footer>Time: 5 pm</footer>
-                <footer>Venue: Hall 4, ICSR Building</footer>
-            </blockquote>
+         <div class="col-md-6">
             <blockquote>
                 <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
                 <footer>Date: 01–31 March 2019</footer>
             </blockquote>
+        </div>
+        <div class="col-md-6">
             <blockquote>
                 <p>Heritage Treasure Hunt.</p>
-                <footer>Date to be announced.</footer>
-                <footer>Time to be announced.</footer>
-            </blockquote>
+                <footer>Date: 6 April 2019</footer>
+                <footer>Participation in the teams of three. To register send email to <a>heritagecentre.iitm@gmail.com</a></footer>
+                </blockquote>
         </div>
     </div>
 </div>
