@@ -1,0 +1,68 @@
+How can one use the ESP?
+
+ESP is user friendly and provides efficient data entry
+methods.
+
+A vast array of recoverable information can be
+
+presented in graphical,
+
+tabular,
+
+synoptic,
+
+statistical,
+
+histogram and 3D visualisation forms.
+
+ESP can operate in either 'expert' or 'intcractive’
+mode.
+
+The
+
+'expert system‘ made is particularly useful as
+
+inexperienced users simply select a function such as
+
+'comfort‘,
+
+'plant sizing', or ’energy consumption estimation'.
+
+The
+
+system will set up and perform the required simulations,
+analyse the results and generate the appropriate information answering the design question.
+
+The
+
+'interactive' mode enables Special analyses to be
+
+conducted or additional investigations to be undertaken.
+In this mode the user defiL s the problem, selects a path
+through the various program modules and then interprets
+the simulation results.
+
+Use of ESP under Indian conditions
+
+To the best of my knowledge ESP has not been used
+for the Indian conditions.
+
+So the first problem would be
+
+to validate the ESP for Indian conditions.
+
+The problem
+
+of dividing India into precise climatic zones, validating
+the ESP under the different zones and evolving criteria
+for comfort in the various zones can form the basis for
+a comprehensive research project in Building Technology
+involving laboratory work,
+
+field measurements and
+
+computational work.
+
+(3)
+
+

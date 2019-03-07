@@ -1,0 +1,47 @@
+(’1)
+
+one dimensional open channel flow, (2) shallow water
+
+flow, (5) two dimensional shallow water dam break, (4) wave
+hydrodynamics, (5) shore—wave interaction, (6) surge structure
+
+wave interaction, (7) three dimensional waves—crossed secs,
+(8) sediment transport, (9) air entrainment, (10) groundwater
+flow, (’l’l) instability in groundwater flow, (’12) transport in
+groundwater (’13) transport in surface water, (’14) soil.g;cound—
+water
+
+interaction. (15) circulation in surface water,
+
+(’16) stratified circulation, (’17)
+
+stratified mixing,
+
+(18)watcr—
+
+shed hydrology, (19) pipe—line hydraulics, (20) water hammer/
+unsteady pipe flow, (21) hydraulic machinery, (22) Navier—
+stokes equation. Thus it could be seen that you can not see a
+branch left out of micro-computer treatment.
+Specifically these machines have by far made much in—
+roads in; (5.) water and waste water
+
+fields—water supply
+
+regulation, operational control, process control for treatment
+plants, water network analysis, automation in billing process
+mapping and design, power usage optimisation and control,
+maintenance of plants etc. (ii) Reservoir simulation—micro
+mathematical programming reservoir rule curve model, reservoir
+optimisation, gaming simulation, meta-games command area water
+management, economics analysis model (iii) groundwater simula—
+tion and optimisation-well hydraulics, regional modelling and
+control, solute transport in aquifers, saltwater intrusion...
+the list goes on.
+Let's see some of the elegant general purpose software,
+like wordstar, Database management, spreadsheet, Graphics 9nd
+communications(i_n all these cases improved Versions .1 ways
+follow suit immediately).
+25
+
+

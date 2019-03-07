@@ -1,0 +1,63 @@
+actual deflections on the simply supported beam.
+
+Hence the
+
+1
+
+actual rotation at L. A = DA F AB'A.
+And the actual rotation at any point on the beam will be
+I
+
+equal to the fictitious cantilever rotation minus 0A.
+In order to calculate the deﬂections at any point on the
+simply supported beam, we considered the point as the fixed
+
+end of two fictitious cantilevers on either side (Fig. - 33).
+The reactions were replaced by equivalent forces.
+
+The delfec-
+
+ted shape under this condition is given in Fig. - 30.
+points 13' and A' are at different elevations.
+ence in elevations of these two points is
+Hence the chord A'B'
+
+The
+
+The
+
+differ-
+
+A ‘1 — A'B
+
+is inclined to the horizontal by an
+
+angle 0 = (AA' - AB')/l
+In order to bring the chord A'B' to a horizontal poaition
+rotate the diagzam by O
+In this position the beam is kinematically equivalent to
+the actual simply supported beam, and the deflections measured
+about the Line A'B' give the true deﬂections.
+
+Hence the
+
+actual rotation at the point C;
+
+G C:
+
+(AA’ - AB')/J..
+
+It is a simple geometric exercise to prove that the dis-
+
+tance of 0‘ from the line A‘B' is
+which is the actual displacement At
+
+AA' x 13/]. + A'B x a/l.
+C.
+
+lNDETERMINATE STRUCTURES
+We were able to write down the actual deflections from the
+
+(16)
+
+

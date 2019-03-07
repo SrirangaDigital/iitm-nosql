@@ -1,0 +1,61 @@
+THE SIGNIFICANCE UF DEFCJRMATIOIV IIV SOIL
+PROBLEMS
+PROF. T-s-MAMANATHJL IYER
+The general concept in mast soil mechanics problems such
+as foundation,
+
+stability of slopes and embankments etc. cent-
+
+res around the factor of safety against failure of the soil
+
+mass.
+
+However soil deformations well below working loads are
+
+equally important and methods of evaluating them to a reasonable degree of accuracy are required in a number of cases, as
+mentioned by Roscoe in his Rankine lecture in 1970.
+
+The case
+
+of limiting settlement (total and differential settlement) is
+only one example of this requirement.
+In the conventional design of structures,
+
+it is custo—
+
+mary to adopt limits of total and particularly differential
+deformation criteria for various types of structures based on
+their uses and materials of which they are made of.
+
+These
+
+deformations may be immedi te (contact) or delayed (consolidation).
+
+It is possible to reasonably predict these, as a
+
+function of time.
+The majority of problems involving, soil—structure interaction such as pressures behind a retaining wall need the concept of strain.
+
+In the case of design of retaining walls, the
+
+use of active pressure involves the assumption that a strain
+of approximately 0.3 '/.
+
+is mobilised at every point in the
+
+assumed failure wedge and consequently the top of the wall
+should move away from the backfill by an amount which will
+mobilise this strain.
+
+If it does not,
+
+the pressure for
+
+which the wall is to be designed is not the least (active
+pressure) and much larger design values are required.
+
+-12-
+
+This
+
+
