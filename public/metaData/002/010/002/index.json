@@ -1,0 +1,47 @@
+{
+    "id": "002/010/002",
+    "Type": "Publication",
+    "Publication": "Contour",
+    "Volume": "",
+    "Issue": "",
+    "Date": "",
+    "Toc": [
+        {
+            "Title": "A Message from the Head of the Department",
+            "Page": "c"
+        },
+        {
+            "Title": "From the Editors",
+            "Page": "g"
+        },
+        {
+            "Title": "Prof-File : Prof.Johnson Victor",
+            "Page": "i"
+        },
+        {
+            "Title": "Optimization of Cost in Residential Buildings - A case Study by Mr.S. Rajiv",
+            "Page": "1"
+        },
+        {
+            "Title": "Tensile Structures by Joju M. Michel",
+            "Page": "9"
+        },
+        {
+            "Title": "The Kinematic Interpretation of the Cantilever Approach in the Calculation of Deflections by Benny Raphael",
+            "Page": "15"
+        },
+        {
+            "Title": "Pamban Bridge by V.Suresh",
+            "Page": "19"
+        },
+        {
+            "Title": "Artificial Intelligence and Their Applications in Civil Engg. by P. Girishkumar",
+            "Page": "22"
+        },
+        {
+            "Title": "Cartoons by Mr.K.A.Thomas (Thommy)",
+            "Page": "27"
+        }
+        
+	]
+}

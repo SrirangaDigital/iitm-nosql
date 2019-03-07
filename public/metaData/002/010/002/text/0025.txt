@@ -1,0 +1,49 @@
+-25SuCh a system will be particularly useful in finite element method application.
+SOBOTICS
+Robotics has started playing an important role in Structural Engg. Laboratories throughout the world.
+Robotics involves the following:
++
+
+Sensor and Sensor Understanding :Vision, Force and touch
+capabilities
+
++ Manipulations and manipulation control: Robot arms should be
+capegle of fast aocura to motion and should be capable of
+graping all objects.
++
+
+Object and Space Oriented Problem Solving:
+Robots have to visualise how things fit together.
+
+They
+
+should move around without bumping into object 5, Robots need the
+mathematical principles and both kinematics and dynamics. Relations between manipulation position,
+
+orientation and joined
+
+angles as also between point motions and required motion torque
+have been derived.
+
+Robots need mixed position and hence
+
+controls as also spatial reasoning.
+Once the research
+
+in robatios
+
+has yielded good results,
+
+Civil Engineers will find a lot of use with them.
+a nd
+Expert syst ems
+Civil Engineering.
+
+RobotiCs have come to stay in the area of
+hence the research in thes
+
+importance to future Civil Engineers.
+
+areas are of great
+
+

@@ -1,0 +1,103 @@
+. 22.
+
+ARTIFICIAL INTELLIGENCE AND THEIR APPLIGATIUNS
+
+IN CIVIL
+
+EnGIuEEkING.
+P.GIRIShKUI‘/IAR
+4/4 B.TLCh.
+
+Artificial Intelligence (AI) is the mystery topic which has
+taken the Horld and particularly engineering subjects by storm.
+
+nI endeavors to make computers intelligent.
+Why at all should an engineer be interested in Al?
+The answer is ---- to make the computers
+getting the best possible solution.
+rules,
+
+recall precedent designs,
+
+new designs.
+
+zhore useful for
+
+Computers should check design
+
+offer suggestions and help create
+
+Also computers should act as superbooks for
+
+engineers.
+As an introduction it is necessary for us to have a look
+at various fields of AI.
++ Knowledge based systems
+
++ Robotics
+
++ Logic and Theorem proving + Natural language processing
++ Voice recognitiorn
++
+
++ Image recognition
+
+Concept and fearing computers
+
+Almost all Civil Engineering problems can be calssified in
+the areas of knowledge.
+
+Based systems to
+
+mbotics.
+
+In fact most
+
+of the other problem areas are responding better to the
+
+'neural
+
+network' approach.
+
+The development of Expert
+
+Systems (ES) on knowledge based
+
+systems started in the 70I s.
+An E S is a software which solves problems in the domain
+area of the expert.
+Engineering.
+
+An E S building process is called knowledge
+
+The knowledge engineer (who builds the E S) inter-
+
+acts with the domain expert's and extracts knowledge in the form
+of strategies, rules szthumb
+ing
+
+part of an E S.
+
+books and journals.
+
+etc.
+
+This is the most challeng-
+
+The term domain expert can also refer to
+a tool builder creates a friendly atmosphere
+
+(an E S building shell) for building an E s.
+
+This shell is used
+
+by the knowledge engineers to build an E S.
+Finally we have the end user who makes use of the E S to
+solve these problems.
+following areas.
+
+In CE the end user
+
+can use E S s in to
+
+

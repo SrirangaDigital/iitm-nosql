@@ -1,0 +1,61 @@
+ultimate skin friction resistance is mobilised at a strain
+of approximately 1 '/. of tho diameter of tho pile and the
+base resistance is reached at strains of about 10 7. diame—
+ter (Whitaker and Cooke 1966).
+
+This means that the design
+
+of the piles for structures of restricted settlement must be
+properly proportioned apart from factor of safety against
+failure.
+
+{Enlarged bases for piles and Gaissons will provide
+
+increased bearing capacity only at larger settlements and the
+shaft adhesion is fully mobilised at working loads om lower
+strains.
+
+The efficiency of soil anchors is also dependent on
+
+the level of strains in the soil.
+
+The movrm-rnt of a tied back
+
+wall should bc monitored so that the
+
+stretch of the anchors
+
+arc evaluatod to ensure that stability of thn cut face is
+maintained.
+Contact pressure distribution br‘low foundations is also
+dependent on the strain m bﬂised at the interface and naturally varies with the type of foundation,
+
+rigid or flexible.
+
+It may also be of interest to note that in the Case of rafts
+on sand bed overlying thick layer of soft clays,
+
+thc stress
+
+distribution may change with time due to consolidation and
+the reinforcements to be provided will haVc to satisfy both
+short term and long tcrm settlement.
+In tho problems involving stability of slepes also the
+influence of strain will have to be accounted for,
+in composite dams.
+
+especially
+
+The cohesion and friction parameters to be»
+
+used are not the ultimate value-s as cohesion is mobilised at
+very low strain and friction at larger strains.
+
+An alterna-
+
+tive method is: to go in for finite Clsz’n‘t analysis which
+again requires a reliable stress strain relationship of the
+
+-14-
+
+

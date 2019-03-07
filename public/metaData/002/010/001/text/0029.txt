@@ -1,0 +1,128 @@
+(3)
+
+If there is some arbitrary loading on some part, its
+
+effect should be considered separately.
+
+Integration should be
+
+carried out for that load alone on the fictitious cantilever.
+
+(4)
+
+If there are inclined members forming the cantilever,
+
+the relation between the real beam deflections and the end
+rotations and deflections of each fictitious cantilever could
+be got from the geometry of the structure.
+
+Let me illustrate b
+
+an exam le
+
+Fi
+
+.6
+
+To find the deflections at
+
+P
+A/
+
+L,
+45.1:l
+
+w
+
+l
+a
+
+L.
+ELL,
+
+the point C, divide the span
+
+"‘
+1-.
+
+into two oarts AB and BC.
+'
+On the part BC there is only
+
+Fig.6
+
+a VDL, W and no shear OI
+moment at the end C.
+
+From equation — (5)
+
+,3
+°é = Wig
+6 212
+
+and A; = vuz“
+'eE'2 T 2
+
+For the part AB the resultant shear at B = (W12 + P)
+and resultant moment = W122 .
+
+A
+
+From equations
+
+2
+
+‘2
+
+eB' = (We + P) 11
+
++
+
+2E 1 I 1
+
+_
+
+(3) and (4).
+
+4
+
+1
+
+(W12 ) l'1 rﬁ : #9 ,, a: ,-.,.
+2
+—E111
+
+1
+.
+= (stilt/“3:5.
+f
+r/
+JEI
+
+AB'
+
+(w1‘ + p) 1 3
+=______2
+1
+315111
+
++
+
+(M22) 1 2
+T
+l
+2E 1 I 1
+
+The result and deflections at C
+
+(29)
+
+wt” 1
+2
+(
++ Mg.
+*7
+1,73,
+z‘- ”[1
+
+

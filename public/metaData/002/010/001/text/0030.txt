@@ -1,0 +1,86 @@
+I
+
+A‘ =
+
+I
+
+A5 + “;‘(1
+
+3 (a
+wt. : fP\k‘
+,1”:
+
++ Ac
+'1 )ﬂ,’
+1‘
+1(V1'f
+
++
+
+W11t»
+
+2
+
+b)
+
+DEFLECTIONS ON SIMPLY SUPPORTED BEAMS:
+
+A
+
+rw~vﬁ
+
+4%
+
+B
+
+a
+
+76“;
+
+/“Y“Iﬁ
+
+Ii,
+
+Fig.3
+
+A
+
+T515
+Fig.4
+
+To find the end rotations DA and GB for a simply supported
+beam AB shown in Fig.3.
+
+Consider the fictitious cantilever
+
+A’B’ (Fig.4) on which the same load acts.
+at B by an equal force RB'
+end rotation 6%
+
+Replace the reaction
+
+Find the end displacementlﬁB' and
+
+for this fictitious cantilever.
+
+Then the
+
+actual end rotations are
+53!
+_ ___
+_ O v B _ 9A.
+DA _
+l.
+and GB _
+
+Note that the fictitious cantilever A'B' could further
+be divided conveniently to get standard cantilever parts as
+explained in the previous section.
+
+If there is any over hang the loads on the over hanging
+portion could be replaced by the resulting moments at the
+supports.
+
+(30)
+
+

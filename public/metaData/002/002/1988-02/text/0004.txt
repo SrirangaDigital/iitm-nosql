@@ -1,0 +1,269 @@
+CT
+
+:
+
+Uhat about training for students
+
+PS
+:
+He started installation of the system from 23rd Nov. and
+completed
+it on 7th Dec.
+Immediately after ,
+I
+invited
+three
+members from each dept. {or a short course . Right now the system
+
+is under
+others
+
+"training
+
+" and students have started
+
+learning
+
+from
+
+CT
+:
+But will there be any courses speciticaiiy Lor students 7
+PS
+:
+Yes ,
+of course .
+He will be organising
+courses
+for
+advanced
+topics
+.
+Ue
+are also preparing User's
+Hanuals
+with
+information
+like how to compile in Fortran ,
+Pascal or Cobol
+;
+
+how to program in F77 etc.
+There are other manuals which will be
+tied down to the terminal rooms .
+I am also thinking of brineing
+out a plastic folder having a
+tying it to each terminal .
+CT
+:
+Is there any proposal
+PS
+:
+As
+I
+said .
+there
+
+collection
+
+of
+
+oft
+
+terminals separately . Once these are solved ,
+can't have terminals in the hostels .
+CT
+PS
+
+28th
+
+:
+:
+
+Uill each student get
+I am alloting around
+
+.
+
+The
+
+used
+
+commands
+
+and
+
+to keep terminals in the hostels ?
+are certain
+problems
+in
+keeping
+
+a number
+thousand
+
+?
+account
+
+I don't see why we
+
+numbers
+
+students or the faculty who wish to
+
+get
+
+from
+
+a
+
+Jan
+
+number
+
+should
+approach
+us
+through
+their
+Departmental
+Computer
+Administrators .
+The disk space will be alloted according to the
+needs of the users .
+For example ,
+research scholaq and
+people
+working on structural analysis will require more space
+CT
+:
+How many Graphics terminals are there at present ?
+PS
+:
+One .
+This is a high resolution PCMXZ colour terminal
+with
+1024 * 1280
+pixels .
+It has an 8 color plotter
+with
+in
+Uireframe modelling is possible on this terminal
+
+:
+By the way , what was the cost of construction of this
+new building ?
+PS
+:
+Somewhere in the region of Rs. 85 lakhs . but I don‘t
+know
+
+the
+:
+
+exact
+Hill
+
+figur
+the terminals
+
+be
+
+permanently kept
+
+in
+
+the
+
+main
+
+computer room ?
+PS
+1
+o . this is a temporary arrangement only . As I said
+earlier ,
+we shall be distributing the terminals
+Actually its
+possible to connect another 70
+VT 100
+terminals to the system .
+These
+will be slightly slower that the Siemens terminals
+.
+Us
+can
+also connect IBM PCs through a data switch to the
+mainframe
+to act as VT 100 terminals . So if any of the labs having IBM PCs
+went a connection . we can lay a line uptill the lab
+The PC can
+
+function on its own , or as a Siemens terminal in the dialogue or
+file transfer modes V
+CT
+
+Us
+
+are
+
+also
+
+curious
+
+to
+
+know why
+
+there
+
+is
+
+so
+
+much
+
+space
+
+available in the main Computer room .
+PS
+This is to provide space (or expansion .
+Tomorrow if
+we
+get a supercomputer ,
+we should have space for that
+.
+if
+ERG
+provides
+further
+equipment like additional
+processors
+or
+laser printers , the extra space will take care of this
+CT
+:
+Uhat will happen to the IPL and IBM systems .
+PS
+I
+The IBM system will have to be wound up
+ultimately
+However
+a number of application programs like SAP [V are running
+.
+for which no comparable programs exist on
+the
+Siemens
+system
+( Siemens
+has
+agreed to procure these
+(or
+us )
+The
+Insititute
+payroll
+and Academic program have to be
+shifted
+to
+
+

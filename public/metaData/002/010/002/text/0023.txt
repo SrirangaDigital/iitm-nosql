@@ -1,0 +1,72 @@
++++++++
+
+.23.
+
+Design of multistoreyed RC buildings
+Concrete and steel bridges
+Steel industrial structures
+Transportation Engg.
+Geotechnical Engg.
+Trouble shooting defects in buildings
+Water resources systems etc.
+One of the most successful E S's in Civil Engg. has been
+
+PROSBECTOR which helps geologists 10cate ore deposits.
+The hallmark of E s is that the problem domain (knowledge
+base) is separated from the systems other knowledge (inference
+engine).
+
+In E S‘ s branching is the rule rather than exceptim:
+
+as in conventional algorithms.
+
+Sensitivity Analysis (If X is
+
+changed how is Soln. affected?) can be carried out in E S's.
+In E S's knowledge is applied using shortcuts and tricks.
+have a permanent record of the best strategies
+
+)3 S's
+
+used by experts
+
+in the field.
+E S‘s Invaded the world often the phenomenﬂ success of :
+XCON — Configures VAX computers - developed by DEC, USA
+MYCIE - helps physiciansdiognose and treat infections
+floOd diseasssv " developed by Standard University.
+RETJRES
+
+T TO N OF KNOWLEDGE
+
+Rule Based Reasoning:
+Knowledge is represented in the form of IF — Th‘Eh rules.
+These rules represent processes driven by a complex and rapidly
+changing environment.
+
+a set of rules specify how the program
+
+should react to the changing data without requiring detailed
+information about the flow of control.
+
+These rules adaptively
+
+determine the best sequence of rules to execute.
+
+Conclusions
+
+can be explained by retracting the "ﬁgps‘ lf an antecedent
+(IF ~--) is satisifed then so is the consequent.
+
+If the con-
+
+sequent (Then -~—) defines an action then the action is scheduled
+for execution else a conclusion is inferred.
+inference Methods;
+got-ward Chfxining;
+
+An inference method in which rules are
+
+matched with facts to establish new facts.
+
+

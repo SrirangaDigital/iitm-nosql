@@ -1,0 +1,66 @@
+{
+    "id": "002/002/misc6",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Volume": "",
+    "Issue": "",
+    "Date": "",
+    "Toc": [
+        {
+            "Title": "Editorial",
+            "Page": "3"
+        },
+        {
+            "Title": "Causerie",
+            "Page": "4"
+        },
+        {
+            "Title": "Kumaran Sathasivam",
+            "Page": "4"
+        },
+        {
+            "Title": "The Living Light",
+            "Author": "Sukanya Rathnam",
+            "Page": "5,6"
+        },
+        {
+            "Title": "The Mood",
+            "Author": "Rajat Mukherjee",
+            "Page": "6"
+        },
+        {
+            "Title": "The Tough One",
+            "Author": "C. J. Lal",
+            "Page": "7,8"
+		},
+        {
+            "Title": "Thought",
+            "Author": "Chitra Nayak",
+            "Page": "8"
+		},
+        {
+            "Title": "The Saxophonist",
+            "Author": "Vijay Nambisan",
+            "Page": "9"
+		},
+        {
+            "Title": "Point of No Return",
+            "Author": "Linus",
+            "Page": "9,10"
+        },
+        {
+            "Title": "On Getting Drunk In The Morning",
+            "Author": "Vipin B.",
+            "Page": "10"
+        },
+        {
+            "Title": "Awe-Ful Talk",
+            "Page": "11,12"
+        },
+        {
+            "Title": "The Red Hen",
+            "Author": "Sundararajan Srinivasan",
+            "Page": "12"                          
+        }	
+	]
+}
