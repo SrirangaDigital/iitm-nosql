@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://192.168.1.101/iitm-nosql/');
+define('BASE_URL', 'http://localhost//iitm-nosql/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('DATA_URL', PUBLIC_URL . 'data/');
 define('METADATA_URL', PUBLIC_URL . 'metaData/');
@@ -26,10 +26,9 @@ define('DB_USER', 'iitmUSER');
 define('DB_PASSWORD', 'iitm123');
 
 // Git config
-define('GIT_USER_NAME', 'shruthisdst');
-define('GIT_PASSWORD', 'shruthitr14');
+define('GIT_USER_NAME', 'sriranga-deploy');
+define('GIT_PASSWORD', 'xxx');
 define('GIT_REPO', 'github.com/SrirangaDigital/iitm-nosql.git');
 define('GIT_REMOTE', 'https://' . GIT_USER_NAME . ':' . GIT_PASSWORD . '@' . GIT_REPO);
-define('GIT_EMAIL', 'shruthitr.nayak@gmail.com');
-
+define('GIT_EMAIL', 'accounts@srirangadigital.com');
 ?>
