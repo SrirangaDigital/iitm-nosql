@@ -17,13 +17,16 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <h3 class="gap-above gap-below text-center">Upcoming events</h3>
+            <h3 class="gap-above gap-below-large text-center">Upcoming events</h3>
         </div>
-         <div class="col-md-6">
+         <div class="col-md-5">
+            <img style="float: right;" class="img-responsive gap-below" src="<?=PUBLIC_URL?>images/stock/gw.jpg">
             <blockquote>
-                <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
+                <p>Photographic exhibition on the<br /> life and work of Mr. C. Gourishankar.</p>
                 <footer>Date: 01–31 March 2019</footer>
             </blockquote>
+        </div>
+        <div class="col-md-1">
         </div>
         <div class="col-md-6">
             <blockquote>
