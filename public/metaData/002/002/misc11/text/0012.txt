@@ -1,0 +1,64 @@
+4
+That is, only the layers may be turned while keeping the cube itself
+
+However, rotation of the cube may be necessary before starting 3
+
+fixed.
+
+a specified sequence.
+
+STEP 1.
+
+COMPLETION OF THE BOTTOM LAYER
+
+A systematic description of this step has been deliberately
+
+omitted, because it is more easily done than explained, even by a
+trial and error method.
+
+So without burdening the reader with
+
+trivial stuff, let us assume that any one layer has been completed.
+Keep in mind that a correctly completed layer should have a single
+
+colour not just on its face, but also along each of its sides or
+edges.
+
+Referring to fig.5, the finished layer is at the bottom,
+
+and mostly hidden, but the two visible edge colours can be seen to
+
+be uniform.
+
+To make it ready for the next step, the bottom layer
+
+has tobe turned so that each edge colour matches the adjacent
+centre block as seen in the figure.
+
+Now that the top and bottom faces have been established, they
+retain their identity through the rest of the solution, while any
+
+rotations of the cube whenever necessary will affect only the sides
+or vertical faces.
+
+At the very last step there is a possible
+
+exception to this.
+
+STEP 2.
+
+COMPLETION OF THE MIDDLE LAYER
+
+There are just four edge block positions to be dealt with in
+this step, and for each of these the correct 'home' block will
+be in one of the following situations:
+
+1. Somewhere in the top layer
+2. At a wrong location in the middle layer
+3. In the right place but wrongly Oriented
+
+4.ﬂorrectly plocated and oriented.
+
+Fig.6 shows an edge location in dark outline, followed by the
+
+

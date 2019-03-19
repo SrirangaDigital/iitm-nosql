@@ -1,0 +1,68 @@
+2
+consider the dube as being viewed from the t0p at all times.
+
+That
+
+is, in all the diagrams a square represents the visible top face,
+while two more sides show themselves in a picture view such as
+in fig.
+
+1.
+
+Most of the terms depicted in Fig.1 need no further explanation.
+
+Colours are not indicated, but it is understood that each
+
+BIDCK has a unique colour combination, though their pattern may
+
+be all jumbled to start with.
+
+While handling the cube, we need
+
+some tax; way of distinguishing the various faces.
+
+A.convenient
+
+REFERENCE basis is provided by the colours of the six CENTRE
+blocks,which cannot change their relative positions with respect
+to eachother.
+
+In contrast, the EDGE and CORNER blocks are free
+
+to be moved about with the reference remaining fixed.
+
+Each FACE of the cube is identified by the colour of its
+centre block, and if we ROTATE the whole cube, the reference
+changes from our Viewhpoint, because it is fixed on the cube.
+
+Thus
+
+the TOP face which may have been 'red', can become 'green' after
+a rotation, while 'red' may have moved to the FRONT face.
+
+Anyway
+
+we will not be concerned with actual colours, but only whether
+the edge and corner blocks appearing on a face have the right colour
+or not, i.e. matching the centre block.
+
+The group of nine blocks on any face forms a LAYER, which
+holds together while it is TURNED.
+
+The turning of a layer is the
+
+only movement available for altering block positions with respect
+
+to the dube's reference basis.
+
+Note that rotation of the cube
+
+changes the reference as seen by us, whereas turning of a layer
+does not.
+
+Each of the mobile edge and corner blocks has a unique 'home'
+position in the final solution.
+
+It is not only their LOCATION
+
+

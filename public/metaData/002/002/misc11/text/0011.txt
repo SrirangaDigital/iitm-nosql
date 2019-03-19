@@ -1,0 +1,76 @@
+3
+but also their ORIENTATION which has to be correct, because a
+block can be in the right place but facing the wrong way.
+
+Wrongly
+
+oriented blocks are illustrated in Fig.9 and in Fig.6(case 3).
+
+_*—_
+
+Instructinns for turning the layers are given in the form of
+arrows contained in small squares which always represent the cube's
+
+tOp face.
+
+Tﬂe position of the arrow in the square identifies the
+
+layer to be turned.
+sketching easier.
+
+Arrowheads are shown as dots to make their
+The meaning of the TURN SYMBOLS
+
+from the examples in Fig.2.
+
+will be clear
+
+In each case a row of blocks has been
+
+shown shaded merely to emphasize the layer being turned.
+
+All
+
+other turn symbols can be interpreted on the same lines.
+
+‘A two-
+
+headed arrow indicates a double turn.
+
+Rotation of the cube as a whole can also be represented
+conveniently by some similar symbols as shown in Fig.3, though we
+can do without their use
+
+in our solution.
+
+SEQUENCES
+At different stages in the solution, certain groups of turns
+haVe to follow each other in a definite SEQUENCE.
+
+The seven
+
+sequences which are useful to us have been named for convenience,
+
+and are listed in Fig.4.
+
+They have been arranged vertically, just to emphasise the
+
+symmetry of the R(ight) and L(eft) sequences.
+
+There are really
+
+just four distinct types, and our solution will consist mainly
+
+of repeated use of these sequences in different situations.
+
+Two
+
+sequences may be given together, such as R2+L2, when they have
+
+to follow each bther in that order.
+
+It is important that the
+
+cube reference must not change during the execution of a sequence.
+
+

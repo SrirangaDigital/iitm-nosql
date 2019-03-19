@@ -1,0 +1,46 @@
+{
+    "id": "002/002/misc11",
+    "Type": "Publication",
+    "Publication": "Campastimes",
+    "Volume": "3",
+    "Issue": "01",
+    "Toc": [
+		{
+            "Title": "Depth",
+            "Page": "1"
+        },
+        {
+            "Title": "Editorial",
+            "Author": "Eds",
+            "Page": "3,4"
+        },
+        {
+            "Title": "Rubix Cube Revived",
+            "Page": "7"
+        },
+        {
+            "Title": "Meet Our Professors",
+            "Page": "16"
+        },
+        {
+            "Title": "Design Improvement In 2-Stroke Si Engine To Red Loss of Fresh Charge",
+            "Page": "19"
+        },
+        {
+            "Title": "Slant Bottom Prechamber Improves Diesel Combustion.",
+            "Page": "20"
+		},
+        {
+            "Title": "Quiz",
+             "Page": "21"
+		},
+        {
+            "Title": "Beyond Classrooms And Text Books",
+             "Page": "22"
+		},
+        {
+            "Title": "Thanksgiving",
+            "Page": "25"
+        }
+	]
+}

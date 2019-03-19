@@ -1,0 +1,49 @@
+DESIGN IMPROVEMENT _IN_ 2-STROKE s; ENGINE 19 REDUCE Loss 9_E_
+FRESH CHARGE
+
+In the new design of the two—stroke SI engine developed at the
+
+1.0. Engines Laboratory I.I.T. Madras, two read valves are fitted
+
+at the top of the transfer ducts.
+
+These valves allow air from the
+
+atmOSphere to enter into the crankcase through the transfer ducts
+during the upward movement of the piston.
+
+The working of the
+
+system is as follows:
+
+When the piston moves upward subatmOSpheric pressure is
+
+deve10ped in the crankcase and transfer ducts.
+
+Hence air fuel
+
+mixture enters into the crankcase in the conventional way.
+Simultaneously pure air gets in through the read valves into the
+
+transfer ducts.
+
+This air fills the transfer ducts.
+
+During the
+
+downward movement of the piston when the transfer ports open the
+trapped air in the transfer ducts enters the cylinder first and
+only a little later the air-fuel mixture enters.
+
+This air hence
+
+becomes the main component to get short-circuited and thereby
+the following fuel air mixture gets retained to a large extent.
+Fig.1 (attached) illustrated the principle.
+
+Considerable improve-
+
+ment in fuel economy and reduction in exhaust emissions have
+been observed with this device.
+
+

@@ -1,0 +1,68 @@
+14
+workshops and laboratories maybe deemed to rust away, with much of
+it already under dust and cobwebs.
+The drift in emphasis is eSpecially damaging in a mechanical
+engineering curriculum.
+
+If the exposure to machines is primarily
+
+through idealized formulae and graphics packages, it reduces the
+
+ability to deal confidently with real machines.
+
+Once the basic
+
+principles are learnt, hands-on exposure should be given priority,
+provided competent instruction is available.
+
+Modelling and
+
+simulation are no doubt powerful computer techniques, but they are
+best used by persons whose knowledge goes beyond the theoretical
+
+to include a concept of the extent of idealization and approximation in the equations being used.
+
+Otherwise results can be
+
+misinterpreted and errors remain undetected.
+
+The computer screen
+
+will not display the grease and dirt, or the jammed and broken parts.
+
+Lamenting the state of affairs is of course very easy, and
+
+persons likethe present writer may keep at it a d nauseam, while
+persons with the wisdom and skill to suggest comprehensive remedies
+
+and get them implemented will rarely be found.
+
+So let the
+
+criticisms stOp at this point, and before closing let us revert to
+the question we started with.
+The solution will not be givén here, so that interested
+readers may have the satisfaction of figuring it out for them-
+
+selves.
+
+What may be emphasised is that simple things like a
+
+shower head need not be treated with contempt just because we
+don't have a differential
+
+equation to describe it.
+
+In fact it
+
+could be interesting if a B.Tecb. project involved designing
+(inventing) an ordinary water tap which shuts off automatically
+if the water supply stops.
+
+The idea seems feasible enough since
+
+forces like buoyancy can be used to trigger the desired effect.
+
+If the device is simple enough it has commercial potential too.
+
+

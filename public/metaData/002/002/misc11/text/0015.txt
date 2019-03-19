@@ -1,0 +1,45 @@
+5
+four possibilities for the home block which belongs there.
+
+If situation (1) occurs, we first identify the top colour of
+the home block.
+
+Next the cube is rotated until that colour comes
+
+to the front face, and then the top layer is turned so that the
+
+home block is in position A1 or B1 in: as in Fig.7, to suit case a)
+or b).
+
+Finally we execute sequence R0 or ID, which will move the
+
+block to the correct position at A2 or BZ.
+
+In case of situations (2) or(3), we have to first send the
+troublesome block to the top layer, by rotating the cube until
+
+the block comes to position A2 of Fig.7a), and then performing
+
+sequence 30.
+
+This will lead to situa-tion (1) which must be dealt
+
+with afresh.
+
+Once we have established situation (4) all round
+
+the middle layer, only the tOp layer remains to be sorted out.
+
+(TO BE CONTINUED~IN THE NEXT ISSUE)
+
+*§§****e***c*****§**
+
+anuaJ ﬁj‘dllj4L7
+
+We apologise for the quality of the figures.We will
+tryto to re-run the figures in the next issue.The
+electro—stencilling machine goofed!
+
+}’é//
+
+

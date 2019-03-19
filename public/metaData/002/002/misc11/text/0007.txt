@@ -1,0 +1,74 @@
+1
+R U'B I K
+
+C U B E
+
+R E'V I'V E D
+
+Who remembers Rubik's Cube today?
+
+It got pushed into the
+
+category of passing fads by overblown publicity and commercializa—
+tion.
+
+But its intrinsic charm need not be denied or forgotten, even
+
+if it is no longer the 'in' thing.
+
+Though the cube was responsible
+
+for much excitement and despair among puzzle fans and even
+
+mathematicians, many of its published solutions were needlessly
+lengthy or complicated or loaded with technical jargon.
+
+For those
+
+who simply gave up, here is a brief and simply presented procedure
+for arriving at a solution to the basic problem, i.e. separating
+the six colours, one to each face.
+
+The subsequent discussion of
+
+the method is provided as purely optional reading.
+
+For most of us it would be helpful to have a cube in hand
+while reading through the steps of the solution.
+
+But even other-
+
+wise it can provide ideas for developing independent solutions and
+recording them in a concise fashion, since the method presented
+here is in no way unique or Optimal.
+
+It was in fact developed
+
+entirely by trial and error.
+
+Before starting with the solution, we have to agree on some
+conventions and the meanings of certain words.
+
+Precise definitions
+
+are not necessary, but some words appear in capital letters where
+they are introduced or explained in the text.
+
+The meanings of
+
+terms will generally be clear from the figures, which are all
+free-hand sketches of the sort which any reader can draw for
+
+himself or herself without much effort.
+
+There is no need for
+
+using different colours, or even symbols to identify the different colours or positions.
+
+Sketching will be aided by placing
+
+the paper over a blank square-ruled sheet.
+
+Since a consistent point of view has its advantages, we shall
+
+

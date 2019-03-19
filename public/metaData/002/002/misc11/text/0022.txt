@@ -1,0 +1,53 @@
+12
+won) cmssnooms AND TEXT BOOKS
+"When an ordinary bathroom shower is turned on, one of the
+following possibilities is likely to occur (among others such as
+
+there being no water supply at all!):-
+
+a. Water flow from the shower head starts instantly and continues
+steadily.
+
+b. There is an initial pause for a few seconds before steady
+flow commences.
+c. An instant spray of water comes first, followed by a pause,
+after which steady flow starts.
+Can these occurrences be explained using principles of elementary
+physics?"
+This question, in somewhat different wording which emphasised
+
+the thirdpossibility, was put to the student: of a predominantly
+first-year B.Tech. hostel, and a small treat was offered for the
+best answer.
+
+Initially there were just two responses, so a hint
+
+and some insulting comments on their capabilities were put up, which
+ultimately brought in a dozen entries over a week.
+
+Sad to say, most
+
+of the answers were wide off the mark, and even those who mentioned
+the right principles get mixed up in the explanation.
+The reason for posing the question to first-year students was
+the suspicion that they might still remembei some school physics and
+
+be relatively unspoiled by the IIT system (of which more later).
+The explanation involves only some simply'physics, provided one takes
+the trouble of observing the phenomenon carefully (the description
+
+given in the question is not quite complete).
+
+No knowledge of
+
+special areas like fluid mechanics is needed, thoughzl
+
+little
+
+curiosity would certainly help.
+
+In practical terms, it is the sort of thinking which should
+be encouraged particularly among prospective mechanical and
+chemical engineers, at least those who have intentions of becoming
+
+
