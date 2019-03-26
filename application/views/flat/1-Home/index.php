@@ -19,20 +19,29 @@
         <div class="col-md-12">
             <h3 class="gap-above gap-below-large text-center">Upcoming events</h3>
         </div>
-         <div class="col-md-5">
+         <div class="col-md-4">
+            <blockquote>
+                <p>Perfectionist<br /><small>Talk by Mr. Venkataraaman</small></p>
+                <footer>Date: 27 March 2019</footer>
+                <footer>Time: 5.00 pm</footer>
+                <footer>Place:  Heritage Centre, Administration Building, IIT Madras</footer>
+            </blockquote>
+        </div>
+         <div class="col-md-4">
             <img style="float: right;" class="img-responsive gap-below" src="<?=PUBLIC_URL?>images/stock/gw.jpg">
             <blockquote>
-                <p>Photographic exhibition on the<br /> life and work of Mr. C. Gourishankar.</p>
+                <p>Photographic exhibition on the life and work of Mr. C. Gourishankar.</p>
+                <br />
                 <footer>Date: 01–31 March 2019</footer>
             </blockquote>
         </div>
         <div class="col-md-1">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-3">
             <blockquote>
                 <p>Heritage Treasure Hunt.</p>
                 <footer>Date: 6 April 2019</footer>
-                <footer>Participation in the teams of three. To register send email to <a>heritagecentre.iitm@gmail.com</a></footer>
+                <footer>Participation in the teams of three.<br /> To register send email to <a>heritagecentre.iitm@gmail.com</a></footer>
                 </blockquote>
         </div>
     </div>
