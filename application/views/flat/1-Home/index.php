@@ -19,7 +19,12 @@
         <div class="col-md-12">
             <h3 class="gap-above gap-below-large text-center">Upcoming events</h3>
         </div>
-         <div class="col-md-4">
+        <div class="col-md-12">
+            <div class="fixOverlayDiv">
+        <img class="img-responsive gap-below" src="<?=PUBLIC_URL?>images/stock/poster-700.jpg">
+    </div>
+         </div>
+ <!--         <div class="col-md-4">
             <blockquote>
                 <p>Perfectionist<br /><small>Talk by Mr. Venkataraaman</small></p>
                 <footer>Date: 27 March 2019</footer>
@@ -43,9 +48,9 @@
                 <footer>Date: 6 April 2019</footer>
                 <footer>Participation in the teams of three.<br /> To register send email to <a>heritagecentre.iitm@gmail.com</a></footer>
                 </blockquote>
-        </div>
+        </div>-->
     </div>
-</div>
+</div> 
 <div class="container-fluid stats" id="collection">
     <div class="row clear-margins">
         <div class="col-md-12">
