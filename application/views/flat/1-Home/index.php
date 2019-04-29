@@ -14,17 +14,17 @@
         </div>
     </div>
 </div>
-<div class="container">
+<!-- <div class="container">
     <div class="row">
         <div class="col-md-12">
             <h3 class="gap-above gap-below-large text-center">Upcoming events</h3>
         </div>
         <div class="col-md-12">
             <div class="fixOverlayDiv">
-        <img class="img-responsive gap-below" src="<?=PUBLIC_URL?>images/stock/poster-700.jpg">
-    </div>
-         </div>
- <!--         <div class="col-md-4">
+                <img class="img-responsive gap-below" src="<?=PUBLIC_URL?>images/stock/poster-700.jpg">
+            </div>
+        </div>
+          <div class="col-md-4">
             <blockquote>
                 <p>Perfectionist<br /><small>Talk by Mr. Venkataraaman</small></p>
                 <footer>Date: 27 March 2019</footer>
@@ -48,80 +48,80 @@
                 <footer>Date: 6 April 2019</footer>
                 <footer>Participation in the teams of three.<br /> To register send email to <a>heritagecentre.iitm@gmail.com</a></footer>
                 </blockquote>
-        </div>-->
-    </div>
-</div> 
-<div class="container-fluid stats" id="collection">
-    <div class="row clear-margins">
-        <div class="col-md-12">
-            <h1>Gallery</h1>
-            <ul class="list-inline">
-                <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/categories/Photograph?select=Collection">
-                        <h2><i class="fa fa-image"></i></h2>
-                        <p>Photographs</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/categories/Publication?select=Publication">
-                        <h2><i class="fa fa-book"></i></h2>
-                        <p>Publications</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/artefacts/Multimedia%20File?Category=Oral+History+Archives">
-                        <h2><i class="fa fa-volume-up"></i></h2>
-                        <p>Oral History Archives</p>
-                    </a>
-                </li>
-            </ul>
+            </div>
         </div>
-        <div class="col-md-12">
-            <ul class="list-inline">
-                <li class="stat-elem">
-                    <a href="<?=BASE_URL?>listing/artefacts/Miscellaneous%20Video?Category=Videos">
-                        <h2><i class="fa fa-video-camera"></i></h2>
-                        <p>Videos</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="<?=BASE_URL?>DAA" target="_blank">
-                        <h2><i class="fa fa-trophy"></i></h2>
-                        <p>Distinguished Alumnus Awardees</p>
-                    </a>
-                </li>
-                <li class="stat-elem">
-                    <a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre">
-                        <h2><i class="fa fa-envelope"></i></h2>
-                        <p>Letters from the Heritage Centre</p>
-                    </a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="container-fluid physical" id="physical">
-    <div class="row">
-        <div class="col-md-12">
-            <h1>Physical Space</h1>
+    </div>  -->
+    <div class="container-fluid stats" id="collection">
+        <div class="row clear-margins">
+            <div class="col-md-12">
+                <h1>Gallery</h1>
+                <ul class="list-inline">
+                    <li class="stat-elem">
+                        <a href="<?=BASE_URL?>listing/categories/Photograph?select=Collection">
+                            <h2><i class="fa fa-image"></i></h2>
+                            <p>Photographs</p>
+                        </a>
+                    </li>
+                    <li class="stat-elem">
+                        <a href="<?=BASE_URL?>listing/categories/Publication?select=Publication">
+                            <h2><i class="fa fa-book"></i></h2>
+                            <p>Publications</p>
+                        </a>
+                    </li>
+                    <li class="stat-elem">
+                        <a href="<?=BASE_URL?>listing/artefacts/Multimedia%20File?Category=Oral+History+Archives">
+                            <h2><i class="fa fa-volume-up"></i></h2>
+                            <p>Oral History Archives</p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-12">
+                <ul class="list-inline">
+                    <li class="stat-elem">
+                        <a href="<?=BASE_URL?>listing/artefacts/Miscellaneous%20Video?Category=Videos">
+                            <h2><i class="fa fa-video-camera"></i></h2>
+                            <p>Videos</p>
+                        </a>
+                    </li>
+                    <li class="stat-elem">
+                        <a href="<?=BASE_URL?>DAA" target="_blank">
+                            <h2><i class="fa fa-trophy"></i></h2>
+                            <p>Distinguished Alumnus Awardees</p>
+                        </a>
+                    </li>
+                    <li class="stat-elem">
+                        <a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre">
+                            <h2><i class="fa fa-envelope"></i></h2>
+                            <p>Letters from the Heritage Centre</p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-4">
-            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/ps1.JPG">
-            <h2>Centrally located</h2>
-            <p>The Heritage Centre is located in the ground floor of the Administration Block, right next to Gajendra Circle. It occupies the space where the old manual telephone exchange was situated.</p>
+    <div class="container-fluid physical" id="physical">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Physical Space</h1>
+            </div>
         </div>
-        <div class="col-md-4">
-            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/ps2.JPG">
-            <h2>Pictorial account</h2>
-            <p>The display at the Heritage Centre provides a pictorial account of the events that led to the founding of IIT Madras, student life in the early years of the institute, the development of technological and other facilities and visits by distinguished people. The display also encompasses the campus and distinuished alumni.</p>
-        </div>
-        <div class="col-md-4">
-            <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/ps3.JPG">
-            <h2>Variety of artefacts</h2>
-            <p>Also on display are a variety of artefacts including the foundation stone laid at the inauguration of the institute in 1959, a life size oil painting of Prof. B. Sengupto, the first Director of IIT Madras, and a replica of the Inter-IIT Sports Trophy.</p>
+        <div class="row">
+            <div class="col-md-4">
+                <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/ps1.JPG">
+                <h2>Centrally located</h2>
+                <p>The Heritage Centre is located in the ground floor of the Administration Block, right next to Gajendra Circle. It occupies the space where the old manual telephone exchange was situated.</p>
+            </div>
+            <div class="col-md-4">
+                <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/ps2.JPG">
+                <h2>Pictorial account</h2>
+                <p>The display at the Heritage Centre provides a pictorial account of the events that led to the founding of IIT Madras, student life in the early years of the institute, the development of technological and other facilities and visits by distinguished people. The display also encompasses the campus and distinuished alumni.</p>
+            </div>
+            <div class="col-md-4">
+                <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/ps3.JPG">
+                <h2>Variety of artefacts</h2>
+                <p>Also on display are a variety of artefacts including the foundation stone laid at the inauguration of the institute in 1959, a life size oil painting of Prof. B. Sengupto, the first Director of IIT Madras, and a replica of the Inter-IIT Sports Trophy.</p>
+            </div>
         </div>
     </div>
-</div>
 
