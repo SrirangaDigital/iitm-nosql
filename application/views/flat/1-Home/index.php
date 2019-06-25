@@ -30,7 +30,7 @@
             </div>
         </div>      
         <div class="col-md-6">
-            <h3 class="gap-below-large text-center">METADATA</h3>
+            <h3 class="gap-below-large text-center">INFORMATION NEEDED</h3>
             <div class="row">
                 <div class="col-md-6">
                     <img class="img-responsive gap-below" src="<?=PUBLIC_URL?>images/stock/collage.jpg" />
