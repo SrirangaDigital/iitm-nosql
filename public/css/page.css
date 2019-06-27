@@ -1083,3 +1083,8 @@ img.img-center{
   text-decoration: line-through;
   font-style: italic;
 }
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}

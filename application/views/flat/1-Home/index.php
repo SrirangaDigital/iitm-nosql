@@ -14,9 +14,25 @@
         </div>
     </div>
 </div>
+<div class="jumbotron">
+    <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12 gap-below-large">
+            <h3 class="text-center">FORTHCOMING EVENTS</h3>
+          </div>  
+          <div class="col-md-6 vcenter">
+            <img style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/exhibition.jpg" alt="" />
+          </div><!--  
+          --><div class="col-md-6 vcenter">
+              <p class="text-center"><strong>July</strong></p>
+              <p class="text-center">Photographic exhibition on <strong>Six Decades</strong></p>
+          </div>    
+        </div>
+    </div>
+</div>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-6" style="border-right: 1px solid #CCC;">
+        <div class="col-md-6">
             <h3 class="gap-below-large text-center">RECENTLY RECEIVED</h3>
             <div class="row">
                 <div class="col-md-6">
@@ -24,7 +40,7 @@
                 </div>    
                 <div class="col-md-6" style="margin-top: 100px;">
                     <blockquote>
-                        <p>Contributed by Dr. Sudesh Kannan, 1985 alumnus,<br />co-author of the book.</p>    
+                        <p>Contributed by <strong>Dr. Sudesh Kannan</strong>, 1985 alumnus,<br />co-author of the book.</p>    
                     </blockquote>
                 </div>
             </div>
