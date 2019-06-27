@@ -14,7 +14,7 @@
         </div>
     </div>
 </div>
-<div class="jumbotron">
+<div class="jumbotron" style="margin-bottom: 0px;">
     <div class="container-fluid">
         <div class="row">
           <div class="col-md-12 gap-below-large">
@@ -32,7 +32,7 @@
 </div>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6" style="border-right: 1px solid #CCC;">
             <h3 class="gap-below-large text-center">RECENTLY RECEIVED</h3>
             <div class="row">
                 <div class="col-md-6">
