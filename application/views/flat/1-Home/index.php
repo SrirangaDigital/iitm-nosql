@@ -24,8 +24,8 @@
             <img style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/exhibition.jpg" alt="" />
           </div><!--  
           --><div class="col-md-6 vcenter">
-              <p class="text-center"><strong>July</strong></p>
-              <p class="text-center">Photographic exhibition on <strong>Six Decades</strong></p>
+              <p class="text-center"><strong>July and August 2019</strong></p>
+              <p class="text-center">Exhibition: <strong>Six Decades of IIT Madras</strong></p>
           </div>    
         </div>
     </div>
@@ -36,20 +36,20 @@
             <h3 class="gap-below-large text-center">RECENTLY RECEIVED</h3>
             <div class="row">
                 <div class="col-md-6">
-                    <p style="padding-left:80px;"><img class="img-responsive gap-below" src="<?=PUBLIC_URL?>images/stock/Scan1.jpg" /></p>
+                    <p class="text-right"><img src="<?=PUBLIC_URL?>images/stock/Scan1.jpg" /></p>
                 </div>    
-                <div class="col-md-6" style="margin-top: 100px;">
+                <div class="col-md-6 text-left" style="margin-top: 100px;">
                     <blockquote>
                         <p>Contributed by <strong>Dr. Sudesh Kannan</strong>, 1985 alumnus,<br />co-author of the book.</p>    
                     </blockquote>
                 </div>
-            </div>
+            </div> 
         </div>      
         <div class="col-md-6">
             <h3 class="gap-below-large text-center">INFORMATION NEEDED</h3>
             <div class="row">
                 <div class="col-md-6">
-                    <img class="img-responsive gap-below" src="<?=PUBLIC_URL?>images/stock/collage.jpg" />
+                     <p class="text-right"><img src="<?=PUBLIC_URL?>images/stock/collage.jpg" /></p>
                 </div>    
                 <div class="col-md-6" style="margin-top: 100px;">
                     <blockquote>
