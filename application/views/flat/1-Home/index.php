@@ -21,11 +21,11 @@
             <h3 class="text-center">FORTHCOMING EVENTS</h3>
           </div>  
           <div class="col-md-6 vcenter">
-            <img style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/exhibition.jpg" alt="" />
+            <img style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/IIT-chennai.jpg" alt="" />
           </div><!--  
           --><div class="col-md-6 vcenter">
-              <p class="text-center"><strong>July and August 2019</strong></p>
-              <p class="text-center">Exhibition: <strong>Six Decades of IIT Madras</strong></p>
+              <p class="text-center">Inauguration of the Exhibition</p>
+              <p class="text-center"><strong>Eight Decades of IIT Madras</strong></p>
           </div>    
         </div>
     </div>
@@ -53,7 +53,7 @@
                 </div>    
                 <div class="col-md-6" style="margin-top: 100px;">
                     <blockquote>
-                        <p>Metadata is required for this album please <a target="_blank" href="http://192.155.224.66/stage/iitm-nosql/listing/artefacts/Photograph?Album=Album+0328%3A&Collection=Central%20Photographic%20section%20collection">click here</a> to see all the photos in this album</p>
+                        <p>Metadata is required for this album please <a target="_blank" href="http://stage.sriranga.digital/iitm-nosql/listing/artefacts/Photograph?Album=Album+0328%3A&Collection=Central%20Photographic%20section%20collection">click here</a> to see all the photos in this album</p>
                     </blockquote>
                 </div>
             </div>      
