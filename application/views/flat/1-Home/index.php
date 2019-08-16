@@ -36,11 +36,11 @@
             <h3 class="gap-below-large text-center">RECENTLY RECEIVED</h3>
             <div class="row">
                 <div class="col-md-6">
-                    <p class="text-right"><img src="<?=PUBLIC_URL?>images/stock/cube3.jpg" /></p>
+                    <p class="text-right"><img src="<?=PUBLIC_URL?>images/stock/Scan1.jpg" /></p>
                 </div>    
                 <div class="col-md-6 text-left" style="margin-top: 100px;">
                     <blockquote>
-                        <p>Contributed by<br /><strong>Ganesh Rajgopal</strong><br />through<br /><strong>Mallik S. Putcha</strong></p>    
+                        <p>Contributed by <strong>Dr. Sudesh Kannan</strong>, 1985 alumnus,<br />co-author of the book.</p>    
                     </blockquote>
                 </div>
             </div> 
