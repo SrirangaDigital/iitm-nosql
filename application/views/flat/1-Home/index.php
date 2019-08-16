@@ -53,7 +53,7 @@
                 </div>    
                 <div class="col-md-6" style="margin-top: 100px;">
                     <blockquote>
-                        <p>Metadata is required for this album please <a target="_blank" href="http://192.155.224.66/stage/iitm-nosql/listing/artefacts/Photograph?Album=Album+0328%3A&Collection=Central%20Photographic%20section%20collection">click here</a> to see all the photos in this album</p>
+                        <p>Metadata is required for this album please <a target="_blank" href="http://stage.sriranga.digital/iitm-nosql/listing/artefacts/Photograph?Album=Album+0328%3A&Collection=Central%20Photographic%20section%20collection">click here</a> to see all the photos in this album</p>
                     </blockquote>
                 </div>
             </div>      
