@@ -32,26 +32,26 @@
 </div>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-6" style="border-right: 1px solid #CCC;">
+        <div class="col-md-6">
             <h3 class="gap-below-large text-center">RECENTLY RECEIVED</h3>
             <div class="row">
                 <div class="col-md-6">
-                    <p class="text-right"><img src="<?=PUBLIC_URL?>images/stock/Scan1.jpg" /></p>
+                    <p class="text-right"><img id="myImage" src="<?=PUBLIC_URL?>images/stock/recpic1.jpg" /></p>
                 </div>    
-                <div class="col-md-6 text-left" style="margin-top: 100px;">
+                <div class="col-md-6 text-left" style="margin-top: 50px;">
                     <blockquote>
-                        <p>Contributed by <strong>Dr. Sudesh Kannan</strong>, 1985 alumnus,<br />co-author of the book.</p>    
+                        <p>The cube is contributed by <strong>Ganesh Rajgopal</strong> through <strong>Mallik S. Putcha</strong><br />(both are first batch alumni)</p>    
                     </blockquote>
                 </div>
             </div> 
         </div>      
-        <div class="col-md-6">
+        <div class="col-md-6" style="border-left: 1px solid #CCC;">
             <h3 class="gap-below-large text-center">INFORMATION NEEDED</h3>
             <div class="row">
                 <div class="col-md-6">
                      <p class="text-right"><img src="<?=PUBLIC_URL?>images/stock/collage.jpg" /></p>
                 </div>    
-                <div class="col-md-6" style="margin-top: 100px;">
+                <div class="col-md-6" style="margin-top: 50px;">
                     <blockquote>
                         <p>Metadata is required for this album please <a target="_blank" href="http://stage.sriranga.digital/iitm-nosql/listing/artefacts/Photograph?Album=Album+0328%3A&Collection=Central%20Photographic%20section%20collection">click here</a> to see all the photos in this album</p>
                     </blockquote>
@@ -162,3 +162,33 @@
             </div>
         </div>
 
+<script>
+var images = new Array ('recpic1.jpg', 'recpic2.jpg', 'recpic3.jpg');
+var index = 1;
+ 
+function rotateImage()
+{
+  $('#myImage').fadeOut('fast', function()
+  {
+    $(this).attr('src', base_url+"public/images/stock/" + images[index]);
+ 
+    $(this).fadeIn('fast', function()
+    {
+      if (index == images.length-1)
+      {
+        index = 0;
+      }
+      else
+      {
+        index++;
+      }
+    });
+  });
+}
+ 
+$(document).ready(function()
+{
+  setInterval (rotateImage, 2500);
+});
+
+</script>
