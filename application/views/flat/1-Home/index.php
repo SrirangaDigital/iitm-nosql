@@ -25,7 +25,7 @@
           </div><!--  
           --><div class="col-md-6 vcenter">
               <p class="text-center">Inauguration of the Exhibition</p>
-              <p class="text-center"><strong>Eight Decades of IIT Madras</strong></p>
+              <h2 class="text-center" style="color: #FF6A14;"><strong>The Decades of IIT Madras</strong></h2>
           </div>    
         </div>
     </div>
@@ -38,9 +38,9 @@
                 <div class="col-md-6">
                     <p class="text-right"><img id="myImage" src="<?=PUBLIC_URL?>images/stock/recpic1.jpg" /></p>
                 </div>    
-                <div class="col-md-6 text-left" style="margin-top: 50px;">
+                <div class="col-md-6 text-left" style="margin-top: 20px;">
                     <blockquote>
-                        <p>The cube is contributed by <strong>Ganesh Rajgopal</strong> through <strong>Mallik S. Putcha</strong><br />(both are first batch alumni)</p>    
+                        <p>Model made in workshop exercise by<br /><strong>Mr. Ganesh Rajgopal</strong> (of the first batch of students of IIT Madras), received through his batch mate<br /><strong>Mr. Mallik S. Putcha</strong></p>    
                     </blockquote>
                 </div>
             </div> 
