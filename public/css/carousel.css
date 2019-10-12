@@ -2,11 +2,11 @@
     margin-bottom: 0;
 }
 .carousel-indicators{
-    left: inherit;
-    right: 20px;
-    bottom: 20px;
-    top: inherit;
-    height: inherit;
+    /*left: inherit;*/
+/*    right: 20px;
+    bottom: 20px;*/
+    /*top: inherit;*/
+    /*height: inherit;*/
     width: inherit;
     margin: 0;
 }
@@ -64,7 +64,9 @@
     opacity: 1;
 }
 .override-carousel-caption {
+/*
     position: absolute;
+*/
     /*border-top: 3px solid #ea5644;*/
 }
 .caption-content {
@@ -74,7 +76,8 @@
     font-weight: 700;
     margin: 0 0 15px 0;
     padding: 0 0 10px 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+	color: #000 !important;
 }
 .pos-1-3-right, .pos-1-3-left {
     width: 33.3%;
@@ -118,7 +121,7 @@
     text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6);
 }
 .scheme-dark .caption-title {
-    color: #FFF;
+    color: #000;
 }
 .scheme-light .caption-title {
     color: #363636;
