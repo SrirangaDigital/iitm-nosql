@@ -14,6 +14,7 @@
         </div>
     </div>
 </div>
+
 <div class="jumbotron" style="margin-bottom: 0px;">
     <div class="container-fluid">
         <div class="row">
@@ -21,11 +22,10 @@
             <h3 class="text-center">FORTHCOMING EVENTS</h3>
           </div>  
           <div class="col-md-6 vcenter">
-            <img style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/IIT-chennai.jpg" alt="" />
+            <img style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/exhibhition.jpg" alt="" />
           </div><!--  
           --><div class="col-md-6 vcenter">
-              <p class="text-center">Inauguration of the Exhibition</p>
-              <h2 class="text-center" style="color: #FF6A14;"><strong>The Decades of IIT Madras</strong></h2>
+              <h2 class="text-center" style="color: #FF6A14;"><strong>Nature Exhibition</strong></h2>
           </div>    
         </div>
     </div>
@@ -189,6 +189,8 @@ function rotateImage()
 $(document).ready(function()
 {
   setInterval (rotateImage, 2500);
+
 });
+
 
 </script>
