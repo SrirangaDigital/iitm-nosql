@@ -15,6 +15,94 @@
     </div>
 </div>
 
+<div class="container-fluid">
+    <div class="row clear-paddings">
+        <div class="col-md-12" style="padding: 0;">
+
+            <div id="carousel" class="carousel slide" data-ride="carousel" style="background-color: #CCC;height: 500px;">
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel" data-slide-to="1"></li>
+                <li data-target="#carousel" data-slide-to="2"></li>
+                <li data-target="#carousel" data-slide-to="3"></li>
+              </ol>
+
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+				<div class="item active">
+				  <h3  class="text-center">RECENT ACTIVITIES</h3>
+				  <div class="override-carousel-caption">
+                    <div class="caption-content">
+						<div  style="float: left;padding-left: 150px;width:50%">
+							<img src="<?=PUBLIC_URL?>images/stock/0399.jpg" alt="" />
+						</div>
+                        <div style="width:50%;float: right;padding-top: 70px;padding-right: 250px;">
+							<p class="caption-title" style="font-size: 3em;">Nature Walk</p>
+	                        <p style="font-size: 1.25em;">Heritage Centre collection</p>
+	                        <p>31st August 2019</p>
+	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0399%3A+Nature+Walk&Collection=Heritage%20Centre%20collection">Click here see the complete album</a></p>
+                        </div>
+                    </div>    
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENT ACTIVITIES</h3>
+				  <div class="override-carousel-caption">
+                    <div class="caption-content">
+						<div  style="float: left;padding-left: 150px;width:50%">
+							<img src="<?=PUBLIC_URL?>images/stock/0400.jpg" alt="" />
+						</div>
+                        <div style="width:50%;float: right;padding-top: 50px;padding-right: 250px;">
+							<p class="caption-title" style="font-size: 3em;">Inauguration of<br />Decadal exhibition</p>
+	                        <p style="font-size: 1.25em;">Heritage Centre collection</p>
+	                        <p>12th September 2019</p>
+	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0400%3A+Inauguration+of+Decadal+exhibition&Collection=Heritage%20Centre%20collection">Click here see the complete album</a></p>
+                        </div>
+                    </div>    
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENT ACTIVITIES</h3>
+				  <div class="override-carousel-caption">
+                    <div class="caption-content">
+						<div  style="float: left;padding-left: 150px;width:50%">
+							<img src="<?=PUBLIC_URL?>images/stock/0401.jpg" alt="" />
+						</div>
+                        <div style="width:50%;float: right;padding-top: 10px;padding-right: 100px;">
+							<p class="caption-title" style="font-size: 3em;">Unveiling of portraits of<br />creators of Heritage Centre</p>
+	                        <p style="font-size: 1.25em;">Heritage Centre collection</p>
+	                        <p>12th September 2019</p>
+	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0401%3A+Unveiling+of+portraits+of+creators+of+Heritage+Centre&Collection=Heritage%20Centre%20collection">Click here see the complete album</a></p>
+                        </div>
+                    </div>    
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENT ACTIVITIES</h3>
+				  <div class="override-carousel-caption">
+                    <div class="caption-content" style="padding-left: 200px;padding-right: 200px;">
+						<p class="caption-title" style="text-align: center;padding-top: 50px;font-size: 3em;">Heritage Club</p> 
+						<p>Heritage Club was launched on 13th September 2019 to increase the engagement of the student community with the Heritage Centre and its activities. The club will focus on bringing the history of the institute closure to the student community and increase general awareness about its rich heritage.</p>
+                    </div>    
+                  </div>
+                </div>
+              </div>
+
+              <!-- Controls -->
+              <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+        </div>
+    </div>
+</div>     
+
 <div class="jumbotron" style="margin-bottom: 0px;">
     <div class="container-fluid">
         <div class="row">
