@@ -124,11 +124,15 @@
             <h3 class="gap-below-large text-center">RECENTLY RECEIVED</h3>
             <div class="row">
                 <div class="col-md-6">
-                    <p class="text-right"><img id="myImage" src="<?=PUBLIC_URL?>images/stock/recpic1.jpg" /></p>
+                    <p class="text-right"><img id="myImage" src="<?=PUBLIC_URL?>images/stock/recrcvd1.jpg" /></p>
                 </div>    
                 <div class="col-md-6 text-left" style="margin-top: 20px;">
-                    <blockquote>
-                        <p>Model made in workshop exercise by<br /><strong>Mr. Ganesh Rajgopal</strong> (of the first batch of students of IIT Madras), received through his batch mate<br /><strong>Mr. Mallik S. Putcha</strong></p>    
+                    <blockquote>                        
+							<p>Name: <strong>Whip scorpions</strong><br />
+							Order: <strong>Thelyphonida<br />(or Uropygi)</strong><br />
+							Photo credit: <strong>Kumaran Sathasivam</strong><br />
+							Pictures shot near the Heritage Centre
+						</p>    
                     </blockquote>
                 </div>
             </div> 
@@ -251,7 +255,7 @@
         </div>
 
 <script>
-var images = new Array ('recpic1.jpg', 'recpic2.jpg', 'recpic3.jpg');
+var images = new Array ('recrcvd1.jpg', 'recrcvd2.jpg');
 var index = 1;
  
 function rotateImage()
