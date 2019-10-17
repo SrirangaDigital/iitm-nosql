@@ -81,10 +81,10 @@
 				<div class="item">
 				  <h3  class="text-center">RECENT ACTIVITIES</h3>
 				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-right: 90px;">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
 						<img src="<?=PUBLIC_URL?>images/stock/heritage.jpg" alt="" />
 					</div>  
-					<div style="width:50%;float: right;padding-top: 10px;padding-right: 100px;">
+					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
 						<p class="caption-title" style="font-size: 3em;">Heritage Club</p>
 						<p style="font-size: 1.25em;">Heritage Centre collection</p>
 						<p>Heritage Club was launched on 13th September 2019 to increase the engagement of the student community with the Heritage Centre and its activities. The club will focus on bringing the history of the institute closure to the student community and increase general awareness about its rich heritage.</p>
