@@ -15,6 +15,27 @@
     </div>
 </div>
 
+<div class="jumbotron" style="margin-bottom: 0px;">
+    <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12 gap-below-large">
+            <h3 class="text-center">RECENT VISITORS</h3>
+          </div>  
+          <div class="col-md-6">
+            <p style="text-align: right;padding-right: 50px;"><img src="<?=PUBLIC_URL?>images/stock/Dr_Jacinte.jpg" alt="" /></p>
+          </div>
+          <div class="col-md-6">
+              <p style="margin-top: 50px;">
+				  <span style="font-size: 1.5em;"><strong>Dr. Jacinte Jean</strong>,</span><br />
+				  <span style="font-size: 1.25em;">wife of the alumnus</span><br />
+				  <span style="font-size: 1.5em;"><strong>Dr. Prasad Gudem</strong></span><br /> 
+				  <span style="font-size: 1.25em;">visited IIT Madras Heritage Centre</span>
+			  </p>
+          </div>    
+        </div>
+    </div>
+</div>
+
 <div class="container-fluid">
     <div class="row clear-paddings">
         <div class="col-md-12" style="padding: 0;">
@@ -32,14 +53,21 @@
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
 				<div class="item active">
-				  <h3  class="text-center">RECENT VISITORS</h3>
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
                     <div class="caption-content">
 						<div  style="float: left;width:50%;text-align:right;padding-right: 90px;">
-							<img src="<?=PUBLIC_URL?>images/stock/Dr_Jacinte.jpg" alt="" />
+							<img src="<?=PUBLIC_URL?>images/stock/recrcvd1.jpg" alt="" />
 						</div>
-                        <div style="width:50%;float: right;padding-top: 70px;padding-right: 150px;">
+                        <div style="width:50%;float: right;padding-top: 50px;padding-right: 150px;">
+							<p><span style="font-size: 1.25em;">Name:</span> <span style="font-size: 1.5em;"><strong>Whip scorpions</strong></span><br />
+							<span style="font-size: 1.25em;">Order:</span> <span style="font-size: 1.5em;"><strong>Thelyphonida (or Uropygi)</strong></span><br />
+							<span style="font-size: 1.25em;">Photo credit:</span> <span style="font-size: 1.5em;"><strong>Kumaran Sathasivam</strong></span><br />
+							<span style="font-size: 1.25em;">Pictures shot near the Heritage Centre</span>
+						</p>    
+<!--
 	                        <p><span style="font-size: 1.5em;"><strong>Dr. Jacinte Jean</strong>,</span><br /><span style="font-size: 1.25em;">wife of the alumnus</span><br /><span style="font-size: 1.5em;"><strong>Dr. Prasad Gudem</strong></span><br /> <span style="font-size: 1.25em;">visited IIT Madras Heritage Centre</span></p>
+-->
 	                        <!--<p>31st August 2019</p>-->
                         </div>
                     </div>    
@@ -218,41 +246,6 @@
     </div>
 </div>
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-md-6">
-            <h3 class="gap-below-large text-center">RECENTLY RECEIVED</h3>
-            <div class="row">
-                <div class="col-md-6">
-                    <p class="text-right"><img id="myImage" src="<?=PUBLIC_URL?>images/stock/recrcvd1.jpg" /></p>
-                </div>    
-                <div class="col-md-6 text-left" style="margin-top: 20px;">
-                    <blockquote>                        
-							<p>Name: <strong>Whip scorpions</strong><br />
-							Order: <strong>Thelyphonida<br />(or Uropygi)</strong><br />
-							Photo credit: <strong>Kumaran Sathasivam</strong><br />
-							Pictures shot near the Heritage Centre
-						</p>    
-                    </blockquote>
-                </div>
-            </div> 
-        </div>      
-        <div class="col-md-6" style="border-left: 1px solid #CCC;">
-            <h3 class="gap-below-large text-center">INFORMATION NEEDED</h3>
-            <div class="row">
-                <div class="col-md-6">
-                     <p class="text-right"><img src="<?=PUBLIC_URL?>images/stock/collage.jpg" /></p>
-                </div>    
-                <div class="col-md-6" style="margin-top: 50px;">
-                    <blockquote>
-                        <p>Metadata is required for this album please <a target="_blank" href="http://stage.sriranga.digital/iitm-nosql/listing/artefacts/Photograph?Album=Album+0328%3A&Collection=Central%20Photographic%20section%20collection">click here</a> to see all the photos in this album</p>
-                    </blockquote>
-                </div>
-            </div>      
-        </div>
-    </div>
-</div>
-</div>
 <!--           <div class="col-md-4">
             <blockquote>
                 <p>Perfectionist<br /><small>Talk by Mr. Venkataraaman</small></p>
