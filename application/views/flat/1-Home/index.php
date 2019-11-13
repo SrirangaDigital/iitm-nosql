@@ -26,6 +26,116 @@
                 <li data-target="#carousel" data-slide-to="1"></li>
                 <li data-target="#carousel" data-slide-to="2"></li>
                 <li data-target="#carousel" data-slide-to="3"></li>
+                <li data-target="#carousel" data-slide-to="4"></li>
+              </ol>
+
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+				<div class="item active">
+				  <h3  class="text-center">RECENT VISITORS</h3>
+				  <div class="override-carousel-caption">
+                    <div class="caption-content">
+						<div  style="float: left;width:50%;text-align:right;padding-right: 90px;">
+							<img src="<?=PUBLIC_URL?>images/stock/Dr_Jacinte.jpg" alt="" />
+						</div>
+                        <div style="width:50%;float: right;padding-top: 70px;padding-right: 150px;">
+	                        <p><span style="font-size: 1.5em;"><strong>Dr. Jacinte Jean</strong>,</span><br /><span style="font-size: 1.25em;">wife of the alumnus</span><br /><span style="font-size: 1.5em;"><strong>Dr. Prasad Gudem</strong></span><br /> <span style="font-size: 1.25em;">visited IIT Madras Heritage Centre</span></p>
+	                        <!--<p>31st August 2019</p>-->
+                        </div>
+                    </div>    
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+                    <div class="caption-content">
+						<div  style="float: left;width:50%;text-align: right;padding-right:90px;">
+							<img src="<?=PUBLIC_URL?>images/stock/ouchtooops.jpg" alt="" />
+						</div>
+                        <div style="width:50%;float: right;padding-top: 70px;padding-right: 250px;">
+	                        <p><span style="font-size: 1.5em;"><strong>Ouch to Oops</strong></span><br /><span style="font-size: 1.25em;">Written by</span><br /><span style="font-size: 1.5em;"><strong>RamG Valath</strong></span> <span style="font-size: 1.25em;">(Alumnus)</span></p>
+                        </div>
+                    </div>    
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+                    <div class="caption-content">
+						<div  style="float: left;width:50%;text-align: right;padding-right: 90px;">
+							<img src="<?=PUBLIC_URL?>images/stock/vignettes_of_vikaasa.jpg" alt="" />
+						</div>
+                        <div style="width:50%;float: right;padding-top: 70px;padding-right: 100px;">
+	                        <p><span style="font-size: 1.5em;"><strong>Vignettes of Vikaasa</strong></span><br /><span style="font-size: 1.25em;">Coordinated and edited by</span><br /><span style="font-size: 1.5em;"><strong>Kumaran Sathasivam</strong></span></p>
+                        </div>
+                    </div>    
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/the_rajbhavans_of_tamilnadu.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 70px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;"><strong>The Rajbhavans of Tamilnadu</strong></span><br /><span style="font-size: 1.25em;">Written by</span><br /><span style="font-size: 1.5em;"><strong>S Muthiah</strong></span></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/mascot_of_iit_madras.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;"><strong>Mascot of IIT Madras</strong></span></p>
+					</div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Controls -->
+              <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+        </div>
+    </div>
+</div>     
+
+<div class="jumbotron" style="margin-bottom: 0px;">
+    <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12 gap-below-large">
+            <h3 class="text-center">FORTHCOMING EVENTS</h3>
+          </div>  
+          <div class="col-md-6 vcenter">
+            <img style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/exhibhition.jpg" alt="" />
+          </div><!--  
+          --><div class="col-md-6 vcenter">
+              <h2 class="text-center" style="color: #FF6A14;"><strong>Nature Exhibition</strong></h2>
+          </div>    
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="row clear-paddings">
+        <div class="col-md-12" style="padding: 0;">
+
+            <div id="carousel-two" class="carousel slide" data-ride="carousel-two" style="background-color: #CCC;height: 500px;">
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-two" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-two" data-slide-to="1"></li>
+                <li data-target="#carousel-two" data-slide-to="2"></li>
+                <li data-target="#carousel-two" data-slide-to="3"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -95,34 +205,19 @@
               </div>
 
               <!-- Controls -->
-              <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+              <a class="left carousel-control" href="#carousel-two" role="button" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
               </a>
-              <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+              <a class="right carousel-control" href="#carousel-two" role="button" data-slide="next">
                 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
               </a>
             </div>
         </div>
     </div>
-</div>     
-
-<div class="jumbotron" style="margin-bottom: 0px;">
-    <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-12 gap-below-large">
-            <h3 class="text-center">FORTHCOMING EVENTS</h3>
-          </div>  
-          <div class="col-md-6 vcenter">
-            <img style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/exhibhition.jpg" alt="" />
-          </div><!--  
-          --><div class="col-md-6 vcenter">
-              <h2 class="text-center" style="color: #FF6A14;"><strong>Nature Exhibition</strong></h2>
-          </div>    
-        </div>
-    </div>
 </div>
+
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-6">
