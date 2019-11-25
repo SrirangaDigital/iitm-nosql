@@ -22,15 +22,31 @@
             <h3 class="text-center">RECENT VISITORS</h3>
           </div>  
           <div class="col-md-6">
-            <p style="text-align: right;padding-right: 50px;"><img src="<?=PUBLIC_URL?>images/stock/Dr_Jacinte.jpg" alt="" /></p>
+            <p style="text-align: right;padding-right: 50px;"><img src="<?=PUBLIC_URL?>images/stock/recent-visitor/visitor.jpg" alt="" /></p>
           </div>
           <div class="col-md-6">
+				<p>from left: 
+					<span style="font-size: 1.2em;"><br />
+					Ms. Mamata,<br /> 
+					Mr. Kumaran Sathasivam,<br /> 
+					Mr. Suresh Dore</span> (1983 batch),<br /> 
+					<span style="font-size: 1.2em;">Mr. Krishnamoorthy Ananthasivam</span> (1983 batch),<br />
+					<span style="font-size: 1.2em;">Mr. Suresh Chandra</span> (1982 batch),<br /> 
+					<span style="font-size: 1.2em;">Ms. Sujatha Dubey</span> (1983 batch),<br /> 
+					<span style="font-size: 1.2em;">Mr. Mohammed Kamal</span> (1983 batch),<br /> 
+					<span style="font-size: 1.2em;">Mrs. Suresh Chandra</span> and son of<br /> 
+					<span style="font-size: 1.2em;">Mr and Mrs. Suresh Chandra.</span>
+				</p>
+
+
+<!--
               <p style="margin-top: 50px;">
 				  <span style="font-size: 1.5em;"><strong>Dr. Jacinte Jean</strong>,</span><br />
 				  <span style="font-size: 1.25em;">wife of the alumnus</span><br />
 				  <span style="font-size: 1.5em;"><strong>Dr. Prasad Gudem</strong></span><br /> 
 				  <span style="font-size: 1.25em;">visited IIT Madras Heritage Centre</span>
 			  </p>
+-->
           </div>    
         </div>
     </div>
