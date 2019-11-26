@@ -37,16 +37,6 @@
 					<span style="font-size: 1.2em;">Mrs. Suresh Chandra</span> and son of<br /> 
 					<span style="font-size: 1.2em;">Mr and Mrs. Suresh Chandra.</span>
 				</p>
-
-
-<!--
-              <p style="margin-top: 50px;">
-				  <span style="font-size: 1.5em;"><strong>Dr. Jacinte Jean</strong>,</span><br />
-				  <span style="font-size: 1.25em;">wife of the alumnus</span><br />
-				  <span style="font-size: 1.5em;"><strong>Dr. Prasad Gudem</strong></span><br /> 
-				  <span style="font-size: 1.25em;">visited IIT Madras Heritage Centre</span>
-			  </p>
--->
           </div>    
         </div>
     </div>
@@ -64,6 +54,9 @@
                 <li data-target="#carousel" data-slide-to="2"></li>
                 <li data-target="#carousel" data-slide-to="3"></li>
                 <li data-target="#carousel" data-slide-to="4"></li>
+                <li data-target="#carousel" data-slide-to="5"></li>
+                <li data-target="#carousel" data-slide-to="6"></li>
+                <li data-target="#carousel" data-slide-to="7"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -134,6 +127,46 @@
 					</div>  
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;"><strong>Mascot of IIT Madras</strong></span></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2374.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2388.JPG" alt="" /><br /><br />
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2389.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2394.JPG" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;"><strong>Photos by Mr. Kumaran Sathasivam</strong></span></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2403.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2413.JPG" alt="" /><br /><br />
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2426.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2430.JPG" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;"><strong>Photos by Mr. Kumaran Sathasivam</strong></span></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2432.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2453.JPG" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;"><strong>Photos by Mr. Kumaran Sathasivam</strong></span></p>
 					</div>
                   </div>
                 </div>
