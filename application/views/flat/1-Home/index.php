@@ -105,6 +105,7 @@
 					</div>  
 					<div style="width:50%;float: right;padding-top: 110px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;">Mount Carmel College, Bangalore winning the<br /><strong>Kokila Rajaiah Basketball Trophy</strong><br /> during <strong>GF/KR 1983</strong>.</span></p>
+						<p>photo received from alumnus <strong>Mr. N.S. Vinodh</strong>, B.Tech, Civil Engineering, graduated in the year 1986</p>	
 					</div>
                   </div>
                 </div>
@@ -116,6 +117,7 @@
 					</div>  
 					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;"><strong>A skit during MG 1983</strong></span></p>
+						<p>photo received from alumnus <strong>Mr. N.S. Vinodh</strong>, B.Tech, Civil Engineering, graduated in the year 1986</p>	
 					</div>
                   </div>
                 </div>
