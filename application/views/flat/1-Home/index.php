@@ -27,7 +27,6 @@
           <div class="col-md-6">
 				<p>from left: 
 					<span style="font-size: 1.2em;"><br />
-					Ms. Mamata,<br /> 
 					Mr. Kumaran Sathasivam,<br /> 
 					Mr. Suresh Dore</span> (1983 batch),<br /> 
 					<span style="font-size: 1.2em;">Mr. Krishnamoorthy Ananthasivam</span> (1983 batch),<br />
@@ -54,83 +53,11 @@
                 <li data-target="#carousel" data-slide-to="2"></li>
                 <li data-target="#carousel" data-slide-to="3"></li>
                 <li data-target="#carousel" data-slide-to="4"></li>
-                <li data-target="#carousel" data-slide-to="5"></li>
-                <li data-target="#carousel" data-slide-to="6"></li>
-                <li data-target="#carousel" data-slide-to="7"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
 				<div class="item active">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-                    <div class="caption-content">
-						<div  style="float: left;width:50%;text-align:right;padding-right: 90px;">
-							<img src="<?=PUBLIC_URL?>images/stock/recrcvd1.jpg" alt="" />
-						</div>
-                        <div style="width:50%;float: right;padding-top: 50px;padding-right: 150px;">
-							<p><span style="font-size: 1.25em;">Name:</span> <span style="font-size: 1.5em;"><strong>Whip scorpions</strong></span><br />
-							<span style="font-size: 1.25em;">Order:</span> <span style="font-size: 1.5em;"><strong>Thelyphonida (or Uropygi)</strong></span><br />
-							<span style="font-size: 1.25em;">Photo credit:</span> <span style="font-size: 1.5em;"><strong>Kumaran Sathasivam</strong></span><br />
-							<span style="font-size: 1.25em;">Pictures shot near the Heritage Centre</span>
-						</p>    
-<!--
-	                        <p><span style="font-size: 1.5em;"><strong>Dr. Jacinte Jean</strong>,</span><br /><span style="font-size: 1.25em;">wife of the alumnus</span><br /><span style="font-size: 1.5em;"><strong>Dr. Prasad Gudem</strong></span><br /> <span style="font-size: 1.25em;">visited IIT Madras Heritage Centre</span></p>
--->
-	                        <!--<p>31st August 2019</p>-->
-                        </div>
-                    </div>    
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-                    <div class="caption-content">
-						<div  style="float: left;width:50%;text-align: right;padding-right:90px;">
-							<img src="<?=PUBLIC_URL?>images/stock/ouchtooops.jpg" alt="" />
-						</div>
-                        <div style="width:50%;float: right;padding-top: 70px;padding-right: 250px;">
-	                        <p><span style="font-size: 1.5em;"><strong>Ouch to Oops</strong></span><br /><span style="font-size: 1.25em;">Written by</span><br /><span style="font-size: 1.5em;"><strong>RamG Valath</strong></span> <span style="font-size: 1.25em;">(Alumnus)</span></p>
-                        </div>
-                    </div>    
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-                    <div class="caption-content">
-						<div  style="float: left;width:50%;text-align: right;padding-right: 90px;">
-							<img src="<?=PUBLIC_URL?>images/stock/vignettes_of_vikaasa.jpg" alt="" />
-						</div>
-                        <div style="width:50%;float: right;padding-top: 70px;padding-right: 100px;">
-	                        <p><span style="font-size: 1.5em;"><strong>Vignettes of Vikaasa</strong></span><br /><span style="font-size: 1.25em;">Coordinated and edited by</span><br /><span style="font-size: 1.5em;"><strong>Kumaran Sathasivam</strong></span></p>
-                        </div>
-                    </div>    
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/the_rajbhavans_of_tamilnadu.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 70px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>The Rajbhavans of Tamilnadu</strong></span><br /><span style="font-size: 1.25em;">Written by</span><br /><span style="font-size: 1.5em;"><strong>S Muthiah</strong></span></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/mascot_of_iit_madras.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>Mascot of IIT Madras</strong></span></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
@@ -167,6 +94,28 @@
 					</div>  
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;"><strong>Photos by Mr. Kumaran Sathasivam</strong></span></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Basketball1983.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 110px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;">Mount Carmel College, Bangalore winning the<br /><strong>Kokila Rajaiah Basketball Trophy</strong><br /> during <strong>GF/KR 1983</strong>.</span></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Skit_at_MG_1983.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;"><strong>A skit during MG 1983</strong></span></p>
 					</div>
                   </div>
                 </div>
