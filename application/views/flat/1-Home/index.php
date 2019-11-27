@@ -31,7 +31,7 @@
 					Mr. Suresh Dore</span> (1983 batch),<br /> 
 					<span style="font-size: 1.2em;">Mr. Krishnamoorthy Ananthasivam</span> (1983 batch),<br />
 					<span style="font-size: 1.2em;">Mr. Suresh Chandra</span> (1982 batch),<br /> 
-					<span style="font-size: 1.2em;">Ms. Sujatha Dubey</span> (1983 batch),<br /> 
+					<span style="font-size: 1.2em;">Ms. Sujatha Dube</span> (1983 batch),<br /> 
 					<span style="font-size: 1.2em;">Mr. Mohammed Kamal</span> (1983 batch),<br /> 
 					<span style="font-size: 1.2em;">Mrs. Suresh Chandra</span> and son of<br /> 
 					<span style="font-size: 1.2em;">Mr and Mrs. Suresh Chandra.</span>

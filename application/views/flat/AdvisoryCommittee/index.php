@@ -32,6 +32,14 @@
   </div>
   <div class="col-sm-6 col-md-3">
     <div class="thumbnail">
+      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/Kolar_Photo.jpg" alt="Prof. Ajit Kolar">
+      <div class="caption">
+        <h4>Prof. Ajit Kolar</h4>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-3">
+    <div class="thumbnail">
       <img src="<?=PUBLIC_URL?>images/stock/adcommittee/avatar.png" alt="Prof. Koshy Varghese">
       <div class="caption">
         <h4>Prof. Koshy Varghese</h4>
