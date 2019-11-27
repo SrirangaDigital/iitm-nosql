@@ -40,7 +40,7 @@
   </div>
   <div class="col-sm-6 col-md-3">
     <div class="thumbnail">
-      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/avatar.png" alt="Prof. P. Sriram">
+      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/psmug.jpg" alt="Prof. P. Sriram">
       <div class="caption">
         <h4>Prof. P. Sriram</h4>
       </div>
