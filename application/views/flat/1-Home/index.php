@@ -25,7 +25,7 @@
             <p style="text-align: right;padding-right: 50px;"><img src="<?=PUBLIC_URL?>images/stock/recent-visitor/visitor.jpg" alt="" /></p>
           </div>
           <div class="col-md-6">
-				<p>from left: 
+				<p style="line-height: 38px;">from left: 
 					<span style="font-size: 1.2em;"><br />
 					Mr. Kumaran Sathasivam,<br /> 
 					Mr. Suresh Dore</span> (1983 batch),<br /> 
