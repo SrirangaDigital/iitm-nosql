@@ -72,7 +72,7 @@
   </div>
   <div class="col-sm-6 col-md-3">
     <div class="thumbnail">
-      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/avatar.png" alt="Mr. S. Srinivasan">
+      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/Mr_S_Srinivasan.jpg" alt="Mr. S. Srinivasan">
       <div class="caption">
         <h4>Mr. S. Srinivasan</h4>
       </div>
