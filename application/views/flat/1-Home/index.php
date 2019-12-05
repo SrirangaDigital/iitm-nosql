@@ -21,20 +21,18 @@
           <div class="col-md-12 gap-below-large">
             <h3 class="text-center">RECENT VISITORS</h3>
           </div>  
-          <div class="col-md-6">
-            <p style="text-align: right;padding-right: 50px;"><img src="<?=PUBLIC_URL?>images/stock/recent-visitor/visitor.jpg" alt="" /></p>
+          <div class="col-md-7">
+            <p style="text-align: right;padding-right: 50px;"><img src="<?=PUBLIC_URL?>images/stock/recent-visitor/visitor1.jpg" alt="" /></p>
           </div>
-          <div class="col-md-6">
-				<p style="line-height: 38px;">from left: 
-					<span style="font-size: 1.2em;"><br />
-					Mr. Kumaran Sathasivam,<br /> 
-					Mr. Suresh Dore</span> (1983 batch),<br /> 
-					<span style="font-size: 1.2em;">Mr. Krishnamoorthy Ananthasivam</span> (1983 batch),<br />
-					<span style="font-size: 1.2em;">Mr. Suresh Chandra</span> (1982 batch),<br /> 
-					<span style="font-size: 1.2em;">Ms. Sujatha Dube</span> (1983 batch),<br /> 
-					<span style="font-size: 1.2em;">Mr. Mohammed Kamal</span> (1983 batch),<br /> 
-					<span style="font-size: 1.2em;">Mrs. Suresh Chandra</span> and son of<br /> 
-					<span style="font-size: 1.2em;">Mr and Mrs. Suresh Chandra.</span>
+          <div class="col-md-5">
+				<p style="line-height: 38px;">
+					from left to right:<br /> 
+					<span style="font-size: 1.2em;">Mr. Kumaran sathasivam</span> (1985),<br /> 
+					<span style="font-size: 1.2em;">Prof. Nagarajan</span> (1981),<br /> 
+					<span style="font-size: 1.2em;">Mr. Ramkumar</span> (1981),<br /> 
+					<span style="font-size: 1.2em;">Mr. Sivakumar</span> (1981),<br /> 
+					<span style="font-size: 1.2em;">Mr. Venkatrangan</span> (1981),<br /> 
+					<span style="font-size: 1.2em;">Mr. Parasuram</span> (1981)
 				</p>
           </div>    
         </div>
