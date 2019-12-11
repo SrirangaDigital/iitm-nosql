@@ -51,6 +51,7 @@
                 <li data-target="#carousel" data-slide-to="2"></li>
                 <li data-target="#carousel" data-slide-to="3"></li>
                 <li data-target="#carousel" data-slide-to="4"></li>
+                <li data-target="#carousel" data-slide-to="5"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -116,6 +117,18 @@
 					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;"><strong>A skit during MG 1983</strong></span></p>
 						<p>photo received from alumnus <strong>Mr. N.S. Vinodh</strong>, B.Tech, Civil Engineering, graduated in the year 1986</p>	
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:55%;text-align: right;padding-top: 10px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2536.JPG" alt="" />&nbsp;&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2537.JPG" alt="" />
+					</div>  
+					<div style="width:45%;float: right;padding-top: 150px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;">books contributed by alumnus<br /><strong>Dr. Sandhya Sekhar.</strong></span></p>
 					</div>
                   </div>
                 </div>
