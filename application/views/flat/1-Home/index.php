@@ -22,17 +22,18 @@
             <h3 class="text-center">RECENT VISITORS</h3>
           </div>  
           <div class="col-md-7">
-            <p style="text-align: right;padding-right: 50px;"><img src="<?=PUBLIC_URL?>images/stock/recent-visitor/visitor1.jpg" alt="" /></p>
+            <p style="text-align: right;padding-right: 100px;">
+				<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2725.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+				<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2756.JPG" alt="" /><br /><br />
+				<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2768.JPG" alt="" />
+			</p>
           </div>
           <div class="col-md-5">
 				<p style="line-height: 38px;">
-					from left to right:<br /> 
-					<span style="font-size: 1.2em;">Mr. Kumaran sathasivam</span> (1985),<br /> 
-					<span style="font-size: 1.2em;">Prof. Nagarajan</span> (1981),<br /> 
-					<span style="font-size: 1.2em;">Mr. Ramkumar</span> (1981),<br /> 
-					<span style="font-size: 1.2em;">Mr. Sivakumar</span> (1981),<br /> 
-					<span style="font-size: 1.2em;">Mr. Venkatrangan</span> (1981),<br /> 
-					<span style="font-size: 1.2em;">Mr. Parasuram</span> (1981)
+					Distinguished Alumnus Awardee<br /> 
+						<strong>Mr. V.M. Thomas</strong>,<br /> 
+						His wife <strong>Mrs. Elizabeth</strong><br /> 
+						and son <strong>Mr. Mathew</strong>
 				</p>
           </div>    
         </div>
