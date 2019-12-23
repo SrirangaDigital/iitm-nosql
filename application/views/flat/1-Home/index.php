@@ -168,10 +168,11 @@
             <h3 class="text-center">FORTHCOMING EVENTS</h3>
           </div>  
           <div class="col-md-6 vcenter">
-            <img style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/exhibhition.jpg" alt="" />
+            <img id="myImage" style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/forthcoming-event/DSCN0602.JPG" alt="" />
           </div><!--  
           --><div class="col-md-6 vcenter">
-              <h2 class="text-center" style="color: #FF6A14;"><strong>Nature Exhibition</strong></h2>
+              <h2 class="text-center" style="color: #FF6A14;"><strong>Heritage Treasure Hunt</strong></h2>
+              <p class="text-center"->February</p>
           </div>    
         </div>
     </div>
@@ -372,7 +373,7 @@
         </div>
 
 <script>
-var images = new Array ('recrcvd1.jpg', 'recrcvd2.jpg');
+var images = new Array ("forthcoming-event/DSCN0602.JPG", "forthcoming-event/DSCN0603.JPG", "forthcoming-event/DSCN0606.JPG", "forthcoming-event/DSCN0607.JPG", "forthcoming-event/DSCN0612.JPG");
 var index = 1;
  
 function rotateImage()
