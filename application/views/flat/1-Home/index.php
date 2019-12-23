@@ -23,9 +23,10 @@
           </div>  
           <div class="col-md-7">
             <p style="text-align: right;padding-right: 100px;">
-				<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2725.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
-				<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2756.JPG" alt="" /><br /><br />
-				<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2768.JPG" alt="" />
+				<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2725.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+				<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2756.JPG" alt="" /><br /><br />
+				<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2741.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+				<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2768.JPG" alt="" />
 			</p>
           </div>
           <div class="col-md-5">
