@@ -54,7 +54,6 @@
                 <li data-target="#carousel" data-slide-to="3"></li>
                 <li data-target="#carousel" data-slide-to="4"></li>
                 <li data-target="#carousel" data-slide-to="5"></li>
-                <li data-target="#carousel" data-slide-to="6"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -63,13 +62,14 @@
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2374.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2388.JPG" alt="" /><br /><br />
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2389.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2394.JPG" alt="" />
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0044.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0119.JPG" alt="" /><br /><br />
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0125.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0126.JPG" alt="" />
 					</div>  
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>Photos by Mr. Kumaran Sathasivam</strong></span></p>
+						<p><span style="font-size: 1.5em;">Photos by<br /><strong>Mymoon Moghul</strong></span></p>
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0384%3A+Mymoon+Moghul+collection+-+Insects%2C+Mammals+and+Others&Collection=Nature%20Collection">Click here for the complete album</a></p>
 					</div>
                   </div>
                 </div>
@@ -77,25 +77,14 @@
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2403.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2413.JPG" alt="" /><br /><br />
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2426.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2430.JPG" alt="" />
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0111.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0114.JPG" alt="" /><br /><br />
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0116.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0117.JPG" alt="" />
 					</div>  
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>Photos by Mr. Kumaran Sathasivam</strong></span></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2432.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2453.JPG" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>Photos by Mr. Kumaran Sathasivam</strong></span></p>
+						<p><span style="font-size: 1.5em;">Photos by<br /><strong>Mymoon Moghul</strong></span></p>
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0384%3A+Mymoon+Moghul+collection+-+Insects%2C+Mammals+and+Others&Collection=Nature%20Collection">Click here for the complete album</a></p>						
 					</div>
                   </div>
                 </div>
