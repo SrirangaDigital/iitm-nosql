@@ -40,7 +40,7 @@
   </div>
   <div class="col-sm-6 col-md-3">
     <div class="thumbnail">
-      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/avatar.png" alt="Prof. Koshy Varghese">
+      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/Koshy_Varghese.jpg" alt="Prof. Koshy Varghese">
       <div class="caption">
         <h4>Prof. Koshy Varghese</h4>
       </div>
