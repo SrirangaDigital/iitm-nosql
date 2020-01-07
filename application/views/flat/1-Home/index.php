@@ -54,6 +54,7 @@
                 <li data-target="#carousel" data-slide-to="3"></li>
                 <li data-target="#carousel" data-slide-to="4"></li>
                 <li data-target="#carousel" data-slide-to="5"></li>
+                <li data-target="#carousel" data-slide-to="6"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -132,6 +133,17 @@
 					</div>  
 					<div style="width:35%;float: right;padding-top: 150px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;">photo received from<br /><strong>Ms. Mymoon Moghul</strong></span></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 40px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN3279.JPG" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;"><strong>IIT Madras Class of 1978.</strong><br />Memoir 2019</span></p>
 					</div>
                   </div>
                 </div>
