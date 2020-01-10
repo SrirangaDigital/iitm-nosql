@@ -2,8 +2,8 @@
     "id": "001/0394/0030",
     "AlbumID": "0393",
     "Caption": "Leucas Aspera",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
     "Description": "Plant",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

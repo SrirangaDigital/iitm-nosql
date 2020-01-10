@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0238",
     "Caption": "Shri M.S. Pathak (Member, Planning Commission, Govt. of India and Chief Guest) delivers the Convocation address",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

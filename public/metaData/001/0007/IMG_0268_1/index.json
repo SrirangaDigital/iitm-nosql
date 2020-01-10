@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0007",
     "Caption": "Audience. Mr Sethunathan, Registrar in first row.In second row Prof C Ramashastry(Physics), Prof K S Shankaran(Civil)",
-    "Collection": "Central Photographic section collection",
     "Event": "Valedictory function of The short term course in High Vaccume Tchnology, jointly organised by IIT Madras and Bhaba Atomic Research Centre, Trombay",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

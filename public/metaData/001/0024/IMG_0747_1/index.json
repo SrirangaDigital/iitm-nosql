@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0024",
     "Caption": "Sir C.V. Raman gives his Convocation speech. Next to Sir C.V. Raman, from the left; Dr. A.L. Mudaliar, xxx,  Rajah Sir Muthiah Chettiar, Dr. K.S.G. Doss, Prof. S. Sampath",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

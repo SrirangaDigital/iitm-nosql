@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0069",
     "Caption": "Dr.V.S.Arunachalam(Scientific Adviser, Ministry of Defence and Cheif Guest) giving delivering the Twenty Fifth Convocation address",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

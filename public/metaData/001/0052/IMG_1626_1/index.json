@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0052",
     "Caption": "Shir C.V.Sethunathan(Registrar), Prof.M.V.C.Shastry, Prof.R.G.Narayanamurthi",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

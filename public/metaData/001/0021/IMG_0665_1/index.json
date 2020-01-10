@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0021",
     "Caption": "Prof. A. Balakrishnan addressing the audience. Seated on the dias are: Dr. Hessberger, Miss Schmitz, Mrs. Lehnartz and Mr. Lehnartz",
-    "Collection": "Central Photographic section collection",
     "Event": "Building Foundation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

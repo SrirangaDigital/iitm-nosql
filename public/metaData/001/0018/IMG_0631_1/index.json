@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0018",
     "Caption": "Seated amongst the audience are, Smt. Ramachandran and her second son in the first row; Prof. Kalidas (CY), Prof. Koch (PH), Prof. Venkat Rao (EE) in the second row; Prof. Ramasastri (PH), Prof. Pandalai (AE), Prof V. Ananta Raman (DoHSS).",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

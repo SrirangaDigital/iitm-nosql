@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0017",
     "Caption": "Prof.B.Senguto giving Institute Magazine to Dr.A.L.Mudaliar(Chairman,Board of Governors) and Dr.N.Klein also there",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

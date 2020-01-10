@@ -2,8 +2,8 @@
     "id": "001/0386/0018",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab: Testbed designing -  axial-flow pump",
     "Date": "1962-05-00",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

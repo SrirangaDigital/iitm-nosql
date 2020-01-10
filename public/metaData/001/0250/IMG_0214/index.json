@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0250",
     "Caption": "Sitting from left: Prof. A. Ramachandran, Prof. B. Sengupto and Prof. S. Sampath. Standing: Mr. C.V. Sethunathan",
-    "Collection": "Gauri Shankar collection",
     "Event": "Transfer of charge",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

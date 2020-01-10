@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0054",
     "Caption": "Prof. R.G. Narayanamurthi addressing audience. On the dias from left German Ambassador, Shri K.M.M. Arunachalam, Chairman BOG",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0009",
     "Caption": "Sitting from left  : Shri Ananda Bhat, General Secretary, Dr D Venkateswarulu , President, Mr Gerhard Fischer, Consul ,FRG, Prof B Sengupto, Director IIT Madras.",
-    "Collection": "Central Photographic section collection",
     "Event": "Sports Meet",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

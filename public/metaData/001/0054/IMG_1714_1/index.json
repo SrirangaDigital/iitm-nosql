@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0054",
     "Caption": "From left: German Ambassador, Prof. C.R. Muthukrishnan (Computer Center), Prof. R.G. Narayanamurthi, Prof. V.S. Raju.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

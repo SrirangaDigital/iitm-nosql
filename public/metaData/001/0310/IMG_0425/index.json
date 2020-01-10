@@ -2,8 +2,8 @@
     "id": "001/0310/IMG_0425",
     "Type": "Photograph",
     "AlbumID": "0310",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
     "Caption": "The Chief Guest is received by Prof. A. Ramachandran",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

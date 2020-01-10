@@ -2,7 +2,7 @@
     "id": "001/0278/IMG_0408",
     "Type": "Photograph",
     "AlbumID": "0278",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

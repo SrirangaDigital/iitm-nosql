@@ -1,9 +1,9 @@
 {
     "id": "001/0385/0014",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Caption": "Gulmohar",
     "Type": "Photograph",
     "Description": "Gulmohar - Delonix regia is a species of flowering plant in the bean family Fabaceae, subfamily Caesalpinioideae. It is noted for its fern-like leaves and flamboyant display of flowers. Can be seen in Stadium",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

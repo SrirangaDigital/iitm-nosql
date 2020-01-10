@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0022",
     "Caption": "School children are served juice. Smt Shanti Sengupto , Shri R Natarajan and German Professors are seen sitting.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0313",
     "Caption": "Administrative Building",
-    "Collection": "Gauri Shankar collection",
     "Event": "Buildings/Alumni Association",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

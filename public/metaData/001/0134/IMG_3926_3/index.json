@@ -2,6 +2,6 @@
     "id": "001/0134/IMG_3926_3",
     "Type": "Photograph",
     "AlbumID": "0134",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

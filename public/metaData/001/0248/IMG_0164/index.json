@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0248",
     "Caption": "Students perform a musical on the dais ",
-    "Collection": "Gauri Shankar collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

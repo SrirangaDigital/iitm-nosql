@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0310",
     "Caption": "8th Inter IIT Meet 1970",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

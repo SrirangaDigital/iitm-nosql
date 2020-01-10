@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0010",
     "Caption": "Dr. A.L. Mudaliar, Shri M.C. Chagla and Prof. B. SEngupto on the dias",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

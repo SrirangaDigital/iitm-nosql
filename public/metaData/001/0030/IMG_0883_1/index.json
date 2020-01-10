@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0030",
     "Caption": "From left  Dr. Erhard Eppler(Minister of Cooperation, Federal Republic of Germany), Prof. Sampath, Shri Subramanian( Union Minister), Prof. H.N. Mahabala",
-    "Collection": "Central Photographic section collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

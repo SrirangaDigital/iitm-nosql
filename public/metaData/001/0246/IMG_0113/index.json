@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0246",
     "Caption": "Prof. Venkat Rao, Prof. A. Ramachandran, Prof. R.G. Narayanamurthy, Dr. V.K.R.V. Rao and others at the exhibition",
-    "Collection": "Gauri Shankar collection",
     "Event": "Education Seminar",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

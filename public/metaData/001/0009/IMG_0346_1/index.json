@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0009",
     "Caption": "Prof B Sengupto addressing the audience, Sitting from left Dr D Venkateswarulu, Mr Gerhard Fischer",
-    "Collection": "Central Photographic section collection",
     "Event": "Sports Meet",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

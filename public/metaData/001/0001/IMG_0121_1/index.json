@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0001",
     "Caption": "Dr. A. L. Mudaliar giving away prizes. Prof. P. C. Varghese and PTI Mr. Srinivasan are seen.",
-    "Collection": "Central Photographic section collection",
     "Event": "Sports Meet",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

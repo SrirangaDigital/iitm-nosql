@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0030",
     "Caption": "Prof. H.N.  Mahabala addressing the audience.",
-    "Collection": "Central Photographic section collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

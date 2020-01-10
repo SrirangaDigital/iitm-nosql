@@ -2,8 +2,8 @@
     "id": "001/0386/0036",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab: Fabrication of testbed parts here -  adjusting of axial-flow blades",
     "Date": "1965-08-00",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

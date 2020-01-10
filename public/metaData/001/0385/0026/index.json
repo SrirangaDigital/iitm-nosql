@@ -1,9 +1,9 @@
 {
     "id": "001/0385/0026",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Caption": "Vinca",
     "Type": "Photograph",
     "Description": "Catharanthus roseus, commonly known as the Madagascar periwinkle, rosy periwinkle or teresita as it is usually named in the southern part of Mexico, specifically in Champotón, Campeche and Mérida, is a species of flowering plant in the dogbane family Apocynaceae. It is native and endemic to Madagascar, but grown elsewhere as an ornamental and medicinal plant, a source of the drugs vincristine and vinblastine, used to treat cancer. Other English names include Vinca, Cape periwinkle, rose periwinkle, rosy periwinkle, and 'old-maid' It was formerly included in the genus Vinca as Vinca rosea.",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

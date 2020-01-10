@@ -2,8 +2,8 @@
     "id": "001/0216/IMG_0307",
     "Type": "Photograph",
     "AlbumID": "0216",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Wind tunnel. Possibly Thesis of Prof. D.V. Reddy",
     "Note": "Found note on the negatives envelope of Mr Gouri Shankar, &#39;Thesis for Prof. D.V.&#39;",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

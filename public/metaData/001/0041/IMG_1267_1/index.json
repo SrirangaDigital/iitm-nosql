@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0041",
     "Caption": "First Teleprocessing link on India - between IIT and ITI, Bangalore, Modems bulit by Hindustan Teleprinters Ltd.",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

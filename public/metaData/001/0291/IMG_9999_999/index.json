@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0291",
     "Caption": "Reading hall in the library",
-    "Collection": "Gauri Shankar collection",
     "Event": "IITM",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

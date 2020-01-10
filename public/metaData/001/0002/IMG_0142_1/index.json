@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0002",
     "Caption": "Mr. C.R. Muthukrishnan receives the President&#39;s prize from the Chief Guest, Union Minister for Education Shri M.C. Chagla",
-    "Collection": "Central Photographic section collection",
     "Event": "Second Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

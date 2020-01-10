@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0304",
     "Caption": "Dignitaries sitting in front of BSB. From left: Dr A.L. Mudaliar, Dr P. Subbaroyan (Minister for Transport and Communication), Mr.Gerhard Fischer and Prof. Koch",
-    "Collection": "Gauri Shankar collection",
     "Event": "Institute",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

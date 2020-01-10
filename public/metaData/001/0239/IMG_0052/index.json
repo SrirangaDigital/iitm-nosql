@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0239",
     "Caption": "From left: Prof. J.B. Majhi, Prof. A. Ramachandran, Prof. C. Ramashastri, Dr. S. Bhagavantham and Prof. S. Sampath",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit of Prof. Bhagavantham",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

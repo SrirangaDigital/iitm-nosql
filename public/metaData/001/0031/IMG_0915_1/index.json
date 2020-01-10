@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0031",
     "Caption": "Prof. K.A.V. Pandalai (Director) giving away degree to student",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

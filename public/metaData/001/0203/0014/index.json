@@ -2,8 +2,8 @@
     "id": "001/0203/0014",
     "Type": "Photograph",
     "AlbumID": "0203",
-    "Collection": "Nature Collection",
     "Species": "Paradise Flycatcher",
     "Notes": "Female",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

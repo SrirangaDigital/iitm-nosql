@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0011",
     "Caption": "Dr.Karl Pfauter(Consul General of the Federal Republic of Germany) giving his speech and Prof.B.Sengupto, Mr.V.R.Nadunjeliyan(Minister) are there",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit & Opening Ceremony",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

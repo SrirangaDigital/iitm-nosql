@@ -1,9 +1,9 @@
 {
     "id": "001/0385/0019",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Caption": "Mimosa",
     "Type": "Photograph",
     "Description": "Mimosa pudica (from Latin: pudica 'shy, bashful or shrinking' also called sensitive plant, sleepy plant, Dormilones, touch-me-not, or shy plant) is a creeping annual or perennial herb of the pea family Fabaceae often grown for its curiosity value: the compound leaves fold inward and droop when touched or shaken, defending themselves from harm, and re-open a few minutes later. Common and wild",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

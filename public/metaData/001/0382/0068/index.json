@@ -1,8 +1,8 @@
 {
     "id": "001/0382/0068",
     "AlbumID": "0382",
-    "Collection": "Nature Collection",
     "Caption": "Pond Heron Juv",
     "Type": "Photograph",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

@@ -1,8 +1,8 @@
 {
     "id": "001/0384/0014",
     "AlbumID": "0384",
-    "Collection": "Nature Collection",
     "Description": "Green Lynx Spider on Datura flower Near SAC",
     "Type": "Photograph",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

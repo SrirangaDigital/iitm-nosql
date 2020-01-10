@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0022",
     "Caption": "Mr. Venkat Raman, Prof. Hahn, H.E. Theodor Heuss, Dr. Fischer and Prof. B. Sengupto engaged in a conversation with the dignitaries.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

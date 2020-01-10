@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0037",
     "Caption": "Dr.Malcom S.Adiseshiah( Formerly Director-General of UNESCO and Cheif Guest) giving away degree",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

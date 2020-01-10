@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0267",
     "Caption": "Dr. M. Karunanidhi addressing the audience. Also seen Dr. Karl Pfauter",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

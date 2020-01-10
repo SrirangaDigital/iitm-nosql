@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0033",
     "Caption": "Dr.M.S.Swaminathan(Cheif Guest) delivering the Convocation address. Prof. Sathyanarayana(HOD Chem Eng), Prof Ramani(HOD HSS), Mr Sethunathan",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

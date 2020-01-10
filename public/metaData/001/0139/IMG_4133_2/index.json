@@ -2,6 +2,6 @@
     "id": "001/0139/IMG_4133_2",
     "Type": "Photograph",
     "AlbumID": "0139",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

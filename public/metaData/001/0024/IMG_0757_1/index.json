@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0024",
     "Caption": "The dignitaries in a lighter mood. From left; Prof. B. Sengupto, Mr. C.V. Sethunathan, Sir C.V. Raman, Prof. S. Sampath, Dr. A.L. Mudaliar, xxx, Mr. Venkataraman",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

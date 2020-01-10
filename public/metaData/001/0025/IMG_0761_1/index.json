@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0025",
     "Caption": "Prof.B.Senguto(Director) giving his speech",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0282",
     "Caption": "A student band \"The Wics\" playing music",
-    "Collection": "Gauri Shankar collection",
     "Event": "Aeronautical Society",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

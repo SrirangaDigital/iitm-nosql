@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0003",
     "Caption": "In front of Foundation stone. From left Dr. Henrich Luebke, Mr. R. Natarajan, Mr. Y.S. Ramaswamy and Prof. B. Sengupto",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

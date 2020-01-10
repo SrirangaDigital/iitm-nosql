@@ -1,9 +1,9 @@
 {
     "id": "001/0385/0018",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Caption": "Maple Leaved Bayur",
     "Type": "Photograph",
     "Description": "Pterospermum acerifolium (karnikara tree) is an angiosperm indigenous to Southeast Asia, from India to Burma. The classification Pterospermum is based on two Greek words, Pteron and Sperma, meaning 'winged seed' and the species name acerifolium indicates leaves shaped like a maple's. Trees seen near Zaitoon.",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

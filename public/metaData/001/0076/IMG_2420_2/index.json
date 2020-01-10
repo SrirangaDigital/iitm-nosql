@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0076",
     "Caption": "26th Convocation",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

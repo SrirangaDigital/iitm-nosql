@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0009",
     "Caption": "Audience : Dr. Koch, Dr. Gerhard Rouve, Dr. R.A. Kraus, Dr. Sheer, Mrs. Kraus, Mrs. Rouve",
-    "Collection": "Central Photographic section collection",
     "Event": "Sports Meet",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

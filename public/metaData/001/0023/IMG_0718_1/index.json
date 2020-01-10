@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0023",
     "Caption": "Prof.A.Ramachandran giving away degree to Dr D Venkapaya, Mr.Rajagopalan Deputy Registrar is seen.",
-    "Collection": "Central Photographic section collection",
     "Event": "Convoation and Lab",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

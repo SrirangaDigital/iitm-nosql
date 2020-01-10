@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0250",
     "Caption": "Prof. B. Sengupto introducing the 3D model of the campus to Prof. A. Ramachandran. Also present, from left: Mr. C.V. Sethunathan (Registrar), Prof. S. Sampath.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Transfer of charge",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

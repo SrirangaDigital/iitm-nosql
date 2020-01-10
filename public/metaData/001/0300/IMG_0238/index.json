@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0300",
     "Caption": "Visit of Prof Hilbig and Mr.Westphal",
-    "Collection": "Gauri Shankar collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

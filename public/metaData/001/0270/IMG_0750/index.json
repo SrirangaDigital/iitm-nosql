@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0270",
     "Caption": "From left, Dr. A. L. Mudaliar, Mr. Walter Scheel, and Prof. B. Sengupto",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit of Mr. Walter Scheel",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

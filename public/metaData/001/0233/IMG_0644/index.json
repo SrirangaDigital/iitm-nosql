@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0233",
     "Caption": "Prof. B. Sengupto (Director) is welcomed by students",
-    "Collection": "Gauri Shankar collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

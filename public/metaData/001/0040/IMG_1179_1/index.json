@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0040",
     "Caption": "Bio.2. Myoelectric Trainer",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

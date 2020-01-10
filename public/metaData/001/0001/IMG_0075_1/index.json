@@ -2,7 +2,7 @@
     "id": "001/0001/IMG_0075_1",
     "Type": "Photograph",
     "AlbumID": "0001",
-    "Collection": "Central Photographic section collection",
     "Event": "Sports Meet",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

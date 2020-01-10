@@ -2,7 +2,7 @@
     "id": "001/0069/IMG_2175_1",
     "Type": "Photograph",
     "AlbumID": "0069",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

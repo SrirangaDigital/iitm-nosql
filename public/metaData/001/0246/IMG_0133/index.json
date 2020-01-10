@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0247",
     "Caption": "A prize being given to students",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

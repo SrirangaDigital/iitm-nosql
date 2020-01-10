@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0052",
     "Caption": "From left row Prof.B.Sengupto(Director), Prof.M.V.C.Shastry, Dr.Ing.Stahl, Shri C.V.Sethunathan(Registrar) and right row P.C.Varghese,Dr.P.Venkata Rao, Dr.D.Venkateswarlu, Prof.S.Sampath, Prof.R.K.Gupta, Dr.E.G.Ramachandran ",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

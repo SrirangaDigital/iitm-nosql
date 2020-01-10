@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0014",
     "Caption": "From left Shri R Natarajan, Dr A L Mudaliar and Prof B Sengupto",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell Party",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

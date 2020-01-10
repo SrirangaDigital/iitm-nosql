@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0041",
     "Caption": "Exercise E.C.G. System ",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

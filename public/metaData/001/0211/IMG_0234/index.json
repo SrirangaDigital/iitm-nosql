@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0211",
     "Caption": " J.R.D Tata received by Prof. A. Ramachandran. Mr. H.V.R. Iengar is present.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

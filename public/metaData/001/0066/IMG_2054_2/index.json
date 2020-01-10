@@ -2,6 +2,6 @@
     "id": "001/0066/IMG_2054_2",
     "Type": "Photograph",
     "AlbumID": "0066",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0253",
     "Caption": "Colour TV Lab (Inauguration). Prof. Bough addresses the audience. Prof. R.G. Narayanamurthi, Mr. A.M.M. Arunachalam, Prof. Achyutan on the dais",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

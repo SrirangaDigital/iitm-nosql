@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0040",
     "Caption": "Che. 5. General purpose predictor-regulator",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

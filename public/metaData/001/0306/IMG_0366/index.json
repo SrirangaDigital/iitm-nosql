@@ -2,7 +2,7 @@
     "id": "001/0306/IMG_0366",
     "Type": "Photograph",
     "AlbumID": "0306",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

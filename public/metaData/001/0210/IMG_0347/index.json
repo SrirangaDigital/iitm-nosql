@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0210",
     "Caption": "Registrar Mr. C.V. Sethunathan leading Academic Procession. Third from Mr C.V. Sethunathan and followed by: Prof. M.V. Krishnamurthy (Mechanical), Prof. Balaram (Aerospace), Prof. L.N. Ramamurthy (Civil), Prof. V. Sheshadri (Electrical)",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

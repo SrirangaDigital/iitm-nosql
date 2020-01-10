@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0018",
     "Caption": "Smt. A.L. Mudaliar receiving a memento from Mr. Rajagopalan (Deputy Regsitrar), Mr. Sethuraman (Registrar), and Smt. H.V.R. Iengar.",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

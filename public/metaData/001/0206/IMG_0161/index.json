@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0206",
     "Caption": "From left: Mr. Gopal Ramachandran performing magic, watched by Prof. Koch",
-    "Collection": "Gauri Shankar collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

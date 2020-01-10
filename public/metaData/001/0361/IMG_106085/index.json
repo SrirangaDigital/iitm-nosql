@@ -2,7 +2,7 @@
     "id": "001/0361/IMG_106085",
     "Type": "Photograph",
     "AlbumID": "0361",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Workshop instrument",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

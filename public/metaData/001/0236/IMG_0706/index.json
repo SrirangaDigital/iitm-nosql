@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0236",
     "Caption": "Academic procession led by Mr. C.V. Sethunathan enters OAT. First row from the left; Prof. Anantharaman, Mr. Nazir Ahmed (Librarian), second row from the left; Prof. B.V.A. Rao , Mr. S.S. Mani, third row; Prof. Ramanamurthy, fourth row; Prof. Alwar, fifth row; Prof. N.V.C. Swamy",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

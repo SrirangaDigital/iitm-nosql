@@ -2,8 +2,8 @@
     "id": "001/0216/IMG_0303",
     "Type": "Photograph",
     "AlbumID": "0216",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Analog Computer. Prof. Sampath&#39;s Lab (possibly).",
     "Note": "Found note on the negatives envelope of Mr Gouri Shankar, &#39;1 to 9 Laboratory photographs for Prof. Gouri Shankar&#39;",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

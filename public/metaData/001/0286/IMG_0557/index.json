@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0286",
     "Caption": "Chemical Laboratory",
-    "Collection": "Gauri Shankar collection",
     "Event": "Department Of chemical Engineering",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

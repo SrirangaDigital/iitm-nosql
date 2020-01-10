@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0270",
     "Caption": "Prof. Kraus, Dr. A. L. Mudaliar, Mr. Walter Scheel, Prof. Sengupto, Prof. Krishnamurthy, Prof. Koch seen sitting",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit of Mr. Walter Scheel",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

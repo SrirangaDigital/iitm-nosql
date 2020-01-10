@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0217",
     "Caption": "Mr. M.C. Chagla (Union Minister for Education) addressing the audience. Dr. A.L. Mudaliar and Prof. B. Sengupto on the dais.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

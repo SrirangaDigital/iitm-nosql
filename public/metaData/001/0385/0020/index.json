@@ -1,9 +1,9 @@
 {
     "id": "001/0385/0020",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Caption": "Jungle Flame",
     "Type": "Photograph",
     "Description": "Ixora coccinea. Ixora coccinea (also known as jungle geranium, flame of the woods or jungle flame) is a species of flowering plant in the Rubiaceae family. It is a common flowering shrub native to Southern India, bangladesh and Sri Lanka. Common cultivated",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

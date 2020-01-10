@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0317",
     "Caption": "The Tamil Play performed during the Sports Meet",
-    "Collection": "Gauri Shankar collection",
     "Event": "3rd Inter IIT",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

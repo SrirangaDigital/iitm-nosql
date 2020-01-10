@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0250",
     "Caption": "Prof. Koch addressing the gathering. To his right: Prof. S. Sampath, Prof. B. Sengupto, Prof. A. Ramachandran , Mr. C.V.Sethunathan (Registrar)",
-    "Collection": "Gauri Shankar collection",
     "Event": "Transfer of charge",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

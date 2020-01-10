@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0320",
     "Caption": "Mr H.V.R. Iyengar addressing the crowd. Prof. A. Ramachandran  is on the dais.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Foundation Stone Event",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0031",
     "Caption": "Invocation. From left: Prof. K. A. V. Pandalai, Prof. K.T. Chandy (Chairman, Board of Governors), Mrs. Indira Gandhi (Prime Minister of India and Chief Guest), Mr. K.K. Sha (Governor of Tamil Nadu), Mr. C. Subramaniam (Union Minister),xxx, Prof. Sampath, Prof. G.S. Laddha (Director, A.C.College of Technology), Prof. S.D. Nigam (HoD, Mathematics), Prof. Ramasastry (HoD, Physics).",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

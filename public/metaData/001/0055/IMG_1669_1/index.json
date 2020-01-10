@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0055",
     "Caption": "Dr. H.V.R. Iengar declaring the convocation closed.",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

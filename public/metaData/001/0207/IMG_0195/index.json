@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0207",
     "Caption": "Mr. R. Natarajan receiving a memento from Dr. A.L. Mudaliar. Prof. R. Krishnamoorthy is on the dais.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

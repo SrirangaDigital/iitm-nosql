@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0031",
     "Caption": "Prof. K.T.Chandy (Chairman, Board of Governors) addresses the audience",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

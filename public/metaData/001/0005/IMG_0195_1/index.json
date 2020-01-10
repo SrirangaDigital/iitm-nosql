@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0005",
     "Caption": "From right: Mr Hens Lenz, Prof. B. Sengupto, Prof. R.A. Kraus, and Mr Gerhard Fisher, Consul General, FRG",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

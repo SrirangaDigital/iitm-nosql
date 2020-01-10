@@ -2,8 +2,8 @@
     "id": "001/0386/0011",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab Water Hall: Excavation for the underground tanks of the water turbine testbed",
     "Date": "00-00-1963",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

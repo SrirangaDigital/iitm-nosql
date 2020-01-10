@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0041",
     "Caption": "A.M.2. Smoke nuisance test on model of &#39;State of Bombay&#39;",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0027",
     "Caption": "From left Prof. B. Sengupto (Director), Workshop Superintendent Mr Mani, Sardar Ujjial Singn(Governor of Madras, and VIP visit)",
-    "Collection": "Central Photographic section collection",
     "Event": "Visit VIP",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

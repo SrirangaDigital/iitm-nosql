@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0221",
     "Caption": "Mr. Paul Stragner at the Conference of the Acceptibility of Rerefined oils",
-    "Collection": "Gauri Shankar collection",
     "Event": "Conference of acceptability of Rerefined oils",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

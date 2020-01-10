@@ -2,8 +2,8 @@
     "id": "001/0383/0020",
     "AlbumID": "0383",
     "Caption": "Lemon Pansy",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
     "Description": "Butterfly",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0293",
     "Caption": "Mr.C.Subramaniam (Union Minister) awarding prizes to the students",
-    "Collection": "Gauri Shankar collection",
     "Event": "2nd Annual Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

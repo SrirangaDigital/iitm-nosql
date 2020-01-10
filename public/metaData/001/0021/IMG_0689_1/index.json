@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0021",
     "Caption": "Foundation stone laid by Dr. Kerckhoff. Also seen are Prof. A. Ramachandran, Dr. Havemann, Mr. Kretzhschmar, Mr. Diedrich, Prof. Sampath, Prof. R.G. Narayanamurthy, and Mr. Sethunathan.",
-    "Collection": "Central Photographic section collection",
     "Event": "Building Foundation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

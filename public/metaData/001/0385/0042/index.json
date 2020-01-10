@@ -1,9 +1,9 @@
 {
     "id": "001/0385/0042",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Caption": "Alternanthera Sessilis",
     "Description": "Alternanthera sessilis is an aquatic plant known by several common names, including ponnanganni (in Tamil), ponnaganti aaku (in Telugu),Mukunuwenna(in Sinhalese), sessile joyweed and dwarf copperleaf. It is used as a vegetable specially in Sri Lanka and some Asian countries",
     "Type": "Photograph",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

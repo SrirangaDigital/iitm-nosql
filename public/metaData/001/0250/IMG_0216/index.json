@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0250",
     "Caption": "Prof. B. Sengupto and Prof. A. Ramachandran",
-    "Collection": "Gauri Shankar collection",
     "Event": "Transfer of charge",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

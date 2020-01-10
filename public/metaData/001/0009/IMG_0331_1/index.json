@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0009",
     "Caption": "Mrs Gerhard Fischer awarding the Schroeter's cup for the General Championship.",
-    "Collection": "Central Photographic section collection",
     "Event": "Sports Meet",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

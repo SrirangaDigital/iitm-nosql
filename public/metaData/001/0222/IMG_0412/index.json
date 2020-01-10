@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0222",
     "Caption": "Prof. P. Venkat Rao addressing the audience. Sitting from left: Student representative, Prof. A. Ramachandran",
-    "Collection": "Gauri Shankar collection",
     "Event": "Alumni Get together",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0004",
     "Caption": "From left, Prof W Koch, Prof B Sengupto,Prof Hilbig, Brigedier Bose, , Mr Westphal,Prof Kelkar",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

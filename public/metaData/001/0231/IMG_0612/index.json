@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0231",
     "Caption": "Major General Virendra Singh (Director General, NCC) salutes the parade. Prof. B. Sengupto is seen in the background",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0227",
     "Caption": "Prof. Sampath addressing the audience at the Special Convocation. On the dais, from left: Mr.Sethunathan, Prof.Sampath, Dr.Edhard Eppler, Mr.Subramanian (Union Minister), K.A.V. Pandalai (Director), Prof. Ramachandran",
-    "Collection": "Gauri Shankar collection",
     "Event": "Special Convocation, Inauguration of Computer Centre",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

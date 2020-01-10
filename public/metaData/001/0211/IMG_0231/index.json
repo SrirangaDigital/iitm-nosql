@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0211",
     "Caption": "From Left: Prof. M.V.C. Sastri (Chemistry), Prof. A. Ramachandran, J.R.D Tata, Mr H.V.R. Iengar (Chairman, Board of Governors), Prof. S. Sampath, Prof. R.G. Narayanamurthi are in a discussion.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

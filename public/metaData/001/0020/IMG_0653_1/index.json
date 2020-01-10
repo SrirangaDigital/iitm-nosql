@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0020",
     "Caption": "Dr.Karl Pfauter giving away prize ",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

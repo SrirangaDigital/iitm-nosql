@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0266",
     "Caption": "Prof.KAV Pandalai addressing the audience at the Inauguration of the Computer Centre. From left, Prof.S.Sampath, Prof.A.Ramachandran, Dr. Erhard Eppler(Minister of Cooperation, Federal Republic of Germany), Mr.C.Ramachandran",
-    "Collection": "Gauri Shankar collection",
     "Event": "Special Convocation, Inauguration of Computer Centre",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

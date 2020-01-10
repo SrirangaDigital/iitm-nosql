@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0027",
     "Caption": "From left Prof. R.K Gupta, Sardar Ujjal Singh(Governor of Madras, and Cheif Guest), Smt.Ujial Singh, Workshop superintendent Mr Mani, Mr Y.S.Ramaswamy and CSO Mr T.N. Venkat Raman",
-    "Collection": "Central Photographic section collection",
     "Event": "Visit VIP",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

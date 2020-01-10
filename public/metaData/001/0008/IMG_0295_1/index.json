@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0008",
     "Caption": "Seminar on Industry , Institution collaboration\r\n",
-    "Collection": "Central Photographic section collection",
     "Event": "Seminar on Industry , Institution collaboration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

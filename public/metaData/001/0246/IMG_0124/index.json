@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0246",
     "Caption": "Prof. A. Ramachandran, Dr. V.K.R.V. Rao and Prof. R.G. Narayanamurthy",
-    "Collection": "Gauri Shankar collection",
     "Event": "Education Seminar",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

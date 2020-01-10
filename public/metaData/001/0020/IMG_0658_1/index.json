@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0020",
     "Caption": "Prof.A.Ramachandra giving magazing to Dr.Karl Pfauter(Consul General of the Federal Republic of Germany) and Prof.S.Sampath, Prof.N.Klein are there",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0303",
     "Caption": "Dr. A.L. Mudaliar, Prof. B. Sengupto, Prof. Sampath, Mr. Sethunathan, Smt Shanthi Sengupto, Mrs A.L. Mudaliar lighting lamp",
-    "Collection": "Gauri Shankar collection",
     "Event": "Library",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

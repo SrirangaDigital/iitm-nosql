@@ -2,7 +2,7 @@
     "id": "001/0203/0003",
     "Type": "Photograph",
     "AlbumID": "0203",
-    "Collection": "Nature Collection",
     "Species": "Ashy Wren Warbler",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0308",
     "Caption": "Prof. Sengupto addresses the NCC contingents on Independence Day",
-    "Collection": "Gauri Shankar collection",
     "Event": "Independence Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

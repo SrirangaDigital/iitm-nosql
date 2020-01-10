@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0235",
     "Caption": "Prof. A. Ramachandran addresses the audience. On the dais, from the left; Prof. R.G. Narayanamurthi, Dr. G. Kerckhoff along with German Delegation (Dr. Havemann, Mr. Kretzschmar, Mr. Diedrich)",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inaugural",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0253",
     "Caption": "Audience at the Colour TV Lab inauguration.On the first row, from left; Prof. Sankaran, Prof. E.G. Ramachandran, Prof. R.K. Gupta, xxx, Prof. Venugopal (probably). On the second row, from left; Prof. Achyutan, Prof. M.C. Gupta. On the third row, from left; Prof. Dattatreyan (probably)",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

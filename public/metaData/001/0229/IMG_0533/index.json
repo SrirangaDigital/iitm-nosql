@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0229",
     "Caption": "Trophy Winning IIT Madras Regatta Team on Adyar River",
-    "Collection": "Gauri Shankar collection",
     "Event": "Sports: Boxing, Rowing",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

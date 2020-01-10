@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0014",
     "Caption": "Prof R Krishnamoorthy, Shri Y S Ramaswamy, Shri R Natarajan, Prof B Sengupto and Prof Sampath",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell Party",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

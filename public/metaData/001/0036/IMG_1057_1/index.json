@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0036",
     "Caption": "Shir.M.C.Chagla deliver the Convocation address",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

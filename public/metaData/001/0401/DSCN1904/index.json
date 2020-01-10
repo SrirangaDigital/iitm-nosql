@@ -1,7 +1,7 @@
 {
-	"id": "001/0401/DSCN1904",
-	"Type": "Photograph",
-	"AlbumID": "0401",
-	"Collection": "Heritage Centre collection",
-	"AccessLevel": "0"
+    "id": "001/0401/DSCN1904",
+    "Type": "Photograph",
+    "AlbumID": "0401",
+    "AccessLevel": "0",
+    "CollectionId": "0005"
 }

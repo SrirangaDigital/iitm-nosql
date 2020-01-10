@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0032",
     "Caption": "Mrs. Indira Gandhi (Prime Minister of India and Chief Guest) delivers the Convocation address. On the dais, from left: Prof. K.T. Chandy (Chairman, Board of Governors), Mr. K.K. Sha (Governor of Tamil Nadu), Mr. C. Subramaniam (Union Minister) ",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

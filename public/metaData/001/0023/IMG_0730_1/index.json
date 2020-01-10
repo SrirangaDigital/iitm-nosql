@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0023",
     "Caption": "Dr.S.Bhagavantam (The Scientific Advisor to the Ministry of Defence was the chief Guest), Prof.Venugopal(Electrical) visiting Electrical Engineering lab",
-    "Collection": "Central Photographic section collection",
     "Event": "Convoation and Lab",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

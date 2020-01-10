@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0252",
     "Caption": "Bicycle in a lab",
-    "Collection": "Gauri Shankar collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

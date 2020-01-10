@@ -1,7 +1,6 @@
 {
     "id": "001/0385/0001",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Caption": "Ash Fleabane Flower",
     "Type": "Photograph",
     "Family": "ASTERACEAE ",
@@ -15,5 +14,6 @@
     "Habit": "Herb",
     "Native": "India, Nepal, Sri Lanka",
     "Comments": "A common weed growing in all possible places",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0219",
     "Caption": "Guard of Honour given to Dr. M.S. Swaminathan. He is escorted by Prof. V. Subramanian (In Charge, NCC)",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

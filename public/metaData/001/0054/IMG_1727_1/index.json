@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0054",
     "Caption": "Prof. Sreenivas Murthy (Refrigeration and Air Conditioner) demonstrating some equipment. Prof. R.G. Narayanamurthi, German Ambassador, Prof. V.S. Raju are there",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

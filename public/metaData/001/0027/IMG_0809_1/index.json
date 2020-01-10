@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0027",
     "Caption": "The ninth Hostel in the Campus, Alakananda, was inaugurated by Smt.Ujjial Singh, wife of Sardar Ujjal Singh (Governor of Madras). From the left Sardar Ujjal Singh, Mr  V.C. Jocob (Secretary), Mr Y.S. Ramaswamy, Mr Sethunathan, Prof. R.G. Narayamurthi, Prof. B. Sengupto (Director) are present.",
-    "Collection": "Central Photographic section collection",
     "Event": "Visit VIP",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

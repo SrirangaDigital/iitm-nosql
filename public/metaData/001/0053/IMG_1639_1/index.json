@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0053",
     "Caption": "Prof. Y. Narayana Rao, Dr. S. Bhagvantam, Prof. A. Ramachandran, Prof. Venkata Rao, and Prof. Venugopal at the High Voltage Lab.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

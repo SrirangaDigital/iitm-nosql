@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0218",
     "Caption": "T.V. Lab Groups - 4th from the right - Mr. Srinivasan (Electrical Engineering)",
-    "Collection": "Gauri Shankar collection",
     "Event": "T.V.Lab",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

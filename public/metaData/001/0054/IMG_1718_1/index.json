@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0054",
     "Caption": "From left: Prof. V.S. Raju, Prof. P.S. Rao, German Ambassador, Prof. R.G. narayanamurthi, Prof. L.N. Ramamurthy (Chemical Engineering), Shri. K.M.M Arunachalam, Chairman BOG, Prof. Victor (Civil)",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

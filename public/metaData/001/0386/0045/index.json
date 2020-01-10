@@ -2,8 +2,8 @@
     "id": "001/0386/0045",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab Water Hall: Students test of Pelton Turbine and: Installed testbeds for Pumps",
     "Date": "1968-00-00",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

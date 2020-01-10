@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0004",
     "Caption": "Prof W Koch, Prof B Sengupto, Prof Hilbig, Mr Westphal, Prof R G Narayanamurthi",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

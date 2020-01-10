@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0040",
     "Caption": "Phy.3. Nuclear Quadrupole and Zero-field Nuclear Magnetic Resonance Sepctrometer",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

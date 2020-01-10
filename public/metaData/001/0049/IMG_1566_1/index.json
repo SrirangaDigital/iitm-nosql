@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0049",
     "Caption": "Pump House",
-    "Collection": "Central Photographic section collection",
     "Event": "NA",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

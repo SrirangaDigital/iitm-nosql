@@ -2,7 +2,7 @@
     "id": "001/0384/0010",
     "AlbumID": "0393",
     "Caption": "Pongamia",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

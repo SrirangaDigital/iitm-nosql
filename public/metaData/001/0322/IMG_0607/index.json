@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0322",
     "Caption": "Foundation stone laid by Dr. Kerckhoff. Also seen are Prof. A. Ramachandran, Dr. Havemann, Mr. Kretzhschmar, Mr. Diedrich, Prof. Sampath, Prof. R.G. Narayanamurthy, and Mr. Sethunathan.",
-    "Collection": "Gauri Shankar collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

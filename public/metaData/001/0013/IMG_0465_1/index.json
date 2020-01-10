@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0013",
     "Caption": "From left Prof. B. Sengupto (Director), Prof. S. Sampath discussing with Double Nobel Laureate Dr Linus Pauling (Chemistry and Peace) and his wife Ms Ava Helen Miller.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

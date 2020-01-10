@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0227",
     "Caption": "Dr. Erhard Eppler and Mr. C. Subramaniam share a light moment at the inauguration function",
-    "Collection": "Gauri Shankar collection",
     "Event": "Special Convocation, Inauguration of Computer Centre",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

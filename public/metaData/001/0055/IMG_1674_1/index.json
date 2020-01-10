@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0055",
     "Caption": "Students being called out to collect their degree certificates.",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

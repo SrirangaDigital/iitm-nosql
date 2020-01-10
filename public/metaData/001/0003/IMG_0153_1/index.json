@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0003",
     "Caption": " Dr. Henrich Luebke signs in the autograph book. Dr. A.L. Mudaliar, Mr. R. Natarajan, Prof. Humayun Kabir and CSO Mr. Venkat Raman are at the event.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

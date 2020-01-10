@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0026",
     "Caption": "Institute Day March , 1967",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

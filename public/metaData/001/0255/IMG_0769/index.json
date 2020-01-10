@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0255",
     "Caption": "Sketch of the Chemical Engineering Laboratory",
-    "Collection": "Gauri Shankar collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

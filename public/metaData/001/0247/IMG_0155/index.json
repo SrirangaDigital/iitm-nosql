@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0247",
     "Caption": "Prof. R.K. Gupta addresses the audience. On the first row, from the left; Smt. Iengar, Sri. H.V.R. Iengar, Prof. A. Ramachandran",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

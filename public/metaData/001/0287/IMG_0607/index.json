@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0287",
     "Caption": "Apparatus in the Department of Electrical Engineering",
-    "Collection": "Gauri Shankar collection",
     "Event": "Department of Eletrical Engineering",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

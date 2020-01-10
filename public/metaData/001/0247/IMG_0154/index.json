@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0247",
     "Caption": "IIT Madras Contingent marches past as Sri. H.V.R. Iengar and Prof. A. Ramachandran look on",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

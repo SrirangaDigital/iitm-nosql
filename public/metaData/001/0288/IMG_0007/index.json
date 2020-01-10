@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0288",
     "Caption": "Mr. Bishnuram Medhi being recieved at IIT Madras",
-    "Collection": "Gauri Shankar collection",
     "Event": "Annual Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

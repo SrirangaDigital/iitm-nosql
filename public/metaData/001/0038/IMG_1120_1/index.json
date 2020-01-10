@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0038",
     "Caption": "Shri M.S.Pathak(Member, Planning Commission, Govt. of India and Cheif Guest), Prof.K.T.Chandy(Chairman,Board of Governor)",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

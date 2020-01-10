@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0031",
     "Caption": "Mrs. Indira Gandhi (Prime Minister of India and Chief Guest) receives the guard of honour.",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

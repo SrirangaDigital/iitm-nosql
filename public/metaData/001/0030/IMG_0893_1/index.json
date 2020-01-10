@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0030",
     "Caption": "Prof. K.T Chandy addressing the audience. On the dias from the left  Prof. Sampath, Prof. A. Ramachandran,  Dr. Erhard Eppler(Minister of Cooperation, Federal Republic og Germany)",
-    "Collection": "Central Photographic section collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

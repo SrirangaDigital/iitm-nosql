@@ -2,7 +2,7 @@
     "id": "001/0020/IMG_0642_1",
     "Type": "Photograph",
     "AlbumID": "0020",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

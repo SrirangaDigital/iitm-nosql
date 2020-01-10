@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0005",
     "Caption": " Prof. R. Krishnamoorthy, Dr. Nicolaus Klein (Humanities), Dr. Scheer ( Mechanical Engineering), Prof. R. G. Narayanamurthi.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -2,7 +2,7 @@
     "id": "001/0382/0044",
     "AlbumID": "0382",
     "Caption": "Chestnut-winged cuckoo or Red-winged crested cuckoo",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

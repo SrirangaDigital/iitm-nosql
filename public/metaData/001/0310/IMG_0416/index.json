@@ -2,8 +2,8 @@
     "id": "001/0310/IMG_0416",
     "Type": "Photograph",
     "AlbumID": "0310",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
     "Caption": "Chief Guest addressing the audience. Sitting in the first row, Prof. R.G. Narayanamurthi",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

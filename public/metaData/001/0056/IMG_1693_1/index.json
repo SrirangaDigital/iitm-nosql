@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0056",
     "Caption": "Prof. B. Sengupto greeting Dr. A.L. Mudaliar. Also seen Shri C.D. Deshmukh, and Shri R. Natarajan.",
-    "Collection": "Central Photographic section collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

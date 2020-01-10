@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0209",
     "Caption": " Mr. Hens Lenz is seen sitting inside the car. Prof. B. Sengupto is seen standing. ",
-    "Collection": "Gauri Shankar collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

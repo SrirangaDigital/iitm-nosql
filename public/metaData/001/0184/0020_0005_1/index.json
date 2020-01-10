@@ -2,7 +2,7 @@
     "id": "001/0184/0020_0005_1",
     "Type": "Photograph",
     "AlbumID": "0184",
-    "Collection": "Central Photographic section collection",
     "Caption": "Smt Indira Gandhi is given Guard of Honour  during eleventh Convocation, 1974.",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

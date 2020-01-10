@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0012",
     "Caption": "From left Prof.B.Sengupto(Director), Dr.A.L.Mudaliar(Chairman Board of Governor), Dr.P.Subbaroyan(Minister for Transport and Communication) ",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

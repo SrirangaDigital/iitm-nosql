@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0210",
     "Caption": "Senate members entering stage. Fourth from left: Prof. K.A.V Pandalai, Dr. M.S. Swaminathan and Prof. K.T. Chandy in the academic procession.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

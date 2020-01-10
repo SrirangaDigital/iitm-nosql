@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0320",
     "Caption": "From left: Prof. A. Ramachandran, Mr H.V.R. Iengar, Prof. M.V.C. Sastri in front of plan/lay out of Chemistry building.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Foundation Stone Event",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

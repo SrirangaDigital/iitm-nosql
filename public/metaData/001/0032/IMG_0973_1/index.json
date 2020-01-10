@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0032",
     "Caption": "Mrs. Indira Gandhi (Prime Minister of India and Chief Guest) signs the Register of Degrees. On the dais: Prof. K.A.V. Pandalai (Director) and Mr. K.K. Sha (Governor of Tamil Nadu).",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -2,7 +2,7 @@
     "id": "001/0353/IMG_106154",
     "Type": "Photograph",
     "AlbumID": "0353",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Steam Plant",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

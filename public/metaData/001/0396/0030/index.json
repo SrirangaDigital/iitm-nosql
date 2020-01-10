@@ -1,7 +1,7 @@
 {
     "id": "001/0396/0030",
     "AlbumID": "0396",
-    "Collection": "Heritage Centre collection",
     "Type": "Photograph",
-    "AccessLevel": "0"
+    "AccessLevel": "0",
+    "CollectionId": "0005"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0231",
     "Caption": "Mr C.V. Sethunathan gives a speech. On the left from the dais; Prof B Sengupto, Major General Virendra Singh (Director General, NCC)",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

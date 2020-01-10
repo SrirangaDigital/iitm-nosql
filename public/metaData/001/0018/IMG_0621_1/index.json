@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0018",
     "Caption": "Dignitaries rising on the dias during the invocation. From right: Smt. H.V.R. Iengar, Smt. A.L. Mudaliar, Dr. A.L. Mudaliar, Sri. H.V.R. Iengar (Chairman, Board of Governors), Prof. A. Ramachandran (Director), Prof. Nayadumma (Director, CLRI), Prof. N. Klein (DoHSS), Prof. Sampath (EE)",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

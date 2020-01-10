@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0054",
     "Caption": "Shri K.M.M. Arunachalam, Chairman BOG, Prof. V.S. Raju, German Ambassador, Prof. R.G. Narayanamurthi are there",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

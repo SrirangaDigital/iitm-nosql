@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0280",
     "Caption": "Prof.M.G.K.Menon(F.R.S and Cheif Guest) deliver the Convocation address",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

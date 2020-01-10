@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0261",
     "Caption": "Prof.M.S.Thacker Unveiling the Portrait of Prof.B.Sengupto and Dr.A.L.Mudaliar(Chairman,Board of Governors), Prof.A.Ramachandran(Director), Prof.S.Sampath are there",
-    "Collection": "Gauri Shankar collection",
     "Event": "Unveiling of the Portrait of Prof Sengupto",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

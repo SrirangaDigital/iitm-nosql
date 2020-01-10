@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0036",
     "Caption": "Dr.V.V.Giri(President and Cheif Guest) receivied. Prof.A.Ramachandran(Director), Dr.Y.Nayudamma(Chairman Board of Governor) are there",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

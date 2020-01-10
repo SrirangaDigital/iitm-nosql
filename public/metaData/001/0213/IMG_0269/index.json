@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0213",
     "Caption": " Dr. S. Radhakrishnan (President), inspecting the Guard of Honour given by the NCC Cadets of the institute. Prof. Rayudu (N.C.C In Charge) is escorting Dr. S. Radhakrishnan in front of BSB.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

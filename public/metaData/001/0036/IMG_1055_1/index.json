@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0036",
     "Caption": "Invocation.From left Dr.Y.Nayudamma(Chairman Board of Governor), Dr.V.V.Giri(President and Cheif Guest), Prof.A.Ramachandran(Director), Prof MVC Shastri(HOD Chemistry), Prof. P.C. Varghese, Prof. Venkateswarulu, Prof. R.K. Gupta(HOD HSS), Prof. Nigam (HOD Maths), Prof. D.V. Reddy(HOD Applied Mechanics), Prof Ramashastry(HOD Physics)",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

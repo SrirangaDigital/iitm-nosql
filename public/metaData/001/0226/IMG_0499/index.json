@@ -2,8 +2,8 @@
     "id": "001/0226/IMG_0499",
     "Type": "Photograph",
     "AlbumID": "0226",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
     "Caption": "Academic procession. From left: Prof. R.K. Gupta, Prof. K.T. Chandy, Mr. P.N. Haksar.",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

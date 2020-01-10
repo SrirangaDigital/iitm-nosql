@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0032",
     "Caption": "Prof. S. Sampath addressing the audience",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

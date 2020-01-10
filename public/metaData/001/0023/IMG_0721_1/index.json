@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0023",
     "Caption": "A view of the audience during Sixth Convacation",
-    "Collection": "Central Photographic section collection",
     "Event": "Convoation and Lab",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

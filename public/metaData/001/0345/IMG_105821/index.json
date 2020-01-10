@@ -2,7 +2,7 @@
     "id": "001/0345/IMG_105821",
     "Type": "Photograph",
     "AlbumID": "0345",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Set up by Dr. V. Rama Murthy for his Ph.D work",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

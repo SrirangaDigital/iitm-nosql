@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0207",
     "Caption": "Farewell speech by Mr. R. Natarajan. From left on the dias: Dr. A.L. Mudaliar, Prof. B. Sengupto and Prof. R. Krishnamoorthy",
-    "Collection": "Gauri Shankar collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0320",
     "Caption": "Prof. M.V.C. Sastri addresseing the crowd. Prof. A. Ramachandran and Mr H.V.R. Iengar are on the dais.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Foundation Stone Event",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

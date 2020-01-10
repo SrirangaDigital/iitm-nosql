@@ -2,8 +2,8 @@
     "id": "001/0386/0032",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab: Lab staff with Prof. Narayanamurthi (Head of Department) and Prof. Dr. Petermenn (TU Braunschweig, Germany)",
     "Date": "1967-00-00",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

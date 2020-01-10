@@ -2,6 +2,6 @@
     "id": "001/0074/IMG_2379_2",
     "Type": "Photograph",
     "AlbumID": "0074",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

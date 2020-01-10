@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0052",
     "Caption": "From right Sir.V.R.Srinivasan, Dr.D.Venkateswaralu, Shir C.V.Sethunathan, Shri M.Bhaktavatsalam(Cheif Minister of Madras)",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

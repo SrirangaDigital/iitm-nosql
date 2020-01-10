@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0229",
     "Caption": "Boxing",
-    "Collection": "Gauri Shankar collection",
     "Event": "Sports: Boxing, Rowing",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

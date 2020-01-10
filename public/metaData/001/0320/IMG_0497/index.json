@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0320",
     "Caption": "A priest does the ceremonial rites in front of the foundation stone. Prof. A. ramachandran and Mr. H.V.R. Iengar are present.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Foundation Stone Event",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

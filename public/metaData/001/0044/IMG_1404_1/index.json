@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0044",
     "Caption": "From left R.Venkataraman(President and Cheif Guest), Shir A.Sivasailam(Chairman, Board of Governors)",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

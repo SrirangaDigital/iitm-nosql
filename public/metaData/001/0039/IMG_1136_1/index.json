@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0039",
     "Caption": "Mr.Rajagopalan(Deputy Registrar) leading Academic Procession",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

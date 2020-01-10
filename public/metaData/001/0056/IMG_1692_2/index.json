@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0056",
     "Caption": "Shri R. Natarajan, Shri Y.S. Ramaswami, Dr. A.L. Mudaliar, Prof. B. Sengupto, Mr. Natarajan, Chief Security Officer______",
-    "Collection": "Central Photographic section collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

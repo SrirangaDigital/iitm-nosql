@@ -2,7 +2,7 @@
     "id": "001/0010/IMG_0360_1",
     "Type": "Photograph",
     "AlbumID": "0010",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

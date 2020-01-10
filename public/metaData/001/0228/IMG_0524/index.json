@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0228",
     "Caption": "Dr. K.L. Rao, Prof. A. Ramachandran, Prof. Gerhard Rouv&#39;e and others examine the lab machinery",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inauguration of Hydraulics Lab",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

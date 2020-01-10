@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0036",
     "Caption": "Dr.Y.Nayudamma(Chairman Board of Governor) declares Convocation open ",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

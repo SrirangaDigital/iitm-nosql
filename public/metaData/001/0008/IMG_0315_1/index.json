@@ -2,7 +2,7 @@
     "id": "001/0008/IMG_0315_1",
     "Type": "Photograph",
     "AlbumID": "0008",
-    "Collection": "Central Photographic section collection",
     "Event": "Seminar on Industry , Institution collaboration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }
