@@ -34,7 +34,8 @@
 					Distinguished Alumnus Awardee<br /> 
 						<strong>Mr. V.M. Thomas</strong>,<br /> 
 						His wife <strong>Mrs. Elizabeth</strong><br /> 
-						and son <strong>Mr. Mathew</strong>
+						and son <strong>Mr. Mathew</strong><br />
+						visited Heritage Centre on 16-12-2019
 				</p>
           </div>    
         </div>
@@ -143,7 +144,7 @@
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN3279.JPG" alt="" />
 					</div>  
 					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>IIT Madras Class of 1978.</strong><br />Memoir 2019</span></p>
+						<p><span style="font-size: 1.5em;"><strong>IIT Madras Class of 1978.</strong><br />Memoir 2019<br />contributed by</span> <span style="font-size: 1.5em;"><strong>Mr. Suresh Vemuri</strong></span></p>
 					</div>
                   </div>
                 </div>
@@ -250,7 +251,7 @@
 						<img src="<?=PUBLIC_URL?>images/stock/heritage.jpg" alt="" />
 					</div>  
 					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
-						<p class="caption-title" style="font-size: 3em;">Heritage Club</p>
+						<p class="caption-title" style="font-size: 3em;">Launch of Heritage Club</p>
 						<p style="font-size: 1.25em;">Heritage Centre collection</p>
 						<p>Heritage Club was launched on 13th September 2019 to increase the engagement of the student community with the Heritage Centre and its activities. The club will focus on bringing the history of the institute closure to the student community and increase general awareness about its rich heritage.</p>
 						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0402%3A+Heritage+Club+launch+-+13th+September+2019&Collection=Heritage%20Centre%20collection">Click here to see the complete album</a></p>
