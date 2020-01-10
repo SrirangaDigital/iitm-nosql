@@ -34,7 +34,8 @@
 					Distinguished Alumnus Awardee<br /> 
 						<strong>Mr. V.M. Thomas</strong>,<br /> 
 						His wife <strong>Mrs. Elizabeth</strong><br /> 
-						and son <strong>Mr. Mathew</strong>
+						and son <strong>Mr. Mathew</strong><br />
+						visited Heritage Centre on 16-12-2019
 				</p>
           </div>    
         </div>
