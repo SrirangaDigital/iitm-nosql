@@ -144,7 +144,7 @@
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN3279.JPG" alt="" />
 					</div>  
 					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>IIT Madras Class of 1978.</strong><br />Memoir 2019<br />contributed by</span> <span style="font-size: 1.5em;"><strong>Mr. Suresh Vemuri</strong></span></p>
+						<p><span style="font-size: 1.5em;"><strong>IIT Madras Class of 1978 Memoir 2019.</strong><br />contributed by</span> <span style="font-size: 1.5em;"><strong>Mr. Suresh Vemuri</strong></span></p>
 					</div>
                   </div>
                 </div>
