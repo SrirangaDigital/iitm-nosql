@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0020",
     "Caption": "Cheif Guest Dr.Karl Pfauter(Consul General of the Federal Republic of Germany) addressing the gathering during the Ninth Institute Day and Shir C.V.Sethunathan(Registrar), Prof.S.Sampath, Prof.A.Ramachandran, Cheif Guest Dr.Karl Pfauter(Consul General of the Federal Republic of Germany), Prof.N.Kelin, Student Secretary",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0056",
     "Caption": "Shri Rajah Sir Muthiah Chettiar addressing the audience.",
-    "Collection": "Central Photographic section collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

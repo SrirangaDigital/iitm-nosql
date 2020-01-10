@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0207",
     "Caption": "Mrs. Shanthi Sengupto is having tea with the dignitaries",
-    "Collection": "Gauri Shankar collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

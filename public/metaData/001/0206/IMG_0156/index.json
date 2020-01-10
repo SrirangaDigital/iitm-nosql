@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0206",
     "Caption": "Students performing a group song on stage",
-    "Collection": "Gauri Shankar collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

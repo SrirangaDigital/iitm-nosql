@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0220",
     "Caption": "First row: Prof. R.G. Narayanamurthi. Second row: Mr. Rajagopalan (Deputy Registrar)",
-    "Collection": "Gauri Shankar collection",
     "Event": "Industrial Engg Seminar",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0304",
     "Caption": "Prof. B. Sengupto (Director), Dr. A.L. Mudaliar (Chairman Board of Governors), Dr P. Subbaroyan (Minister for Transport and Communication) entering premises of BSB for the Institute Day celebration.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Institute",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0012",
     "Caption": "Dr.P.Subbaroyan(Minister for Transport and Communication) and Shir R.Natarajan(Registrar) giving prize to a kid",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -2,7 +2,7 @@
     "id": "001/0347/IMG_105818",
     "Type": "Photograph",
     "AlbumID": "0347",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Thermal Turbo Machine Lab; Centrifugal Compressor testrig",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0055",
     "Caption": "Prof. Sampath, Dr. H.V.R. Iengar, Prof. A. Ramachandran, Mr. Venkata Raman, Dr.S. Bhagavantam in a lighter mood",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

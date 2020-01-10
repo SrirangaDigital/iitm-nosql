@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0227",
     "Caption": "Dr. Erhard Eppler addresses the audience at the computer inauguration function. On the dais from the left; Prof. S. Sampath, Prof. A. Ramachandran, Prof. K.T. Chandy (Chairman, Board of Governors), Mr. C. Subramaniam (Union Minister), Prof. K.A.V. Pandalai (Director) ",
-    "Collection": "Gauri Shankar collection",
     "Event": "Special Convocation, Inauguration of Computer Centre",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0241",
     "Caption": "Chief Guest Sir C.V. Raman inspects the Guard of Honour accompanied by Prof. Raydu ",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

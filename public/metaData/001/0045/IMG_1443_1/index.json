@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0045",
     "Caption": "Prof. R.G. Narayanamurthy addressing the audience. Seated form left: Smt. Shanthi Sengupto, Mr. Venkatraman, and Prof. B. Sengupto.",
-    "Collection": "Central Photographic section collection",
     "Event": "IITM Staff Club",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

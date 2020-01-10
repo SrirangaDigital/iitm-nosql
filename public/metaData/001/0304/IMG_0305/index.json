@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0304",
     "Caption": "A view of audience at BSB on third Institute Day",
-    "Collection": "Gauri Shankar collection",
     "Event": "Institute",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

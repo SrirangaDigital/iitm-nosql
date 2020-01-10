@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0021",
     "Caption": "The audience seated.",
-    "Collection": "Central Photographic section collection",
     "Event": "Building Foundation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

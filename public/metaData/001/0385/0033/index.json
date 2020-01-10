@@ -1,7 +1,6 @@
 {
     "id": "001/0385/0033",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
     "Common Name": "Fan petals, Prickly Fan-Petals, Prickly Sida",
     "Botanical Name": "Sida rhombifolia",
@@ -11,5 +10,6 @@
     "Synonym": "Sida spinosa",
     "Flowers": "Small, beige, 5 petals",
     "Location": "Wild - all over the campus",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

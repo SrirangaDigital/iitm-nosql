@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0213",
     "Caption": " Dr. S. Radhakrishnan (President) delivering the convocation address. On the dais from left: Prof. B. Sengupto (Director), H.H.Shri Jayachamarajendra Wodeyar (Governor of Madras State), Dr. Rajah Sir Muthiah Chettiar (Board of Governors), Shri Akbar AliKhan (Board of Governors), Dr. Y. Nayudamma (Director CLRI, Board of Governors), Prof. E.G. Ramachandran, Prof. Heitland (possibly).",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

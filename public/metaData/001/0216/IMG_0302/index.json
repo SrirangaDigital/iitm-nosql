@@ -2,8 +2,8 @@
     "id": "001/0216/IMG_0302",
     "Type": "Photograph",
     "AlbumID": "0216",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Equipment of Prof. S. Sampath (possibly)",
     "Note": "Found note on the negatives envelope of Mr Gouri Shankar, &#39;1 to 9 Laboratory photographs for Prof. Gouri Shankar&#39;",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

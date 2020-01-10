@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0024",
     "Caption": "Prof. M.V.C. Sastry reads out the names of degree holders",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

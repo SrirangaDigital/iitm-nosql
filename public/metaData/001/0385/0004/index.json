@@ -1,9 +1,9 @@
 {
     "id": "001/0385/0004",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Caption": "Crepe Jasmine",
     "Type": "Photograph",
     "Description": "Tabernaemontana divaricata, commonly called pinwheelflower, crape jasmine, East India rosebay and Nero's crown is an evergreen shrub native to India and now cultivated throughout South East Asia and the warmer regions of continental Asia. common garden flower",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

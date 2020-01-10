@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0271",
     "Caption": "Students Performing on the OAT Stage: Alumni Association ",
-    "Collection": "Gauri Shankar collection",
     "Event": "Alumni Association",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

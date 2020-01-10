@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0253",
     "Caption": "Colour TV Lab (Inauguration). From left; xxx, Prof. R.G. Narayanamurthi, Prof. Bough, Prof. Achyutan, xxx",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

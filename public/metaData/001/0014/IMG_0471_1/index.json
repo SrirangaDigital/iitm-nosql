@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0014",
     "Caption": "Farewell to Shri R Natarajan",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell Party",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

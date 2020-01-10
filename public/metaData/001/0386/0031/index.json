@@ -2,8 +2,8 @@
     "id": "001/0386/0031",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab Water Hall: Installation of cables",
     "Date": "00-00-1967",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

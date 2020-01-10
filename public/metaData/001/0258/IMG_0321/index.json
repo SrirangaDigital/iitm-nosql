@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0258",
     "Caption": "The assembled crowds seeking blessings from Sringeri Swamigal",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit of Sringeri Swamigal",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

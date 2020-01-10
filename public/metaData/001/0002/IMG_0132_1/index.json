@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0002",
     "Caption": "Union Minister for Education Shri M.C. Chagla is received by Registrar Mr. R. Natarajan.",
-    "Collection": "Central Photographic section collection",
     "Event": "Second Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

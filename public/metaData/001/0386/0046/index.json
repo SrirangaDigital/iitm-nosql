@@ -2,8 +2,8 @@
     "id": "001/0386/0046",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab: Laboratory Staff with Prof. Narayanamurthi (Head of the Department)",
     "Date": "00-00-1969",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

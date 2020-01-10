@@ -2,9 +2,9 @@
     "id": "001/0403/0005",
     "Type": "Photograph",
     "AlbumID": "0403",
-    "Collection": "Heritage Centre collection",
     "Caption": "Date of visit: 2019-12-16",
     "Description": "From left: Ms. Sujatha Dube, Mrs. Elizabeth and Mr. Mathew at heritage Centre.",
-	"Date": "16-12-2019",
-    "AccessLevel": 0
+    "Date": "16-12-2019",
+    "AccessLevel": 0,
+    "CollectionId": "0005"
 }

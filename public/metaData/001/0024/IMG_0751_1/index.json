@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0024",
     "Caption": "Sir C.V. Raman presents the Siemens&#39; prize to Mr. S. Pasupathi",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

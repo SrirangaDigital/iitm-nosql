@@ -1,5 +1,6 @@
 {
-    "ForeignKeyType": "Collection",
+    "CollectionId": "0003",
+    "ForeignKeyType": "CollectionId",
     "ForeignKeyId": "0003",
     "Collection": "Nature Collection"
 }

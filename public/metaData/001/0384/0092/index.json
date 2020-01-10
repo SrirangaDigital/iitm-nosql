@@ -2,8 +2,8 @@
     "id": "001/0384/0092",
     "AlbumID": "0383",
     "Caption": "Tawny coster",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
     "Description": "Butterfly",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

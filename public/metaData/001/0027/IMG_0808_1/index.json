@@ -2,8 +2,8 @@
     "id": "001/0027/IMG_0808_1",
     "Type": "Photograph",
     "AlbumID": "0027",
-    "Collection": "Central Photographic section collection",
     "Event": "Visit VIP",
     "Caption": "First row from left: Smt Shanti Sengupto, Sardar Ujjal Singh, Smt Ujjal Singh. Second row from left: Prof. E.G. Ramachandran, Prof. Stahl, Prof. R.G. Narayanamurthi, Prof. Bisanz, Prof. B. Sengupto, Prof. Nigam. Third row from left:  Prof. R.K Gupta, Prof. S. Ramasesan, Prof. Sampath, Mr Sethunathan, Mr Y.S. Ramaswamy, Prof. D. Venkateswarulu, Prof. M.V.C. Sastry, Prof. D.V. Reddy, Prof. P.C. Varghese",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0017",
     "Caption": "List of Events of Insitute Day",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

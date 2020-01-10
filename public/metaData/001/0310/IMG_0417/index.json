@@ -2,7 +2,7 @@
     "id": "001/0310/IMG_0417",
     "Type": "Photograph",
     "AlbumID": "0310",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

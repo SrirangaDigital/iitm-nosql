@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0031",
     "Caption": "From left: Prof. K.T. Chandy (Chairman, Board of Governors), Mrs. Indira Gandhi (Prime Minister of India and Chief Guest), Mr. K.K. Sha (Governor of Tamil Nadu), Mr. C. Subramaniam (Union Minister), xxx, Prof. S. Sampath",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

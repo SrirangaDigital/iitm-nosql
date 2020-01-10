@@ -2,7 +2,7 @@
     "id": "001/0382/0049",
     "AlbumID": "0382",
     "Caption": "Spotted Owlet",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0210",
     "Caption": "Dr. M.S. Swaminathan is received by Mr. C.V. Sethunathan (Registrar)",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -2,7 +2,7 @@
     "id": "001/0203/0023",
     "Type": "Photograph",
     "AlbumID": "0203",
-    "Collection": "Nature Collection",
     "Species": "Bee-eater",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0069",
     "Caption": "Senate Member seating on the dias",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

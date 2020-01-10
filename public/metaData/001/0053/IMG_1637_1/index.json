@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0053",
     "Caption": "Dr. S. Bhagvantam, and Prof. M. Venugopal",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

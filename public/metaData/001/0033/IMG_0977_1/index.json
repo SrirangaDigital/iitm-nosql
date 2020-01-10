@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0033",
     "Caption": "Guard of Honour given to Dr.M.S Swaminathan, escorted by Prof.V.Subramanian (head of NCC)",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

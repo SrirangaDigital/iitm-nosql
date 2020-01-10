@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0045",
     "Caption": "Classical dance being performed.",
-    "Collection": "Central Photographic section collection",
     "Event": "IITM Staff Club",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

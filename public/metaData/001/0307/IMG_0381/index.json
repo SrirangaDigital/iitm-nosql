@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0307",
     "Caption": "Prof. M.V.C Sastri addresses the audience, Prof. B.V.A Rao on the dais along with a student representative",
-    "Collection": "Gauri Shankar collection",
     "Event": "Alumni Association Meet",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

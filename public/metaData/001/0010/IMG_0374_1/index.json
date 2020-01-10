@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0010",
     "Caption": "Prof. B. Sengupto addressing the audience, on the dias Dr. A.L. Mudaliar and Shri M.C. Chagla",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

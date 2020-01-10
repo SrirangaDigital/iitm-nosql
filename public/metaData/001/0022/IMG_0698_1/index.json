@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0022",
     "Caption": "Prof B Sengupto is giving speech and Father Murphy and Dr A L Mudaliar are on the dais. Mr Venkat Raman and YSR Reddy are seen standing",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

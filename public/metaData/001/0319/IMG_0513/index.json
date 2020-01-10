@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0319",
     "Caption": "Student Addresses the Audience",
-    "Collection": "Gauri Shankar collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

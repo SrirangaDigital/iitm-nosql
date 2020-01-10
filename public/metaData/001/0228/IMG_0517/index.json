@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0228",
     "Caption": "Foundation stone of Hydraulics lab, declared open by Dr. K.L. Rao, Union Minister for Irrigation and Power. Prof. Gerhard Rouv&#39;e and Prof. A. Ramachandran laud the occasion",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inauguration of Hydraulics Lab",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

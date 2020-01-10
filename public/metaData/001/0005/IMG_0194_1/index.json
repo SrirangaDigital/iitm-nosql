@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0005",
     "Caption": "Mr Hens Lenz, Sri R. Natarajan, Prof. R.A. Kraus, Dr. Stahl (Mechanical Engineering), Mr Gerhard Fisher, Consul General, FRG",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

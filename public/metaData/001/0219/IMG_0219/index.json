@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0219",
     "Caption": "Invocation. On the dais from left: Prof. R.K. Gupta (HSS), Prof. D. Venkateswarlu (Chemical Engineering), Prof. P.T. Manoharan (Chemistry), Prof. G. Aravamudan (Chemistry), Prof. Venkat Rao (Electrical), Prof R.G. Narayanamurthi (Mechanical), Prof. K.A.V. Pandalai, Dr. M.S. Swaminathan, Prof. K.T. Chandy (Chairman, BoG), Prof. L.S. Srikanth (Aerospace), Prof. R. Vasudevan (Metallurgy), Prof. K.S. Sankaran (Civil), Prof. Kuriakose (Chemistry), Prof. R.S. Alwar (Applied Mechanics), Prof. Mahabala (Computer Science), Prof. Sathynarayana (Chemical), Prof. Ramani (H.S.S) and Mr C.V. Sethunathan",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

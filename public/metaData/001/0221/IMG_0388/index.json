@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0221",
     "Caption": "Participants at the Conference of the Acceptibility of Rerefined oils. In the middle Mrs. Chithra A. Rao (wife of Prof. B.V.A. Rao).",
-    "Collection": "Gauri Shankar collection",
     "Event": "Conference of acceptability of Rerefined oils",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

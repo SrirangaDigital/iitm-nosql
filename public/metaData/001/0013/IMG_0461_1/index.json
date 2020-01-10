@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0013",
     "Caption": "Prof.Ramanamurthy showing X ray Machine to Baron Von Mirbach(VIP), from left Prof.S.Sampath, Prof.Koch(Physics Department), Prof.Seshadri(Visiting from Vivakanada Collage)",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0030",
     "Caption": "Shri Subramanian( Union Minister) inaugurating the Computer Centre. Prof. K.A.V. Pandalai is seen.",
-    "Collection": "Central Photographic section collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

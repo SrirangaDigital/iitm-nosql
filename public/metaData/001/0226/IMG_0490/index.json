@@ -2,8 +2,8 @@
     "id": "001/0226/IMG_0490",
     "Type": "Photograph",
     "AlbumID": "0226",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
     "Caption": "Chief Guest Mr. P.N. Haksar is given the Guard of Honour by students. He is escorted by Prof. P.V. Subramanian (In Charge NCC)",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

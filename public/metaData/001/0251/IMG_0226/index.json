@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0251",
     "Caption": "Inside the library",
-    "Collection": "Gauri Shankar collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

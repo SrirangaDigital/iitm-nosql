@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0056",
     "Caption": "Shri Rajah Sir Muthiah Chettiar, Shri C.D. Deshmukh, Dr. A.L. Mudaliar, Shri Y.S. Ramaswami, Prof. B. Sengupto, Shri R. Natarajan, Mr. Natarajan.",
-    "Collection": "Central Photographic section collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

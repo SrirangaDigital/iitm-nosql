@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0319",
     "Caption": "Mr. Rajagopalan and Mr. Sethunathan present a Mememto to Smt. A.L Mudaliar",
-    "Collection": "Gauri Shankar collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

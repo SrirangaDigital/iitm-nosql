@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0277",
     "Caption": "Audience at the Open Air Theatre",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

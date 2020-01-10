@@ -2,6 +2,6 @@
     "id": "001/0163/IMG_4975_2",
     "Type": "Photograph",
     "AlbumID": "0163",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0301",
     "Caption": "Civil Labratory, Equipments",
-    "Collection": "Gauri Shankar collection",
     "Event": "Laboratory",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

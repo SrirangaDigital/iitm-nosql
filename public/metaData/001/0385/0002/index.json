@@ -1,7 +1,6 @@
 {
     "id": "001/0385/0002",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Caption": "Common Spurge",
     "Type": "Photograph",
     "Common Name": "Graceful spurge, Graceful Sandmat, milk purslane",
@@ -12,5 +11,6 @@
     "Category": "Cactus",
     "Flowers": "Tiny, white, 5 petals, clustered, hairy fruits",
     "Foliage": "Dark green,oval leaf, red stems Commonly seen everywhere",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0014",
     "Caption": "Mrs Shanti Sengupto presenting a gift to Mrs R Natarajan.To the right is Shri R Natarajan ",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell Party",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -1,7 +1,7 @@
 {
     "id": "001/0385/0039",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

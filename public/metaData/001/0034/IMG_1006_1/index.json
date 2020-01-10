@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0034",
     "Caption": "Invocation.From left: Director Prof. K.A.V. Pandalai, Prof. K.T. Chandy, Shri P.N. Haksar, Prof. S. Sampath, Prof. Vekat Rao, Prof. R.K. Gupta, Prof. B.S. Murthy (Mechanical), Prof. S.K. Srinivasan (Mathematics), Prof. R. Srinivasan (Physics), Prof. Venugopal (Electrical), Prof. Srikanth (Aerospace Eng.) and Mr C.V. Sethunathan.",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

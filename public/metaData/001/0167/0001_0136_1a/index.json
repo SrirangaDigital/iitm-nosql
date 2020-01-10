@@ -2,6 +2,6 @@
     "id": "001/0167/0001_0136_1a",
     "Type": "Photograph",
     "AlbumID": "0167",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

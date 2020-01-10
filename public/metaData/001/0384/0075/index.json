@@ -2,7 +2,7 @@
     "id": "001/0384/0075",
     "AlbumID": "0384",
     "Caption": "Spider",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
-    "AccessLevel": "0"
+    "AccessLevel": "0",
+    "CollectionId": "0003"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0238",
     "Caption": "Prof. S. Sampath giving away degree while Prof. B.S. Murthy reads out the names.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

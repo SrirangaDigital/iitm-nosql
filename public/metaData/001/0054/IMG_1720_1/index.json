@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0054",
     "Caption": "From right Prof.P.S.Rao, German Ambassador, Prof.Sivasailam Chairman(BOG), Prof.T.P.Ganeshan, Prof.V.S.Raju",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

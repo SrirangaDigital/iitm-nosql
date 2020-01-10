@@ -2,7 +2,7 @@
     "id": "001/0065/IMG_2032_4",
     "Type": "Photograph",
     "AlbumID": "0065",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

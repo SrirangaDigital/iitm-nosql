@@ -2,7 +2,7 @@
     "id": "001/0384/0100",
     "AlbumID": "0384",
     "Caption": "White Lynx",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
-    "AccessLevel": "0"
+    "AccessLevel": "0",
+    "CollectionId": "0003"
 }

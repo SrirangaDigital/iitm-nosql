@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0018",
     "Caption": "Dr. A.L. Mudaliar leaving with Prof. M.V.C Sastri, Prof. Nayadumma, and Sri. H.V.R Iengar.",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

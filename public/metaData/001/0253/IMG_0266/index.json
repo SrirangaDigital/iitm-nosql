@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0253",
     "Caption": "Prof. R.G. Narayanamurthy receives Mr. A.M.M. Arunachalam (Chairman, Board of Governors). Prof. Bough and Prof. Achyutan are also present",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

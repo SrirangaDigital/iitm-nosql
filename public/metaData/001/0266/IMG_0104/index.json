@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0266",
     "Caption": "Dr. Erhard Eppler(Minister of Cooperation, Federal Republic of Germany) addressing the audience.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Special Convocation, Inauguration of Computer Centre",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0282",
     "Caption": "Audience at CLT, Sitting third from left: Prof. A. Ramachandran, fourth from left: Prof. R. G. Narayanamurthy, sixth from left: Prof. K.A.V. Pandalai",
-    "Collection": "Gauri Shankar collection",
     "Event": "Aeronautical Society",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

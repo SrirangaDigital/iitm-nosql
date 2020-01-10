@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0006",
     "Caption": "Prof. B. Sengupto gives away M.Sc. (Mathematics) degree to Ms. S. Kalpakam",
-    "Collection": "Central Photographic section collection",
     "Event": "Fourth Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

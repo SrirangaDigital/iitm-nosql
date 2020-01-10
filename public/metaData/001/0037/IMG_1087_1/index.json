@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0037",
     "Caption": "Prof.A.Ramachandran(Director) giving away degree and Mr.Rajagopalan(Deputy Registrar) is there",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

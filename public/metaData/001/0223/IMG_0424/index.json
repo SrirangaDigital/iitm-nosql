@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0223",
     "Caption": "Furnitures, Guest House ",
-    "Collection": "Gauri Shankar collection",
     "Event": "Guest House (Inauguration) ?",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -1,9 +1,9 @@
 {
     "id": "001/0385/0043",
     "AlbumID": "0385",
-    "Collection": "Nature Collection",
     "Caption": "Arabian Jasmine",
     "Description": "Jasminum sambac (Arabian jasmine) is a species of jasmine native to a small region in the eastern Himalayas in Bhutan and neighbouring India and Pakistan. It is cultivated in many places, especially across much of South and Southeast Asia.",
     "Type": "Photograph",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

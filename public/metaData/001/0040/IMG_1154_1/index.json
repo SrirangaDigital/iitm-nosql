@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0040",
     "Caption": "Lightenberg&#39;s moire&#39; analysis of plate bending ",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

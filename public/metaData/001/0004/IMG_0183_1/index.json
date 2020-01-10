@@ -2,8 +2,8 @@
     "id": "001/0004/IMG_0183_1",
     "Type": "Photograph",
     "AlbumID": "0004",
-    "Caption": "Major General Virendra Singh, Director General, NCC takes the salute.",
-    "Collection": "Central Photographic section collection",
+    "Caption": "Major General Virendra Singh",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

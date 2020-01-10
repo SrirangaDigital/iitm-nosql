@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0267",
     "Caption": "Dr. Pfauter addressing the audience. Seated are Prof. A. Ramachandran, Dr. M. Karunanidhi, Prof. Sampath",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

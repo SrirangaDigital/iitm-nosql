@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0056",
     "Caption": "Dr. A.L. Mudaliar and Shri Y.S. Ramaswami giving delicacies to the students.",
-    "Collection": "Central Photographic section collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

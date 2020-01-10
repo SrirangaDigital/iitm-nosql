@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0293",
     "Caption": "Audience at the 2nd Annual Day",
-    "Collection": "Gauri Shankar collection",
     "Event": "2nd Annual Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

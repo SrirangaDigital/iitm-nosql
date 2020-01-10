@@ -2,7 +2,7 @@
     "id": "001/0361/IMG_106084",
     "Type": "Photograph",
     "AlbumID": "0361",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Prof. B.V.A. Rao with the Workshop instrument",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

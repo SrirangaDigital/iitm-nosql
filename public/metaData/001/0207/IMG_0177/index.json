@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0207",
     "Caption": "Prof. R. Krishnamoorthy reading out farewell citation of Mr. R. Natarajan.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

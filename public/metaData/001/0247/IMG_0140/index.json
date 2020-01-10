@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0247",
     "Caption": "Sri. H.V.R. Iengar addresses the audience",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

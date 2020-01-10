@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0039",
     "Caption": "Tenth Convoation, August 11, 1973",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -2,8 +2,8 @@
     "id": "001/0310/IMG_0422",
     "Type": "Photograph",
     "AlbumID": "0310",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
     "Caption": "Prof. R.K. Gupta introducing the IITs Sports incharge to the Chief Guest.",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

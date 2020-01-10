@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0041",
     "Caption": "M.E.T.1. Fluid Sand Process",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0053",
     "Caption": "Prof. Rouhe, Dr. S. Bhagvantam, Prof. R.G. Narayanamurthy, Prof. A. Ramachandran, Prof. Sampath, Prof. Sethuraman, Dr. Suresh Rao, Dr. Elango",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -2,6 +2,6 @@
     "id": "001/0164/IMG_5021_1",
     "Type": "Photograph",
     "AlbumID": "0164",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

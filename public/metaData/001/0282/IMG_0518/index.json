@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0282",
     "Caption": "Aeronautical Engineering Building was declared open by Shri H.V.R. Iengar, Chairman Board of Governors. Prof. A. Ramachandran is there.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Aeronautical Society",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

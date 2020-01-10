@@ -2,7 +2,7 @@
     "id": "001/0360/IMG_106090",
     "Type": "Photograph",
     "AlbumID": "0360",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Porcelain insulator",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

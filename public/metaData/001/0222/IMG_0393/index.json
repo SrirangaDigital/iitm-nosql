@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0222",
     "Caption": "Audience ",
-    "Collection": "Gauri Shankar collection",
     "Event": "Alumni Get together",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

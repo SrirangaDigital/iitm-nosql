@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0023",
     "Caption": "Sri H.V.R.Iengar(Chairman,Board of Governors) giving prize to P.Raghavendran(Student of Mechanical Engineering) for President of India Prize",
-    "Collection": "Central Photographic section collection",
     "Event": "Convoation and Lab",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

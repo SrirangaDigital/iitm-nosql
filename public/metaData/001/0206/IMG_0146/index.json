@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0206",
     "Caption": "Mr. Gopal Ramachandran performing magic. Facing him: Mr. C.V. Sethunathan (middle) and Prof. V. Anantharaman, Humanities Department",
-    "Collection": "Gauri Shankar collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0021",
     "Caption": "Dr. Pfauter addressing the audience. Seated on the dias: Prof. A. Balakrishnan, Miss Schmitz, Mrs. Lehnartz and Dr. Lehnartz",
-    "Collection": "Central Photographic section collection",
     "Event": "Building Foundation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0265",
     "Caption": "Dr.Karl Pfauter giving away prize to Prof.V.Anatharaman",
-    "Collection": "Gauri Shankar collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0032",
     "Caption": "A view of audience in KV School ground for Eleventh Convocation",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

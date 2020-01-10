@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0013",
     "Caption": "From right Prof.S.Sampath, Shir C.V.Sethunathan(Registrar), Baron Von Mirbach(VIP), Prof.B.Sengupto(Director), extreme Prof.Venugopal(Electrical Engineering)",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

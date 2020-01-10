@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0315",
     "Caption": "Students in the carpentry workshop",
-    "Collection": "Gauri Shankar collection",
     "Event": "Workshop",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

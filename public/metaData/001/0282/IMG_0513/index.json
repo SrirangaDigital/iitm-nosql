@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0282",
     "Caption": "Mr Ujwal Singh awarding a certificate. Prof. A. Ramachandran and Smt. Ujwal Singh are on the dais. Prof. Satish Dhavan is on podium.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Aeronautical Society",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0290",
     "Caption": "Swami Jayendra Saraswathi after the Kumbhabhishekam",
-    "Collection": "Gauri Shankar collection",
     "Event": "Temple Kumbabhishekam",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

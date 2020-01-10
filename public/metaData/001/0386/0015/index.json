@@ -2,8 +2,8 @@
     "id": "001/0386/0015",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab Water Hall: Construction of underground tanks for water turbines (front) and pumps (back)",
     "Date": "1963-04-00",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

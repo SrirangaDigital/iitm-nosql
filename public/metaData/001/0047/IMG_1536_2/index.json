@@ -2,7 +2,7 @@
     "id": "001/0047/IMG_1536_2",
     "Type": "Photograph",
     "AlbumID": "0047",
-    "Collection": "Central Photographic section collection",
     "Event": "Golden Jubelee",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0055",
     "Caption": "Dr.S.Bhagavantam (The Scientific Advisor to the Ministry of Defence was the chief Guest) deliver the Convacation address and on the dias Shir H.V.R.Iengar, Prof.R.G.Narayanamurthi, Prof.Venkat Rao, Prof.E.G.Ramchandra, Prof.M.V.C.Sharstri, K.V.Pandalai(Aeronantics), Prof.Venkatswarulu(Chemistry), Prof.R.K.Gupta(HSS), Prof.Nigam(Mathematical), Prof.Ramashastri(Physics), Prof.Hydronlics",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

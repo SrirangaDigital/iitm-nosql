@@ -2,7 +2,7 @@
     "id": "001/0338/IMG_105743",
     "Type": "Photograph",
     "AlbumID": "0338",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Thermogravimetric Analyser (TGA)",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

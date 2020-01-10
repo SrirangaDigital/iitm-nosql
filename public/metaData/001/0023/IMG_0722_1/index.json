@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0023",
     "Caption": "Sri H.V.R.Iengar (Chairman,Board of Governors) declares Convocation open and on the dias from right Prof.Venkatewarulu,Prof.R.G.Narayanamurthi, Dr.S.Bhagavantam (The Scientific Advisor to the Ministry of Defence was the chief Guest), Prof.A.Ramachandran and Prof.S.Sampath",
-    "Collection": "Central Photographic section collection",
     "Event": "Convoation and Lab",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

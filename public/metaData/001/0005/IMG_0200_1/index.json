@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0005",
     "Caption": "From left: Mr Hens Lenz, Prof. B. Sengupto and Mr Dubey, Secretary to Registrar",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

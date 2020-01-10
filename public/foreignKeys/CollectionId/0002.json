@@ -1,5 +1,6 @@
-{
-    "ForeignKeyType": "Collection",
+{    
+	"CollectionId": "0002",
+    "ForeignKeyType": "CollectionId",
     "ForeignKeyId": "0002",
     "Collection": "Gauri Shankar Collection"
 }

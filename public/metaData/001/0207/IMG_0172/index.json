@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0207",
     "Caption": "Refreshment. From left: Mr. R. Natarajan, Dr. A.L. Mudaliar and Prof. B. Sengupto",
-    "Collection": "Gauri Shankar collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

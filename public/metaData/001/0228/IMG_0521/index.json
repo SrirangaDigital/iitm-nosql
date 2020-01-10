@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0228",
     "Caption": " Dr. Gerhard Rouv&#39;e explains to Dr.K.L. Rao and others about the various machinery in the lab",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inauguration of Hydraulics Lab",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

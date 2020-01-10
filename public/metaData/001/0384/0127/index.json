@@ -1,8 +1,8 @@
 {
-		"id": "001/0384/0127",
-		"AlbumID": "0384",
-		"Caption": "Megachile sp bee",
-		"Collection": "Nature Collection",
-		"Type": "Photograph",
-		"AccessLevel": "0" 
+    "id": "001/0384/0127",
+    "AlbumID": "0384",
+    "Caption": "Megachile sp bee",
+    "Type": "Photograph",
+    "AccessLevel": "0",
+    "CollectionId": "0003"
 }

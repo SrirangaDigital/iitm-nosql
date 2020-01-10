@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0270",
     "Caption": "Mr. Walter Scheel drinking tender coconut water",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit of Mr. Walter Scheel",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

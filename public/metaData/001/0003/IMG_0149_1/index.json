@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0003",
     "Caption": "Dr. Henrich Luebke addresses the audience. From left: Prof. B. Sengupto, Mr. Raja Gopalan, Mr. Y.S. Ramaswami and Mr. R. Natarajan at the event.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

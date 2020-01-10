@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0266",
     "Caption": "Audience at the Special Convocation",
-    "Collection": "Gauri Shankar collection",
     "Event": "Special Convocation, Inauguration of Computer Centre",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

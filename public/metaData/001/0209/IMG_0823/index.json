@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0209",
     "Caption": "Mr. Hens Lenz sitting in the front seat of the car. Standing from left: Mr. R. Natarajan, Prof. B. Sengupto, Mr. Y.S. Ramaswamy and Prof. R.A. Kraus",
-    "Collection": "Gauri Shankar collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

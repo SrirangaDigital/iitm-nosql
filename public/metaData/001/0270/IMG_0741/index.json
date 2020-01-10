@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0270",
     "Caption": "Gerhard Fischer, Prof. Sengupto, and Mr. Walter Scheel are walking",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit of Mr. Walter Scheel",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

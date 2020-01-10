@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0021",
     "Caption": "Dr. Kerckhoff addressing the audience present. Seated are: Prof. A. Ramachandran, Prof. R.G. Narayanamurthy, Dr. Havemann, Mr. Kretzhschmar, and Mr. Diedrich",
-    "Collection": "Central Photographic section collection",
     "Event": "Building Foundation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

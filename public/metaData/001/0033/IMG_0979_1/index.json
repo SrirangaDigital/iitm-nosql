@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0033",
     "Caption": "Senate members entering stage third from left Prof.K.T Chandy,Prof.K.A.V Pandalai,Dr.M.S Swaminathan in academic procession",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0012",
     "Caption": "Dr.P.Subbaroyan(Minister for Transport and Communication) giving prize to Dominic Maratukulam(Student)",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

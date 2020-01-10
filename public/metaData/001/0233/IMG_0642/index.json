@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0233",
     "Caption": "Dr. A.L. Mudaliar (Chairman, Board of Governors) gives a speech. On the dais from the left; Dr. Koch, Prof. S. Sampath, Prof. B. Sengupto (Director), Smt. Shanti Sengupto, Dr. Karl Pfauter (Consul General of the Federal Republic of Germany), Prof. R.G. Narayanamurthi, Prof. N. Klein",
-    "Collection": "Gauri Shankar collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

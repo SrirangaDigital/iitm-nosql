@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0013",
     "Caption": "Baron Von Mirbach(VIP)",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

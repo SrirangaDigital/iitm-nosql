@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0268",
     "Caption": "Prof.B.Senguto(Director) giving his speech",
-    "Collection": "Gauri Shankar collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

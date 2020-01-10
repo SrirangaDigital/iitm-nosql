@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0304",
     "Caption": "Dr P. Subbaroyan (Minister for Transport and Communication) giving away prize to a student. ",
-    "Collection": "Gauri Shankar collection",
     "Event": "Institute",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0211",
     "Caption": "From left: Mr H. V.R. Iengar (partly visible), J.R.D. Tata, Prof. Sampath and Prof. A. Ramachandran were briefed by Mr. Ebert about the wind tunnel.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

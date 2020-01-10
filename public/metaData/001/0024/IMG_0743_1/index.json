@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0024",
     "Caption": "Dr. A.L. Mudaliar declares the convocation open. On the dais, from the left; Dr. G. Stahl, Mr. T.R. Doss, Mr. T. Muthian (Director of Technical Education, Madras), Prof. S. Rajaraman, Prof. B. Sengupto, Sir C.V. Raman, and Dr. K.S.G. Doss",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

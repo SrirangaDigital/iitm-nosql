@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0025",
     "Caption": "Dr.P.C.Varghese addressing audience",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

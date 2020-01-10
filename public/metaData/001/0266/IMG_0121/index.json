@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0266",
     "Caption": "Dr.Edhard Eppler receiving a memento from Mr.C.Subramaniam. From left, Prof A Ramachandran, Dr.Edhard Eppler, Prof.K.T.Chandy, Mr.C.Subramaniam",
-    "Collection": "Gauri Shankar collection",
     "Event": "Special Convocation, Inauguration of Computer Centre",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

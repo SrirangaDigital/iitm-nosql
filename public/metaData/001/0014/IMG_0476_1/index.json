@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0014",
     "Caption": "Mr. R Natarajan&#39;s elder daughter Priya.",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell Party",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

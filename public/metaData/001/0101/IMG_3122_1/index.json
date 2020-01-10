@@ -2,6 +2,6 @@
     "id": "001/0101/IMG_3122_1",
     "Type": "Photograph",
     "AlbumID": "0101",
-    "Collection": "Central Photographic section collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

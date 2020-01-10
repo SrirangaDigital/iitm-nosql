@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0002",
     "Caption": " Shri M.C. Chagla is escorted by Dr. A.L. Mudaliar and CSO Mr. Venkat Raman ",
-    "Collection": "Central Photographic section collection",
     "Event": "Second Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

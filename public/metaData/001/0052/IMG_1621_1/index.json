@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0052",
     "Caption": "Prof.B.Sengupto(Director), Shri M.Bhaktavatsalam(Cheif Minister of Madras), Venkat Raman(Cheif Security Officer), Shir C.V.Sethunathan(Registrar)",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

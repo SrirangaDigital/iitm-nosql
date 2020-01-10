@@ -2,8 +2,8 @@
     "id": "001/0386/0037",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab Water Hall: Assembly of testbeds for pumps",
     "Date": "00-00-1968",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

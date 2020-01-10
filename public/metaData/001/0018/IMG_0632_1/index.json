@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0018",
     "Caption": "Prof. A. Ramachandran, Sri. H.V.R Iengar, Dr. A.L. Mudaliar, Smt. A.L. Mudaliar, Smt. H.V.R. Iengar, and Prof. M.V.C. Sastri seated on the dias.",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

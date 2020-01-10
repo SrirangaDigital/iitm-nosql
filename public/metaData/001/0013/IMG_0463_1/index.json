@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0013",
     "Caption": "Prof Sheer, Baron Von Mirbach(VIP), Prof.S.Sampath, Prof.Koch(Physics) ",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

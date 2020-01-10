@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0246",
     "Caption": "Prof A. Ramachandran addresses the audience. On the dais, from the left; Dr. V.K.R.V Rao, Dr. A.L. Mudaliar",
-    "Collection": "Gauri Shankar collection",
     "Event": "Education Seminar",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

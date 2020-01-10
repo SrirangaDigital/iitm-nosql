@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0012",
     "Caption": "From right Prof.Koch, Mr.Gerhard Fischer, Dr.P.Subbaroyan(Minister for Transport and Communication), Dr.A.L.Mudaliar(Chairman Board of Governor)",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

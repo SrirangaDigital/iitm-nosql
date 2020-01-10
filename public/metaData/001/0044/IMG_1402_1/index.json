@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0044",
     "Caption": "R.Venkataraman(President and Cheif Guest), Prof.P.V.Indiresan(Director), Shir A.Sivasailam(Chairman, Board of Governors), Prof.Sathis Dhawan(Space Scientist)",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

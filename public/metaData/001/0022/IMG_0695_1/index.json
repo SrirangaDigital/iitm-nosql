@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0022",
     "Caption": "H.E. Theodor Heuss visiting the nursery class along with Shri. R. Natarajan and Dr. A.L. Mudaliar.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0051",
     "Caption": "Sitting from left: Prof. B. Sengupto, Prof. A. Ramachandran (Director), Dr.Koch and Standing from left: Prof. S. Sampath, Prof. R.G. Narayanamurthi, Mr C.V. Sethunathan (Registrar) ",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell to Prof. B. Sengupto and Unveiling Portrait of Prof. B. Sengupto",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

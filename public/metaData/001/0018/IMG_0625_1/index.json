@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0018",
     "Caption": "Prof. M.V.C Sastri (HoD, CY) addressin the audience.",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

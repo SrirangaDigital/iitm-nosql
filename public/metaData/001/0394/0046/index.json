@@ -2,8 +2,8 @@
     "id": "001/0394/0046",
     "AlbumID": "0394",
     "Caption": "White banded moth",
-    "Collection": "Nature Collection",
     "Type": "Photograph",
     "Description": "Moth",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

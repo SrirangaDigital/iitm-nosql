@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0239",
     "Caption": "From left: Prof. A. Ramachandran, Dr. S. Bhagavantham, Prof. V.C. Venkatesh, Prof. S. Sampath.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit of Prof. Bhagavantham",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

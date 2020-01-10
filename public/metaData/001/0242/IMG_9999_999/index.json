@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0242",
     "Caption": "A student receives the degree. Prof. Venkateswarulu reads out the names of the graduands. On the dais, starting from centre; Mr. M.C. Chagla, Dr. A.L. Mudaliar, Dr. Rajah Sir Muthiah Chettiar, a board member, xxx, Prof. E.G. Ramachandran, Prof. R.G. Narayanamurthi, Prof. Stahl, Prof. P.C. Varghese, Prof. Lutz",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

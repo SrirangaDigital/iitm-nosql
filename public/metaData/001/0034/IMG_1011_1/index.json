@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0034",
     "Caption": "From left Prof. K.T. Chandy (Chairman, Board of Governors), Shri P.N. Haksar (Deputy chairman, Planning Commission, Govt. of India and Chief Guest) on the dais.",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

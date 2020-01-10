@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0251",
     "Caption": "Reading hall.",
-    "Collection": "Gauri Shankar collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

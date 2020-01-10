@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0270",
     "Caption": "Prof. Sengupto, Mr. Walter Scheel and R. Natarajan during the naming of the arteries",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit of Mr. Walter Scheel",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

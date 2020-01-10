@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0053",
     "Caption": "Prof. Majhi, Prof. A. Ramachandran, Prof. C. Ramashastri, Prof. Sampath",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

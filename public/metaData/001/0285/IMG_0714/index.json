@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0285",
     "Caption": "Classical dance being performed.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Staff club",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

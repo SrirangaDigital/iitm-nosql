@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0013",
     "Caption": "Prof.S.Sampath, Shir C.V.Sethunathan(Registrar), Baron Von Mirbach(VIP), Prof.B.Sengupto(Director), Prof.Sheer(Turbomachinery)",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0211",
     "Caption": "From Left: Prof.A.Ramachandran, J.R.D Tata in the DC Network Analyser ( Possibly )",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0013",
     "Caption": "R.K.Gupta(HOD HSS) Introducing Profs to Baron Von Mirbach(VIP),  from left Prof.V.Anantaraman(Economic), Prof.A.V.Krishna Rao(English), Prof.Vairana Pillai(Histroy) ",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

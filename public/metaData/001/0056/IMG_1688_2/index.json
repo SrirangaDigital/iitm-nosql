@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0056",
     "Caption": "In the 1st row Prof. Krishnamoorthy, Prof. Kuriacose, Prof. Anantram (HSS)",
-    "Collection": "Central Photographic section collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

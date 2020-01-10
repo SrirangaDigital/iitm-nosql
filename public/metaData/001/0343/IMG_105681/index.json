@@ -2,7 +2,7 @@
     "id": "001/0343/IMG_105681",
     "Type": "Photograph",
     "AlbumID": "0343",
-    "Collection": "Gauri Shankar collection",
     "Caption": "Concrete bed lathe",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

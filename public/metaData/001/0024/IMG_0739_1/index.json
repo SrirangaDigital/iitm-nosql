@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0024",
     "Caption": "Sir C.V. Raman inspects the guard of honour and is escorted by Prof. Rayudu (NCC commander, Department of Mechanical Engineering)",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

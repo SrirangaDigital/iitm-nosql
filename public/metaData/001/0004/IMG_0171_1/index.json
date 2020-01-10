@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0004",
     "Caption": "Prof B Sengupto, Prof Hilbig, Mr Westphal and Mr Sethunathan",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

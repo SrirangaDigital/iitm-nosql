@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0069",
     "Caption": "Twenty Fifth Convocation, 29.7.1988",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0020",
     "Caption": "Prof.N.Klein(HSS) addressing audience and from left Shir C.V.sethunathan(Registrar), Prof.S.Sampath, Prof.A.Ramachandran, Cheif Guest Dr.Karl Pfauter(Consul General of the Federal Republic of Germany), Student secretary",
-    "Collection": "Central Photographic section collection",
     "Event": "Institute Day",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

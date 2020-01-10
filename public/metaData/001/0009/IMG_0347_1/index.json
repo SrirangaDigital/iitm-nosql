@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0009",
     "Caption": "Mr. Gerhard Fischer addresses the audience. Prof. B. Sengupto is on the dais.",
-    "Collection": "Central Photographic section collection",
     "Event": "Sports Meet",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

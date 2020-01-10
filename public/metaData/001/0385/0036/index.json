@@ -1,9 +1,9 @@
 {
     "id": "001/0385/0036",
     "AlbumID": "0393",
-    "Collection": "Nature Collection",
     "Caption": "Ocimum",
     "Type": "Photograph",
     "Description": "Ocimum tenuiflorum, commonly known as holy basil, tulasi or tulsi, is an aromatic perennial plant in the family Lamiaceae which is native to the Indian subcontinent and widespread as a cultivated plant throughout the Southeast Asian tropics. Can be seen in front of SAC otherwise home grown too",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0003"
 }

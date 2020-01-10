@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0239",
     "Caption": "From left:  Prof. Venugopal, Prof. Venkata Rao, Prof. A. Ramachandran, Dr. S. Bhagavantham and Prof. Y. Narayana Rao at the High Voltage Lab.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit of Prof. Bhagavantham",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

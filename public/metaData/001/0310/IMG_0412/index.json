@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0310",
     "Caption": "General secretary addressing audience on 8th Inter IIT 1970",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

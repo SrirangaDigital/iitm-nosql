@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0217",
     "Caption": "Refreshments. From left: Prof. B. Sengupto, Mr. M.C. Chagla and Dr. A.L. Mudaliar ",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

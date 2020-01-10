@@ -2,8 +2,8 @@
     "id": "001/0386/0020",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab Water Hall: Lifting of overhead tank of water turbine testbed",
     "Date": "1965-00-00",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0231",
     "Caption": "Prof B Sengupto addresses the audience. Major General Virendra Singh (Director General, NCC) is seen on the dais",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -2,8 +2,8 @@
     "id": "001/0386/0017",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab Water Hall: Underground tanks for turbines and cavitation well for pump testing",
     "Date": "1965-00-00",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0003",
     "Caption": "At Open Air Theatre IIT Madras. On the stage Prof. B. Sengupto and Dr. Henrich Luebke",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

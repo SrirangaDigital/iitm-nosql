@@ -2,8 +2,8 @@
     "id": "001/0310/IMG_0426",
     "Type": "Photograph",
     "AlbumID": "0310",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
     "Caption": "The Chief Guest is taking salute of the sports parade.",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

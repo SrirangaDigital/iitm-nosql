@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0054",
     "Caption": "German Ambassador addressing audience. On the dias from left Prof.V.S.Raju, Prof.Sivasailam Chairman(BOG), R.G.Narayanamurthi",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

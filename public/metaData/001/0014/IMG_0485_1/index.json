@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0014",
     "Caption": "Farewell speech by Shri R Natarajan, Dr A L Mudaliar, Prof B Sengupto and Prof R Krishnamoorthy on the dias.",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell Party",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

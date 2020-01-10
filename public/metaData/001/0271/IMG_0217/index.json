@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0271",
     "Caption": "Alumni Association Lunch ",
-    "Collection": "Gauri Shankar collection",
     "Event": "Alumni Association",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

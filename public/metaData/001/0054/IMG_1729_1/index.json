@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0054",
     "Caption": "Prof.Venkat Raman(CSO) showing Solar units to German Ambassador",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

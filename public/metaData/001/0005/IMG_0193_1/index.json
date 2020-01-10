@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0005",
     "Caption": "Mr Hens Lenz shaking hands with  Prof. P. Venkat Rao (Electrical), Prof B Sengupto, Prof. R.A. Kraus, Dr. Nicolaus Klein, Prof. R .Krishnamoorthy.(HSS) are present",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

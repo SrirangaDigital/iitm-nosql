@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0266",
     "Caption": "Mr.C.Subramaniam and Prof.K.T.Chandy at the inauguration of the Computer Centre",
-    "Collection": "Gauri Shankar collection",
     "Event": "Special Convocation, Inauguration of Computer Centre",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

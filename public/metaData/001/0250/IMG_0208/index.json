@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0250",
     "Caption": "Prof. A. Ramachandran (Director) greeting the faculty. He is shaking hands with Mr.Mani (Workshop Superintendent). From left: Prof. Rama Sastry, Prof. Venkat Rao, Prof. B.V.A. Rao, Prof. Scheer",
-    "Collection": "Gauri Shankar collection",
     "Event": "Transfer of charge",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

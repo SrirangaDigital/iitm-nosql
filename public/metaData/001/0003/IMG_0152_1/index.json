@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0003",
     "Caption": "Mrs. Wilhelmine Luebke, Dr. A.L. Mudaliar, Dr. Heinrich Luebke, Mr. Y.S. Ramaswamy and CSO Mr. Venkat Raman at the event.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

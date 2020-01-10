@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0237",
     "Caption": "Dr. Klein&#39;s living room",
-    "Collection": "Gauri Shankar collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

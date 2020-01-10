@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0278",
     "Caption": "Address by Dr H N Sethna, Director BARC, Trombay",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

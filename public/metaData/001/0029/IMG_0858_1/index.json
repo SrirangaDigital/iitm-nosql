@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0029",
     "Caption": "Prof.M.G.K.Menon(F.R.S and Cheif Guest) giving prize to Sathis Ramadhyani(Student of Mechanical Engineering) for President of India ",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

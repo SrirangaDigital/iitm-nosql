@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0005",
     "Caption": "From left:  Prof. R.A. Kraus,  Prof. B. Sengupto, Mr Hens Lenz, Shri R. Natarajan, Dr. S.R. Sengupta, Director IIT Kharagpur     ",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

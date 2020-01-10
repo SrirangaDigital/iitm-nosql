@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0056",
     "Caption": "Seated amongst audience, in the 3rd row, Prof. Krishnamoorthy, Prof. Kuriacose.",
-    "Collection": "Central Photographic section collection",
     "Event": "Inaugration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

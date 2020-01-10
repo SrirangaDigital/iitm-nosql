@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0217",
     "Caption": "Mr. M.C. Chagla, the Honorable Union Minister for Education visited the Institute on 17th June 1966. Mr. M.C. Chagla and Prof. B. Sengupto in discussion. Mr C.V. Sethunathan is present. It is in the Director office.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

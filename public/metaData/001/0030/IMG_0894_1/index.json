@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0030",
     "Caption": "Dr. Erhard Eppler(Minister of Cooperation, Federal Republic of Germany) giving a Computer centre booklt to Shri Subramanian(Union Minister), Prof. K.T. Chandy is also seen.",
-    "Collection": "Central Photographic section collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0304",
     "Caption": "Prof. B. Sengupto (Director) during the Institute Day celebration in front of BSB.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Institute",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

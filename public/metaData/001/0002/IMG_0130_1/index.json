@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0002",
     "Caption": "IIT Second convocation . 3 April ,1965",
-    "Collection": "Central Photographic section collection",
     "Event": "Second Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

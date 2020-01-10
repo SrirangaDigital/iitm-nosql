@@ -2,7 +2,7 @@
     "id": "001/0266/IMG_0100",
     "Type": "Photograph",
     "AlbumID": "0266",
-    "Collection": "Gauri Shankar collection",
     "Event": "Special Convocation, Inauguration of Computer Centre",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

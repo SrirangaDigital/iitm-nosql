@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0212",
     "Caption": "Smoke Trial of the ship in Wind Tunnel ",
-    "Collection": "Gauri Shankar collection",
     "Event": "Wind Tunnel",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0002",
     "Caption": "Shri M.C. Chagla delivers the Convocation address. Left to him : Dr A.L. Mudaliar, Dr. Rajah Sir Muthiah Chettiar, Shri Akbar Alikhan, Dr. Y. Nayudamma and Shri A.A. Rahim are on the dais",
-    "Collection": "Central Photographic section collection",
     "Event": "Second Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0282",
     "Caption": "Mr Ujwal Singh and Smt. Ujwal Singh in the Aeronautical Engineering Building, looking at displays",
-    "Collection": "Gauri Shankar collection",
     "Event": "Aeronautical Society",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

@@ -2,7 +2,7 @@
     "id": "001/0049/IMG_1567_2",
     "Type": "Photograph",
     "AlbumID": "0049",
-    "Collection": "Central Photographic section collection",
     "Event": "NA",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

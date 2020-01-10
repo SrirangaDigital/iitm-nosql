@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0030",
     "Caption": "From left Shri Subramanian( Union Minister)",
-    "Collection": "Central Photographic section collection",
     "Event": "Inauguration",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

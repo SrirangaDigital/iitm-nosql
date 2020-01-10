@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0321",
     "Caption": "Study of Smoke Pattern in wind, by Dr. Klein.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Experiment",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

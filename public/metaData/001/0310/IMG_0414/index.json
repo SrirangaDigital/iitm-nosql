@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0310",
     "Caption": "A View of audience 8th Inter IIT. From left Prof. S. Sampath, General secretary, Prof. A. Ramachandran, Prof. R.K. Gupta",
-    "Collection": "Gauri Shankar collection",
     "Event": "Inter IIT",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

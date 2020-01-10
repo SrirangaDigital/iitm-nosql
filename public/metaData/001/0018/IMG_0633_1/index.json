@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0018",
     "Caption": "Mr. Sethunathan addressing the audience. From right: Smt. H.V.R. Iengar, Smt. A.L. Mudaliar, Dr. A.L. Mudaliar, Sri. H.V.R. Iengar (Chairman, Board of Governors), Prof. A. Ramachandran (Director), Prof. Nayadumma (Director, CLRI), Prof. N. Klein (DoHSS), Prof. Sampath (EE) are also seated on the dias.",
-    "Collection": "Central Photographic section collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

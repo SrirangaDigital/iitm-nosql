@@ -2,8 +2,8 @@
     "id": "001/0386/0023",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab Water Hall: Parts of the turbine testbed",
     "Date": "00-00-1965",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

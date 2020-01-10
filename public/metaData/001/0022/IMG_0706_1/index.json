@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0022",
     "Caption": "Prof. Nayudamma (Director, CLRI), H.E. Theodor Heuss, Prof. B. Sengupto, Prof. Hahn and other dignitaries enjoying a meal.",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

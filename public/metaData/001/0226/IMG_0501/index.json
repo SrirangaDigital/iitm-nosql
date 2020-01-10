@@ -2,8 +2,8 @@
     "id": "001/0226/IMG_0501",
     "Type": "Photograph",
     "AlbumID": "0226",
-    "Collection": "Gauri Shankar collection",
     "Event": "Convocation",
     "Caption": "Audience at OAT",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

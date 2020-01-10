@@ -2,7 +2,7 @@
     "id": "001/0044/IMG_1422_1",
     "Type": "Photograph",
     "AlbumID": "0044",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

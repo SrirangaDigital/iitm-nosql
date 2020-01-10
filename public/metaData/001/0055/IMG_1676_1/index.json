@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0055",
     "Caption": "Prof. A. Ramachandran giving away prizes",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

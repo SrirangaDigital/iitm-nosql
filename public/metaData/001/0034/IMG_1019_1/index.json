@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0034",
     "Caption": " A view audience of OAT for 12th Convocation",
-    "Collection": "Central Photographic section collection",
     "Event": "Convocation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -2,8 +2,8 @@
     "id": "001/0386/0047",
     "Type": "Photograph",
     "AlbumID": "0386",
-    "Collection": "Prof. Wolfgang Scheer collection",
     "Caption": "Turbomachines Lab: Lab staff say goodbye to Professor Scheer",
     "Date": "1969-00-00",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0004"
 }

@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0294",
     "Caption": "Invocation",
-    "Collection": "Gauri Shankar collection",
     "Event": "First National Conference in Industrial Tribology",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

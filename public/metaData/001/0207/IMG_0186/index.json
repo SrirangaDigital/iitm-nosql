@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0207",
     "Caption": "From left: Mr. R. Natarajan and Dr. A.L. Mudaliar, Prof. Willi Haug. Mr. Sengupto is partially visible.",
-    "Collection": "Gauri Shankar collection",
     "Event": "Farewell",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }

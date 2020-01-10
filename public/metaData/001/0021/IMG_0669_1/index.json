@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0021",
     "Caption": "Dr. Lehnartz addressing the audience. Also seen, Mrs. Lehnartz, and Dr. Pfauter.",
-    "Collection": "Central Photographic section collection",
     "Event": "Building Foundation",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

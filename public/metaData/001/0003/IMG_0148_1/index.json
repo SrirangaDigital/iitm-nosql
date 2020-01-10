@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0003",
     "Caption": "Visit of Dr. Henrich Luebke, President of FRG on 3rd Dec 1962",
-    "Collection": "Central Photographic section collection",
     "Event": "VIP Visit",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

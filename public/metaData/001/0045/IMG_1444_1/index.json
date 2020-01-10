@@ -3,7 +3,7 @@
     "Type": "Photograph",
     "AlbumID": "0045",
     "Caption": "Staff standing outside the staff club are, Prof. R. Radhakrishnan, Mr. V. Srinivasan (PTI), Shri. R. Natarajan, Prof. V. Anantharaman, Prof. V. Sankaran, Prof. P.C. Varghese, Shri. E.G. Ramachandran, Dr. A. Srinivasan, _________, Prof. V. Sivaramakrishnan.",
-    "Collection": "Central Photographic section collection",
     "Event": "IITM Staff Club",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0001"
 }

@@ -3,6 +3,6 @@
     "Type": "Photograph",
     "AlbumID": "0262",
     "Caption": "Shopping Center",
-    "Collection": "Gauri Shankar collection",
-    "AccessLevel": 0
+    "AccessLevel": 0,
+    "CollectionId": "0002"
 }
