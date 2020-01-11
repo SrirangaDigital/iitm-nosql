@@ -4,6 +4,14 @@
             <h1>Letters from the Heritage Centre</h1>
 
             <div class="row strip">
+                <img class="col-md-3 img-responsive" src="<?=STOCK_IMAGE_URL?>lfh/2019-12-24/thumb.JPG"  />
+                <p class="col-md-9">
+                    <h4>24 December 2019</h4>
+                    <h3>Something in the genes</h3>
+                    <p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2019-12-24">Read</a> | <a href="<?=PUBLIC_URL?>lfh/2019-12-24/index.pdf" target="_blank">Download</a></p>
+                </p>
+            </div>
+            <div class="row strip">
                 <img class="col-md-3 img-responsive" src="<?=STOCK_IMAGE_URL?>lfh/2018-05-01/thumb.JPG"  />
                 <p class="col-md-9">
                     <h4>1 May 2018</h4>
