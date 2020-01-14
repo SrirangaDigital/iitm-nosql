@@ -192,6 +192,7 @@
                 <li data-target="#carousel-two" data-slide-to="1"></li>
                 <li data-target="#carousel-two" data-slide-to="2"></li>
                 <li data-target="#carousel-two" data-slide-to="3"></li>
+                <li data-target="#carousel-two" data-slide-to="4"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -201,13 +202,14 @@
 				  <div class="override-carousel-caption">
                     <div class="caption-content">
 						<div  style="float: left;width:50%;text-align:right;padding-right: 90px;">
-							<img src="<?=PUBLIC_URL?>images/stock/0399.jpg" alt="" />
+							<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0404.jpg" alt="" />
 						</div>
-                        <div style="width:50%;float: right;padding-top: 70px;padding-right: 250px;">
+                        <div style="width:50%;float: right;padding-top: 20px;padding-right: 250px;">
 							<p class="caption-title" style="font-size: 3em;">Nature Walk</p>
-	                        <p style="font-size: 1.25em;">Heritage Centre collection</p>
-	                        <p>31st August 2019</p>
-	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0399%3A+Nature+Walk&Collection=Heritage%20Centre%20collection">Click here to see the complete album</a></p>
+	                        <p style="font-size: 1.25em;">Heritage Centre events and visitors</p>
+	                        <p>27th December 2019</p>
+	                        <p>Nature walk conducted by Prof. Abhijit Deshpande. Participants were the family members of Alumnus and DAA Prof. Marti G. Subrahmanyam and Mr. Vekatesh Mannar.</p>
+	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0404%3A+Nature+Walk&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
                         </div>
                     </div>    
                   </div>
@@ -217,13 +219,13 @@
 				  <div class="override-carousel-caption">
                     <div class="caption-content">
 						<div  style="float: left;width:50%;text-align: right;padding-right:90px;">
-							<img src="<?=PUBLIC_URL?>images/stock/0400.jpg" alt="" />
+							<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0405.jpg" alt="" />
 						</div>
                         <div style="width:50%;float: right;padding-top: 50px;padding-right: 250px;">
-							<p class="caption-title" style="font-size: 3em;">Inauguration of<br />Decadal exhibition</p>
-	                        <p style="font-size: 1.25em;">Heritage Centre collection</p>
-	                        <p>12th September 2019</p>
-	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0400%3A+Inauguration+of+Decadal+exhibition&Collection=Heritage%20Centre%20collection">Click here to see the complete album</a></p>
+							<p class="caption-title" style="font-size: 3em;">84th Batch Reunion</p>
+	                        <p style="font-size: 1.25em;">Heritage Centre events and visitors</p>
+	                        <p>1st January 2020</p>
+	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0405%3A+84+Batch+Reunion+at+IIT+Madras&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
                         </div>
                     </div>    
                   </div>
@@ -233,13 +235,14 @@
 				  <div class="override-carousel-caption">
                     <div class="caption-content">
 						<div  style="float: left;width:50%;text-align: right;padding-right: 90px;">
-							<img src="<?=PUBLIC_URL?>images/stock/0401.jpg" alt="" />
+							<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0406.jpg" alt="" />
 						</div>
                         <div style="width:50%;float: right;padding-top: 10px;padding-right: 100px;">
-							<p class="caption-title" style="font-size: 3em;">Unveiling of portraits of<br />creators of Heritage Centre</p>
-	                        <p style="font-size: 1.25em;">Heritage Centre collection</p>
-	                        <p>12th September 2019</p>
-	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0401%3A+Unveiling+of+portraits+of+creators+of+Heritage+Centre&Collection=Heritage%20Centre%20collection">Click here to see the complete album</a></p>
+							<p class="caption-title" style="font-size: 3em;">Sports Exhibition</p>
+	                        <p style="font-size: 1.25em;">Heritage Centre events and visitors</p>
+	                        <p>26th December 2019</p>
+	                        <p>Sports Exhibition at the Heritage Centre. It was from 26th December 2019 to 2nd January 2020</p>
+	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album%200406:%20Sports%20Exhibition&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
                         </div>
                     </div>    
                   </div>
@@ -248,13 +251,25 @@
 				  <h3  class="text-center">RECENT ACTIVITIES</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/heritage.jpg" alt="" />
+						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0407.jpg" alt="" />
 					</div>  
 					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
-						<p class="caption-title" style="font-size: 3em;">Launch of Heritage Club</p>
-						<p style="font-size: 1.25em;">Heritage Centre collection</p>
-						<p>Heritage Club was launched on 13th September 2019 to increase the engagement of the student community with the Heritage Centre and its activities. The club will focus on bringing the history of the institute closure to the student community and increase general awareness about its rich heritage.</p>
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0402%3A+Heritage+Club+launch+-+13th+September+2019&Collection=Heritage%20Centre%20collection">Click here to see the complete album</a></p>
+						<p class="caption-title" style="font-size: 3em;">General Alumni Reunion</p>
+						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0407%3A+General+Alumni+Reunion&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENT ACTIVITIES</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0408.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
+						<p class="caption-title" style="font-size: 3em;">Ruby reunion (79 batch)</p>
+						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0408%3A+Ruby+reunion+%2879+batch%29&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
 					</div>
                   </div>
                 </div>
