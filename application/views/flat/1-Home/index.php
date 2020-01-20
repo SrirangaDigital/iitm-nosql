@@ -175,7 +175,7 @@
           </div><!--  
           --><div class="col-md-6 vcenter">
               <h2 class="text-center" style="color: #FF6A14;"><strong>Heritage Treasure Hunt</strong></h2>
-              <p class="text-center"->February</p>
+              <p class="text-center"->29th February 2020</p>
           </div>    
         </div>
     </div>
