@@ -222,7 +222,7 @@
 							<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0405.jpg" alt="" />
 						</div>
                         <div style="width:50%;float: right;padding-top: 50px;padding-right: 250px;">
-							<p class="caption-title" style="font-size: 3em;">84th Batch Reunion</p>
+							<p class="caption-title" style="font-size: 3em;">1984 Batch Reunion</p>
 	                        <p style="font-size: 1.25em;">Heritage Centre events and visitors</p>
 	                        <p>1st January 2020</p>
 	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0405%3A+84+Batch+Reunion+at+IIT+Madras&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
