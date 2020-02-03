@@ -15,32 +15,90 @@
     </div>
 </div>
 
-<div class="jumbotron" style="margin-bottom: 0px;">
-    <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-12 gap-below-large">
-            <h3 class="text-center">RECENT VISITORS</h3>
-          </div>  
-          <div class="col-md-7">
-            <p style="text-align: right;padding-right: 100px;">
-				<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2725.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
-				<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2756.JPG" alt="" /><br /><br />
-				<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2741.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
-				<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2768.JPG" alt="" />
-			</p>
-          </div>
-          <div class="col-md-5">
-				<p style="line-height: 38px;">
-					Distinguished Alumnus Awardee<br /> 
-						<strong>Mr. V.M. Thomas</strong>,<br /> 
-						His wife <strong>Mrs. Elizabeth</strong><br /> 
-						and son <strong>Mr. Mathew</strong><br />
-						visited Heritage Centre on 16-12-2019
-				</p>
-          </div>    
+<div class="container-fluid">
+    <div class="row clear-paddings">
+        <div class="col-md-12" style="padding: 0;">
+
+            <div id="carousel-three" class="carousel slide" data-ride="carousel-three" style="background-color: #DDD;height: 500px;">
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-three" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-three" data-slide-to="1"></li>
+                <li data-target="#carousel-three" data-slide-to="2"></li>
+              </ol>
+
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+				<div class="item active">
+				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISOTORS</h3>
+					<div  style="display:inline; float: left; width:50%;margin-right: 50px;">
+						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2725.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2756.JPG" alt="" /><br /><br />
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2741.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2768.JPG" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:50%;">
+						<p style="line-height: 38px;margin-top: 100px;">
+								<span style="font-weight: 100; font-size: 25px;">Distinguished Alumnus Awardee</span><br /> 
+								<span style="font-weight: 300; font-size: 25px;">Mr. V.M. Thomas</strong>,<br /> 
+								His wife <strong>Mrs. Elizabeth</strong><br /> 
+								and son <strong>Mr. Mathew</strong><br />
+								visited Heritage Centre on 16-12-2019
+						</p>
+					</div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISOTORS</h3>
+					<div  style="display:inline; float: left; width:50%;margin-right: 50px;">
+						<p style="text-align: right;margin-top: 80px;">
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN3407.JPG" alt="" />&nbsp;&nbsp;
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN3411.JPG" alt="" /><br />
+							&nbsp;<br />
+						</p>
+					</div>
+					<div style="display:inline; width:50%;">
+						<p style="line-height: 38px;margin-top: 100px;">
+								<span style="font-weight: 100; font-size: 25px;">Distinguished Alumnus Awardee</span><br /> 
+								<span style="font-weight: 300; font-size: 25px;"><strong> Dr. C. Mohan</strong>,<br /> 
+								His wife <strong>Mrs. Kalapana Mohan</strong><br />
+								visited Heritage Centre on 14-01-2020
+						</p>
+					</div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISOTORS</h3>
+					<div  style="display:inline; float: left; width:35%;margin-right: 50px;">
+						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN3709.JPG" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:65%;">
+						<p style="line-height: 38px;margin-top: 100px;">
+								<span style="font-weight: 300; font-size: 25px;"><strong>Mr. J.K. Niyogi </strong> (grand nephew of Mrs. Shanti Sengupto),<br /> 
+								and <strong>Mrs. Niyogi, Dr. Devaki Bhaya</strong> (Niece of Mrs. Shanti Sengupto)<br /> and her husband <strong>Prof. Arthur Grossman</strong><br />
+								visited Heritage Centre on 27-01-2020
+						</p>
+					</div>
+                </div>
+              </div>
+
+              <!-- Controls -->
+              <a class="left carousel-control" href="#carousel-three" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="right carousel-control" href="#carousel-three" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
         </div>
     </div>
 </div>
+
+
 
 <div class="container-fluid">
     <div class="row clear-paddings">
@@ -56,6 +114,7 @@
                 <li data-target="#carousel" data-slide-to="4"></li>
                 <li data-target="#carousel" data-slide-to="5"></li>
                 <li data-target="#carousel" data-slide-to="6"></li>
+                <li data-target="#carousel" data-slide-to="7"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -145,6 +204,19 @@
 					</div>  
 					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;"><strong>IIT Madras Class of 1978 Memoir 2019.</strong><br />contributed by</span> <span style="font-size: 1.5em;"><strong>Mr. Suresh Vemuri</strong></span></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 40px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN3303.JPG" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;">
+							<strong>IIT Madras emblem</strong>, made and displayed during the early years of IIT Madras.<br />
+							contributed by </span> <span style="font-size: 1.5em;"><strong>Prof. A. Veeraragavan</strong>, faculty, Dept. of Civil Engineering, IIT Madras.</span></p>
 					</div>
                   </div>
                 </div>
