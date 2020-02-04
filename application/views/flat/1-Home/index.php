@@ -265,6 +265,7 @@
                 <li data-target="#carousel-two" data-slide-to="2"></li>
                 <li data-target="#carousel-two" data-slide-to="3"></li>
                 <li data-target="#carousel-two" data-slide-to="4"></li>
+                <li data-target="#carousel-two" data-slide-to="5"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -342,6 +343,20 @@
 						<p class="caption-title" style="font-size: 3em;">Ruby reunion (79 batch)</p>
 						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
 						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0408%3A+Ruby+reunion+%2879+batch%29&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENT ACTIVITIES</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0419.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
+						<p class="caption-title" style="font-size: 3em;">Golden Reunion</p>
+						<p style="font-size: 1.25em;">27th January 2020</p>						
+						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0419%3A++Golden+Reunion&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
 					</div>
                   </div>
                 </div>
