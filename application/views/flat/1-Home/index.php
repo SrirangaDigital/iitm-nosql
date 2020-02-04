@@ -355,7 +355,7 @@
 					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
 						<p class="caption-title" style="font-size: 3em;">Golden Jubilee Alumni Reunion of 1970 batch held on 27-1-2020</p>		
 						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0419%3A++Golden+Reunion&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0419%3A++Golden+Jubilee+Alumni+Reunion+of+1970+batch+held+on+27-1-2020&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
 					</div>
                   </div>
                 </div>
