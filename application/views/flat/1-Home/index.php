@@ -236,22 +236,64 @@
     </div>
 </div>     
 
-<div class="jumbotron" style="margin-bottom: 0px;">
-    <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-12 gap-below-large">
-            <h3 class="text-center">FORTHCOMING EVENTS</h3>
-          </div>  
-          <div class="col-md-6 vcenter">
-            <img id="myImage" style="width: 75%;margin-left: 200px;" src="<?=PUBLIC_URL?>images/stock/forthcoming-event/DSCN0602.JPG" alt="" />
-          </div><!--  
-          --><div class="col-md-6 vcenter">
-              <h2 class="text-center" style="color: #FF6A14;"><strong>Heritage Treasure Hunt</strong></h2>
-              <p class="text-center"->29th February 2020</p>
-          </div>    
+
+<div class="container-fluid">
+    <div class="row clear-paddings">
+        <div class="col-md-12" style="padding: 0;">
+
+            <div id="carousel-four" class="carousel slide" data-ride="carousel-four" style="background-color: #EEE;height: 500px;">
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-four" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-four" data-slide-to="1"></li>
+              </ol>
+
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+				<div class="item active">
+				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
+					<div  style="display:inline; float: left; width:50%;margin-right: 80px;">
+						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/forthcoming_event1.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:50%;">
+						<p style="line-height: 38px;margin-top: 150px;">
+								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Heritage Treasure Hunt</span><br /> 
+								<span style="font-weight: 300; font-size: 25px;">29th February 2020</span>
+						</p>
+					</div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
+					<div  style="display:inline; float: left; width:50%;margin-right: 80px;">
+						<p style="text-align: right;margin-top: 80px;">
+							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/forthcoming_event2.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:50%;">
+						<p style="line-height: 38px;margin-top: 160px;">
+								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Heritage Centre Day</span><br /> 
+								<span style="font-weight: 300; font-size: 25px;">3rd March 2020</span>
+						</p>
+					</div>
+                </div>
+              </div>
+
+              <!-- Controls -->
+              <a class="left carousel-control" href="#carousel-four" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="right carousel-control" href="#carousel-four" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
         </div>
     </div>
 </div>
+
 
 <div class="container-fluid">
     <div class="row clear-paddings">
