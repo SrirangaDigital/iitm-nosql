@@ -115,6 +115,7 @@
                 <li data-target="#carousel" data-slide-to="5"></li>
                 <li data-target="#carousel" data-slide-to="6"></li>
                 <li data-target="#carousel" data-slide-to="7"></li>
+                <li data-target="#carousel" data-slide-to="8"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -217,6 +218,21 @@
 						<p><span style="font-size: 1.5em;">
 							<strong>IIT Madras emblem</strong>, made and displayed during the early years of IIT Madras.<br />
 							contributed by </span> <span style="font-size: 1.5em;"><strong>Prof. A. Veeraragavan</strong>, faculty, Dept. of Civil Engineering, IIT Madras.</span></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 40px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN3753.JPG" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;">
+<!--
+							<strong>IIT Madras emblem</strong>, made and displayed during the early years of IIT Madras.<br />
+-->
+							Photograph contributed by </span> <span style="font-size: 1.5em;"><strong>Dr. P.S. Raman</strong>, alumnus Ph.D. (Chemistry) 1975 batch.</span></p>
 					</div>
                   </div>
                 </div>
