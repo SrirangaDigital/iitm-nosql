@@ -30,7 +30,7 @@
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
 				<div class="item active">
-				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISOTORS</h3>
+				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISITORS</h3>
 					<div  style="display:inline; float: left; width:50%;margin-right: 50px;">
 						<p style="text-align: right;">
 							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2725.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,7 +50,7 @@
 					</div>
                 </div>
 				<div class="item">
-				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISOTORS</h3>
+				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISITORS</h3>
 					<div  style="display:inline; float: left; width:50%;margin-right: 50px;">
 						<p style="text-align: right;margin-top: 80px;">
 							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN3407.JPG" alt="" />&nbsp;&nbsp;
@@ -68,7 +68,7 @@
 					</div>
                 </div>
 				<div class="item">
-				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISOTORS</h3>
+				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISITORS</h3>
 					<div  style="display:inline; float: left; width:35%;margin-right: 50px;">
 						<p style="text-align: right;">
 							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN3709.JPG" alt="" />
