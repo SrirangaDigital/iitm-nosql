@@ -233,7 +233,7 @@
 <!--
 							<strong>IIT Madras emblem</strong>, made and displayed during the early years of IIT Madras.<br />
 -->
-							Photograph contributed by </span> <span style="font-size: 1.5em;"><strong>Dr. P.S. Raman</strong>, alumnus Ph.D. (Chemistry) 1975 batch.</span></p>
+							Materials contributed by </span> <span style="font-size: 1.5em;"><strong>Dr. P.S. Raman</strong>, alumnus Ph.D. (Chemistry) 1975 batch.</span></p>
 					</div>
                   </div>
                 </div>
