@@ -80,7 +80,7 @@
   </div>
   <div class="col-sm-6 col-md-3">
     <div class="thumbnail">
-      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/avatar.png" alt="Mr. Kumaran Sathasivam">
+      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/Kumaran.jpg" alt="Mr. Kumaran Sathasivam">
       <div class="caption">
         <h4>Mr. Kumaran Sathasivam</h4>
       </div>
