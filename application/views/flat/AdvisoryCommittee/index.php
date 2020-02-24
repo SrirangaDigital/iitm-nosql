@@ -56,7 +56,7 @@
   </div>
   <div class="col-sm-6 col-md-3">
     <div class="thumbnail">
-      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/avatar.png" alt="Prof. C.S. Swamy">
+      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/CSSwamy.jpg" alt="Prof. C.S. Swamy">
       <div class="caption">
         <h4>Prof. C.S. Swamy</h4>
       </div>
