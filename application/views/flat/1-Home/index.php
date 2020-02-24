@@ -289,7 +289,7 @@
 					<div style="display:inline; width:50%;">
 						<p style="line-height: 38px;margin-top: 150px;">
 								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Heritage Treasure Hunt</span><br /> 
-								<span style="font-weight: 300; font-size: 25px;">March 2020</span>
+								<span style="font-weight: 300; font-size: 25px;">5th March 2020</span>
 						</p>
 					</div>
                 </div>

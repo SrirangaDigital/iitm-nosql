@@ -32,9 +32,9 @@
   </div>
   <div class="col-sm-6 col-md-3">
     <div class="thumbnail">
-      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/Kolar_Photo.jpg" alt="Prof. Ajit Kolar">
+      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/Kolar_Photo.jpg" alt="Prof. Ajit Kumar Kolar">
       <div class="caption">
-        <h4>Prof. Ajit Kolar</h4>
+        <h4>Prof. Ajit Kumar Kolar</h4>
       </div>
     </div>
   </div>
@@ -64,9 +64,9 @@
   </div>
   <div class="col-sm-6 col-md-3">
     <div class="thumbnail">
-      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/santhakumar.jpg" alt="Prof. Santhakumar">
+      <img src="<?=PUBLIC_URL?>images/stock/adcommittee/santhakumar.jpg" alt="Prof. S. Santhakumar">
       <div class="caption">
-        <h4>Prof. Santhakumar</h4>
+        <h4>Prof. S. Santhakumar</h4>
       </div>
     </div>
   </div>
