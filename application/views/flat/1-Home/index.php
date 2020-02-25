@@ -25,6 +25,7 @@
                 <li data-target="#carousel-three" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-three" data-slide-to="1"></li>
                 <li data-target="#carousel-three" data-slide-to="2"></li>
+                <li data-target="#carousel-three" data-slide-to="3"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -79,6 +80,20 @@
 								<span style="font-weight: 300; font-size: 25px;"><strong>Mr. J.K. Niyogi </strong> (grand nephew of Mrs. Shanti Sengupto),<br /> 
 								and <strong>Mrs. Niyogi, Dr. Devaki Bhaya</strong> (Niece of Mrs. Shanti Sengupto)<br /> and her husband <strong>Prof. Arthur Grossman</strong><br />
 								visited Heritage Centre on 27-01-2020
+						</p>
+					</div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISITORS</h3>
+					<div  style="display:inline; float: left; width:45%;margin-right: 50px;">
+						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/RWTH.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:65%;">
+						<p style="line-height: 38px;margin-top: 100px;">
+								<span style="font-weight: 300; font-size: 25px;">The delegation from  <strong>RWTH Aachen University</strong><br /> 
+								visited Heritage Centre on 17-02-2020
 						</p>
 					</div>
                 </div>
