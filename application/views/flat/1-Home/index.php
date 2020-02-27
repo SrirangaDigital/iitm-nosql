@@ -26,6 +26,7 @@
                 <li data-target="#carousel-three" data-slide-to="1"></li>
                 <li data-target="#carousel-three" data-slide-to="2"></li>
                 <li data-target="#carousel-three" data-slide-to="3"></li>
+                <li data-target="#carousel-three" data-slide-to="4"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -95,6 +96,25 @@
 								<span style="font-weight: 300; font-size: 25px;">The delegation from  <strong>RWTH Aachen University</strong><br /> 
 								visited Heritage Centre on 17-02-2020
 						</p>
+					</div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISITORS</h3>
+					<div  style="display:inline; float: left; width:45%;margin-right: 50px;">
+						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/AjitMSighvi.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:65%;">
+						<p style="line-height: 38px;margin-top: 100px;">
+								<span style="font-weight: 300; font-size: 25px;"><strong>Dr. Ajit M Singhvi</strong><br /> 
+								visited Heritage Centre, IIT Madras on 18-02-2020<br />
+						</p>
+						<p style="line-height: 24px;">
+							<strong>Dr. Singhvi</strong> is a Philanthropist of Indian origin and management expert based in London.<br /> 
+							He is best known for the Professional Chairs at IIT Madras and IIT Roorkee.<br /> 
+							<strong>Dr. Ajit Singhvi</strong> has coauthored the handbook <em>Fast Tracking to Managerial and CEO Roles.</em>
+						</p>	
 					</div>
                 </div>
               </div>
