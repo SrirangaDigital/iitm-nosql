@@ -316,20 +316,6 @@
               <div class="carousel-inner" role="listbox">
 				<div class="item active">
 				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
-					<div  style="display:inline; float: left; width:50%;margin-right: 80px;">
-						<p style="text-align: right;">
-							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/forthcoming_event1.jpg" alt="" />
-						</p>
-					</div>
-					<div style="display:inline; width:50%;">
-						<p style="line-height: 38px;margin-top: 150px;">
-								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Heritage Treasure Hunt</span><br /> 
-								<span style="font-weight: 300; font-size: 25px;">March 2020</span>
-						</p>
-					</div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
 					<div  style="display:inline; float: left; width:50%;margin-right: 20px;">
 						<p style="text-align: right;margin-top: 0px;">
 							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/Final.jpg" alt="" />
@@ -342,6 +328,21 @@
 						</p>
 					</div>
                 </div>
+				<div class="item">
+				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
+					<div  style="display:inline; float: left; width:50%;margin-right: 80px;">
+						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/forthcoming_event1.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:50%;">
+						<p style="line-height: 38px;margin-top: 150px;">
+								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Heritage Treasure Hunt</span><br /> 
+								<span style="font-weight: 300; font-size: 25px;">March 2020</span>
+						</p>
+					</div>
+                </div>
+
               </div>
 
               <!-- Controls -->
