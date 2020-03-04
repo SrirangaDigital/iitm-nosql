@@ -330,9 +330,9 @@
                 </div>
 				<div class="item">
 				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
-					<div  style="display:inline; float: left; width:50%;margin-right: 80px;">
+					<div  style="display:inline; float: left; width:50%;margin-right: 20px;">
 						<p style="text-align: right;margin-top: 0px;">
-							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/002.png" alt="" />
+							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/Final.jpg" alt="" />
 						</p>
 					</div>
 					<div style="display:inline; width:50%;">
