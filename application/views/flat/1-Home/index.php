@@ -33,6 +33,25 @@
               <div class="carousel-inner" role="listbox">
 				<div class="item active">
 				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISITORS</h3>
+					<div  style="display:inline; float: left; width:45%;margin-right: 50px;">
+						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/AjitMSighvi.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:65%;">
+						<p style="line-height: 38px;margin-top: 100px;">
+								<span style="font-weight: 300; font-size: 25px;"><strong>Dr. Ajit M Singhvi</strong><br /> 
+								visited Heritage Centre, IIT Madras on 18-02-2020<br />
+						</p>
+						<p style="line-height: 24px;">
+							<strong>Dr. Singhvi</strong> is a Philanthropist of Indian origin and management expert based in London.<br /> 
+							He is best known for the Professional Chairs at IIT Madras and IIT Roorkee.<br /> 
+							<strong>Dr. Ajit Singhvi</strong> has coauthored the handbook <em>Fast Tracking to Managerial and CEO Roles.</em>
+						</p>	
+					</div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISITORS</h3>
 					<div  style="display:inline; float: left; width:50%;margin-right: 50px;">
 						<p style="text-align: right;">
 							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/DSCN2725.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,25 +115,6 @@
 								<span style="font-weight: 300; font-size: 25px;">The delegation from  <strong>RWTH Aachen University</strong><br /> 
 								visited Heritage Centre on 17-02-2020
 						</p>
-					</div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISITORS</h3>
-					<div  style="display:inline; float: left; width:45%;margin-right: 50px;">
-						<p style="text-align: right;">
-							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/AjitMSighvi.jpg" alt="" />
-						</p>
-					</div>
-					<div style="display:inline; width:65%;">
-						<p style="line-height: 38px;margin-top: 100px;">
-								<span style="font-weight: 300; font-size: 25px;"><strong>Dr. Ajit M Singhvi</strong><br /> 
-								visited Heritage Centre, IIT Madras on 18-02-2020<br />
-						</p>
-						<p style="line-height: 24px;">
-							<strong>Dr. Singhvi</strong> is a Philanthropist of Indian origin and management expert based in London.<br /> 
-							He is best known for the Professional Chairs at IIT Madras and IIT Roorkee.<br /> 
-							<strong>Dr. Ajit Singhvi</strong> has coauthored the handbook <em>Fast Tracking to Managerial and CEO Roles.</em>
-						</p>	
 					</div>
                 </div>
               </div>
@@ -363,6 +363,19 @@
 				<div class="item active">
 				  <h3  class="text-center">RECENT ACTIVITIES</h3>
 				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0421.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
+						<p class="caption-title" style="font-size: 3em;">Heritage Centre Day - March 05 2020</p>		
+						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0421%3A+Heritage+Centre+Day+-+March+05+2020&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENT ACTIVITIES</h3>
+				  <div class="override-carousel-caption">
                     <div class="caption-content">
 						<div  style="float: left;width:50%;text-align:right;padding-right: 90px;">
 							<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0404.jpg" alt="" />
@@ -446,19 +459,6 @@
 						<p class="caption-title" style="font-size: 3em;">Golden Jubilee Alumni Reunion of 1970 batch held on 27-1-2020</p>		
 						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
 						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0419%3A++Golden+Jubilee+Alumni+Reunion+of+1970+batch+held+on+27-1-2020&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENT ACTIVITIES</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0421.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
-						<p class="caption-title" style="font-size: 3em;">Heritage Centre Day - March 05 2020</p>		
-						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0421%3A+Heritage+Centre+Day+-+March+05+2020&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
 					</div>
                   </div>
                 </div>
