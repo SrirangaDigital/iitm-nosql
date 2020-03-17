@@ -35,6 +35,23 @@
 				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISITORS</h3>
 					<div  style="display:inline; float: left; width:45%;margin-right: 50px;">
 						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/Krishna_Mahesh.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:65%;">
+						<p style="line-height: 38px;margin-top: 100px;">
+								<span style="font-weight: 300; font-size: 25px;"><strong>Mrs and Mr. Krishna Mahesh.</strong><br /> 
+								visited Heritage Centre, IIT Madras on 16-03-2020<br />
+						</p>
+						<p style="line-height: 24px;">
+							<strong>Mr. Krishna Mahesh</strong> launched the Institute <em>Chair Professorship</em> in memory of his father late<br /><strong>Mr. K Mahesh</strong> [1965/BT/MT] an alumnus with IITM on 16 March 2020.
+						</p>	
+					</div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center" style="margin-bottom: 20px;">RECENT VISITORS</h3>
+					<div  style="display:inline; float: left; width:45%;margin-right: 50px;">
+						<p style="text-align: right;">
 							<img src="<?=PUBLIC_URL?>images/stock/recent-visitor/AjitMSighvi.jpg" alt="" />
 						</p>
 					</div>
