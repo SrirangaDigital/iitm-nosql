@@ -164,7 +164,7 @@
 					</div>  
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;">The photo is contributed by<br /><strong>Mr. T.S. Kuppuswami</strong></span></p>
-						<p>In the photo, Sarvapalli S. Radhakrishnan is dressed up by Mr. T.K Shankararama and assisted by Mr. C. Narayan Kutty for the first Convocation of IIT Madras in 1964. Jayachamaraja Wadayar is also present in the photograph. Mr. T.K Shankararama is father of Mr. T.S. Kuppuswami</p>
+						<p>In the photo, Sarvapalli S. Radhakrishnan is dressed up by Mr. T.K Shankararaman and assisted by Mr. C. Narayan Kutty for the first Convocation of IIT Madras in 1964. Jayachamaraja Wadayar is also present in the photograph. Mr. T.K. Shankararaman is the father of Mr. T.S. Kuppuswami, Retd. Secretary, Public Relations, IIT Madras.</p>
 					</div>
                   </div>
                 </div>
