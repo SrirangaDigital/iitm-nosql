@@ -40,11 +40,7 @@
 					</div>
 					<div style="display:inline; width:65%;">
 						<p style="line-height: 38px;margin-top: 100px;">
-								<span style="font-weight: 300; font-size: 25px;"><strong>Mrs and Mr. Krishna Mahesh.</strong><br /> 
-								visited Heritage Centre, IIT Madras on 16-03-2020<br />
-						</p>
-						<p style="line-height: 24px;">
-							<strong>Mr. Krishna Mahesh</strong> launched the Institute <em>Chair Professorship</em> in memory of his father late<br /><strong>Mr. K Mahesh</strong> [1965/BT/MT] an alumnus with IITM on 16 March 2020.
+								<span style="font-weight: 300; font-size: 25px;">Mrs and Mr Krishna Mahesh (MD, Sundaram Brake Linings and son of alumnus Mr K. Mahesh  [1965/BT/MT]).<br />16 March 2020
 						</p>
 						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0403%3A+Visitors+to+IIT+Madras+Heritage+Centre&Collection=Heritage%20Centre%20events%20and%20visitors">Click here for the complete album</a></p>
 					</div>
