@@ -45,7 +45,8 @@
 						</p>
 						<p style="line-height: 24px;">
 							<strong>Mr. Krishna Mahesh</strong> launched the Institute <em>Chair Professorship</em> in memory of his father late<br /><strong>Mr. K Mahesh</strong> [1965/BT/MT] an alumnus with IITM on 16 March 2020.
-						</p>	
+						</p>
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0403%3A+Visitors+to+IIT+Madras+Heritage+Centre&Collection=Heritage%20Centre%20events%20and%20visitors">Click here for the complete album</a></p>
 					</div>
                 </div>
 				<div class="item">
