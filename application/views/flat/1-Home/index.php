@@ -542,16 +542,16 @@
                                 <p>Oral History Archives</p>
                             </a>
                         </li>
-                    </ul>
-                </div>
-                <div class="col-md-12">
-                    <ul class="list-inline">
                         <li class="stat-elem">
                             <a href="<?=BASE_URL?>listing/artefacts/Miscellaneous%20Video?Category=Videos">
                                 <h2><i class="fa fa-video-camera"></i></h2>
                                 <p>Videos</p>
                             </a>
                         </li>
+                    </ul>
+                </div>
+                <div class="col-md-12">
+                    <ul class="list-inline">
                         <li class="stat-elem">
                             <a href="<?=BASE_URL?>DAA" target="_blank">
                                 <h2><i class="fa fa-trophy"></i></h2>
@@ -562,6 +562,12 @@
                             <a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre">
                                 <h2><i class="fa fa-envelope"></i></h2>
                                 <p>Letters from the Heritage Centre</p>
+                            </a>
+                        </li>
+                        <li class="stat-elem">
+                            <a href="<?=BASE_URL?>Downloads">
+                                <h2><i class="fa fa-download"></i></h2>
+                                <p>Downloads</p>
                             </a>
                         </li>
                     </ul>
