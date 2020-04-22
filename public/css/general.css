@@ -124,3 +124,6 @@ a {
 	color: #DDD;
 	text-align: center;
 }
+ol.downloads li{
+	margin-top: 1em;
+}
