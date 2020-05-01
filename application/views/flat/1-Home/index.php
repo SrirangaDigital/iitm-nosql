@@ -174,6 +174,18 @@
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Campastimes1976.jpg" alt="" />;
+					</div>  
+					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;"><strong>The Campastimes 1976</strong><br />issue is contributed by<br /><strong>Mr. Srinivasan Sudarsanam</strong>, 1980 alumnus.</span></p>
+						<p></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 90px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN4243.JPG" alt="" />;
 					</div>  
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
@@ -280,18 +292,6 @@
 							<strong>IIT Madras emblem</strong>, made and displayed during the early years of IIT Madras.<br />
 -->
 							Materials contributed by </span> <span style="font-size: 1.5em;"><strong>Dr. P.S. Raman</strong>, alumnus Ph.D. (Chemistry) 1975 batch.</span></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 20px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Thomas_Tharu.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">Materials contributed by<br /><strong>Mr. Thomas Tharu</strong>, alumnus 1969 batch (B.Tech)<br /> 
-						and 1987 batch (M.S).</span></p>
 					</div>
                   </div>
                 </div>
