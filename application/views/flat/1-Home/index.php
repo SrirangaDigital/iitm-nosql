@@ -178,7 +178,7 @@
 					</div>  
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;"><strong>The Campastimes 1976</strong><br />issue is contributed by<br /><strong>Mr. Srinivasan Sudarsanam</strong>, 1980 alumnus.</span></p>
-						<p></p>
+						<p><a href="<?=BASE_URL?>describe/artefact/002_002_1976-01?Publication=Campastimes">Click here for the complete issue</a></p>
 					</div>
                   </div>
                 </div>
