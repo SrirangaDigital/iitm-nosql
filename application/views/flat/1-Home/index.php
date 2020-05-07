@@ -174,7 +174,7 @@
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
 					<div style="padding-top: 90px;padding-right: 100px;text-align: center;">
-						<p><span style="font-size: 3em;font-weight: bold;">REFLECTIONS OF THARAMANI DAYS</span></p>
+						<p><span style="font-size: 2em;font-weight: bold;">A write-up of the days at Tharamani Hostel where we started</span></p>
 						<p>Written by <span style="font-size: 1.5em;"><strong>Dr. K.M. Kripanarayanan, 1965 IITM CE</strong></span></p>
 						<p><a href="<?=PUBLIC_URL?>images/stock/recently-received/Tharamani-Days.pdf" target="_blank">Click here for the complete article</a></p>
 					</div>
