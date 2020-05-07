@@ -173,6 +173,16 @@
 				<div class="item active">
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
+					<div style="padding-top: 90px;padding-right: 100px;text-align: center;">
+						<p><span style="font-size: 3em;font-weight: bold;">REFLECTIONS OF THARAMANI DAYS</span></p>
+						<p>Written by <span style="font-size: 1.5em;"><strong>Dr. K.M. Kripanarayanan, 1965 IITM CE</strong></span></p>
+						<p><a href="<?=PUBLIC_URL?>images/stock/recently-received/Tharamani-Days.pdf" target="_blank">Click here for the complete article</a></p>
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 90px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Campastimes1976.jpg" alt="" />;
 					</div>  
@@ -277,21 +287,6 @@
 						<p><span style="font-size: 1.5em;">
 							<strong>IIT Madras emblem</strong>, made and displayed during the early years of IIT Madras.<br />
 							contributed by </span> <span style="font-size: 1.5em;"><strong>Prof. A. Veeraragavan</strong>, faculty, Dept. of Civil Engineering, IIT Madras.</span></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 40px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN3753.JPG" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">
-<!--
-							<strong>IIT Madras emblem</strong>, made and displayed during the early years of IIT Madras.<br />
--->
-							Materials contributed by </span> <span style="font-size: 1.5em;"><strong>Dr. P.S. Raman</strong>, alumnus Ph.D. (Chemistry) 1975 batch.</span></p>
 					</div>
                   </div>
                 </div>
