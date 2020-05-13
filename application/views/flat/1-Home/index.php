@@ -170,7 +170,19 @@
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
-				<div class="item active">
+                <div class="item active">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/sathashivam.jpg" alt="" />;
+					</div>  
+					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;">Photos by <strong>Kumaran Sathasivam</strong></p>
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0389%3A+Sathasivam+collection+-+Insects%2C+Mammals+and+Others&Collection=Nature%20Collection">Click here for the complete album</a></p>
+					</div>
+                  </div>
+                </div>				
+				<div class="item">
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
 					<div style="padding-top: 90px;padding-right: 100px;text-align: center;">
@@ -274,19 +286,6 @@
 					</div>  
 					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;"><strong>IIT Madras Class of 1978 Memoir 2019.</strong><br />contributed by</span> <span style="font-size: 1.5em;"><strong>Mr. Suresh Vemuri</strong></span></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 40px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN3303.JPG" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">
-							<strong>IIT Madras emblem</strong>, made and displayed during the early years of IIT Madras.<br />
-							contributed by </span> <span style="font-size: 1.5em;"><strong>Prof. A. Veeraragavan</strong>, faculty, Dept. of Civil Engineering, IIT Madras.</span></p>
 					</div>
                   </div>
                 </div>
