@@ -173,6 +173,18 @@
                 <div class="item active">
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/CVS-INDU-WEDDING.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;">Photograph contributed by <strong>Mr. Anand Singh Bawa</strong>, alumnus, 1965 batch. This photograph was taken during the wedding of <strong>Prof. C.V. Seshadri</strong> and <strong>Ms. Indu</strong> with second batch students of IIT Madras.</p>
+						<p>From Left to Right:<br />Mrs and Dr. C.V. Seshadri,  Mr. Vaswani, Mr. Venkatewaran, Mr. Basu, Mr. Mahesh, Mr. Nageshwar,  Mr. Narayanan, Mr. Anand Singh Bawa partially visible, Mr. Vikram, Mr. B.R. Pai, &amp; Mr. P.L. Kapoor.</p>
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 90px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/sathashivam.jpg" alt="" />;
 					</div>  
@@ -275,17 +287,6 @@
 					</div>  
 					<div style="width:35%;float: right;padding-top: 150px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;">photo received from<br /><strong>Ms. Mymoon Moghul</strong></span></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 40px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN3279.JPG" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>IIT Madras Class of 1978 Memoir 2019.</strong><br />contributed by</span> <span style="font-size: 1.5em;"><strong>Mr. Suresh Vemuri</strong></span></p>
 					</div>
                   </div>
                 </div>
