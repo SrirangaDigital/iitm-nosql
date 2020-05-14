@@ -177,7 +177,7 @@
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/CVS-INDU-WEDDING.jpg" alt="" />
 					</div>  
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">Photograph contributed by <strong>Mr. Anand Singh Bawa</strong>, alumnus, 1965 batch. This photograph was taken during the wedding of <strong>Prof. C.V. Seshadri</strong> and <strong>Ms. Indu</strong> with second batch students of IIT Madras.</p>
+						<p><span style="font-size: 1.5em;">Photograph contributed by <strong>Mr. Anand Singh Bawa</strong>, alumnus, 1965 batch. This photograph was taken during the wedding of <strong>Prof. C.V. Seshadri</strong> and <strong>Ms. Indumathi</strong> with second batch students of IIT Madras.</span></p>
 						<p>From Left to Right:<br />Mrs Indumathi, Prof. C.V. Seshadri, Mr. Ramesh A. Vaswani, Mr. R. Venkateswaran “Venkoba”, Mr. Basu John Vetteth, Mr. K. Mahesh, Mr. Srinivas Nageshwar “Shiner”, Mr. K. Narayanan “Ghost”, Mr. Anand Singh Bawa (hidden behind Ghost), Mr. M. Vikram Rao, Mr. B. Ramachandra Pai and Mr. Pritam Lal Kapur.</p>
 					</div>
                   </div>
