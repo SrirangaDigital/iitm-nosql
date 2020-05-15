@@ -161,11 +161,6 @@
                 <li data-target="#carousel" data-slide-to="2"></li>
                 <li data-target="#carousel" data-slide-to="3"></li>
                 <li data-target="#carousel" data-slide-to="4"></li>
-                <li data-target="#carousel" data-slide-to="5"></li>
-                <li data-target="#carousel" data-slide-to="6"></li>
-                <li data-target="#carousel" data-slide-to="7"></li>
-                <li data-target="#carousel" data-slide-to="8"></li>
-                <li data-target="#carousel" data-slide-to="9"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -225,68 +220,6 @@
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;">The photo is contributed by<br /><strong>Mr. T.S. Kuppuswami</strong></span></p>
 						<p>In the photo, Sarvapalli S. Radhakrishnan is dressed up by Mr. T.K Shankararaman and assisted by Mr. C. Narayan Kutty for the first Convocation of IIT Madras in 1964. Jayachamaraja Wadayar is also present in the photograph. Mr. T.K. Shankararaman is the father of Mr. T.S. Kuppuswami, Retd. Secretary, Public Relations, IIT Madras.</p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0111.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0114.JPG" alt="" /><br /><br />
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0116.JPG" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/0117.JPG" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">Photos by<br /><strong>Mymoon Moghul</strong></span></p>
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0384%3A+Mymoon+Moghul+collection+-+Insects%2C+Mammals+and+Others&Collection=Nature%20Collection">Click here for the complete album</a></p>						
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Basketball1983.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 110px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">Mount Carmel College, Bangalore winning the<br /><strong>Kokila Rajaiah Basketball Trophy</strong><br /> during <strong>GF/KR 1983</strong>.</span></p>
-						<p>photo received from alumnus <strong>Mr. N.S. Vinodh</strong>, B.Tech, Civil Engineering, graduated in the year 1986</p>	
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Skit_at_MG_1983.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 150px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>A skit during MG 1983</strong></span></p>
-						<p>photo received from alumnus <strong>Mr. N.S. Vinodh</strong>, B.Tech, Civil Engineering, graduated in the year 1986</p>	
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:55%;text-align: right;padding-top: 10px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2536.JPG" alt="" />&nbsp;&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN2537.JPG" alt="" />
-					</div>  
-					<div style="width:45%;float: right;padding-top: 150px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">books contributed by alumnus<br /><strong>Dr. Sandhya Sekhar.</strong></span></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:65%;text-align: right;padding-top: 40px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/blackbuckfamily.jpg" alt="" />
-					</div>  
-					<div style="width:35%;float: right;padding-top: 150px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">photo received from<br /><strong>Ms. Mymoon Moghul</strong></span></p>
 					</div>
                   </div>
                 </div>
