@@ -12,8 +12,8 @@
 				<li><a href="<?=BASE_URL?>public/data/zip/Campastimes.zip" download>Campastimes</a></li>
 				<li><a href="<?=BASE_URL?>public/data/zip/Spectator.zip">Spectator</a></li>
 				<li><a href="<?=BASE_URL?>public/data/zip/Hochronicle.zip">Hochronicle</a></li>
-				<li><a href="<?=BASE_URL?>public/data/zip/Mardi-Gras.zip">Mardi Gras</a></li>
-				<li><a href="<?=BASE_URL?>public/data/zip/Pradeep-Annual-Number.zip">Pradeep Annual Number</a></li>
+				<li><a href="<?=BASE_URL?>public/data/zip/Mardi-Gras.zip">Mardi Gras Souvenir</a></li>
+				<li><a href="<?=BASE_URL?>public/data/zip/Pradeep-Annual-Number.zip">Pradeep</a></li>
 				<li><a href="<?=BASE_URL?>public/data/zip/Souvenir-Volume.zip">Souvenir Volume</a></li>
 				<li><a href="<?=BASE_URL?>public/data/zip/Contour.zip">Contour</a></li>
 				<li><a href="<?=BASE_URL?>public/data/zip/Depth.zip">Depth</a></li>
