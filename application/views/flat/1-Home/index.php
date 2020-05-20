@@ -161,11 +161,24 @@
                 <li data-target="#carousel" data-slide-to="2"></li>
                 <li data-target="#carousel" data-slide-to="3"></li>
                 <li data-target="#carousel" data-slide-to="4"></li>
+                <li data-target="#carousel" data-slide-to="5"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Scan_Pic0034.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;">Photograph contributed by <strong>Mr. Anand Singh Bawa</strong>, alumnus, 1965 batch. This photograph was taken in Ooty, during the NCC summer camp in Ketti.</span></p>
+						<p>From Left to Right:<br />Mr. Sheikh Abdul Khader, Mr. Ramachandra Pai and Mr. Anand Singh Bawa.</p>
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
