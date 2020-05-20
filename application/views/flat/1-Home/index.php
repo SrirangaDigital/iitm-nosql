@@ -174,7 +174,7 @@
 					</div>  
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;">Photograph contributed by <strong>Mr. Anand Singh Bawa</strong>, alumnus, 1965 batch. This photograph was taken in Ooty, during the NCC summer camp in Ketti.</span></p>
-						<p>From Left to Right:<br />Mr. Sheikh Abdul Khader, Mr. Ramachandra Pai and Mr. Anand Singh Bawa.</p>
+						<p>From Left to Right:<br />Mr. Sheikh Abdul Khader, Mr. B. Ramachandra Pai and Mr. Anand Singh Bawa.</p>
 					</div>
                   </div>
                 </div>				
