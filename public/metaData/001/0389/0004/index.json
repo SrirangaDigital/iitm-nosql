@@ -2,6 +2,7 @@
     "id": "001/0389/0004",
     "AlbumID": "0389",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Brown Darner (&#60;i&#62;Zyxomma petiolatum&#60;/i&#62;)"
 }
