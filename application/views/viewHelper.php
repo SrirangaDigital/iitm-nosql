@@ -28,7 +28,7 @@ class viewHelper extends View {
             $str = implode(', ', $data);
         }
 
-        return $str;
+        return html_entity_decode($str);
     }
 
     public function formatDate($dateString = '') {
