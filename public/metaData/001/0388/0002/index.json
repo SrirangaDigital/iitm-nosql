@@ -2,6 +2,7 @@
     "id": "001/0388/0002",
     "AlbumID": "0388",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Moth (&#60;i&#62;Utetheisa&#60;/i&#62; sp.). Identification by Mr. Yuvadeeban"
 }
