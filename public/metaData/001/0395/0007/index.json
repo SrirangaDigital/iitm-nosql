@@ -2,6 +2,7 @@
     "id": "001/0395/0007",
     "AlbumID": "0395",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Pipal (&#60;i&#62;Ficus religiosa&#60;/i&#62;) (fresh leaves)"
 }
