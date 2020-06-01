@@ -2,13 +2,6 @@
     "id": "001/0432/0001",
     "AlbumID": "0432",
     "Type": "Photograph",
-<<<<<<< HEAD:public/metaData/001/0395/0009/index.json
-    "AccessLevel": 0,
-    "CollectionId": "0003",
-    "Caption": "&#60;i&#62;Ficus benghalensis&#60;/i&#62; (fruits and leaves)"
-}
-=======
     "AccessLevel": "0",
     "CollectionId": "0003"
 }
->>>>>>> 693ab1512fe646e4062e1a41fce5e64760075b6a:public/metaData/001/0432/0001/index.json
