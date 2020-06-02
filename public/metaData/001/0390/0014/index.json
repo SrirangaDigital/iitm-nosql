@@ -2,6 +2,7 @@
     "id": "001/0390/0014",
     "AlbumID": "0390",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Gorbale (&#60;i&#62;Ixora brachiata&#60;/i&#62;). Identification by Prof. Susy Varughese"
 }
