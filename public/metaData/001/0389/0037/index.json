@@ -2,6 +2,7 @@
     "id": "001/0389/0037",
     "AlbumID": "0389",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Malayan Lily-Squatter (&#60;i&#62;Paracercion malayanum&#60;/i&#62;) (male)"
 }

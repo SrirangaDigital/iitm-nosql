@@ -2,6 +2,7 @@
     "id": "001/0387/0002",
     "AlbumID": "0387",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": " Rose-ringed Parakeet"
 }

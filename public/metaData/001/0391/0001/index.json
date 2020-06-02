@@ -2,6 +2,7 @@
     "id": "001/0391/0001",
     "AlbumID": "0391",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Rat Snake (&#60;i&#62;Ptyas mucosa&#60;/i&#62;)"
 }

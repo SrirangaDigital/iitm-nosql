@@ -2,6 +2,7 @@
     "id": "001/0389/0031",
     "AlbumID": "0389",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": " Greater Crimson Glider (&#60;i&#62;Urothemis signata&#60;/i&#62;) (male)"
 }

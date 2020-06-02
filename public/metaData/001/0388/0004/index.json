@@ -2,6 +2,7 @@
     "id": "001/0388/0004",
     "AlbumID": "0388",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Cicada (&#60;i&#62;Platypleura octoguttata&#60;/i&#62;). Identification by Mr. Vivek Sarkar."
 }

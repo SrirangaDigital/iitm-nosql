@@ -4,5 +4,7 @@
     "AlbumID": "0203",
     "Species": "Ashy Drongo",
     "AccessLevel": 0,
-    "CollectionId": "0003"
+    "CollectionId": "0003",
+    "Caption": "Ashy Drongo",
+    "Place": "SAC, IIT Madras"
 }

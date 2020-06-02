@@ -2,6 +2,7 @@
     "id": "001/0389/0012",
     "AlbumID": "0389",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Grasshopper (&#60;it&#62;Anacridium&#60;/it&#62; sp., Family Acrididae)"
 }

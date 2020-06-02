@@ -1,7 +1,17 @@
 {
+<<<<<<< HEAD:public/metaData/001/0433/0072/index.json
 	"id": "001/0433/0072",
 	"Type": "Photograph",
 	"AlbumID": "0433",
 	"AccessLevel": 0,
 	"CollectionId": "0003"
 }
+=======
+    "id": "001/0389/0072",
+    "Type": "Photograph",
+    "AlbumID": "0389",
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "White-eyed Buzzard Eagle (&#60;i&#62;Butastur teesa&#60;/i&#62;) (sub-adult)"
+}
+>>>>>>> 9ceace9ba7211c650730c2e61d15e4ba37e25fdf:public/metaData/001/0389/0072/index.json

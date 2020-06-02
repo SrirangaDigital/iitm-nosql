@@ -2,6 +2,7 @@
     "id": "001/0389/0002",
     "AlbumID": "0389",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Ornate Narrow-mouthed Frog (&#60;it&#62;Microhyla ornata&#60;/it&#62;). Identification by Mr. Brihadeesh Santharam"
 }
