@@ -2,6 +2,7 @@
     "id": "001/0390/0015",
     "AlbumID": "0390",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": ""
 }

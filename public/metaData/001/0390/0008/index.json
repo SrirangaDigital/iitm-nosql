@@ -2,6 +2,8 @@
     "id": "001/0390/0008",
     "AlbumID": "0390",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Indian Laburnum or Golden Shower (&#60;i&#62;Cassia fistula&#60;/i&#62;)",
+    "": ""
 }
