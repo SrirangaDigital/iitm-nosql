@@ -2,6 +2,7 @@
     "id": "001/0390/0004",
     "AlbumID": "0390",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Copperpod or Rusty Shield Bearer (&#60;i&#62;Peltophorum pterocarpum&#60;/i&#62;)"
 }
