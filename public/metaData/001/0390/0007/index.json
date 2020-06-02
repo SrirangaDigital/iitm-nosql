@@ -2,6 +2,7 @@
     "id": "001/0390/0007",
     "AlbumID": "0390",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Red Silk Cotton (&#60;i&#62;Bombax ceiba&#60;/i&#62;)"
 }
