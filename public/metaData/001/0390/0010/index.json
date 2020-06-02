@@ -2,6 +2,7 @@
     "id": "001/0390/0010",
     "AlbumID": "0390",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Indian Pavetta (&#60;i&#62;Pavetta indica&#60;/i&#62;) (plant in bloom). August 2018. Identification by Dr. T. Badrinarayanan."
 }
