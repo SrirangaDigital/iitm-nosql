@@ -2,6 +2,7 @@
     "id": "001/0433/0017",
     "AlbumID": "0433",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Blackbuck (&#60;i&#62;Antilope cervicapra&#60;/i&#62;) including a male and a leucistic individual"
 }
