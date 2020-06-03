@@ -2,6 +2,7 @@
     "id": "001/0433/0060",
     "AlbumID": "0433",
     "Type": "Photograph",
-    "AccessLevel": "0",
-    "CollectionId": "0003"
+    "AccessLevel": 0,
+    "CollectionId": "0003",
+    "Caption": "Spotted Deer (&#60;i&#62;Axis axis&#60;/i&#62;) (three female individuals), Blackbuck (&#60;i&#62;Antilope cervicapra&#60;/i&#62;) (one young individual), Black Drongo (&#60;i&#62;Dicrurus macrocercus&#60;/i&#62;) and Common Myna  (&#60;i&#62;Acridotheres tristis&#60;/i&#62;)"
 }
