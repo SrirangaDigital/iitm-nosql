@@ -5,173 +5,211 @@
     "Date": "1960-04-25",
     "Toc": [
         {
-            "Title": "Annual Number",
-            "Author": "Md.Ghouse",
+            "Title": "Cover",
             "Page": "1",
+            "Images": "Deer Park, Photo by Md,Ghouse",
+            "articletype": "Cover page",
             "Keywords": "Photograph, Deer Park"
+        },
+        {
+            "Title": "Magazine Committee",
+            "Page": "2",
+            "articletype": "Committee List"
         },
         {
             "Title": "Our Institute Motto",
             "Page": "3",
-            "Keywords": "Institute Motto"
+            "articletype": "Institute Motto"
+        },
+        {
+            "Title": "Contents",
+            "Page": "4",
+            "articletype": "Contents"
         },
         {
             "Title": "Message",
             "Author": "Prof. B. Sengupto",
             "Page": "5",
-            "Keywords": "Annual Number"
+            "articletype": "Message",
+            "Keywords": "vision,new born,future possibilities,technical journal,telegrams,telephone number"
+        },
+        {
+            "Title": "List of Staff Members",
+            "Page": "6",
+            "articletype": "Staff Members",
+            "Keywords": "Staff, Director, Registrar,German Experts,Lecturers,Technical Assistants,Library,Works,Workshop,Office,Hostel,Part time"
         },
         {
             "Title": "Editorial",
             "Page": "7",
-            "Keywords": "Annual Number"
+            "Author": "S.S. Randhava and P.C. Gupta",
+            "articletype": "Editorial",
+            "Keywords": "Maiden issue,first institute day,looking back at achievements, contributions,acknowledgements"
         },
         {
             "Title": "An Editor's Job",
-            "Page": "7",
-            "Keywords": "Editor"
+            "Page": "7"
         },
         {
             "Title": "Chronicle for 1959-60",
-            "Author": "R.C.Sinha",
+            "Author": "R.C. Sinha",
             "Page": "8",
-            "Keywords": "Activity calendar, IIT Madras"
+            "articletype": "Chronology of events",
+            "Keywords": "admission, commencement of classes, inauguration of hostels, inauguration of institute, lecture, independence day celebrations, farewell, vinayak chathurthi pooja, debates, saraswathi pooja, deepavali celebrations, quiz programmes, republic day, annual athletic meet, annual quiz, annual recitation competition, first institute day, Dr. Krauss, Prof. B. Sengupto, C. Rajagopalachari"
         },
         {
             "Title": "Inauguration of the Institute",
             "Author": "Extracts from \"The Hindu\"",
             "Page": "9",
-            "Keywords": "Inauguration, IIT Madras"
+            "articletype": "Report",
+            "Keywords": "institute inauguation, Prof. Humayun Kabir, Federal Republic of Germany, education, reserach,knowledge, discoveries, inventions, the irrational matrix, scientific and technical education, the sandwich system, age of the engineer"
         },
         {
             "Title": "Amber-Old, Yet Not Forgotten",
-            "Author": "Y.Sahai",
+            "Author": "Y. Sahai",
             "Page": "11",
-            "Keywords": "Travelogue, Amber"
+            "articletype": "Travelogue",
+            "Keywords": "Amber, travel, tourist, palaces, gardens, Rajputs, elephant ride, Balidan, Temple of Sheela Devi, Sheesh Mahal, Jaighar, Mira Bhai's temple, Beauty, past"
         },
         {
             "Title": "My Team to Mars",
-            "Author": "R.Natarajan I.A.S",
+            "Author": "R. Natarajan IAS",
             "Page": "12",
-            "Keywords": "Cricket"
+            "articletype": "Humour",
+            "Keywords": "cricket team, space, captaincy, batsman, bowler, fieldsman"
         },
         {
             "Title": "\"Q\"",
-            "Author": "P.C.Gupta",
+            "Author": "P.C. Gupta",
             "Page": "14",
-            "Keywords": "Queues"
+            "articletype": "Article/Ethics",
+            "Keywords": "queueing, bye-laws, traffic, rights, time"
         },
         {
             "Title": "Lament of the Lamentable",
-            "Author": "P.S. Srinivasan, B.E",
+            "Author": "P.S. Srinivasan",
             "Page": "15",
-            "Keywords": "Poem, Love"
+            "articletype": "Poem",
+            "Keywords": "love, patience, tree, lady of my dreams, bus stop"
         },
         {
-            "Title": "Illumination Design- A survey",
-            "Author": "B.S.V. Gopalam, M.Sc",
+            "Title": "Illumination Design-A survey",
+            "Author": "B.S.V. Gopalam",
             "Page": "16",
-            "Keywords": "Illumination Engineering,"
+            "articletype": "Article", 
+            "Keywords": "Illumination engineering, theory, application, types of lighting, popularity of tube lights,efficiency of the fittings,designing illumination"
         },
         {
             "Title": "Brain Twisters",
-            "Author": "B.S.Baliga",
+            "Author": "B.S. Baliga",
             "Page": "18",
-            "Keywords": "Puzzles, Lateral thinking"
+            "articletype": "Riddles"
         },
         {
             "Title": "The Charms of Music",
-            "Author": "P.S.Sundaram",
+            "Author": "P.S. Sundaram",
             "Page": "19",
-            "Keywords": "Music"
+            "articletype": "Article",
+            "Keywords": "music,comfort,David,Beethoven,Mozart,Plato,beauty,tranquility"
         },
         {
-            "Title": "One World State- Only Solution to World Peace",
-            "Author": "R.C.Sinha",
+            "Title": "One World State-Only Solution to World Peace",
+            "Author": "R.C. Sinha",
             "Page": "20",
-            "Keywords": "Peace, Politics"
+            "articletype": "Article",
+            "Keywords": "one world state,supreme laws,U.N,H.G.Wells,nation,violence,eternal peace,prosperity"
         },
         {
             "Title": "A Society Hero",
-            "Author": "M.K.Suri",
+            "Author": "M.K. Suri",
             "Page": "22",
-            "Keywords": "Humour, Student"
+            "articletype": "Humour",
+            "Keywords": "mischie, student, class, funny, being merry, mimicry, awkward remarks, laughing stock"
         },
         {
             "Title": "About our Library",
-            "Author": "P.S. Srinivasan, B.A, Dip.Lib",
+            "Author": "P.S. Srinivasan",
             "Page": "23",
-            "Keywords": "Institue Library"
+            "articletype": "Report",
+            "Keywords": "Ministry of Scientific Research and Cultural Affairs,Government of India, books,Sciences and Humanities, list of books on Humanities"
         },
         {
             "Title": "On Humility",
-            "Author": "T. Gopichand, D.Sc",
+            "Author": "T. Gopichand",
             "Page": "24",
-            "Keywords": "Humility"
+            "articletype": "Opinion",
+            "Keywords": "empathy, pride, humbleness, humanity, feed-back mechanism, contemplation, goal"
         },
         {
             "Title": "Letter from Mr.Lamda to Miss. Theeta",
-            "Author": "K.Nayak",
+            "Author": "K. Nayak",
             "Page": "25",
-            "Keywords": "Humour, Love Letter, Mathematics"
+            "articletype": "Humour",
+            "Keywords": "love letter, lambda, theeta"
         },
         {
             "Title": "?",
-            "Author": "R.T.Narayanan",
+            "Author": "R.T. Narayanan",
             "Page": "25",
-            "Keywords": "Poem, Classes, Labs"
+            "articletype": "Poem",
+            "Keywords": "weekdays, classes, practicals, labs, pressure, rest, leisure"
         },
         {
             "Title": "Tit-Bits",
-            "Author": "V.Joshi",
+            "Author": "V. Joshi",
             "Page": "26",
-            "Keywords": "Humour"
+            "articletype": "Humour",            
+            "Keywords": "speaker, mother-in-law, letter"
         },
         {
             "Title": "Can You Tell?",
-            "Author": "P.C.Gupta",
+            "Author": "P.C. Gupta",
             "Page": "26",
-            "Keywords": "Humour, Questions, Intelligence, Contentment"
+            "articletype": "Humour",
+            "Keywords": "knowledge, pleasure, politics, wealth, intelligence, experience, reputation"
         },
         {
             "Title": "Our First Academic Year",
-            "Author": "D.Venkateswaralu, Ph.D",
+            "Author": "D. Venkateswaralu",
             "Page": "27",
-            "Keywords": "Report, 1959-1960"
+            "articletype": "Report",
+            "Keywords": "first institute day,C.LR.I Auditorium,A.C.College,courses committee,selection committee,student representatives"
         },
         {
             "Title": "Laugh A While",
             "Author": "Extracts",
             "Page": "29",
-            "Keywords": "Jokes"
+            "articletype": "Humour"
         },
         {
             "Title": "Definitions in Lighter Vein",
             "Author": "Extracts D.V",
             "Page": "30",
-            "Keywords": "Humour, Definitions"
+            "articletype": "Humour"
         },
         {
-            "Title": "Winners of events at the Annual Athletic Meet held on February 21,1960",
+            "Title": "Winners of events at the Annual Athletic Meet held on February 21, 1960",
             "Page": "31",
-            "Keywords": "Prize Winners, Annual Athletic Meet"
+            "articletype": "List"
         },
         {
             "Title": "Results of Tournaments",
             "Page": "33",
-            "Keywords": "Results, Tournaments"
+            "articletype": "List"
         },
         {
             "Title": "Sports Report",
-            "Author": "S.Randhawa",
+            "Author": "S. Randhawa",
             "Page": "34",
-            "Keywords": "Report, Sports Events"
+            "articletype": "Report",
+            "Keywords": "sports, games,athletic meet,sports committee"
         },
         {
             "Title": "Economy of Via-Media(Mixed Economy) An Advocacy",
-            "Author": "A.V.Rajagopalan, M.A",
+            "Author": "A.V. Rajagopalan",
             "Page": "34",
-            "Keywords": "Economic Policy, Industrial Policy Resolution 1956"
+            "articletype": "Article",            
+            "Keywords": "capitalism, communism, mixed economic policy,socialist society,Industrial Policy Resolution 1956,co-operation, public sector, private sector,economic progress"
         }
     ]
 }
