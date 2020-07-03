@@ -162,11 +162,25 @@
                 <li data-target="#carousel" data-slide-to="3"></li>
                 <li data-target="#carousel" data-slide-to="4"></li>
                 <li data-target="#carousel" data-slide-to="5"></li>
+                <li data-target="#carousel" data-slide-to="6"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/rowingphotos.jpg" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;">Photograph contributed by <strong>Mr. Monishi Sanyal</strong>, alumnus, 1969 batch. IIT rowing team that won the inter collegiate rowing competition. </span></p>
+						<p>Front to back or left to right are: Mr. Indrajit Ray (Bow), Mr. Umesh Dutta, Mr. MM Sanyal, Mr. JET Sargunar (Stroke) and Mr. Anag Chatterji (Cox)</p>
+						<p>Another set of rowing photos are available in the Gouri Shankar Collection, <a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0229%3A+Photos+for+Brochive+1969">Album no. 229.</a></p>
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
