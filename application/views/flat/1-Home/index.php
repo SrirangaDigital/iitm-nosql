@@ -325,11 +325,22 @@
                 <li data-target="#carousel-two" data-slide-to="4"></li>
                 <li data-target="#carousel-two" data-slide-to="5"></li>
                 <li data-target="#carousel-two" data-slide-to="6"></li>
+                <li data-target="#carousel-two" data-slide-to="7"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
 				<div class="item active">
+				  <h3  class="text-center">RECENT ACTIVITIES</h3>
+				  <div class="override-carousel-caption">
+					<div style="width:80%;padding-top: 30px;text-align: center;margin: 80px auto;">
+						<p class="caption-title" style="font-size: 3em;">The IIT Madras Archive</p>
+						<p>The Archive Project was inaugurated as part of the 60<sup>th</sup> anniversary celebration of IIT Madras in September 2019. The Archive of IIT Madras aims to preserve the institutional memory through the acquisition and preservation of records documenting teaching, research, administration, and the lives and activities of students, faculty and employees.</p>		
+						<p><a href="https://archive.iitm.ac.in/" target="_blank">https://archive.iitm.ac.in/</a></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
 				  <h3  class="text-center">RECENT ACTIVITIES</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
