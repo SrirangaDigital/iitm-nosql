@@ -174,7 +174,7 @@
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/rowingphotos.jpg" alt="" />
 					</div>  
 					<div style="width:60%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">Photograph contributed by <strong>Mr. Monishi Sanyal</strong>, alumnus, 1969 batch. IIT rowing team that won the inter collegiate rowing competition. </span></p>
+						<p><span style="font-size: 1.5em;">Photographs contributed by <strong>Mr. Monishi Sanyal</strong>, alumnus, 1969 batch. IIT Madras rowing team had won the inter collegiate rowing competition.</p>
 						<p>Front to back or left to right are: Mr. Indrajit Ray (Bow), Mr. Umesh Dutta, Mr. MM Sanyal, Mr. JET Sargunar (Stroke) and Mr. Anag Chatterji (Cox)</p>
 						<p>Another set of rowing photos are available in the Gouri Shankar Collection, <a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0229%3A+Photos+for+Brochive+1969">Album no. 229.</a></p>
 					</div>
