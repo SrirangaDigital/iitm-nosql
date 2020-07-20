@@ -163,11 +163,24 @@
                 <li data-target="#carousel" data-slide-to="4"></li>
                 <li data-target="#carousel" data-slide-to="5"></li>
                 <li data-target="#carousel" data-slide-to="6"></li>
+                <li data-target="#carousel" data-slide-to="7"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
+				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Dr_N_Klein.jpg" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;">This Photograph is contributed by <strong>Mr. Anand Singh Bawa</strong>, founding editor of Campastimes.</p>
+						<p>A late-1970s photograph of <strong>Dr. N. Klein</strong> and <strong>Mr. Anand Singh Bawa</strong>. <strong>Dr. N. Klein</strong> had been on a visit to New Delhi. By then he was already based in Stuttgart with responsibilities  at <strong>Deutsch-Indische Gesellschaft</strong>.</p>
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
 				  <h3  class="text-center">RECENTLY RECEIVED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
