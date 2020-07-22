@@ -339,11 +339,24 @@
                 <li data-target="#carousel-two" data-slide-to="5"></li>
                 <li data-target="#carousel-two" data-slide-to="6"></li>
                 <li data-target="#carousel-two" data-slide-to="7"></li>
+                <li data-target="#carousel-two" data-slide-to="8"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
 				<div class="item active">
+				  <h3  class="text-center">RECENT ACTIVITIES</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:35%;text-align: right;padding-top: 30px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/Annual_Report2019-20.jpg" alt="" />
+					</div>
+					<div style="float: right;width:65%;padding-top: 30px;padding-right: 20px;text-align: center;margin: 80px auto;">
+						<p class="caption-title" style="font-size: 3em;">Report of Activities of Heritage Centre. April 2019 to March 2020</p>
+						<p><a href="<?=PUBLIC_URL?>Resources/Heritage_Centre_IIT_Madras_Annual_Report2019-20.pdf" target="_blank">Click here to see the complete report</a></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
 				  <h3  class="text-center">RECENT ACTIVITIES</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:45%;text-align: right;padding-top: 30px;padding-right: 30px;">
