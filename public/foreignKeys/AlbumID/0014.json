@@ -1,9 +1,9 @@
 {
     "AlbumID": "0014",
-    "Date": "01-04-1965",
+    "Date": "1965-04-01",
     "Place": "OAT",
-    "Description": "Sri Natarajan's term as Registrar ended in 1965. A farewell party was organised in his honour in April. On this occassion he gave a speech titled 'A Garland of Memories'",
+    "Description": "Sri Natarajan&#39;s term as Registrar ended in 1965. A farewell party was organised in his honour in April. On this occassion he gave a speech titled &#39;A Garland of Memories&#39;",
     "ForeignKeyType": "AlbumID",
     "ForeignKeyId": "0014",
-    "Album": "Album 0014: Farewell party for Shri R. Natarajan, IAS"
+    "Album": "Album 0014: Farewell to Mr. R. Natarajan"
 }
