@@ -170,19 +170,52 @@
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/vijay-batra1.jpg" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
+						<p><span style="font-size: 1.5em;">Photos are contributed by <strong>Dr. Vijay Batra</strong>,<br />alumnus 1964 Pioneer batch</p>
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/vijay-batra2.jpg" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
+						<p><span style="font-size: 1.5em;">Photos are contributed by <strong>Dr. Vijay Batra</strong>,<br />alumnus 1964 Pioneer batch</p>
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/vijay-batra3.jpg" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
+						<p><span style="font-size: 1.5em;">Photos are contributed by <strong>Dr. Vijay Batra</strong>,<br />alumnus 1964 Pioneer batch</p>
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN4645.JPG" alt="" />
 					</div>  
 					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>Recently procured</strong></p>
+						<p><span style="font-size: 1.5em;"><strong>Added to our collection</strong></p>
 						<p></p>
 					</div>
                   </div>
                 </div>				
                 <div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Dr_N_Klein.jpg" alt="" />
@@ -194,7 +227,7 @@
                   </div>
                 </div>				
                 <div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/rowingphotos.jpg" alt="" />
@@ -207,7 +240,7 @@
                   </div>
                 </div>				
                 <div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Scan_Pic0034.jpg" alt="" />
@@ -219,7 +252,7 @@
                   </div>
                 </div>				
                 <div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/CVS-INDU-WEDDING.jpg" alt="" />
@@ -231,7 +264,7 @@
                   </div>
                 </div>				
                 <div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
+				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 90px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/sathashivam.jpg" alt="" />;
@@ -239,40 +272,6 @@
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
 						<p><span style="font-size: 1.5em;">Photos by <strong>Kumaran Sathasivam</strong></p>
 						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0389%3A+Sathasivam+collection+-+Insects%2C+Mammals+and+Others&Collection=Nature%20Collection">Click here for the complete album</a></p>
-					</div>
-                  </div>
-                </div>				
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div style="padding-top: 90px;padding-right: 100px;text-align: center;">
-						<p><span style="font-size: 2em;font-weight: bold;">A write-up of the days at Tharamani Hostel where we started</span></p>
-						<p>Written by <span style="font-size: 1.5em;"><strong>Dr. K.M. Kripanarayanan, 1965 IITM CE</strong></span></p>
-						<p><a href="<?=PUBLIC_URL?>images/stock/recently-received/Tharamani-Days.pdf" target="_blank">Click here for the complete article</a></p>
-					</div>
-                  </div>
-                </div>				
-                <div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Campastimes1976.jpg" alt="" />;
-					</div>  
-					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>The Campastimes 1976</strong><br />issue is contributed by<br /><strong>Mr. Srinivasan Sudarsanam</strong>, 1980 alumnus.</span></p>
-						<p><a href="<?=BASE_URL?>describe/artefact/002_002_1976-01?Publication=Campastimes">Click here for the complete issue</a></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENTLY RECEIVED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN4243.JPG" alt="" />;
-					</div>  
-					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">The photo is contributed by<br /><strong>Mr. T.S. Kuppuswami</strong></span></p>
-						<p>In the photo, Sarvapalli S. Radhakrishnan is dressed up by Mr. T.K Shankararaman and assisted by Mr. C. Narayan Kutty for the first Convocation of IIT Madras in 1964. Jayachamaraja Wadayar is also present in the photograph. Mr. T.K. Shankararaman is the father of Mr. T.S. Kuppuswami, Retd. Secretary, Public Relations, IIT Madras.</p>
 					</div>
                   </div>
                 </div>
