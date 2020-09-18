@@ -177,6 +177,7 @@
 					</div>  
 					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
 						<p><span style="font-size: 1.5em;">Photos are contributed by <strong>Dr. Vijay Batra</strong>,<br />alumnus 1964 Pioneer batch</p>
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0434%3A+Photos+contributed+by+Dr.+Vijay+Batra%2C+alumnus+1964+Pioneer+batch&Collection=Stray%20Feathers">Click here for the complete album</a></p>
 					</div>
                   </div>
                 </div>				
@@ -188,6 +189,7 @@
 					</div>  
 					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
 						<p><span style="font-size: 1.5em;">Photos are contributed by <strong>Dr. Vijay Batra</strong>,<br />alumnus 1964 Pioneer batch</p>
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0434%3A+Photos+contributed+by+Dr.+Vijay+Batra%2C+alumnus+1964+Pioneer+batch&Collection=Stray%20Feathers">Click here for the complete album</a></p>
 					</div>
                   </div>
                 </div>				
@@ -199,6 +201,7 @@
 					</div>  
 					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
 						<p><span style="font-size: 1.5em;">Photos are contributed by <strong>Dr. Vijay Batra</strong>,<br />alumnus 1964 Pioneer batch</p>
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0434%3A+Photos+contributed+by+Dr.+Vijay+Batra%2C+alumnus+1964+Pioneer+batch&Collection=Stray%20Feathers">Click here for the complete album</a></p>
 					</div>
                   </div>
                 </div>				
