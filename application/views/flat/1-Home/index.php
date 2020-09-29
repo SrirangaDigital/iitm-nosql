@@ -165,11 +165,23 @@
                 <li data-target="#carousel" data-slide-to="6"></li>
                 <li data-target="#carousel" data-slide-to="7"></li>
                 <li data-target="#carousel" data-slide-to="8"></li>
+                <li data-target="#carousel" data-slide-to="9"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN4812.JPG" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
+						<p><span style="font-size: 1.5em;">Contributed by <strong>Prof. DVR Seshadri</strong>,<br />son of <strong>Prof. D. Venkateswarlu</strong></p>
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
 				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
