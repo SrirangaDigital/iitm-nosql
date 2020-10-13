@@ -174,6 +174,19 @@
 				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/NSV.jpg" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
+						<p><span style="font-size: 1.5em;">Photos contributed by <strong>Mr. N.S. Vinod,</strong> alumnus 1986 batch</p>
+						<p>Group photo and inter-hostel races in 1982&ndash;83.</p>
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0435%3A+Photos+contributed+by+Mr.+N.S.+Vinod%2C+alumnus+1986+batch&Collection=N%20S%20Vinodh%20Collection">Click here for the album</a></p>
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN4812.JPG" alt="" />
 					</div>  
 					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
@@ -278,18 +291,6 @@
 					</div>
                   </div>
                 </div>				
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/sathashivam.jpg" alt="" />;
-					</div>  
-					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">Photos by <strong>Kumaran Sathasivam</strong></p>
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0389%3A+Sathasivam+collection+-+Insects%2C+Mammals+and+Others&Collection=Nature%20Collection">Click here for the complete album</a></p>
-					</div>
-                  </div>
-                </div>
               </div>
 
               <!-- Controls -->
