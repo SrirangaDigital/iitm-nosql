@@ -169,8 +169,28 @@
               </ol>
 
               <!-- Wrapper for slides -->
+              	
               <div class="carousel-inner" role="listbox">
-                <div class="item active">
+                
+              	<div class="item active">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/ready.jpg" alt="" style:width="400px" height="400px"/>
+					</div>  
+					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
+								<p><span style="font-size: 1.5em;">Photograph contributed by <strong>Mr. V Srinivasan (a.k.a."Bulky")</strong>
+									His roll number was 1.086/63<br />
+									He is an alumnus of class of 1969 B.Tech. Mechanical Engineering.
+									<strong>The contributed items were German Textbook, German English Glossary, "Staedler" Drawing Instrument Set and "Aristo Studio" Slide Rule. 
+									</strong> 
+
+						<!-- <p>From Left to Right:<br />Mrs Indumathi, Prof. C.V. Seshadri, Mr. Ramesh A. Vaswani, Mr. R. Venkateswaran “Venkoba”, Mr. Basu John Vetteth, Mr. K. Mahesh, Mr. Srinivas Nageshwar “Shiner”, Mr. K. Narayanan “Ghost”, Mr. Anand Singh Bawa (hidden behind Ghost), Mr. M. Vikram Rao, Mr. B. Ramachandra Pai and Mr. Pritam Lal Kapur.</p> -->
+					</div>
+                  </div>
+                </div>				
+                <div class="item">
+
 				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
@@ -278,20 +298,10 @@
 						<p>From Left to Right:<br />Mr. Sheikh Abdul Khader, Mr. B. Ramachandra Pai and Mr. Anand Singh Bawa.</p>
 					</div>
                   </div>
-                </div>				
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/CVS-INDU-WEDDING.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">Photograph contributed by <strong>Mr. Anand Singh Bawa</strong>, founding editor of Campastimes. This photograph was taken during the wedding of <strong>Prof. C.V. Seshadri</strong> and <strong>Ms. Indumathi</strong> with second batch students of IIT Madras</span></p>
-						<p>From Left to Right:<br />Mrs Indumathi, Prof. C.V. Seshadri, Mr. Ramesh A. Vaswani, Mr. R. Venkateswaran “Venkoba”, Mr. Basu John Vetteth, Mr. K. Mahesh, Mr. Srinivas Nageshwar “Shiner”, Mr. K. Narayanan “Ghost”, Mr. Anand Singh Bawa (hidden behind Ghost), Mr. M. Vikram Rao, Mr. B. Ramachandra Pai and Mr. Pritam Lal Kapur.</p>
-					</div>
-                  </div>
-                </div>				
-              </div>
+                </div>	
+
+              </div>			
+                
 
               <!-- Controls -->
               <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
