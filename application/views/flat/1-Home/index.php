@@ -180,8 +180,7 @@
 					</div>  
 					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
 								<p><span style="font-size: 1.5em;">Items contributed by <strong>Mr. V Srinivasan (a.k.a."Bulky")</strong>
-									His roll number was 1.086/63<br />
-									He is an alumnus of class of 1969 B.Tech. Mechanical Engineering.
+									an alumnus, class of 1969 B.Tech. Mechanical Engineering.<br />
 									<strong>The contributed items were German Textbook, German English Glossary, "Staedler" Drawing Instrument Set and "Aristo Studio" Slide Rule. 
 									</strong> 
 
