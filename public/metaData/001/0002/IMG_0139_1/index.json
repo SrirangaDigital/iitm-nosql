@@ -2,8 +2,9 @@
     "id": "001/0002/IMG_0139_1",
     "Type": "Photograph",
     "AlbumID": "0002",
-    "Caption": "Dr. A.L. Mudaliar declares the convocation open. From left on the dais: Prof. M.V.C. Shastri, Prof. S. Rajaraman (Director of Technical Education, Kerala), xxx, Prof. B. Sengupto and Mr. M.C. Chagla.",
+    "Caption": "Dr. A.L. Mudaliar declares the convocation open.",
     "Event": "Second Convocation",
     "AccessLevel": 0,
-    "CollectionId": "0001"
+    "CollectionId": "0001",
+    "Description": "From left on the dais: Prof. M.V.C. Shastri, Prof. S. Rajaraman (Director of Technical Education, Kerala), xxx, Prof. B. Sengupto and Mr. M.C. Chagla."
 }
