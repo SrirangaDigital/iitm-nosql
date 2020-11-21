@@ -28,9 +28,10 @@ class viewHelper extends View {
             $str = implode(', ', $data);
         }
         
-        if(preg_match('/href="URL:/', $str)){
+        if(preg_match('/URL:/', $str)){
 			
-			$str = str_replace('href="URL:', 'href="'. BASE_URL, $str);
+			$str = html_entity_decode($str);
+			$str = str_replace('URL:', BASE_URL, $str);
 		}
 
         return html_entity_decode($str);
