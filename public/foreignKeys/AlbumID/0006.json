@@ -1,8 +1,7 @@
 {
     "AlbumID": "0006",
-    "Date": "22-07-1967",
+    "Date": "1967-07-22",
     "Place": "OAT",
-    "Description": "Addressed By Dr. C. Rajagopalachari, Governor",
     "ForeignKeyType": "AlbumID",
     "ForeignKeyId": "0006",
     "Album": "Album 0006: Fourth Convocation, 1967"
