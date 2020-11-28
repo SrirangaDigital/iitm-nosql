@@ -1,9 +1,9 @@
 {
     "AlbumID": "0006",
-    "Date": "22-07-1967",
+    "Date": "1967-07-22",
     "Place": "OAT",
-    "Description": "Addressed By Dr. C. Rajagopalachari, Governor",
     "ForeignKeyType": "AlbumID",
     "ForeignKeyId": "0006",
-    "Album": "Album 0006: Fourth Convocation, 1967"
+    "Album": "Album 0006: Fourth Convocation, 1967",
+    "Photographer": "C. Gourishankar (1936-2002). A geologist by qualification, Gourishankar started his career as a photographer after working for many years with the Geological Survey of India. In everything that he did, Gourishankar strove to achieve flawlessness and impeccable quality. Thus his photography too was characterised by this drive for perfection. Every photograph that Gourishankar took was meticulously planned and shot and printed with diligence and patience. Gourishankar carried out most of the official photography at IIT Madras in the 1960s."
 }
