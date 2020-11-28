@@ -1,96 +1,169 @@
 {
+    "Toc": [
+        {
+            "Title": "Message",
+            "Page": "1",
+            "Author": "B. Sengupto",
+            "Category": "Message"
+        },
+        {
+            "Title": "Reflections on Independence",
+            "Page": "1",
+            "Author": "Dr. M. S. Vairanapillai",
+            "Category": "Article",
+            "Keywords": "English, American, Tacitus,German,Roman, Indians, India, British period, Raja Ram Mohan Roy"
+        },
+        {
+            "Title": "Nirmala",
+            "Page": "1",
+            "Author": "K. M. Kripanarayanan",
+            "Category": "Story",
+            "Keywords": "Sekar,Nirmala"
+        },
+        {
+            "Title": "On the Importance of Triviality",
+            "Page": "2",
+            "Author": "V. Ranganathan",
+            "Category": "Article",
+            "Keywords": "Newton,Emerson"
+        },
+        {
+            "Title": "The Sunset",
+            "Page": "2",
+            "Author": "S. Vijaya Raghavan",
+            "Category": "Poem"
+        },
+        {
+            "Title": "Reflections on Independence (Continued from page 1)",
+            "Page": "2",
+            "Author": "Dr. M. S. Vairanapillai",
+            "Category": "Article",
+            "Keywords": "Abraham Lincoln, Kashmir, West Punjab, East Bengal, American, British Systems, Zamindari system, Pancha Sheela, Five Year Plans, Indians, I. I. T"
+        },
+        {
+            "Title": "Personalities : Dr. C. V. Seshadri",
+            "Page": "3",
+            "Category": "Article",
+            "Keywords": "Dr. C. V. Seshadri, River Colorado, Grand Canyon, Fuels Lab, Peter Cheyney",
+            "Images": "Portrait of Dr. C. V. Seshadri"
+        },
+        {
+            "Title": "Late News",
+            "Page": "3",
+            "Category": "News",
+            "Keywords": "Prof. R. Krishnamurti, Science and Humanities Block, India, The World University Service Conference, Tokyo, Pahaiappa"
+        },
+        {
+            "Title": "Towards Independence",
+            "Page": "3",
+            "Author": "Louis Fischer",
+            "Category": "Article",
+            "Keywords": "Lord Wavell, Calcutta, Indian, Gandhi, Jinnah, Bombay, Pakistan, India, Congress, Muslim League, Mountbatten, Royal Empire Society, Roosevelt, Churchill, Mohammad, Christ, Rajkumari Amrit Kaur, Muslim, St. Francis of Assisi"
+        },
+        {
+            "Title": "Quotes",
+            "Page": "3",
+            "Category": "Quotes",
+            "Keywords": "Leo Tolstoy, Letter to George Thomson"
+        },
+        {
+            "Title": "Some Recent Research",
+            "Page": "3",
+            "Author": "V. S",
+            "Category": "Article",
+            "Keywords": "The Department of Catering Technology and Applied Nutrition Research, I. I. T. Library, S. Chandrashekr, Grimms Fairy Tales, Mein Kampf, S. K. Srinivasan"
+        },
+        {
+            "Title": "Editorial: She and You",
+            "Page": "4",
+            "Category": "Editorial",
+            "Keywords": "Kashmir, Campastimes",
+            "Images": "Potrait"
+        },
+        {
+            "Title": "Literary Activities Committee",
+            "Page": "4",
+            "Category": "List",
+            "Keywords": "Prof. Krishnamurthy, Japan, Institutte Gymkhana"
+        },
+        {
+            "Title": "Traveling Light (with apologies to Cliff Richards)",
+            "Page": "4",
+            "Author": "V. S",
+            "Category": "Poem",
+            "Keywords": "Cliff Richards"
+        },
+        {
+            "Title": "News and Views",
+            "Page": "4",
+            "Author": "Surjit Randhawa",
+            "Category": "Personal Anecdotes",
+            "Keywords": "Bawa, Mahesh, Cauvery Hostel, Dr, A. N. Khosla, Planning Commission, National Institute of Sciences of India, India, Dr. M. V. C. Sastry, Raj Bhavan, Mr. Ramaswamy, Dr. Kraus, Prof. Sampath, Shri. Mehdi Nawaz Jung, Gujarat, Central Lalit Kala Academi, Mr. Dubey, Antivox, Taramani Gate, Guindy Road Dr. Klein, German Government"
+        },
+        {
+            "Title": "Letter to the Editor",
+            "Page": "4",
+            "Author": "Surjit Randhawa",
+            "Category": "Letter Note"
+        },
+        {
+            "Title": "IIT Co-operative Stores",
+            "Page": "4",
+            "Category": "Advertisement"
+        },
+        {
+            "Title": "Nirmala(Continued from page 1)",
+            "Page": "5",
+            "Author": "K. M. Kripanarayanan",
+            "Category": "Story",
+            "Keywords": "Nirmala, Zamindar, Sekar",
+            "Images": "Portrait of a Lady"
+        },
+        {
+            "Title": "Suitable Government for Underdeveloped Nations",
+            "Page": "5",
+            "Author": "P.Poornanjaneya Sastry",
+            "Category": "Article",
+            "Keywords": "Russian Government, Russia, World War I"
+        },
+        {
+            "Title": "On National Integration",
+            "Page": "6",
+            "Author": "T. V. G. Krishnamurthy, D. B. Venkatesvarlu",
+            "Category": "Article",
+            "Keywords": "I. I. T, Mother India, Jai Hind"
+        },
+        {
+            "Title": "The Tower of Wisdom",
+            "Page": "6",
+            "Author": "M.Venkateswara Rao",
+            "Category": "Article",
+            "Keywords": "India, West Germany, Rome, Russia, Gothic style, Baroque, Byzantine Delhi, Indian, Russian"
+        },
+        {
+            "Title": "Hydraulics",
+            "Page": "6",
+            "Category": "Humour",
+            "Keywords": "Sahara Hostel, Kalahari Hostel, Arabian Hostel Beatnik Club, Mr. Randhawa, I.I.T, Eskimos, Oxford Dictionary"
+        },
+        {
+            "Title": "Suitable Government for Underdeveloped Nations (Continued from page 5)",
+            "Page": "6",
+            "Author": "P.Poornanjaneya Sastry",
+            "Category": "Article",
+            "Keywords": "Democracy, Marxism"
+        },
+        {
+            "Title": "Details of the publication",
+            "Page": "6",
+            "Category": "Description",
+            "Keywords": "Anand Singh Baws, Dr. N. Klein, Diocesan Press, Vepery, Madras"
+        }
+    ],
     "id": "002/002/1962-08",
     "Type": "Publication",
     "Publication": "Campastimes",
     "Volume": "I",
     "Issue": "1",
-    "Date": "1962-08-15",
-    "Toc": [
-        {
-            "Title": "Message",
-            "Author": "B. Sengupto",
-            "Page": "1"
-        },
-        {
-            "Title": "Reflections On Independence ",
-            "Author": "Dr. M. S. Vairanapillai",
-            "Page": "1,2"
-        },
-        {
-            "Title": "Nirmala",
-            "Author": "K. M. Kripanarayanan",
-            "Page": "1,5"
-        },
-        {
-            "Title": "On The Importance Of Triviality",
-            "Author": "R. Ranganathan",
-            "Page": "2"
-        },
-        {
-            "Title": "The Sunset'",
-            "Author": "S. Vijaya Raghavan",
-            "Page": "2"
-        },
-        {
-            "Title": "Personalities",
-            "Author": "Dr. C. V. Seshadri",
-            "Page": "3"
-        },
-        {
-            "Title": "Late News",
-            "Author": "Leo Tolstoy",
-            "Page": "3"
-        },
-        {
-            "Title": "Towards Independence",
-            "Author": "Louis Fischer",
-            "Page": "3"
-        },
-        {
-            "Title": "Some Recent Research",
-            "Author": "V. S.",
-            "Page": "3"
-        },
-        {
-            "Title": "Bibliographies",
-            "Page": "3"
-        },
-        {
-            "Title": "Editorial",
-            "Page": "4"
-        },
-        {
-            "Title": "Travelling Light",
-            "Author": "V. S.",
-            "Page": "4"
-        },
-        {
-            "Title": "News and Views",
-            "Author": "Surjit Randhava",
-            "Page": "4"
-        },
-        {
-            "Title": "Letter To The Editor",
-            "Author": "Surjit Randhava",
-            "Page": "4"
-        },
-        {
-            "Title": "Suitable Government For Underdeveloped Nations",
-            "Page": "5,6"
-        },
-        {
-            "Title": "On National Integration",
-            "Author": "T. V. G. Krishnamurthy",
-            "Page": "6"
-        },
-        {
-            "Title": "The Tower Of Wisdom",
-            "Author": "M. Venkateswara Rao",
-            "Page": "6"
-        },
-        {
-            "Title": "Hydraulics",
-            "Page": "6"
-        }
-    ]
+    "Date": "1962-08-15"
 }

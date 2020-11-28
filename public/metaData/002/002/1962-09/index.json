@@ -1,129 +1,274 @@
 {
+    "Toc": [
+        {
+            "Title": "Those Good Old Days",
+            "Page": "1",
+            "Author": "T. S. Ananthu",
+            "Category": "Personal anecdote",
+            "Keywords": "I. I. T, Madras, Indian Institite of Technology, A. C. College of Engineering, Central Leather Research Institute,Pro. Humayun Kabir"
+        },
+        {
+            "Title": "Image : All Roads lead to (de)fence",
+            "Page": "1",
+            "Category": "Photograph",
+            "Images": "Image of a defence equipment"
+        },
+        {
+            "Title": "15ths AND 26ths",
+            "Page": "1",
+            "Author": "R. Prabhakar",
+            "Category": "Article",
+            "Keywords": "Independence Day",
+            "Images": "Nil"
+        },
+        {
+            "Title": "Dear Reader",
+            "Page": "1",
+            "Images": "Birth of Campastimes"
+        },
+        {
+            "Title": "Those Good Old Days (Continued from page 1)",
+            "Page": "2",
+            "Author": "T. S. Ananthu",
+            "Category": "Personal anecdote",
+            "Keywords": "Deer Sanctuary, Mr. Siddhartha, I. I. T, Jim Corbett, Mr. Chowdhry, Leather Institute, Mr. Anand Singh Bawa, Tharamani Hostel, Krishna Hostel, Saidapet, A. C. College, Dr. Koch"
+        },
+        {
+            "Title": "15ths and 26ths (Continued from page 1)",
+            "Page": "2",
+            "Author": "R. Prabhakar",
+            "Category": "Article",
+            "Keywords": "The Punjab Government, Gandhi, Kashmir, Red China, Naga"
+        },
+        {
+            "Title": "iitian cariCATures -2",
+            "Page": "3",
+            "Author": "M. V. R",
+            "Category": "Caricature",
+            "Keywords": "Delhi, Kaveri Hostel, Riding Club, Stone Age",
+            "Images": "Caricature of Anand Singh Bawa"
+        },
+        {
+            "Title": "Thoughts in a coffin!",
+            "Page": "3",
+            "Author": "N. Ramesh",
+            "Category": "Poem"
+        },
+        {
+            "Title": "Don't fence us in",
+            "Page": "3",
+            "Author": "D. J. Nirmal",
+            "Category": "Humor",
+            "Keywords": "Messrs, Fowler, Coulson, Onions, Little, Shorter Oxford English Dictionary on Historical Principles, Rupee, Raj Bhavan Park, I. I. T"
+        },
+        {
+            "Title": "On Prayer",
+            "Page": "3",
+            "Author": "Kripanarayanan",
+            "Category": "Article",
+            "Keywords": "The Zulus, Africa, Australia, Cardinal Newman"
+        },
+        {
+            "Title": "Editorial",
+            "Page": "4",
+            "Category": "Editorial",
+            "Keywords": "I. I. T, Adyar Road, N. C. C, Shantikunj, Krishna hostel, Velachery, Banyan Avenue, Film Club"
+        },
+        {
+            "Title": "News and Views",
+            "Page": "4",
+            "Author": "Surjit Randhawa",
+            "Category": "Article",
+            "Keywords": "Vostok IV, Vostok III, Narmada Hostel, Dr. M. V. C. Sastry, Dr.R. R. Sastry, Oscar, Agricultural Research Centre, Madras, I. I. T Market Centre, Prof. Sampath, Mr. Planck, Madame Pompadour, Paris, Gandhinagar, Gymkhana"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "4",
+            "Author": "R. S. Sehgal",
+            "Category": "Letter",
+            "Keywords": "Nirmala, Madras, Bombay, O. Henry"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "4",
+            "Author": "C. C",
+            "Category": "Letter",
+            "Keywords": "Kaveri"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "4",
+            "Author": "Anonymous",
+            "Category": "Letter",
+            "Keywords": "Bible"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "4",
+            "Author": "Anonymous",
+            "Category": "Letter"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "5",
+            "Author": "Anonymous",
+            "Category": "Letter",
+            "Keywords": "H. G. Wells"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "5",
+            "Author": "V. Siddhartha",
+            "Category": "Letter",
+            "Keywords": "Bangalore"
+        },
+        {
+            "Title": "Literary Activities",
+            "Page": "5",
+            "Category": "Report",
+            "Keywords": "Literary Activities Committee, Independence Day, India, China, R. A. Vaswani, T. S. Ananthu, V. Siddhartha, Prof. Thangaraj, Madras Christian College, R. Venkateswaran, Vikram Rao, All India Radio"
+        },
+        {
+            "Title": "Over a Cup of Aye Aye Tea",
+            "Page": "5",
+            "Author": "V. S",
+            "Category": "Humor",
+            "Keywords": "Physics Department, Department of Chemical Engineering, Civil Engineering Block, Cybernetics, Norbert Weiners, George Orwell, I. I. T Supermarket"
+        },
+        {
+            "Title": "The Growmore Hair Campaign",
+            "Page": "5",
+            "Author": "M. V. R",
+            "Category": "Humor",
+            "Keywords": "Dr. Klein, Mount Road, Mahesh, Independence Day, Krishna Hostel, G. Verghese"
+        },
+        {
+            "Title": "The Water Problem",
+            "Page": "5",
+            "Category": "Cartoon",
+            "Keywords": "Andhra, Krishna, Tamil Nad, Kaveri, Gujerat, Narbada",
+            "Images": "Cartoon"
+        },
+        {
+            "Title": "Seventh Indian Standards Convention",
+            "Page": "6",
+            "Category": "Report",
+            "Keywords": "Calcutta, Standards of Weight and Measures Act 1956, Indian Standards Institution, Manak Bhavan, New Delhi, Mathura Road"
+        },
+        {
+            "Title": "Sports",
+            "Page": "6",
+            "Category": "Report",
+            "Keywords": "I. I. T, Subba Rao, Bertram Cup, Prasad, Loyola, Jain College Tennis Tournament, N. Srinivasan, A. C. College, Bertram Tournament, R. P. Shetty, Lionel Paul, Coimbatore"
+        },
+        {
+            "Title": "Auction Notice",
+            "Page": "6",
+            "Category": "Humor",
+            "Keywords": "National Cleanliness Day, Civil Engineering Building",
+            "Images": "Photograph of discarded Institute Furnitures"
+        },
+        {
+            "Title": "Beginner's Luck",
+            "Page": "6",
+            "Author": "M. Vikram Rao",
+            "Category": "Story",
+            "Keywords": "Ramesh, Satish"
+        },
+        {
+            "Title": "On Prayer (Continued from page 3)",
+            "Page": "6",
+            "Author": "Kripanarayanan",
+            "Category": "Article",
+            "Keywords": "Lord Tennyson"
+        },
+        {
+            "Title": "Messages from the Top",
+            "Page": "7",
+            "Category": "Humor",
+            "Keywords": "Pavel Popovich, Campastimes, I. I. T, Mars, Moon, Earth, Master Tara Singh, Akali Dal, Indian Institute of Technology, Madras India, Soviet Union, Mr. Venkateswara Rao, Mr. Poornanjaneya Sastry"
+        },
+        {
+            "Title": "Snakes grow fast in Raj Bhavan",
+            "Page": "7",
+            "Author": "\"From \"\"The Hindu\"\" \"",
+            "Category": "Report",
+            "Keywords": "Raj Bhavan Estate, Indian Institute of Technology"
+        },
+        {
+            "Title": "Snakes and Bachelors",
+            "Page": "7",
+            "Author": "Bachelor'",
+            "Category": "Humor",
+            "Keywords": "Campus Quarters, Raj Bhavan"
+        },
+        {
+            "Title": "Ali Baba's Cave",
+            "Page": "7",
+            "Author": "Kuruvilla Thomas K",
+            "Category": "Humor",
+            "Keywords": "Cauvery"
+        },
+        {
+            "Title": "\"From : \"\"Machine Design\"\" \"",
+            "Page": "7",
+            "Author": "V. S",
+            "Category": "Humor",
+            "Keywords": "Los Alamos"
+        },
+        {
+            "Title": "On Being Oneself",
+            "Page": "7",
+            "Author": "V. Ranganathan",
+            "Category": "Article",
+            "Keywords": "Jack and Tom"
+        },
+        {
+            "Title": "Go-Kart!! Cart!",
+            "Page": "7",
+            "Author": "R. S. Sehgal",
+            "Category": "Poem",
+            "Keywords": "I. I. T",
+            "Images": "Caricature of go-karting"
+        },
+        {
+            "Title": "Film Club Advertisement",
+            "Page": "8",
+            "Category": "Advertisement",
+            "Keywords": "P. L. Kapur"
+        },
+        {
+            "Title": "The First Night",
+            "Page": "8",
+            "Author": "D. D. Samuel",
+            "Category": "Personal Anecdote",
+            "Keywords": "Guindy Hostel, Indian Institute of Technology"
+        },
+        {
+            "Title": "\"\"\"Haircut, Please\"\" \"",
+            "Page": "8",
+            "Author": "R. A. Vaswani",
+            "Category": "Humor",
+            "Keywords": "Sikhs, Elvis Presley, Yul Brynner, China, Hindi"
+        },
+        {
+            "Title": "In Love's Holiness Burn",
+            "Page": "8",
+            "Author": "N. Ramesh",
+            "Category": "Poem"
+        },
+        {
+            "Title": "On Being Oneself (Continued from page 7)",
+            "Page": "8",
+            "Author": "V. Ranganathan",
+            "Category": "Article",
+            "Keywords": "Laissez-faire, Aesop's fables"
+        }
+    ],
     "id": "002/002/1962-09",
     "Type": "Publication",
     "Publication": "Campastimes",
     "Volume": "I",
     "Issue": "2",
-    "Date": "1962-09-15",
-    "Toc": [
-        {
-            "Title": "Those Good Old Days",
-            "Page": "1"
-        },
-        {
-            "Title": "Why do you. . . .",
-            "Page": "2"
-        },
-        {
-            "Title": "iitian cariCATures—2",
-            "Author": "M. V. R.",
-            "Page": "3"
-        },
-        {
-            "Title": "Thoughts In A Coffin!",
-            "Author": "D. J. Nirmal.",
-            "Page": "3"
-        },
-        {
-            "Title": "0n Prayer",
-            "Author": "Kripanarayanan",
-            "Page": "3,6"
-        },
-        {
-            "Title": "Editorial",
-            "Page": "4"
-        },
-        {
-            "Title": "Bad Morning, Sir!",
-            "Author": "M. V. R.",
-            "Page": "3",
-            "Keywords": "Humour, Krishna Hostel, Testimonial"
-        },
-        {
-            "Title": "On Partinga And Meetings",
-            "Author": "V. Ranganathan",
-            "Page": "3"
-        },
-        {
-            "Title": "Editorial",
-            "Page": "4"
-        },
-        {
-            "Title": "News And Views",
-            "Author": "Surjit Randhava",
-            "Page": "4"
-        },
-        {
-            "Title": "Letters To The Editor",
-            "Author": "R. S. Sehgal.",
-            "Page": "4,5"
-        },
-        {
-            "Title": "Over A Cup of Aye Aye Tea",
-            "Author": "V. S.",
-            "Page": "5"
-        },
-        {
-            "Title": "The Growmore Hair Campaign",
-            "Page": "5",
-            "Author": "M. V. R."
-        },
-        {
-            "Title": "Seventh Indian Standards Convention",
-            "Page": "6"
-        },
-        {
-            "Title": "Sports",
-            "Page": "6"
-        },
-        {
-            "Title": "Beginner’s Luck",
-            "Author": "M. Vikram Rao",
-            "Page": "6"
-        },
-        {
-            "Title": "Messages From The Top",
-            "Author": "Pavel Popovich.",
-            "Page": "7"
-        },
-        {
-            "Title": "Snakes and Bachelors",
-            "Page": "7"
-        },
-        {
-            "Title": "Ali Baba’s Cave",
-            "Author": "K. Kuruvilla Thomas",
-            "Page": "7"
-        },
-        {
-            "Title": "On Being Oneself",
-            "Author": "V. Ranganathan",
-            "Page": "7"
-        },
-        {
-            "Title": "Go—Kart!! Cart!",
-            "Author": "R. S. Sehgal.",
-            "Page": "7"
-        },
-        {
-            "Title": "Why don’t you . . .",
-            "Author": "P. L. Kapur.",
-            "Page": "8"
-        },
-        {
-            "Title": "The First Night",
-            "Author": "D. D. Samuel",
-            "Page": "8"
-        },
-        {
-            "Title": "Haircut, Please!",
-            "Author": "R. A. Vaswani",
-            "Page": "8"
-        },
-        {
-            "Title": "In Love’s Holiness Burn",
-            "Author": "N. Ramesh.",
-            "Page": "8"
-        }
-    ]
+    "Date": "1962-09-15"
 }

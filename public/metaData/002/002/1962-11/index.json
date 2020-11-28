@@ -1,136 +1,229 @@
 {
+    "Toc": [
+        {
+            "Title": "A Call to the Youth An Assurance to the Nation A Challenge to the Chinese",
+            "Page": "1",
+            "Author": "R. S. Sehgal",
+            "Category": "Article",
+            "Keywords": "Chinese, Indian, Huen Tsang, Mao Tse-Tung",
+            "Images": "Indian soldiers defending the borders"
+        },
+        {
+            "Title": "A Question of Policy",
+            "Page": "1",
+            "Author": "Anand Singh Bawa",
+            "Category": "Article",
+            "Keywords": "Chinese, NEFA, Sino-Indian, Gobi Desert, Russia, Britain, Hitler, Ladakh, Indian, Delhi"
+        },
+        {
+            "Title": "A Call (Continued from page 1 )",
+            "Page": "2",
+            "Category": "Article",
+            "Keywords": "Chinese, Muslim, British, Five Year Plan, Indian Nation"
+        },
+        {
+            "Title": "A Question of Policy (Continued from page 1 )",
+            "Page": "2",
+            "Category": "Article",
+            "Keywords": "India, McMahon, Chinese, Tibetans, Second World War, Burma, Nepal, Russia, China, Panch Sheel"
+        },
+        {
+            "Title": "Bad Bad Almond Eyes",
+            "Page": "2",
+            "Author": "Surjit Randhawa",
+            "Category": "Article",
+            "Keywords": "Mao, Chinese, Marxism, India, China, Hong Kong, Chou En-lai, Formosa, President Kennedy, Die Zeit, Kashmir, I. I. T Madras, Kharagpur"
+        },
+        {
+            "Title": "Jawan's Fund",
+            "Page": "2",
+            "Author": "Campastimes News Service",
+            "Category": "Notice",
+            "Keywords": "Indian Institute of Technology, Madras, Jawan's Fund, Jawan's Blood Fund"
+        },
+        {
+            "Title": "Itanian cariCATures (4)",
+            "Page": "3",
+            "Author": "M. V. R",
+            "Category": "Caricature",
+            "Keywords": "Randhir Singh Sehgal",
+            "Images": "Caricature of R. S. Sehgal"
+        },
+        {
+            "Title": "The Dreamer",
+            "Page": "3",
+            "Author": "V.Siddhartha",
+            "Category": "Story",
+            "Keywords": "Vardhan, Ramakrishna Paramahamsa, Vedanta"
+        },
+        {
+            "Title": "Editorial",
+            "Page": "4",
+            "Category": "Editorial",
+            "Keywords": "China, Ladakh, NEFA, Chinese"
+        },
+        {
+            "Title": "That Falling Feeling",
+            "Page": "4",
+            "Author": "Norman. R. Jaffray",
+            "Category": "Poem"
+        },
+        {
+            "Title": "Sorry",
+            "Page": "4",
+            "Category": "Notice",
+            "Keywords": "Europe, Prof. Sankaran, Sehgal, Randhawa, Tom, Rajamani, Suri, Mehrotra, Sid, Kapoor"
+        },
+        {
+            "Title": "News and Views",
+            "Page": "4",
+            "Author": "Surjit Randhawa",
+            "Category": "Article",
+            "Keywords": "Miss Ziauddin, Science and Humanities Block, Sir Walter Raleighs, Kaushik, Sehgal, Saidapet, Madras Boat Club, Basu John, Boat Club Regatta, All -India Regatta, Kapur, Delhi Avenue, Bonn Avenue, Maxwell, James Watt, Mr. Chandrasekharswamy, Peking"
+        },
+        {
+            "Title": "Letters to the Editor Differentiation under integral sign",
+            "Page": "4",
+            "Author": "Justice",
+            "Category": "Letter",
+            "Keywords": "Germany, Tamil, Kannada, Institute Day Celebration, Cultural Council, Institute Gymkhana, German Consulate, Kharagpur, Hindi, Newcastle"
+        },
+        {
+            "Title": "On Contract!",
+            "Page": "4",
+            "Author": "Human Relationist",
+            "Category": "Letter",
+            "Keywords": "Russian, Indo-Chinese border, Russia, India, China"
+        },
+        {
+            "Title": "Boring & Lousy",
+            "Page": "4",
+            "Author": "V. K. Batra",
+            "Category": "Letter",
+            "Keywords": "Campastimes"
+        },
+        {
+            "Title": "Figure it!",
+            "Page": "5",
+            "Category": "Riddles"
+        },
+        {
+            "Title": "Over a Cup of Aye Aye Tea",
+            "Page": "5",
+            "Author": "V. S",
+            "Category": "Article",
+            "Keywords": "Parkinson's Law, Public Health Department, Film Club, Ashok, Kaveri Hostel, West German President",
+            "Images": "Image of a tea cup"
+        },
+        {
+            "Title": "Me and Chesterton",
+            "Page": "5",
+            "Author": "S. K",
+            "Category": "Story",
+            "Keywords": "I. I. T, Civil Engineering Department"
+        },
+        {
+            "Title": "Dear Reader",
+            "Page": "5",
+            "Author": "The Publisher",
+            "Category": "Letter",
+            "Keywords": "Campastimes"
+        },
+        {
+            "Title": "On Curves and Contours",
+            "Page": "6",
+            "Author": "V. Anantaraman",
+            "Category": "Article",
+            "Keywords": "Mercury, Mars, Venus, Jupiter, Saturn, Neptune",
+            "Images": "Drawing of Sky and a lady"
+        },
+        {
+            "Title": "The Dreamer (Continued from page 3)",
+            "Page": "6",
+            "Author": "V. Siddhartha",
+            "Category": "Story",
+            "Keywords": "Vardhan"
+        },
+        {
+            "Title": "A short study of the nature, growth and troublesome behavior of 'periodicals' during the period extending from the year 1959-1964",
+            "Page": "7",
+            "Category": "Research article",
+            "Keywords": "I. I. T, Greek, Latin"
+        },
+        {
+            "Title": "The Law of the Camp",
+            "Page": "7",
+            "Author": "Victim",
+            "Category": "Humor/Story",
+            "Keywords": "N. C. C, Madras Central, Coimbatore, Ketti, Mettupalayam, Hitler, Napoleon"
+        },
+        {
+            "Title": "His Last War",
+            "Page": "8",
+            "Author": "Kripanarayanan",
+            "Category": "Story",
+            "Keywords": "UN, Balwant Singh, Ranjit, Ramlal, Sarala, Munnu, Gyan Singh, Khuswant, Ladango",
+            "Images": "Drawing portraying war"
+        },
+        {
+            "Title": "Wit and Wisdom of Howlers",
+            "Page": "8",
+            "Author": "D.J.Nirmal",
+            "Category": "Story",
+            "Keywords": "Kerala Public Services Commission, Kautilya, Dasaratha, Ayodhya"
+        },
+        {
+            "Title": "Despatch from Studentland A State of Emergency",
+            "Page": "9",
+            "Author": "T. S. Ananthu",
+            "Category": "Humor",
+            "Keywords": "R. Natarajan I. A. S, Kaveri, Krishna, Narmada, T. S. Rajagopalan, G. V. N. Rayudu"
+        },
+        {
+            "Title": "This World This Month",
+            "Page": "9",
+            "Author": "T. S. A",
+            "Category": "News",
+            "Keywords": "Chinese, Ladakh, NEFA, Dr. S. Radhakrishnan, President Kennedy, United States, Cuba, Soviet Union, Prime Minister Khrushchev, Americans"
+        },
+        {
+            "Title": "How the Red Dragon lost his Tail or How she put the Fire out",
+            "Page": "9",
+            "Author": "Nutty",
+            "Category": "Humor /story",
+            "Keywords": "Communism"
+        },
+        {
+            "Title": "National (Dis) Integration",
+            "Page": "9",
+            "Author": "T. S. Ananthu",
+            "Category": "Quotes",
+            "Keywords": "India, Indian, Brahmin, Pariah, Varanasi, Swami Vivekananda, Andhra, Bombay, Karnatak, Maharashtrians, Tamilians, Gujaratis, Mahatma Gandhi, Nehru"
+        },
+        {
+            "Title": "National (Dis )Integration (Contd)",
+            "Page": "10",
+            "Author": "T. S. Ananthu",
+            "Category": "Quotes",
+            "Keywords": "Dr. P. V. Cherian, India, Tamil, Madras, Tamilnad, Gujaratis, Bengalis, Dravidanad, South India"
+        },
+        {
+            "Title": "Howlers",
+            "Page": "10",
+            "Author": "D. J. Nirmal",
+            "Category": "Story"
+        },
+        {
+            "Title": "The Square Dance No. 2 Clues",
+            "Page": "10",
+            "Author": "A. S. B",
+            "Category": "Riddles"
+        }
+    ],
     "id": "002/002/1962-11",
     "Type": "Publication",
     "Publication": "Campastimes",
     "Volume": "I",
     "Issue": "4",
-    "Date": "1962-11-15",
-    "Toc": [
-        {
-            "Title": "A Call To The Youth An Assurance To The Nation A Challenge To The Chinese",
-            "Author": "R. S. Sehgal",
-            "Page": "1, 2"
-        },
-        {
-            "Title": "A Question of Policy",
-            "Author": "Surjit Randhava",
-            "Page": "1, 2"
-        },
-        {
-            "Title": "Bad Bad Almond Eyes",
-            "Author": "Anand Singh Bawa",
-            "Page": "2"
-        },
-        {
-            "Title": "Jawans' Fund",
-            "Page": "2"
-        },
-        {
-            "Title": "Itanian cariCATures (4)",
-            "Author": "M. V. R",
-            "Page": "3"
-        },
-        {
-            "Title": "The Dreamer",
-            "Author": "V. Siddharha",
-            "Page": "3, 6"
-        },
-        {
-            "Title": "Editorial",
-            "Page": "4"
-        },
-        {
-            "Title": "That Falling Feeling",
-            "Author": "Norman R. Jaffray",
-            "Page": "4"
-        },
-        {
-            "Title": "Sorry!",
-            "Page": "4"
-        },
-        {
-            "Title": "News And Views",
-            "Author": "Surjit Randhava",
-            "Page": "4"
-        },
-        {
-            "Title": "Letters To The Editor",
-            "Author": "V. K. Batra",
-            "Page": "4, 5",
-            "Keywords": "Differentiation Under Integral Sign"
-        },
-        {
-            "Title": "On Contract!",
-            "Page": "4",
-            "Keywords": "Human Relntionist."
-        },
-        {
-            "Title": "Boring & Lousy",
-            "Page": "4"
-        },
-        {
-            "Title": "Figure IT!",
-            "Author": "V. Rattan Babu",
-            "Page": "5"
-        },
-        {
-            "Title": "Me And Chesterton",
-            "Author": "S. K.",
-            "Page": "5"
-        },
-        {
-            "Title": "On Curves And Contours",
-            "Page": "6"
-        },
-        {
-            "Title": "The Law of the Camp",
-            "Author": "Victim",
-            "Page": "7"
-        },
-        {
-            "Title": "His Last War",
-            "Author": "Kripanarayanan",
-            "Page": "8"
-        },
-        {
-            "Title": "Wit And Wisdom Of Howlers",
-            "Author": "D. J. Nirmal.",
-            "Page": "8, 10"
-        },
-        {
-            "Title": "A State Of Emergency",
-            "Page": "9",
-            "Keywords": "Despatch from Studentland"
-        },
-        {
-            "Title": "This World This Month",
-            "Author": "T. S. A.",
-            "Page": "9"
-        },
-        {
-            "Title": "How the Red Dragon lost his Tail or How she put the Fire out",
-            "Author": "Nutty",
-            "Page": "9"
-        },
-        {
-            "Title": "National (Dis) Integration",
-            "Author": "Swami Vivekananda",
-            "Page": "9"
-        },
-        {
-            "Title": "National (Dis) Integration",
-            "Author": "Mahatma Gandhi",
-            "Page": "9"
-        },
-        {
-            "Title": "National (Dis) Integration",
-            "Author": "T. S. Ananthu",
-            "Page": "9, 10"
-        },
-        {
-            "Title": "The Square Dance No.2 Clues",
-            "Author": "A. S. B.",
-            "Page": "10"
-        }
-    ]
+    "Date": "1962-11-15"
 }

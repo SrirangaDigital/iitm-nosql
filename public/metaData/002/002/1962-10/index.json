@@ -1,122 +1,226 @@
 {
+    "Toc": [
+        {
+            "Title": "Mahatma Gandhi",
+            "Page": "1",
+            "Author": "Dr. M. S. Vairana Pillai",
+            "Category": "Article",
+            "Keywords": "India, Mahatma Gandhi, Buddha, Harijan, Khadi movement, Satyagraha movements"
+        },
+        {
+            "Title": "Image of Mahatma Gandhi",
+            "Page": "1",
+            "Images": "Image of Mahatma Gandhi"
+        },
+        {
+            "Title": "The Life he Lived",
+            "Page": "1",
+            "Category": "Quotes"
+        },
+        {
+            "Title": "A Sonnet on Gandhi",
+            "Page": "1",
+            "Author": "G. Viswanathan",
+            "Category": "Poem"
+        },
+        {
+            "Title": "Mahatma Gandhi (Continued from page 1)",
+            "Page": "2",
+            "Author": "Dr. M. S. Vairana Pillai",
+            "Category": "Article",
+            "Keywords": "Mahatma Gandhi, Ashram, Sramdan movements, India, Hindus, Muslims, Harijans, Brahmins, Sikhs, Christians, North Indians, South Indians, Nehru, Rajagopalachari, Kripalani, Jaya Prakash Narain, Gaffoor Khan, George Joseph, Panjabee, Lincoln"
+        },
+        {
+            "Title": "Along the Mountain Road",
+            "Page": "2",
+            "Author": "Kripanarayanan",
+            "Category": "Story"
+        },
+        {
+            "Title": "Prisoner for ever'",
+            "Page": "2",
+            "Author": "R. S. Sehgal",
+            "Category": "Story",
+            "Keywords": "Kamini"
+        },
+        {
+            "Title": "Personalities-(3)",
+            "Page": "3",
+            "Author": "M. V. R",
+            "Category": "Caricature",
+            "Keywords": "Professor Krishnamurthy, I. I. T, World Conference, Tokyo, World University Service Conference, Narmada Hostel, Pachaiappa's College, Humanities Department, Eliza, Japan",
+            "Images": "Caricature of Prof. Krishnamurthi"
+        },
+        {
+            "Title": "Bad Morning, Sir!",
+            "Page": "3",
+            "Author": "T. S. Ananthu",
+            "Category": "Story",
+            "Keywords": "Christmas Dinner, Mayor"
+        },
+        {
+            "Title": "On Partings and Meetings",
+            "Page": "3",
+            "Author": "V. Ranganathan",
+            "Category": "Article"
+        },
+        {
+            "Title": "The Codopyrin Drama",
+            "Page": "4",
+            "Category": "Editorial",
+            "Keywords": "Pasteur, Codopyrin, Siddhartha, Karna, Dronacharya, Phenacetine, Codeine Phosphate, Acetylsalicyclic Acid, Vesuvius"
+        },
+        {
+            "Title": "Blaise Pascal",
+            "Page": "4",
+            "Category": "Misc",
+            "Keywords": "Blaise Pascal"
+        },
+        {
+            "Title": "News and Views",
+            "Page": "4",
+            "Author": "Surjit Randhawa",
+            "Category": "Article",
+            "Keywords": "I. I. Ts, Madras, Outdoor Club, Dr. Gerhard Rouve, Kapur, Ingrid Bergman, Co-operative, Mr. Muthay, California, Sid"
+        },
+        {
+            "Title": "Metric Age",
+            "Page": "4",
+            "Category": "Humor"
+        },
+        {
+            "Title": "Ali Baba's Cave",
+            "Page": "4",
+            "Author": "T. S. Ananthu",
+            "Category": "Letter / note /message",
+            "Keywords": "Mr. Kuruvilla Thomas, Ali Baba's Cave, Commom room, Kaveri Hostel"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "4",
+            "Author": "V. Rangaswamy",
+            "Category": "Letter / note /message",
+            "Keywords": "R. S. Sehgal, Nirmala, Campastimes, Milton, Satan"
+        },
+        {
+            "Title": "Letters to the Editor",
+            "Page": "4",
+            "Author": "T. S. Ananthu",
+            "Category": "Letter / note /message",
+            "Keywords": "Mr. Sehgal, O. Henry"
+        },
+        {
+            "Title": "Lights on!",
+            "Page": "4",
+            "Author": "Justice",
+            "Category": "Letter / note /message",
+            "Keywords": "I. I. T, N. C. C Parade grounds"
+        },
+        {
+            "Title": "Letters (Continued from page 4) Doctor at large!!!",
+            "Page": "5",
+            "Author": "Codopyrin",
+            "Category": "Letter / note /message",
+            "Keywords": "Krishna hostel, Kishen"
+        },
+        {
+            "Title": "Over a Cup of Aye Aye Tea",
+            "Page": "5",
+            "Author": "V. S and M. V. R",
+            "Category": "Article",
+            "Keywords": "Nevil Schute, Late Dr. Lechner Avenue, I. I. T, Diners Club, Director's bungalow, Tapti hostel, D. M. K, Velachery, Krishna hostel, Mess committee member, Pai"
+        },
+        {
+            "Title": "Prisoner (Continued from page 2)",
+            "Page": "5",
+            "Author": "R. S. Sehgal",
+            "Category": "Story",
+            "Keywords": "Kamini"
+        },
+        {
+            "Title": "Feeding the poor",
+            "Page": "5",
+            "Category": "Photograph",
+            "Images": "Image of people in queue for food"
+        },
+        {
+            "Title": "Guess what? The First of a series (with your permission )",
+            "Page": "6",
+            "Category": "Quiz"
+        },
+        {
+            "Title": "The joke and the idiot",
+            "Page": "6"
+        },
+        {
+            "Title": "Bharathi. Poet Subramanya",
+            "Page": "6",
+            "Author": "K. V. Rangaswamy",
+            "Category": "Article",
+            "Keywords": "Tamil literature, Bharathi, British rule, Rousseau, France, Tamil Nadu, India, K. Chandrasekaran, Prof. Krishnamurthy, K. S. Krishnamurthy,Smt. Sarojini Naidu",
+            "Images": "Image of Subramanya Bharathi"
+        },
+        {
+            "Title": "Two views",
+            "Page": "6",
+            "Author": "T. S. Govind",
+            "Category": "Poem",
+            "Keywords": "Lord Indra, Tandwa, Mount Kailas"
+        },
+        {
+            "Title": "This World This Month",
+            "Page": "7",
+            "Author": "T. S. A",
+            "Category": "Current Affairs compilation",
+            "Keywords": "Chinese forces, Indian personnel, Chejao bridge, Nehru, Lagos, Nigeria, India, China, Mr. Pattom Thanu Pillai, Kerala, Punjab, K. C. Reddi, Lok Sabha, Mr. R. Sankar, Praja Socialist Party, Mr. Ahmed Ben Bella, Algerian Republic, Mr. Ferhat Abbas, Algerian Constituent Assembly, Britain, Ghana, Sir Abubakar Tafawa Balewa, Yemenite Army, Yemen, United Arab States, President Nassar, Sonny Liston, Floyd Patterson, Government of India, Hyderabad, Kharagpur, Bombay, Madras, Kanpur"
+        },
+        {
+            "Title": "Late news",
+            "Page": "7",
+            "Category": "Notice",
+            "Keywords": "Dr. Parameswaran Subbaroyan, Maharashtra, General Hospital, Madras, Institute Day"
+        },
+        {
+            "Title": "Books of the month",
+            "Page": "7",
+            "Category": "List/Table",
+            "Keywords": "Incredible Africa, London, New York, Berlin, Ssn Francisco, Price, Baker, Bates, Beaty, Waugh, Dryden, Epstein, Fair, Flory, Foerst, Hall, Hamermesh, Powell, Smith, Srinivasan, Wilson, Wipple, Williams, Timbie, Stratton, Rostoker"
+        },
+        {
+            "Title": "The square dance",
+            "Page": "7",
+            "Category": "Riddle"
+        },
+        {
+            "Title": "The Second Inter-I. I. T Meet 1962",
+            "Page": "8",
+            "Author": "S. Gopalakrishnan",
+            "Category": "Report /Notice",
+            "Keywords": "I. I. T. Kharagpur"
+        },
+        {
+            "Title": "City Students Conference & Presidency College Seminar",
+            "Page": "8",
+            "Author": "R. A. Vaswani",
+            "Category": "Report",
+            "Keywords": "St. Thomas Hall, Madras Christian College, Tambaram, Y. M. C. A, Dr. Klein, Jochen Haug, S. Gopalakrishnan, B. R. Pai, S. A. Aleem, Dr. S. Chandrasekhar, Indian Institute of population studies, Mr. S. Chellapandian, Madras Legislative Assembly, Dr. Chandran Devanesan, Rev. Fr. Sequira, Loyola College, Hindi, Dr. M. A. Thangaraj"
+        },
+        {
+            "Title": "City Students Conference & Presidency College Seminar",
+            "Page": "8",
+            "Author": "T. S. A",
+            "Category": "Report",
+            "Keywords": "Presidency College, R. Venkateswaran, S. Nageshwar, T. S. Ananthu, I. I. T Madras, Dr. T. R. Govindachary, Dr. P. V. Cherian, Miss Burns, U. S. Embassy, Dr. C. P. Ramaswamy Aiyar, Mr. Appadurai, Miss. Iravathi, Queen Mary's College, Dr. (Mrs). Ramaswamy, Mr. Chengalvarayan, Mr. M. Thiagarajan, Presidency College Union, Miss. Ruby Pramila Solomon"
+        },
+        {
+            "Title": "Image",
+            "Page": "8"
+        }
+    ],
     "id": "002/002/1962-10",
     "Type": "Publication",
     "Publication": "Campastimes",
     "Volume": "I",
     "Issue": "3",
-    "Date": "1962-10-15",
-    "Toc": [
-        {
-            "Title": "Mahatma Gandhi",
-            "Author": "Dr. M. S. Vairana Pillai",
-            "Page": "1, 2."
-        },
-        {
-            "Title": "The Life he Lived",
-            "Page": "1"
-        },
-        {
-            "Title": "A Sonnet on Gandhi",
-            "Author": "G. Viswanathan",
-            "Page": "1"
-        },
-        {
-            "Title": "Along The Mountain Road",
-            "Author": "Kripanarayanan",
-            "Page": "2"
-        },
-        {
-            "Title": "`Prisoner For Ever'",
-            "Author": "R. S. Sehgal.",
-            "Page": "2, 5"
-        },
-        {
-            "Title": "Personalities-(3)'",
-            "Page": "3"
-        },
-        {
-            "Title": "Bad Morning, Sir!",
-            "Author": "M. V. R.",
-            "Page": "3",
-            "Keywords": "Humour, Krishna Hostel, Testimonial"
-        },
-        {
-            "Title": "On Partinga And Meetings",
-            "Author": "V. Ranganathan",
-            "Page": "3"
-        },
-        {
-            "Title": "Editorial",
-            "Page": "4",
-            "Keywords": "The codopyrin drama"
-        },
-        {
-            "Title": "Blaise Pascal",
-            "Page": "4"
-        },
-        {
-            "Title": "News And Views",
-            "Author": "Surjit Randhava",
-            "Page": "4",
-            "Keywords": "Metric Age"
-        },
-        {
-            "Title": "Ali Baba's Cave",
-            "Author": "T. S. Anamthu",
-            "Page": "4"
-        },
-        {
-            "Title": "Letters To The Editor-Nirmala",
-            "Author": "K.V. Rangaswani",
-            "Page": "4, 5"
-        },
-        {
-            "Title": "Over A Cup of Aye Aye Tea",
-            "Author": "V. S.",
-            "Page": "5"
-        },
-        {
-            "Title": "Guess What? The First Of A Seroes",
-            "Page": "6, 8",
-            "Keywords": "(with your permission)"
-        },
-        {
-            "Title": "The Joke & The Idiot",
-            "Author": "K. V. Rangaswami.",
-            "Page": "6"
-        },
-        {
-            "Title": "Two Views",
-            "Author": "T. S. Govind",
-            "Page": "6"
-        },
-        {
-            "Title": "This World This Month",
-            "Author": "T. S. A.",
-            "Page": "7"
-        },
-        {
-            "Title": "Late News",
-            "Page": "7"
-        },
-        {
-            "Title": "Books of The Month",
-            "Page": "7",
-            "Keywords": "Latest Additions To The I. I. T Library"
-        },
-        {
-            "Title": "The Square Dance",
-            "Page": "7"
-        },
-        {
-            "Title": "Second Inter-IIT Meet, 1962",
-            "Author": "S. Gopalakrishnan, (Sec., Institute Gymkhana)",
-            "Page": "8"
-        },
-        {
-            "Title": "City Students' Conference & Presidency College Seminar",
-            "Author": "R. A. Vaswani",
-            "Page": "8"
-        }
-    ]
+    "Date": "1962-10-15"
 }
