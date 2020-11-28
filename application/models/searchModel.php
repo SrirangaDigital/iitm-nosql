@@ -188,7 +188,25 @@ class searchModel extends Model {
 					array_push($matches, '<strong>' . $key . '</strong> : ' . $value);
 					unset($descArray{$key});
 				}
-			}			
+				// if($key == 'Toc'){
+
+				// 	$tocPages = "";
+				// 	for($tocindex = 0; $tocindex < sizeof($value); $tocindex++){
+
+				// 		foreach($value[$tocindex] as $tockey => $tocvalue){
+
+				// 			if(preg_match('/' . $term . '/i', $tocvalue)){
+
+				// 				$tocPages = $tocPages . "; " . $value[$tocindex]['Title'] . '(' . $value[$tocindex]['Page'] . ')';
+				// 			}
+				// 		}
+				// 	}
+
+				// 	$tocPages = preg_replace('/^;/', "", $tocPages);
+				// 	if($tocPages != "")
+				// 		array_push($matches, '<strong>' . $key . '(in Articles)</strong> : ' . $tocPages);
+				// }
+			}
 		}
 
 		$index = preg_grep('/<strong>Type<\/strong>/', $matches);
