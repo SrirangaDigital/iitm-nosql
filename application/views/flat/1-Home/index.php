@@ -176,9 +176,9 @@
 				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div style="padding-left: 10px; padding-top: 20px; text-align: center;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert1.JPG" alt="" />&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert3.JPG" alt="" />&nbsp;
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert2.JPG" alt="" />&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert3.JPG" alt="" />
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert1.JPG" alt="" />
 					</div>  
                   </div>
                 </div>                
