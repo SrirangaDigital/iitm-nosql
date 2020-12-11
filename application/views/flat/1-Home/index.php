@@ -171,8 +171,18 @@
               <!-- Wrapper for slides -->
               	
               <div class="carousel-inner" role="listbox">
-                
-              	<div class="item active">
+
+                <div class="item active">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
+					<div style="padding-left: 10px; padding-top: 20px; text-align: center;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert1.JPG" alt="" />&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert2.JPG" alt="" />&nbsp;
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert3.JPG" alt="" />
+					</div>  
+                  </div>
+                </div>                
+              	<div class="item">
 				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
@@ -285,20 +295,7 @@
 						<p>Another set of rowing photos are available in the Gouri Shankar Collection, <a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0229%3A+Photos+for+Brochive+1969">Album no. 229.</a></p>
 					</div>
                   </div>
-                </div>				
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Scan_Pic0034.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">Photograph contributed by <strong>Mr. Anand Singh Bawa</strong>, founding editor of Campastimes. This photograph was taken in Ooty, during the NCC summer camp in Ketti.</span></p>
-						<p>From Left to Right:<br />Mr. Sheikh Abdul Khader, Mr. B. Ramachandra Pai and Mr. Anand Singh Bawa.</p>
-					</div>
-                  </div>
                 </div>	
-
               </div>			
                 
 
