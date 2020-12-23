@@ -1,8 +1,7 @@
 {
     "AlbumID": "0001",
-    "Date": "28-Dec-1964",
+    "Date": "28th December 1964",
     "Place": "Stadium",
-    "Description": "The Third Inter Sports Meet was held in IIT madras, during the year 1964",
     "ForeignKeyType": "AlbumID",
     "ForeignKeyId": "0001",
     "Album": "Album 0001: Third Inter IIT Sports Meet"
