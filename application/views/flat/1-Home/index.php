@@ -339,7 +339,7 @@
 						<p style="line-height: 38px;margin-top: 10px;">
 								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">A Year-End Celebration of IIT Madras Heritage</span> 
 						</p>
-						<p style="font-weight: 300; font-size: 25px;">Time: Dec 28th & 29th , 2020 08:00 PM India<br />
+						<p style="font-weight: 300; font-size: 25px;">Time: Dec 28th, 2020 08:00 PM India<br />
 							<strong>Zoom Meeting ID: 838 8510 1455</strong><br />
 							<a href="https://us02web.zoom.us/meeting/register/tZclf-yprjouH9Ehn2HMj-kYyvwNADVTQgkw" target="_blank">Registration Link</a>
 						</p>
@@ -358,7 +358,7 @@
 						<p style="line-height: 38px;margin-top: 10px;">
 								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Peak IITM Nostalgia 2020<br />(Treasure Hunt Game Prep/Rules/Times)</span> 
 						</p>
-						<p>Enjoy 40 minutes of treasure hint fun exploration from your mobiles with family and friends. You will need to crack 18 questions (puzzles/riddles/video clues and others). Of course, some of you may need more than 40 min while others will ace it in much lesser time. And exciting prizes for the top scorers.</p> 	
+						<p>Enjoy 40 minutes of treasure hunt fun exploration from your mobiles with family and friends. You will need to crack 18-odd questions (puzzles/riddles/video clues and others). Of course, some of you may need more than 40 mins while others will ace it in much lesser time. And exciting prizes for the top scorers.</p> 	
 						<p>Please mark your calendars right away</p>
 						<p>
 							India, EMEA, Africa, Americas and other geos (West of India)<br /> 

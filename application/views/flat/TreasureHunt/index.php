@@ -10,7 +10,7 @@
     <p><img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/Heritage_Trail.jpg" alt=""/></p>
   </div>  
   <div class="col-md-8">
-    <p>Enjoy 40 minutes of treasure hint fun exploration from your mobiles with family and friends. You will need to crack 18 questions (puzzles/riddles/video clues and others). Of course, some of you may need more than 40 min while others will ace it in much lesser time. And exciting prizes for the top scorers.</p>   
+    <p>Enjoy 40 minutes of treasure hunt fun exploration from your mobiles with family and friends. You will need to crack 18-odd questions (puzzles/riddles/video clues and others). Of course, some of you may need more than 40 mins while others will ace it in much lesser time. And exciting prizes for the top scorers.</p>   
     <p>Please mark your calendars right away</p>
     <p>
       India, EMEA, Africa, Americas and other geos (West of India)<br /> 
@@ -35,6 +35,7 @@
       <li>Play the game on a mobile device - Android 7 &amp; above, iOS 9 and above (Does not support Tablets, Desktops)</li> 
       <li>App requests permissions for storage, camera, and location. Enable these permissions for a seamless experience.</li>
       <li>For Photo Activities you will be immediately awarded points on submitting the photo. All photos will be validated after game completion. Incorrect photos will lead to the reduction of your final scores.</li>
+      <li>For any treasure hunt tech support during the event timings you can reach out on <strong>WhatsApp to GamiFYI on +91 8277211477</strong></li>
     </ul>  
   </div>  
 </div>      
