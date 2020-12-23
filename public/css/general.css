@@ -127,3 +127,7 @@ a {
 ol.downloads li{
 	margin-top: 1em;
 }
+ul.bulletedstyle{
+	list-style-type: disc;
+	list-style-position: inside;
+}

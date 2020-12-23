@@ -323,7 +323,6 @@
               <ol class="carousel-indicators">
                 <li data-target="#carousel-four" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel-four" data-slide-to="1" class="active"></li>
-                <li data-target="#carousel-four" data-slide-to="2" class="active"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -348,54 +347,30 @@
 						<p>Following this, Ms. Latha Venkitachalam (Executive /director, IITMAA) will moderate a 20-min session where attendees can pose queries to faculty &amp; alumni in the panel.</p>
 					</div>
                 </div>				
-                <div class="item">
+				<div class="item">
 				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
-					<div style="width:100%;">
-						<div>
-							<p style="line-height: 38px;margin-top: 10px; text-align: center">
+					<div  style="display:inline; float: left; width:30%;margin-right: 80px;">
+						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/Heritage_Trail.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:70%;margin-right: 100px;">
+						<p style="line-height: 38px;margin-top: 10px;">
 								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Peak IITM Nostalgia 2020<br />(Treasure Hunt Game Prep/Rules/Times)</span> 
-							</p>
-						</div>
-						<div style="display: block;">
-							<div style="float: left; width: 48%;margin: 2px 0px 2px 20px;">
-								<p>Enjoy 40 minutes of treasure hint fun exploration from your mobiles with family and friends. You will need to crack 18 questions (puzzles/riddles/video clues and others). Of course, some of you may need more than 40 min while others will ace it in much lesser time. And exciting prizes for the top scorers.</p> 	
-								<p>Please mark your calendars right away</p>
-								<p>
-									India, EMEA, Africa, Americas and other geos (West of India) -  29th Dec  8 PM IST to 11 PM IST<br />
-									India, Singapore, Australia and other geos (East of India) -  30th Dec  1 PM IST to  4 PM IST<br />
-									2-minute Installation and Prep
-								</p>
-								<ol>
-									<li><a href="https://urlprotection-tko.global.sonicwall.com/click?PV=1&MSGID=202012230504270173252&URLID=1&ESV=10.0.6.3447&IV=A218CCFDEC33DD4DD0826D5917CD1456&TT=1608699870823&ESN=6UDumVWDJWJVdallOtH8cxqE6Ql9Y%2Fg8gY67N7JJPT8%3D&KV=1536961729279&ENCODED_URL=http%3A%2F%2Fonelink.to%2Fgamifyi&HK=B8937F0E30A431E9A4F4BB6C4BE6011E74F35BEAAD86EE7C5AB82EDB59CB1E96">Download Gamifyi Mobile App</a></li>
-									<li>Click on Quests > Select City - IITM (top left)</li>
-									<li>Open - Peak IITM Nostalgia 2020 > Proceed</li>
-									<li>Register in the App- we need this to maintain points and update results to you</li>
-								</ol>
-							</div>
-							<div style="float: right;width: 45%;margin: 2px 15px 2px 0px;">
-								<p>The game will be made LIVE during the time slots indicated...</p>
-								<p><strong>IMPORTANT POINTS TO NOTE:</strong></p>
-								<p>Play the game on a mobile device - Android 7 &amp; above, iOS 9 and above (Does not support Tablets, Desktops)</p>	
-								<p>App requests permissions for storage, camera, and location. Enable these permissions for a seamless experience.</p>
-								<p>For Photo Activities you will be immediately awarded points on submitting the photo. All photos will be validated after game completion. Incorrect photos will lead to the reduction of your final scores.</p>						
-							</div>
-						</div>	
+						</p>
+						<p>Enjoy 40 minutes of treasure hint fun exploration from your mobiles with family and friends. You will need to crack 18 questions (puzzles/riddles/video clues and others). Of course, some of you may need more than 40 min while others will ace it in much lesser time. And exciting prizes for the top scorers.</p> 	
+						<p>Please mark your calendars right away</p>
+						<p>
+							India, EMEA, Africa, Americas and other geos (West of India)<br /> 
+							&nbsp;&nbsp;&nbsp; &mdash; Date:   <strong>29th December</strong><br />  
+							&nbsp;&nbsp;&nbsp; &mdash; Time:   <strong>8 PM IST to 11 PM IST</strong><br />
+							India, Singapore, Australia and other geos (East of India)<br /> 
+							&nbsp;&nbsp;&nbsp; &mdash; Date:   <strong>30th December</strong><br />  
+							&nbsp;&nbsp;&nbsp; &mdash; Time:   <strong>1 PM IST to  4 PM IST</strong>
+						</p>
+						<p><a href="<?=BASE_URL?>TreasureHunt">Click here for more information</a></p>
 					</div>
                 </div>				
-                <div class="item">
-				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
-					<div  style="display:inline; float: left; width:50%;margin-right: 80px;">
-						<p style="text-align: right;">
-							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/forthcoming_event1.jpg" alt="" />
-						</p>
-					</div>
-					<div style="display:inline; width:50%;">
-						<p style="line-height: 38px;margin-top: 150px;">
-								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Heritage Treasure Hunt</span><br /> 
-								<span style="font-weight: 300; font-size: 25px;">To be announced...</span>
-						</p>
-					</div>
-                </div>
 
               </div>
 
