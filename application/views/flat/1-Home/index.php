@@ -19,11 +19,12 @@
     <div class="row clear-paddings">
         <div class="col-md-12" style="padding: 0;">
 
-            <div id="carouselfour" class="carousel slide" data-interval="2000" data-ride="carouselfour" style="background-color: #EEE;height: 500px;">
+            <div id="carouselfour" class="carousel slide" data-ride="carouselfour" style="background-color: #EEE;height: 500px;">
               <!-- Indicators -->
               <ol class="carousel-indicators">
                 <li data-target="#carouselfour" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselfour" data-slide-to="1" class="active"></li>
+                <li data-target="#carouselfour" data-slide-to="2" class="active"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -70,6 +71,23 @@
 							&nbsp;&nbsp;&nbsp; &mdash; Time:   <strong>1 PM IST to  4 PM IST</strong>
 						</p>
 						<p><a href="<?=BASE_URL?>TreasureHunt">Click here for more information</a></p>
+					</div>
+                </div>				
+				<div class="item">
+				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
+					<div  style="display:inline; float: left; width:50%;margin-right: 80px;">
+						<p style="text-align: left;margin-left: 50px;">
+							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/poster_new_year.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:50%;margin-right: 100px;">
+						<p style="line-height: 38px;margin-top: 5px;">
+								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">The 60's Riffle<br />A Photographic Exhibition</span> 
+						</p>
+						<p style="font-size: 18px;"><strong>Date: 29th December 2020</strong></p>
+						<p style="font-size: 18px;"><strong>Time: 08.00PM IST</strong></p>
+						<p style="font-size: 18px;"><strong>Website: heritage.iitm.ac.in</strong></p>
+						<p><a href="<?=BASE_URL?>Photoexhibition">Click here for more ...</a></p>
 					</div>
                 </div>				
 
