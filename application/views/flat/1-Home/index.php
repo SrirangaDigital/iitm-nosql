@@ -19,7 +19,7 @@
     <div class="row clear-paddings">
         <div class="col-md-12" style="padding: 0;">
 
-            <div id="carouselfour" class="carousel slide" data-ride="carouselfour" style="background-color: #EEE;height: 500px;">
+            <div id="carouselfour" class="carousel slide" data-ride="carouselfour" data-interval="2000" style="background-color: #EEE;height: 500px;">
               <!-- Indicators -->
               <ol class="carousel-indicators">
                 <li data-target="#carouselfour" data-slide-to="0" class="active"></li>
