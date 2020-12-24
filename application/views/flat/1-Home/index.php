@@ -19,6 +19,81 @@
     <div class="row clear-paddings">
         <div class="col-md-12" style="padding: 0;">
 
+            <div id="carouselfour" class="carousel slide" data-interval="2000" data-ride="carouselfour" style="background-color: #EEE;height: 500px;">
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#carouselfour" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselfour" data-slide-to="1" class="active"></li>
+              </ol>
+
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+
+				<div class="item active">
+				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
+					<div  style="display:inline; float: left; width:40%;margin-right: 80px;">
+						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/event-2021.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:60%;margin-right: 80px;">
+						<p style="line-height: 38px;margin-top: 10px;">
+								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">A Year-End Celebration of IIT Madras Heritage</span> 
+						</p>
+						<p style="font-weight: 300; font-size: 25px;">Time: Dec 28th, 2020 08:00 PM India<br />
+							<strong>Zoom Meeting ID: 838 8510 1455</strong><br />
+							<a href="https://us02web.zoom.us/meeting/register/tZclf-yprjouH9Ehn2HMj-kYyvwNADVTQgkw" target="_blank">Registration Link</a>
+						</p>
+						<p>The session will start on the 28th by first playing recorded messages from alumni for 15 mins. Subsequently, Prof. R. Nagarajan will moderate a 20-minute interaction with alumni &amp; with faculty who are on the live panel &ndash; Profs. MA Parameswaran, VGK Murti, O Prabhakar, PS Rao, V Balakrishnan.</p>
+						<p>Following this, Ms. Latha Venkitachalam (Executive /director, IITMAA) will moderate a 20-min session where attendees can pose queries to faculty &amp; alumni in the panel.</p>
+					</div>
+                </div>				
+				<div class="item">
+				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
+					<div  style="display:inline; float: left; width:30%;margin-right: 80px;">
+						<p style="text-align: right;">
+							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/Heritage_Trail.jpg" alt="" />
+						</p>
+					</div>
+					<div style="display:inline; width:70%;margin-right: 100px;">
+						<p style="line-height: 38px;margin-top: 10px;">
+								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Peak IITM Nostalgia 2020<br />(Treasure Hunt Game Prep/Rules/Times)</span> 
+						</p>
+						<p>Enjoy 40 minutes of treasure hunt fun exploration from your mobiles with family and friends. You will need to crack 18-odd questions (puzzles/riddles/video clues and others). Of course, some of you may need more than 40 mins while others will ace it in much lesser time. And exciting prizes for the top scorers.</p> 	
+						<p>Please mark your calendars right away</p>
+						<p>
+							India, EMEA, Africa, Americas and other geos (West of India)<br /> 
+							&nbsp;&nbsp;&nbsp; &mdash; Date:   <strong>29th December</strong><br />  
+							&nbsp;&nbsp;&nbsp; &mdash; Time:   <strong>8 PM IST to 11 PM IST</strong><br />
+							India, Singapore, Australia and other geos (East of India)<br /> 
+							&nbsp;&nbsp;&nbsp; &mdash; Date:   <strong>30th December</strong><br />  
+							&nbsp;&nbsp;&nbsp; &mdash; Time:   <strong>1 PM IST to  4 PM IST</strong>
+						</p>
+						<p><a href="<?=BASE_URL?>TreasureHunt">Click here for more information</a></p>
+					</div>
+                </div>				
+
+              </div>
+
+              <!-- Controls -->
+              <a class="left carousel-control" href="#carouselfour" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="right carousel-control" href="#carouselfour" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid">
+    <div class="row clear-paddings">
+        <div class="col-md-12" style="padding: 0;">
+
             <div id="carousel-three" class="carousel slide" data-ride="carousel-three" style="background-color: #DDD;height: 500px;">
               <!-- Indicators -->
               <ol class="carousel-indicators">
@@ -318,82 +393,7 @@
     <div class="row clear-paddings">
         <div class="col-md-12" style="padding: 0;">
 
-            <div id="carousel-four" class="carousel slide" data-ride="carousel-four" style="background-color: #EEE;height: 500px;">
-              <!-- Indicators -->
-              <ol class="carousel-indicators">
-                <li data-target="#carousel-four" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel-four" data-slide-to="1" class="active"></li>
-              </ol>
-
-              <!-- Wrapper for slides -->
-              <div class="carousel-inner" role="listbox">
-
-				<div class="item active">
-				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
-					<div  style="display:inline; float: left; width:40%;margin-right: 80px;">
-						<p style="text-align: right;">
-							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/event-2021.jpg" alt="" />
-						</p>
-					</div>
-					<div style="display:inline; width:60%;margin-right: 80px;">
-						<p style="line-height: 38px;margin-top: 10px;">
-								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">A Year-End Celebration of IIT Madras Heritage</span> 
-						</p>
-						<p style="font-weight: 300; font-size: 25px;">Time: Dec 28th, 2020 08:00 PM India<br />
-							<strong>Zoom Meeting ID: 838 8510 1455</strong><br />
-							<a href="https://us02web.zoom.us/meeting/register/tZclf-yprjouH9Ehn2HMj-kYyvwNADVTQgkw" target="_blank">Registration Link</a>
-						</p>
-						<p>The session will start on the 28th by first playing recorded messages from alumni for 15 mins. Subsequently, Prof. R. Nagarajan will moderate a 20-minute interaction with alumni &amp; with faculty who are on the live panel &ndash; Profs. MA Parameswaran, VGK Murti, O Prabhakar, PS Rao, V Balakrishnan.</p>
-						<p>Following this, Ms. Latha Venkitachalam (Executive /director, IITMAA) will moderate a 20-min session where attendees can pose queries to faculty &amp; alumni in the panel.</p>
-					</div>
-                </div>				
-				<div class="item">
-				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
-					<div  style="display:inline; float: left; width:30%;margin-right: 80px;">
-						<p style="text-align: right;">
-							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/Heritage_Trail.jpg" alt="" />
-						</p>
-					</div>
-					<div style="display:inline; width:70%;margin-right: 100px;">
-						<p style="line-height: 38px;margin-top: 10px;">
-								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Peak IITM Nostalgia 2020<br />(Treasure Hunt Game Prep/Rules/Times)</span> 
-						</p>
-						<p>Enjoy 40 minutes of treasure hunt fun exploration from your mobiles with family and friends. You will need to crack 18-odd questions (puzzles/riddles/video clues and others). Of course, some of you may need more than 40 mins while others will ace it in much lesser time. And exciting prizes for the top scorers.</p> 	
-						<p>Please mark your calendars right away</p>
-						<p>
-							India, EMEA, Africa, Americas and other geos (West of India)<br /> 
-							&nbsp;&nbsp;&nbsp; &mdash; Date:   <strong>29th December</strong><br />  
-							&nbsp;&nbsp;&nbsp; &mdash; Time:   <strong>8 PM IST to 11 PM IST</strong><br />
-							India, Singapore, Australia and other geos (East of India)<br /> 
-							&nbsp;&nbsp;&nbsp; &mdash; Date:   <strong>30th December</strong><br />  
-							&nbsp;&nbsp;&nbsp; &mdash; Time:   <strong>1 PM IST to  4 PM IST</strong>
-						</p>
-						<p><a href="<?=BASE_URL?>TreasureHunt">Click here for more information</a></p>
-					</div>
-                </div>				
-
-              </div>
-
-              <!-- Controls -->
-              <a class="left carousel-control" href="#carousel-four" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-              </a>
-              <a class="right carousel-control" href="#carousel-four" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-              </a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<div class="container-fluid">
-    <div class="row clear-paddings">
-        <div class="col-md-12" style="padding: 0;">
-
-            <div id="carousel-two" class="carousel slide" data-ride="carousel-two" style="background-color: #CCC;height: 500px;">
+            <div id="carousel-two" class="carousel slide" data-ride="carousel-two" style="background-color: #DDD;height: 500px;">
               <!-- Indicators -->
               <ol class="carousel-indicators">
                 <li data-target="#carousel-two" data-slide-to="0" class="active"></li>

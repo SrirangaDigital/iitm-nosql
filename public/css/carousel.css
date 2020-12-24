@@ -33,11 +33,11 @@
     margin-top: -20px;
     line-height: 40px;
 }
-/*.carousel-inner > .item {
-    -webkit-transition: 0.3s ease-in-out left;
-    -moz-transition: 0.3s ease-in-out left;
-    -o-transition: 0.3s ease-in-out left;
-    transition: 0.3s ease-in-out left;
+/*#carouselfour .carousel-inner > .item {
+    -webkit-transition: 30s ease-in-out left;
+    -moz-transition: 30s ease-in-out left;
+    -o-transition: 30s ease-in-out left;
+    transition: 30s ease-in-out left;
 }*/
 .carousel-control {
     color: #FFF;
