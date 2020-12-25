@@ -17,6 +17,7 @@
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/imagesloaded.pkgd.min.js"></script>
     
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js" async></script>
+    <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js" async></script>
    
 </body>
 </html>
