@@ -7,7 +7,9 @@
 
 	<div class="row">
 	  <div class="col-md-12 text-center exhibition">
-		<audio id="my_audio" src="<?=PUBLIC_URL?>images/stock/exhibition/bensound.mp3" loop="loop"></audio>
+		<!-- <embed src="<?=PUBLIC_URL?>images/stock/exhibition/bensound.mp3" width="500" height="500" loop="true" autostart="true" hidden="true" /> -->
+		<button clas="btn btn-large playaudio"><i class="fa fa-pause" aria-hidden="true"></i></button>	
+   		<audio autoplay id="my_audio" src="<?=PUBLIC_URL?>images/stock/exhibition/bensound.mp3" loop="loop"></audio>
 		<div id="viewletterimages">
 			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/001.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/001.jpg" alt="A Photographic Exhibition" />
 			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/002.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/002.jpg" alt="A Photographic Exhibition" />
@@ -37,11 +39,43 @@
 		background-color: #444;
 		margin-top: 0px !important;
 	}
+	button {
+	  position: fixed;	
+	  bottom: 0px;
+      right: 0px;
+	  background-color: #4CAF50;
+	  border: none;
+	  color: white;
+	  padding: 10px 15px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 16px;
+	  margin: 4px 2px;
+	  border-radius: 50%;
+	}
 </style>
 <script>
-window.onload = function() {
-    document.getElementById("my_audio").play();
-}
+
+$(document).ready(function () {
+	
+	$('button').click(function (){
+
+		var audioElement= document.getElementById("my_audio");
+
+		if(audioElement.paused){
+			
+			$('button').html('<i class="fa fa-pause"></i>');
+			audioElement.play();
+		}
+		else{
+			$('button').html('<i class="fa fa-play"></i>');
+			audioElement.pause();
+		}
+	});
+
+});
 </script>
 
 
+	
