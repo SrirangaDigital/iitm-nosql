@@ -1,7 +1,7 @@
 <div class="container-fluid main" id="exhibition">
     <div class="row">
         <div class="col-md-12">
-            <h1>The 60's Riffle<br />A Photographic Exhibition</h1>
+            <h1>The 60s' Riffle<br />A Photographic Exhibition</h1>
         </div>
     </div>
 

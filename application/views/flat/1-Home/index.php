@@ -19,7 +19,7 @@
     <div class="row clear-paddings">
         <div class="col-md-12" style="padding: 0;">
 
-            <div id="carouselfour" class="carousel slide" data-ride="carouselfour" data-interval="2000" style="background-color: #EEE;height: 500px;">
+            <div id="carouselfour" class="carousel slide" data-ride="carouselfour" data-interval="1000" style="background-color: #EEE;height: 500px;">
               <!-- Indicators -->
               <ol class="carousel-indicators">
                 <li data-target="#carouselfour" data-slide-to="0" class="active"></li>
@@ -82,7 +82,7 @@
 					</div>
 					<div style="display:inline; width:50%;margin-right: 100px;">
 						<p style="line-height: 38px;margin-top: 5px;">
-								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">The 60's Riffle<br />A Photographic Exhibition</span> 
+								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">The 60s' Riffle<br />A Photographic Exhibition</span> 
 						</p>
 						<p style="font-size: 18px;"><strong>Date: 29th December 2020</strong></p>
 						<p style="font-size: 18px;"><strong>Time: 08.00PM IST</strong></p>
