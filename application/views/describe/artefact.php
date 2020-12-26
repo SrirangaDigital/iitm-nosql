@@ -58,7 +58,9 @@ $(document).ready(function(){
         </div>            
         <div class="col-md-3">
             <div class="image-desc-full">
-                <div class="albumTitle <?=$data['details']['Type']?>"><span class="head"><?=$data['details']['Type']?></span></div>
+                <?php if(!preg_match('/001\/0436/', $data['details']['id'])){ ?>
+                    <div class="albumTitle <?=$data['details']['Type']?>"><span class="head"><?=$data['details']['Type']?></span></div>
+                <?php } ?>    
                 <ul class="list-unstyled">
                 <?php
 
@@ -76,9 +78,11 @@ $(document).ready(function(){
                     $toc = $data['details']['Toc'] = (isset($data['details']['Toc'])) ? $data['details']['Toc'] : '';
                     unset($data['details']['Toc']);
 
-                    foreach ($data['details'] as $key => $value) {
+                    if(!preg_match('/001_0436/', $idURL)){    
+                        foreach ($data['details'] as $key => $value) {
 
-                        echo '<li><strong>' . $key . ':</strong><span class="image-desc-meta">' . $viewHelper->formatDisplayString($value) . '</span></li>';
+                            echo '<li><strong>' . $key . ':</strong><span class="image-desc-meta">' . $viewHelper->formatDisplayString($value) . '</span></li>';
+                        }
                     }
                 ?>
                 <?php if(isset($_SESSION['login']) || SHOW_PDF) {?>
