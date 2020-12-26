@@ -30,6 +30,17 @@
 			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/017.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/017.jpg" alt="A Photographic Exhibition" />
 			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/018.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/018.jpg" alt="A Photographic Exhibition" />
 			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/019.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/019.jpg" alt="A Photographic Exhibition" />
+			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/020.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/020.jpg" alt="A Photographic Exhibition" />
+			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/021.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/021.jpg" alt="A Photographic Exhibition" />
+			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/022.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/022.jpg" alt="A Photographic Exhibition" />
+			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/023.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/023.jpg" alt="A Photographic Exhibition" />
+			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/024.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/024.jpg" alt="A Photographic Exhibition" />
+			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/025.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/025.jpg" alt="A Photographic Exhibition" />
+			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/026.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/026.jpg" alt="A Photographic Exhibition" />
+			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/027.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/027.jpg" alt="A Photographic Exhibition" />
+			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/028.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/028.jpg" alt="A Photographic Exhibition" />
+			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/029.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/029.jpg" alt="A Photographic Exhibition" />
+
 		</div>
 	  </div>
 	</div>
@@ -58,7 +69,7 @@
 <script>
 
 $(document).ready(function () {
-	
+
 	$('button').click(function (){
 
 		var audioElement= document.getElementById("my_audio");
