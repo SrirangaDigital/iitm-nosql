@@ -92,6 +92,12 @@ jQuery(window).load(function () {
     if(document.getElementById('viewletterimages')){
         
         var viewer = new Viewer(document.getElementById('viewletterimages'), {url: 'data-original'});
+    }    
+
+    if(document.getElementById('photoexhibition')){
+        
+        var photoviewer = new Viewer(document.getElementById('photoexhibition'), {url: 'data-original'});
+        photoviewer.show();
     }
 
     if(document.getElementById('viewCardImages')){

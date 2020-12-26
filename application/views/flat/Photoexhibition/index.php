@@ -9,8 +9,9 @@
 	  <div class="col-md-12 text-center exhibition">
 		<!-- <embed src="<?=PUBLIC_URL?>images/stock/exhibition/bensound.mp3" width="500" height="500" loop="true" autostart="true" hidden="true" /> -->
 		<button clas="btn btn-large playaudio"><i class="fa fa-pause" aria-hidden="true"></i></button>	
+		<!-- <button type="button" class="btn btn-primary" data-method="show" title="Play the images">Play</button> -->
    		<audio autoplay id="my_audio" src="<?=PUBLIC_URL?>images/stock/exhibition/bensound.mp3" loop="loop"></audio>
-		<div id="viewletterimages">
+		<div id="photoexhibition">
 			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/001.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/001.jpg" alt="A Photographic Exhibition" />
 			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/002.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/002.jpg" alt="A Photographic Exhibition" />
 			<img data-original="<?=PUBLIC_URL?>images/stock/exhibition/003.jpg" src="<?=PUBLIC_URL?>images/stock/exhibition/thumbs/003.jpg" alt="A Photographic Exhibition" />
@@ -69,7 +70,7 @@
 <script>
 
 $(document).ready(function () {
-
+	
 	$('button').click(function (){
 
 		var audioElement= document.getElementById("my_audio");

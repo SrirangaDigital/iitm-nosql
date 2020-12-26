@@ -828,12 +828,12 @@ img.img-small{
 img.img-center{
   margin: 0 auto;
 }
-#viewletterimages, #viewCardImages, #transcribeimages{
+#viewletterimages, #viewCardImages, #transcribeimages, #photoexhibition{
   cursor: -webkit-zoom-in;
   cursor: zoom-in;
 }
 
-.exhibition div#viewletterimages img{
+.exhibition div#photoexhibition img{
   display: inline-block;
   width: 350px;
   margin-right: 2px;
