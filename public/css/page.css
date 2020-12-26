@@ -1132,3 +1132,6 @@ ul#viewletterimages > li > img {
   margin-bottom: 30px;
   color: #FFF;
 }
+img.exhibition-icon{
+  height: 70px;
+}

@@ -625,6 +625,12 @@
                                 <h2><i class="fa fa-video-camera"></i></h2>
                                 <p>Videos</p>
                             </a>
+                        </li>                        
+                        <li class="stat-elem">
+                            <a href="<?=BASE_URL?>Photoexhibition">
+                                <h2><img class="exhibition-icon" src="<?=BASE_URL?>public/images/stock/exhibition-icon.png" alt="" /></h2>
+                                <p>Photo Exhibition</p>
+                            </a>
                         </li>
                     </ul>
                 </div>
