@@ -87,7 +87,7 @@
 						<p style="font-size: 18px;"><strong>Date: 29th December 2020</strong></p>
 						<p style="font-size: 18px;"><strong>Time: 08.00PM IST</strong></p>
 						<p style="font-size: 18px;"><strong>Website: heritage.iitm.ac.in</strong></p>
-						<p><a href="<?=BASE_URL?>Photoexhibition">Click here for more ...</a></p>
+						<p><a href="<?=BASE_URL?>describe/artefact/001_0436_0001?Album=Album%200436:%20The%2060s%27%20Riffle%20—%20A%20Photographic%20Exhibition&Collection=Heritage%20Centre%20events%20and%20visitors">Click here for more ...</a></p>
 					</div>
                 </div>				
 
