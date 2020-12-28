@@ -1,8 +1,9 @@
 {
-	"id":"001/0436/0002",
-	"Type": "Photograph",
-	"AlbumID": "0436",
-	"Caption": "Photo Exhibition",
+    "id": "001/0436/0002",
+    "Type": "Photograph",
+    "AlbumID": "0436",
+	"Caption": "Photograph is contributed by Ms. Dusyanthi Ramachandra, alumna 1979",
+	"Description": "She was there in the IIT Madras swim team",
 	"AccessLevel": 0,
-	"CollectionId": "0005"
+    "CollectionId": "0007"
 }
