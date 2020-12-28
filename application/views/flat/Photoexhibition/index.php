@@ -70,6 +70,9 @@
 <script>
 
 $(document).ready(function () {
+
+	var audioElement = document.getElementById("my_audio");
+	audioElement.play();
 	
 	$('button').click(function (){
 
