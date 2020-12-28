@@ -71,9 +71,16 @@
 
 $(document).ready(function () {
 
-	var audioElement = document.getElementById("my_audio");
-	audioElement.play();
-	
+	var promise = document.getElementById("my_audio").play();
+
+	if (promise !== undefined) {
+	    promise.then(_ => {
+	        // Autoplay started!
+	    }).catch(error => {
+			$( "button.playaudio" ).trigger( "click" );
+	    });
+	}
+
 	$('button').click(function (){
 
 		var audioElement= document.getElementById("my_audio");
