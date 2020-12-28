@@ -76,8 +76,8 @@ $(document).ready(function () {
 	if (promise !== undefined) {
 	    promise.then(_ => {
 	        // Autoplay started!
-	    }).catch(error => {
-			$( "button.playaudio" ).trigger( "click" );
+	    }).catch(error => {	    	
+			$("button").trigger("click");
 	    });
 	}
 
