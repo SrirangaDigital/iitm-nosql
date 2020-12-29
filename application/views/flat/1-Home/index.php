@@ -60,16 +60,8 @@
 						<p style="line-height: 38px;margin-top: 10px;">
 								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Peak IITM Nostalgia 2020<br />(Treasure Hunt Game Prep/Rules/Times)</span> 
 						</p>
-						<p>Enjoy 40 minutes of treasure hunt fun exploration from your mobiles with family and friends. You will need to crack 18-odd questions (puzzles/riddles/video clues and others). Of course, some of you may need more than 40 mins while others will ace it in much lesser time. And exciting prizes for the top scorers.</p> 	
-						<p>Please mark your calendars right away</p>
-						<p>
-							India, EMEA, Africa, Americas and other geos (West of India)<br /> 
-							&nbsp;&nbsp;&nbsp; &mdash; Date:   <strong>29th December</strong><br />  
-							&nbsp;&nbsp;&nbsp; &mdash; Time:   <strong>8 PM IST to 11 PM IST</strong><br />
-							India, Singapore, Australia and other geos (East of India)<br /> 
-							&nbsp;&nbsp;&nbsp; &mdash; Date:   <strong>30th December</strong><br />  
-							&nbsp;&nbsp;&nbsp; &mdash; Time:   <strong>1 PM IST to  4 PM IST</strong>
-						</p>
+						<p>Enjoy 40 minutes of treasure hunt fun exploration from your mobiles with family and friends. You will need to crack about 20-odd questions (puzzles/riddles/video clues and others). Of course, some of you may need more and others will ace faster. And exciting prizes for the top scorers.</p>
+						<p>Event starts at <strong>29th Dec 2020 at 8:00 PM IST</strong> and will be open until <strong>4th Jan 2020 8:00 AM IST</strong> to cover all geos.</p>
 						<p><a href="<?=BASE_URL?>TreasureHunt">Click here for more information</a></p>
 					</div>
                 </div>				
@@ -291,6 +283,18 @@
                 <div class="item">
 				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/talk_by_Mallik Putcha.JPG" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 90px;padding-left: 100px;">
+						<p><span style="font-size: 1.5em;"> A talk by <strong>Mr. Mallik Putcha</strong>, first batch alumnus (1964)</p>
+						<p><a href="<?=BASE_URL?>describe/artefact/003_001_062?Category=Oral%20History%20Archives">Click here for more information</a></p>
+					</div>
+                  </div>
+                </div>
+                <div class="item">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
 					<div style="padding-left: 10px; padding-top: 20px; text-align: center;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert3.JPG" alt="" />&nbsp;
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert2.JPG" alt="" />&nbsp;
@@ -374,19 +378,7 @@
 						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0434%3A+Photos+contributed+by+Dr.+Vijay+Batra%2C+alumnus+1964+Pioneer+batch&Collection=Stray%20Feathers">Click here for the complete album</a></p>
 					</div>
                   </div>
-                </div>				
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN4645.JPG" alt="" />
-					</div>  
-					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
-						<p><span style="font-size: 1.5em;"><strong>Added to our collection</strong></p>
-						<p></p>
-					</div>
-                  </div>
-                </div>									
+                </div>													
               </div>			
                 
 
