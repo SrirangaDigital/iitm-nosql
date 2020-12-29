@@ -24,32 +24,12 @@
               <ol class="carousel-indicators">
                 <li data-target="#carouselfour" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselfour" data-slide-to="1" class="active"></li>
-                <li data-target="#carouselfour" data-slide-to="2" class="active"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
 
 				<div class="item active">
-				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
-					<div  style="display:inline; float: left; width:40%;margin-right: 80px;">
-						<p style="text-align: right;">
-							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/event-2021.jpg" alt="" />
-						</p>
-					</div>
-					<div style="display:inline; width:60%;margin-right: 80px;">
-						<p style="line-height: 38px;margin-top: 10px;">
-								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">A Year-End Celebration of IIT Madras Heritage</span> 
-						</p>
-						<p style="font-weight: 300; font-size: 25px;">Time: Dec 28th, 2020 08:00 PM India<br />
-							<strong>Zoom Meeting ID: 838 8510 1455</strong><br />
-							<a href="https://us02web.zoom.us/meeting/register/tZclf-yprjouH9Ehn2HMj-kYyvwNADVTQgkw" target="_blank">Registration Link</a>
-						</p>
-						<p>The session will start on the 28th by first playing recorded messages from alumni for 15 mins. Subsequently, Prof. R. Nagarajan will moderate a 20-minute interaction with alumni &amp; with faculty who are on the live panel &ndash; Profs. MA Parameswaran, VGK Murti, O Prabhakar, PS Rao, V Balakrishnan.</p>
-						<p>Following this, Ms. Latha Venkitachalam (Executive /director, IITMAA) will moderate a 20-min session where attendees can pose queries to faculty &amp; alumni in the panel.</p>
-					</div>
-                </div>				
-				<div class="item">
 				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
 					<div  style="display:inline; float: left; width:30%;margin-right: 80px;">
 						<p style="text-align: right;">
