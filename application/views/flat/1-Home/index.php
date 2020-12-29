@@ -279,6 +279,18 @@
                 <div class="item">
 				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Monishi_Sanyal_alumnus1970.jpg" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-right: 100px;">
+						<p><span style="font-size: 1.5em;">Photographs contributed by <strong>Mr. Monishi Sanyal</strong>, alumnus 1970.</p>
+						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0437%3A+Photographs+contributed+by+Mr.+Monishi+Sanyal%2C+alumnus+1970&Collection=Stray%20Feathers">Click here for more information</a></p>
+					</div>
+                  </div>
+                </div>
+                <div class="item">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
 					<div style="padding-left: 10px; padding-top: 20px; text-align: center;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert3.JPG" alt="" />&nbsp;
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert2.JPG" alt="" />&nbsp;
@@ -374,19 +386,7 @@
 						<p></p>
 					</div>
                   </div>
-                </div>				
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/Dr_N_Klein.jpg" alt="" />
-					</div>  
-					<div style="width:60%;float: right;padding-top: 90px;padding-right: 100px;">
-						<p><span style="font-size: 1.5em;">This Photograph is contributed by <strong>Mr. Anand Singh Bawa</strong>, founding editor of Campastimes.</p>
-						<p>A late-1970s photograph of <strong>Dr. N. Klein</strong> and <strong>Mr. Anand Singh Bawa</strong>. <strong>Dr. N. Klein</strong> had been on a visit to New Delhi. By then he was already based in Stuttgart with responsibilities  at <strong>Deutsch-Indische Gesellschaft</strong>.</p>
-					</div>
-                  </div>
-                </div>					
+                </div>									
               </div>			
                 
 
