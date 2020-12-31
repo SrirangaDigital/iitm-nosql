@@ -239,6 +239,18 @@
                 <div class="item active">
 				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 80px;padding-right: 10px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/yearend.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 180px;padding-left: 70px;">
+						<p><span style="font-size: 1.5em;">IITM 2020: A Year-End Celebration of IIT Madras Heritage</p>
+						<p><a href="<?=BASE_URL?>describe/artefact/004_001_022?Category=Videos">Click here for more information</a></p>
+					</div>
+                  </div>
+                </div>													
+                <div class="item">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/IIT_athletics_team.jpg" alt="" />
 					</div>  
@@ -347,18 +359,6 @@
 					</div>
                   </div>
                 </div>				
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/vijay-batra3.jpg" alt="" />
-					</div>  
-					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
-						<p><span style="font-size: 1.5em;">Photos are contributed by <strong>Dr. Vijay Batra</strong>,<br />alumnus 1964 Pioneer batch</p>
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0434%3A+Photos+contributed+by+Dr.+Vijay+Batra%2C+alumnus+1964+Pioneer+batch&Collection=Stray%20Feathers">Click here for the complete album</a></p>
-					</div>
-                  </div>
-                </div>													
               </div>			
                 
 
