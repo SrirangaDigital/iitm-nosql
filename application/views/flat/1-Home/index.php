@@ -23,29 +23,12 @@
               <!-- Indicators -->
               <ol class="carousel-indicators">
                 <li data-target="#carouselfour" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselfour" data-slide-to="1" class="active"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
 
 				<div class="item active">
-				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
-					<div  style="display:inline; float: left; width:30%;margin-right: 80px;">
-						<p style="text-align: right;">
-							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/Heritage_Trail.jpg" alt="" />
-						</p>
-					</div>
-					<div style="display:inline; width:70%;margin-right: 100px;">
-						<p style="line-height: 38px;margin-top: 10px;">
-								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">Peak IITM Nostalgia 2020<br />(Treasure Hunt Game Prep/Rules/Times)</span> 
-						</p>
-						<p>Enjoy 40 minutes of treasure hunt fun exploration from your mobiles with family and friends. You will need to crack about 20-odd questions (puzzles/riddles/video clues and others). Of course, some of you may need more and others will ace faster. And exciting prizes for the top scorers.</p>
-						<p>Event starts at <strong>29th Dec 2020 at 8:00 PM IST</strong> and will be open until <strong>4th Jan 2020 8:00 AM IST</strong> to cover all geos.</p>
-						<p><a href="<?=BASE_URL?>TreasureHunt">Click here for more information</a></p>
-					</div>
-                </div>				
-				<div class="item">
 				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
 					<div  style="display:inline; float: left; width:50%;margin-right: 80px;">
 						<p style="text-align: left;margin-left: 50px;">
@@ -239,6 +222,17 @@
                 <div class="item active">
 				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/nsvinodh.jpg" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
+						<p><span style="font-size: 1.5em;">Contributed and authored by<br /><strong>Mr. N.S. Vinod</strong>, alumnus 1986</p>
+					</div>
+                  </div>
+                </div>
+                <div class="item">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
 					<div  style="float: left;width:50%;text-align: right;padding-top: 80px;padding-right: 10px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recently-received/yearend.jpg" alt="" />
 					</div>  
@@ -346,19 +340,7 @@
 						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0434%3A+Photos+contributed+by+Dr.+Vijay+Batra%2C+alumnus+1964+Pioneer+batch&Collection=Stray%20Feathers">Click here for the complete album</a></p>
 					</div>
                   </div>
-                </div>				
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/vijay-batra2.jpg" alt="" />
-					</div>  
-					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
-						<p><span style="font-size: 1.5em;">Photos are contributed by <strong>Dr. Vijay Batra</strong>,<br />alumnus 1964 Pioneer batch</p>
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0434%3A+Photos+contributed+by+Dr.+Vijay+Batra%2C+alumnus+1964+Pioneer+batch&Collection=Stray%20Feathers">Click here for the complete album</a></p>
-					</div>
-                  </div>
-                </div>				
+                </div>								
               </div>			
                 
 
