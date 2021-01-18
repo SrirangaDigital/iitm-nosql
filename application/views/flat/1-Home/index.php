@@ -213,7 +213,6 @@
                 <li data-target="#carousel" data-slide-to="6"></li>
                 <li data-target="#carousel" data-slide-to="7"></li>
                 <li data-target="#carousel" data-slide-to="8"></li>
-                <li data-target="#carousel" data-slide-to="9"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -227,18 +226,6 @@
 					</div>  
 					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
 						<p><span style="font-size: 1.5em;">Contributed and authored by<br /><strong>Mr. N.S. Vinod</strong>, alumnus 1986</p>
-					</div>
-                  </div>
-                </div>
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 80px;padding-right: 10px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/yearend.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 180px;padding-left: 70px;">
-						<p><span style="font-size: 1.5em;">IITM 2020: A Year-End Celebration of IIT Madras Heritage</p>
-						<p><a href="<?=BASE_URL?>describe/artefact/004_001_022?Category=Videos">Click here for more information</a></p>
 					</div>
                   </div>
                 </div>													
@@ -382,6 +369,18 @@
 				<div class="item active">
 				  <h3  class="text-center">RECENT ACTIVITIES</h3>
 				  <div class="override-carousel-caption">
+					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/yearend.jpg" alt="" />
+					</div>  
+					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
+						<p class="caption-title" style="font-size: 3em;">IITM 2020: A Year-End Celebration of IIT Madras Heritage</p>
+						<p><a href="<?=BASE_URL?>describe/artefact/004_001_022?Category=Videos">Click here for more information</a></p>
+					</div>
+                  </div>
+                </div>
+				<div class="item">
+				  <h3  class="text-center">RECENT ACTIVITIES</h3>
+				  <div class="override-carousel-caption">
 					<div  style="float: left;width:35%;text-align: right;padding-top: 30px;padding-right: 30px;">
 						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/Annual_Report2019-20.jpg" alt="" />
 					</div>
@@ -490,19 +489,6 @@
 						<p class="caption-title" style="font-size: 3em;">General Alumni Reunion</p>
 						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
 						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0407%3A+General+Alumni+Reunion&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENT ACTIVITIES</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0408.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
-						<p class="caption-title" style="font-size: 3em;">Ruby reunion (79 batch)</p>
-						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0408%3A+Ruby+reunion+%2879+batch%29&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
 					</div>
                   </div>
                 </div>
