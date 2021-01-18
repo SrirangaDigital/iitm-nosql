@@ -289,9 +289,9 @@
 						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/lfh.jpg" alt="" />
 					</div>  
 					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
-						<p class="caption-title" style="font-size: 3em;">Letter From Heritage Centre - May 06 2020</p>		
-						<p style="font-size: 1.25em;">by <strong>Kumaran Sathasivam</strong></p>						
-						<p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2020-05-06">Click here to see the complete article</a></p>
+						<p class="caption-title" style="font-size: 3em;">Letter From Heritage Centre - January 15 2021</p>		
+						<p style="font-size: 1.25em;">by <strong>Kumaran Sathasivam</strong> and  <strong>Bhuvanesh Santharam</strong></p>						
+						<p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2021-01-15">Click here to see the complete article</a></p>
 					</div>
                   </div>
                 </div>
