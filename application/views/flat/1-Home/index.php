@@ -19,54 +19,6 @@
     <div class="row clear-paddings">
         <div class="col-md-12" style="padding: 0;">
 
-            <div id="carouselfour" class="carousel slide" data-ride="carouselfour" data-interval="1000" style="background-color: #EEE;height: 500px;">
-              <!-- Indicators -->
-              <ol class="carousel-indicators">
-                <li data-target="#carouselfour" data-slide-to="0" class="active"></li>
-              </ol>
-
-              <!-- Wrapper for slides -->
-              <div class="carousel-inner" role="listbox">
-
-				<div class="item active">
-				  <h3  class="text-center" style="margin-bottom: 20px;">FORTHCOMING EVENTS</h3>
-					<div  style="display:inline; float: left; width:50%;margin-right: 80px;">
-						<p style="text-align: left;margin-left: 50px;">
-							<img src="<?=PUBLIC_URL?>images/stock/forthcoming-event/poster_new_year.jpg" alt="" />
-						</p>
-					</div>
-					<div style="display:inline; width:50%;margin-right: 100px;">
-						<p style="line-height: 38px;margin-top: 5px;">
-								<span style="font-weight: 100; font-size: 40px;color: #FF6A14;">The 60s' Riffle<br />A Photographic Exhibition</span> 
-						</p>
-						<p style="font-size: 18px;"><strong>Date: 29th December 2020</strong></p>
-						<p style="font-size: 18px;"><strong>Time: 08.00PM IST</strong></p>
-						<p style="font-size: 18px;"><strong>Website: heritage.iitm.ac.in</strong></p>
-						<p><a href="<?=BASE_URL?>Photoexhibition">Click here for more ...</a></p>
-					</div>
-                </div>				
-
-              </div>
-
-              <!-- Controls -->
-              <a class="left carousel-control" href="#carouselfour" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-              </a>
-              <a class="right carousel-control" href="#carouselfour" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-              </a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<div class="container-fluid">
-    <div class="row clear-paddings">
-        <div class="col-md-12" style="padding: 0;">
-
             <div id="carousel-three" class="carousel slide" data-ride="carousel-three" style="background-color: #DDD;height: 500px;">
               <!-- Indicators -->
               <ol class="carousel-indicators">
@@ -208,11 +160,6 @@
                 <li data-target="#carousel" data-slide-to="1"></li>
                 <li data-target="#carousel" data-slide-to="2"></li>
                 <li data-target="#carousel" data-slide-to="3"></li>
-                <li data-target="#carousel" data-slide-to="4"></li>
-                <li data-target="#carousel" data-slide-to="5"></li>
-                <li data-target="#carousel" data-slide-to="6"></li>
-                <li data-target="#carousel" data-slide-to="7"></li>
-                <li data-target="#carousel" data-slide-to="8"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -264,69 +211,6 @@
 						<p><a href="<?=BASE_URL?>describe/artefact/003_001_062?Category=Oral%20History%20Archives">Click here for more information</a></p>
 					</div>
                   </div>
-                </div>
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div style="padding-left: 10px; padding-top: 20px; text-align: center;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert3.JPG" alt="" />&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert2.JPG" alt="" />&nbsp;
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/cert1.JPG" alt="" />
-					</div>  
-                  </div>
-                </div>                
-              	<div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 10px;padding-right: 30px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/ready.jpg" alt="" style:width="400px" height="400px"/>
-					</div>  
-					<div style="width:50%;float: right;padding-top: 90px;padding-right: 100px;">
-								<p><span style="font-size: 1.5em;">Items contributed by <strong>Mr. V Srinivasan (a.k.a."Bulky")</strong>
-									an alumnus, class of 1969 B.Tech. Mechanical Engineering.<br />
-									<strong>The contributed items were German Textbook, German English Glossary, "Staedler" Drawing Instrument Set and "Aristo Studio" Slide Rule. 
-									</strong> 
-
-						<!-- <p>From Left to Right:<br />Mrs Indumathi, Prof. C.V. Seshadri, Mr. Ramesh A. Vaswani, Mr. R. Venkateswaran “Venkoba”, Mr. Basu John Vetteth, Mr. K. Mahesh, Mr. Srinivas Nageshwar “Shiner”, Mr. K. Narayanan “Ghost”, Mr. Anand Singh Bawa (hidden behind Ghost), Mr. M. Vikram Rao, Mr. B. Ramachandra Pai and Mr. Pritam Lal Kapur.</p> -->
-					</div>
-                  </div>
-                </div>				
-                <div class="item">
-
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/NSV.jpg" alt="" />
-					</div>  
-					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
-						<p><span style="font-size: 1.5em;">Photos contributed by <strong>Mr. N.S. Vinod,</strong> alumnus 1986 batch</p>
-						<p>Group photo and inter-hostel races in 1982&ndash;83.</p>
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0435%3A+Photos+contributed+by+Mr.+N.S.+Vinod%2C+alumnus+1986+batch&Collection=N%20S%20Vinodh%20Collection">Click here for the album</a></p>
-					</div>
-                  </div>
-                </div>				
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN4812.JPG" alt="" />
-					</div>  
-					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
-						<p><span style="font-size: 1.5em;">Contributed by <strong>Prof. DVR Seshadri</strong>,<br />son of <strong>Prof. D. Venkateswarlu</strong></p>
-					</div>
-                  </div>
-                </div>				
-                <div class="item">
-				  <h3  class="text-center">RECENTLY ADDED</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recently-received/vijay-batra1.jpg" alt="" />
-					</div>  
-					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
-						<p><span style="font-size: 1.5em;">Photos are contributed by <strong>Dr. Vijay Batra</strong>,<br />alumnus 1964 Pioneer batch</p>
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0434%3A+Photos+contributed+by+Dr.+Vijay+Batra%2C+alumnus+1964+Pioneer+batch&Collection=Stray%20Feathers">Click here for the complete album</a></p>
-					</div>
-                  </div>
                 </div>								
               </div>			
                 
@@ -357,11 +241,6 @@
                 <li data-target="#carousel-two" data-slide-to="1"></li>
                 <li data-target="#carousel-two" data-slide-to="2"></li>
                 <li data-target="#carousel-two" data-slide-to="3"></li>
-                <li data-target="#carousel-two" data-slide-to="4"></li>
-                <li data-target="#carousel-two" data-slide-to="5"></li>
-                <li data-target="#carousel-two" data-slide-to="6"></li>
-                <li data-target="#carousel-two" data-slide-to="7"></li>
-                <li data-target="#carousel-two" data-slide-to="8"></li>
               </ol>
 
               <!-- Wrapper for slides -->
@@ -413,82 +292,6 @@
 						<p class="caption-title" style="font-size: 3em;">Letter From Heritage Centre - May 06 2020</p>		
 						<p style="font-size: 1.25em;">by <strong>Kumaran Sathasivam</strong></p>						
 						<p><a href="<?=BASE_URL?>Letters_from_the_Heritage_Centre/2020-05-06">Click here to see the complete article</a></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENT ACTIVITIES</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0421.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
-						<p class="caption-title" style="font-size: 3em;">Heritage Centre Day - March 05 2020</p>		
-						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0421%3A+Heritage+Centre+Day+-+March+05+2020&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
-					</div>
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENT ACTIVITIES</h3>
-				  <div class="override-carousel-caption">
-                    <div class="caption-content">
-						<div  style="float: left;width:50%;text-align:right;padding-right: 90px;">
-							<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0404.jpg" alt="" />
-						</div>
-                        <div style="width:50%;float: right;padding-top: 20px;padding-right: 250px;">
-							<p class="caption-title" style="font-size: 3em;">Nature Walk</p>
-	                        <p style="font-size: 1.25em;">Heritage Centre events and visitors</p>
-	                        <p>27th December 2019</p>
-	                        <p>Nature walk conducted by Prof. Abhijit Deshpande. Participants were the family members of Alumnus and DAA Prof. Marti G. Subrahmanyam and Mr. Vekatesh Mannar.</p>
-	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0404%3A+Nature+Walk&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
-                        </div>
-                    </div>    
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENT ACTIVITIES</h3>
-				  <div class="override-carousel-caption">
-                    <div class="caption-content">
-						<div  style="float: left;width:50%;text-align: right;padding-right:90px;">
-							<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0405.jpg" alt="" />
-						</div>
-                        <div style="width:50%;float: right;padding-top: 50px;padding-right: 250px;">
-							<p class="caption-title" style="font-size: 3em;">1984 Batch Reunion</p>
-	                        <p style="font-size: 1.25em;">Heritage Centre events and visitors</p>
-	                        <p>1st January 2020</p>
-	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0405%3A+84+Batch+Reunion+at+IIT+Madras&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
-                        </div>
-                    </div>    
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENT ACTIVITIES</h3>
-				  <div class="override-carousel-caption">
-                    <div class="caption-content">
-						<div  style="float: left;width:50%;text-align: right;padding-right: 90px;">
-							<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0406.jpg" alt="" />
-						</div>
-                        <div style="width:50%;float: right;padding-top: 10px;padding-right: 100px;">
-							<p class="caption-title" style="font-size: 3em;">Sports Exhibition</p>
-	                        <p style="font-size: 1.25em;">Heritage Centre events and visitors</p>
-	                        <p>26th December 2019</p>
-	                        <p>Sports Exhibition at the Heritage Centre. It was from 26th December 2019 to 2nd January 2020</p>
-	                        <p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album%200406:%20Sports%20Exhibition&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
-                        </div>
-                    </div>    
-                  </div>
-                </div>
-				<div class="item">
-				  <h3  class="text-center">RECENT ACTIVITIES</h3>
-				  <div class="override-carousel-caption">
-					<div  style="float: left;width:50%;text-align: right;padding-top: 30px;padding-right: 90px;">
-						<img src="<?=PUBLIC_URL?>images/stock/recent-activities/0407.jpg" alt="" />
-					</div>  
-					<div style="width:50%;float: right;padding-top: 30px;padding-right: 100px;">
-						<p class="caption-title" style="font-size: 3em;">General Alumni Reunion</p>
-						<p style="font-size: 1.25em;">Heritage Centre events and visitors</p>						
-						<p><a href="<?=BASE_URL?>listing/artefacts/Photograph?Album=Album+0407%3A+General+Alumni+Reunion&Collection=Heritage%20Centre%20events%20and%20visitors">Click here to see the complete album</a></p>
 					</div>
                   </div>
                 </div>
