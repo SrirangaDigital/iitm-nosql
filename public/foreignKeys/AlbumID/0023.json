@@ -2,7 +2,6 @@
     "AlbumID": "0023",
     "Date": "1969-08-02",
     "Place": "OAT",
-    "Description": "Dr. S. Bhagavantam, Scientific Adviser to the Minister of Defence has graciously consented to deliver the Convocation Address",
     "ForeignKeyType": "AlbumID",
     "ForeignKeyId": "0023",
     "Album": "Album 0023: 6th Convocation"
