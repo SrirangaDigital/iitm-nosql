@@ -1,8 +1,8 @@
 {
-	"id": "001/0434/0002",
-	"Type": "Photograph",
-	"AlbumID": "0434",
-	"AccessLevel": 0,
-	"Description": "Cauveri Hostel 1960",
-	"CollectionId": "0007"
+    "id": "001/0434/0002",
+    "Type": "Photograph",
+    "AlbumID": "0434",
+    "AccessLevel": 0,
+    "CollectionId": "0007",
+    "Caption": "Construction of Cauvery hostel during 1960."
 }
