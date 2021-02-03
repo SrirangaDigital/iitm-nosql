@@ -1,8 +1,8 @@
 {
-	"id": "001/0434/0010",
-	"Type": "Photograph",
-	"AlbumID": "0434",
-	"AccessLevel": 0,
-	"Description": "IIT M construction 1960",
-	"CollectionId": "0007"
+    "id": "001/0434/0010",
+    "Type": "Photograph",
+    "AlbumID": "0434",
+    "AccessLevel": 0,
+    "CollectionId": "0007",
+    "Caption": "Construction of buildings in IIT Madras during 1960"
 }
