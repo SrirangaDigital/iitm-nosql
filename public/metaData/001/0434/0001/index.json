@@ -1,8 +1,9 @@
 {
-	"id": "001/0434/0001",
-	"Type": "Photograph",
-	"AlbumID": "0434",
-	"Description": "Campus 1960",
-	"AccessLevel": 0,
-	"CollectionId": "0007"
+    "id": "001/0434/0001",
+    "Type": "Photograph",
+    "AlbumID": "0434",
+    "Description": "The photo was in black &#38; white. Mr. Vijay Batra has made it colour photo using the Deoldify software",
+    "AccessLevel": 0,
+    "CollectionId": "0007",
+    "Caption": "IIT Madras campus during 1960"
 }
