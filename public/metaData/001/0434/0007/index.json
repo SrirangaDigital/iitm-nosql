@@ -1,8 +1,8 @@
 {
-	"id": "001/0434/0007",
-	"Type": "Photograph",
-	"AlbumID": "0434",
-	"AccessLevel": 0,
-	"Description": "Guindy Hostel 1959",
-	"CollectionId": "0007"
+    "id": "001/0434/0007",
+    "Type": "Photograph",
+    "AlbumID": "0434",
+    "AccessLevel": 0,
+    "CollectionId": "0007",
+    "Caption": "Guindy hostel in 1959"
 }
