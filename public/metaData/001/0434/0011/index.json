@@ -1,8 +1,8 @@
 {
-	"id": "001/0434/0011",
-	"Type": "Photograph",
-	"AlbumID": "0434",
-	"AccessLevel": 0,
-	"Description": "IIT M Logo 1962",
-	"CollectionId": "0007"
+    "id": "001/0434/0011",
+    "Type": "Photograph",
+    "AlbumID": "0434",
+    "AccessLevel": 0,
+    "CollectionId": "0007",
+    "Caption": "Logo of IIT Madras in front of Building Sciences Block. The photo was taken during 1962."
 }
