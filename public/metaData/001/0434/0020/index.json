@@ -1,8 +1,9 @@
 {
-	"id": "001/0434/0020",
-	"Type": "Photograph",
-	"AlbumID": "0434",
-	"AccessLevel": 0,
-	"Description": "Mylapore Temple 1960",
-	"CollectionId": "0007"
+    "id": "001/0434/0020",
+    "Type": "Photograph",
+    "AlbumID": "0434",
+    "AccessLevel": 0,
+    "Description": "Mylapore Temple 1960",
+    "CollectionId": "0007",
+    "Caption": "Kapaleeshwarar Temple, Mylapore during 1960"
 }
