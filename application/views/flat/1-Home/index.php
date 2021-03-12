@@ -160,12 +160,37 @@
                 <li data-target="#carousel" data-slide-to="1"></li>
                 <li data-target="#carousel" data-slide-to="2"></li>
                 <li data-target="#carousel" data-slide-to="3"></li>
+                <li data-target="#carousel" data-slide-to="4"></li>
+                <li data-target="#carousel" data-slide-to="5"></li>
               </ol>
 
               <!-- Wrapper for slides -->
               	
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/1976_batch.jpg" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
+						<p><span style="font-size: 1.5em;">Photos are contributed by<br /><strong>Mr. Maniyadeth Narayanan</strong>, alumnus 1976, Electronics batch</p>
+						<p>The photos are Electronics batch, 1976, IIT Madras and Elect. Power batch, 1976, IIT Madras.</p>
+					</div>
+                  </div>
+                </div>													
+                <div class="item">
+				  <h3  class="text-center">RECENTLY ADDED</h3>
+				  <div class="override-carousel-caption">
+					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
+						<img src="<?=PUBLIC_URL?>images/stock/recently-received/DSCN5181.JPG" alt="" />
+					</div>  
+					<div style="width:60%;float: right;padding-top: 90px;padding-left: 100px;">
+						<p><span style="font-size: 1.5em;">The Establishment of IIT Madras by<br /><strong>Prof. Roland Wittje</strong></p>
+					</div>
+                  </div>
+                </div>													
+                <div class="item">
 				  <h3  class="text-center">RECENTLY ADDED</h3>
 				  <div class="override-carousel-caption">
 					<div  style="float: left;width:40%;text-align: right;padding-top: 10px;padding-right: 30px;">
