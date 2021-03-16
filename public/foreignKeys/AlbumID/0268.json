@@ -1,8 +1,10 @@
 {
     "AlbumID": "0268",
     "Date": "1965-04-04",
-    "Place": "OAT",
+    "Place": "Open Air Theatre (OAT)",
     "ForeignKeyType": "AlbumID",
     "ForeignKeyId": "0268",
-    "Album": "Album 0268: 6th Institute Day 04-04-1965"
+    "Album": "Album 0268: 6th Institute Day 04-04-1965",
+    "Event": "6th Institute Day",
+    "Photographer": "C. Gourishankar (1936-2002). A geologist by qualification, Gourishankar started his career as a photographer after working for many years with the Geological Survey of India. In everything that he did, Gourishankar strove to achieve flawlessness and impeccable quality. Thus his photography too was characterised by this drive for perfection. Every photograph that Gourishankar took was meticulously planned and shot and printed with diligence and patience. Gourishankar carried out most of the official photography at IIT Madras in the 1960s."
 }
