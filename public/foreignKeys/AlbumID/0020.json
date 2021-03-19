@@ -4,5 +4,6 @@
     "Place": "OAT",
     "ForeignKeyType": "AlbumID",
     "ForeignKeyId": "0020",
-    "Album": "Album 0020: 9th Institute day"
+    "Album": "Album 0020: 9th Institute day",
+    "Event": "9th Institute Day"
 }
