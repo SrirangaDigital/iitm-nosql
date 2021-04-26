@@ -1,7 +1,7 @@
 {
     "AlbumID": "0012",
-    "Date": "09-03-1962",
-    "Place": "BSB",
+    "Date": "1962-03-09",
+    "Place": "Building Sciences Block",
     "ForeignKeyType": "AlbumID",
     "ForeignKeyId": "0012",
     "Album": "Album 0012: 3rd Institute Day"
