@@ -1,9 +1,9 @@
 {
     "id": "001/0394/0042",
     "AlbumID": "0394",
-    "Caption": "The geometrician",
+    "Caption": "The geometrician [Grammodes stolida]",
     "Type": "Photograph",
-    "Description": "Moth",
     "AccessLevel": 0,
-    "CollectionId": "0003"
+    "CollectionId": "0003",
+    "Description": "The geometrician belongs to the Erebidae family. The wingspan of the adult is 40-44 mm according to the ukmoths website. According to iNaturalist website, “It migrates to central and northern Europe as far north as England, Denmark and Finland.”"
 }
